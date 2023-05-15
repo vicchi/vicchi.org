@@ -1,0 +1,37 @@
+*** sidebar.php	2006-04-06 13:29:45.000000000 +0100
+--- sidebar.php.ORIG	2006-04-06 13:21:13.000000000 +0100
+***************
+*** 91,100 ****
+  		</div>
+  		
+  		<div class="col">
+  			<?php
+  			
+  			    if ( bm_getProperty( 'linkcat' ) == 1 ) {
+! 					echo "<ul id=\"blogroll\">";
+  					get_links_list();
+  					//get_linksbyname( '', '<li>', '</li>' );
+  
+--- 91,102 ----
+  		</div>
+  		
+  		<div class="col">
++ 		
++ 			<ul id="blogroll">
+  			<?php
+  			
+  			    if ( bm_getProperty( 'linkcat' ) == 1 ) {
+! 
+  					get_links_list();
+  					//get_linksbyname( '', '<li>', '</li>' );
+  
+***************
+*** 103,109 ****
+  					echo "<h2>";
+  					_e('Blog Roll');
+  					echo "</h2>";
+- 					echo "<ul id=\"blogroll\">";
+  				
+  					//get_linksbyname( '', '<li>', '</li>' );
+  					get_links( -1, '<li>', '</li>', '<br />', FALSE, 'rand', FALSE, FALSE, -1, FALSE );
+--- 105,110 ----

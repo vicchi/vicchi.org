@@ -2,6 +2,24 @@
 
 import time
 
+import dateparser
+import emoji
+
+def emojify_filter(value: str) -> str:
+    """
+    Jinja2 custom filter to add CLDR short form emoji
+    """
+
+    return emoji.emojize(f':{value}:', language='alias')
+
+def dateparser_filter(datestamp: str, datefmt: str) -> str:
+    """
+    Custom Jinja filter to format a human readable date/time stamp
+    """
+    
+    dtobj = dateparser.parse(datestamp)
+    return dtobj.strftime(datefmt)
+
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
@@ -156,7 +174,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "base-jinja"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -236,8 +254,8 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
+    ("posts/*.md", "", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
@@ -344,7 +362,7 @@ COMPILERS = {
 # "YAML": YAML wrapped in "---"
 # "TOML": TOML wrapped in "+++"
 # "Pelican": Native markdown metadata or reST docinfo fields. Nikola style for other formats.
-# METADATA_FORMAT = "Nikola"
+METADATA_FORMAT = "Pelican"
 
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
@@ -388,7 +406,7 @@ COMPILERS = {
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
 # (translatable)
-# TAG_PATH = "categories"
+TAG_PATH = "tags"
 
 # By default, the list of tags is stored in
 #     output / TRANSLATION[lang] / TAG_PATH / index.html
@@ -452,7 +470,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-# CATEGORY_PATH = "categories"
+CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
 
 # By default, the list of categories is stored in
@@ -594,7 +612,7 @@ FRONT_INDEX_HEADER = {
 # CREATE_SINGLE_ARCHIVE = False
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
-# CREATE_FULL_ARCHIVES = False
+CREATE_FULL_ARCHIVES = True
 # If monthly archives or full archives are created, adds also one archive per day
 # CREATE_DAILY_ARCHIVE = False
 # Create previous, up, next navigation links for archives
@@ -611,37 +629,37 @@ FRONT_INDEX_HEADER = {
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
 # list of links.
-# ARCHIVES_ARE_INDEXES = False
+ARCHIVES_ARE_INDEXES = True
 
 # URLs to other posts/pages can take 3 forms:
 # rel_path: a relative URL to the current page/post (default)
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
-# URL_TYPE = 'rel_path'
+URL_TYPE = 'full_path'
 
 # Extension for RSS feed files
-# RSS_EXTENSION = ".xml"
+RSS_EXTENSION = ".xml"
 
 # RSS filename base (without extension); used for indexes and galleries.
 # (translatable)
-# RSS_FILENAME_BASE = "rss"
+RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-# RSS_PATH = ""
+RSS_PATH = "feeds"
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
 # (translatable)
-# ATOM_PATH = ""
+ATOM_PATH = "feeds"
 
 # Atom filename base (without extension); used for indexes.
 # (translatable)
 ATOM_FILENAME_BASE = "feed"
 
 # Extension for Atom feed files
-# ATOM_EXTENSION = ".atom"
+ATOM_EXTENSION = ".atom"
 
 # Slug the Tag URL. Easier for users to type, special characters are
 # often removed or replaced as well.
@@ -693,7 +711,7 @@ GITHUB_COMMIT_SOURCE = True
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'public'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
@@ -781,6 +799,7 @@ GITHUB_COMMIT_SOURCE = True
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
 # GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {}
 # More gallery options:
 # THUMBNAIL_SIZE = 180
 # MAX_IMAGE_SIZE = 1280
@@ -888,7 +907,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # If False, index-1.html has the second-newest posts, index-2.html the third-newest,
 # and index-n.html the oldest posts. When this is active, old posts can be moved
 # to other index pages when new posts are added.
-# INDEXES_STATIC = True
+INDEXES_STATIC = False
 #
 # (translatable) If PRETTY_URLS is set to True, this setting will be used to create
 # prettier URLs for index pages, such as page/2/index.html instead of index-2.html.
@@ -909,11 +928,13 @@ IMAGE_FOLDERS = {'images': 'images'}
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
 # INDEXES_PRETTY_PAGE_URL = False
-#
+INDEXES_PRETTY_PAGE_URL = ['page', '{number}', '{index_file}']
+
+
 # If the following is true, a page range navigation will be inserted to indices.
 # Please note that this will undo the effect of INDEXES_STATIC, as all index pages
 # must be recreated whenever the number of pages changes.
-# SHOW_INDEX_PAGE_NAVIGATION = False
+SHOW_INDEX_PAGE_NAVIGATION = True
 
 # If the following is True, a meta name="generator" tag is added to pages. The
 # generator tag is used to specify the software used to generate the page
@@ -929,7 +950,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
 #
-# CODE_COLOR_SCHEME = 'default'
+CODE_COLOR_SCHEME = 'github-dark'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
@@ -940,7 +961,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -1128,7 +1149,12 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+MARKDOWN_EXTENSIONS = [
+    'markdown.extensions.fenced_code',
+    'markdown.extensions.codehilite',
+    'markdown.extensions.extra',
+    'markdown.extensions.meta'
+]
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {DEFAULT_LANG: {}} (no config at all)
@@ -1190,7 +1216,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # FEED_TEASER option. FEED_LINKS_APPEND_QUERY is also respected. Atom feeds
 # are generated even for old indexes and have pagination link relations
 # between each other. Old Atom feeds with no changes are marked as archived.
-# GENERATE_ATOM = False
+GENERATE_ATOM = True
 
 # Only include teasers in Atom and RSS feeds. Disabling include the full
 # content. Defaults to True.
@@ -1346,7 +1372,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
@@ -1402,11 +1428,29 @@ WARN_ABOUT_TAG_METADATA = False
 # Templates will use those filters, along with the defaults.
 # Consult your engine's documentation on filters if you need help defining
 # those.
-# TEMPLATE_FILTERS = {}
+TEMPLATE_FILTERS = {
+    'dateparser': dateparser_filter,
+    'emojify': emojify_filter
+}
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    'version': '1.0.0',
+    'links': {
+        'mail': 'gary@vicchi.org',
+        'github': 'https://github.com/vicchi/',
+        'lastfm': 'https://www.last.fm/user/vicchi',
+        'trakt': 'https://trakt.tv/users/garygale',
+        'twitter': 'https://twitter.com/vicchi',
+        'coffee': 'https://www.buymeacoffee.com/vicchi'
+    },
+    'status': {
+        'emoji': 'coffee',
+        'content': 'Cleaning and stitching open data sets together'
+    },
+    'bio': "I'm Gary ... a Husband, Father, CTO at Kamma, geotechnologist, map geek, coffee addict, Sci-fi fan, UNIX and Mac user"
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be

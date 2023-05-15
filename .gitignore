@@ -5,3 +5,7 @@ data-stores/mariadb/**
 !data-stores/mariadb/.gitkeep
 data-stores/wordpress/**
 !data-stores/wordpress/.gitkeep
+__pycache__/
+site/.doit.db
+site/cache/
+site/public/
