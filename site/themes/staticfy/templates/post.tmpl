@@ -1,0 +1,16 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<article class="h-entry">
+  <h2 class="p-name text-xl md:text-2xl font-black leading-tight dark:text-gray-200 pt-12">{{ post.title() }}</h2>
+  <span class="p-author h-card hidden">{{ blog_title }}</span>
+  <div class="mt-2 mb-6 text-sm">
+    <time class="dt-published" datetime="{{ date }}">{{ post.formatted_date(date_format)|e }}</time>
+  </div>
+  <div class="p-summary hidden">{{ post.text(teaser_only=True) }}</div>
+  <div class="e-content prose dark:prose-invert hover:prose-a:text-blue-500  max-w-full text-gray-800 dark:text-white">
+    {{ post.text(teaser_only=False) }}
+  </div>
+</article>
+{% include "includes/author.tmpl" %}
+{% endblock content %}

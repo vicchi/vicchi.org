@@ -1,10 +1,7 @@
 .direnv/
 .env
 .DS_Store
-data-stores/mariadb/**
-!data-stores/mariadb/.gitkeep
-data-stores/wordpress/**
-!data-stores/wordpress/.gitkeep
+node_modules/
 __pycache__/
 site/.doit.db
 site/cache/
