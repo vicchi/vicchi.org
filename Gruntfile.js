@@ -28,33 +28,33 @@ module.exports = function (grunt) {
                 cwd: 'src/css',
                 src: ['**/*.css'],
                 dest: 'site/themes/staticfy/assets/css/'
-            },
-            dist: {
-                expand: true,
-                cwd: 'src/css',
-                src: ['**/*.css'],
-                dest: '../vicchi.org/site/public/assets/css/'
             }
         },
         shell: {
             build: {
+                cwd: './site',
                 command: 'nikola build'
             },
             clean: {
+                cwd: './site',
                 command: 'nikola clean'
+            },
+            serve: {
+                cwd: './site',
+                command: 'nikola serve'
             }
         },
         watch: {
             postcss: {
                 files: 'src/css/**/*.css',
-                tasks: ['postcss:dist'],
+                tasks: ['postcss:theme', 'shell:build'],
                 options: {
                     interrupt: true
                 }
             },
             nikola: {
                 files: ['pages/**/*', 'posts/**/*', 'themes/**/*'],
-                tasks: ['shell:build', 'postcss:dist'],
+                tasks: ['postcss:theme', 'shell:build'],
                 options: {
                     interrupt: true
                 }
@@ -63,6 +63,8 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('default', ['watch']);
-    grunt.registerTask('build', ['copy', 'postcss:theme', 'shell:build', 'postcss:dist']);
+    grunt.registerTask('build', ['copy', 'postcss:theme', 'shell:build']);
+    grunt.registerTask('clean', ['shell:clean']);
+    grunt.registerTask('serve', ['shell:serve']);
     grunt.registerTask('rebuild', ['shell:clean', 'build']);
 };

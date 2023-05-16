@@ -1443,7 +1443,9 @@ GLOBAL_CONTEXT = {
         'lastfm': 'https://www.last.fm/user/vicchi',
         'trakt': 'https://trakt.tv/users/garygale',
         'twitter': 'https://twitter.com/vicchi',
-        'coffee': 'https://www.buymeacoffee.com/vicchi'
+        'coffee': 'https://www.buymeacoffee.com/vicchi',
+        'linkedin': 'https://www.linkedin.com/in/garygale/',
+        'flickr': 'https://www.flickr.com/photos/vicchi/'
     },
     'status': {
         'emoji': 'coffee',
