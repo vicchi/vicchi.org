@@ -1,21 +1,21 @@
-<!--
-.. title: Hacking WP Biographia's Appearance With CSS
-.. slug: hacking-wp-biographias-appearance-with-css
-.. date: 2012-07-17 11:37:28
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
-.. categories: 
-.. has_math: no
-.. status: published
-.. wp-status: publish
--->
+title: Hacking WP Biographia's Appearance With CSS
+slug: hacking-wp-biographias-appearance-with-css
+date: 2012-07-17 11:37:28
+tags: 
+category: 
+link: 
+description: 
+type: text
+categories: 
+has_math: no
+status: published
+geo_place: The Marriott Marquis, San Francisco
+geo_lng: 37.7581
+geo_lat: -122.4056
 
-<html><body><p>The contents of the Biography Box that the <a href="/pages/codeage/wp-biographia/">WP Biographia</a> WordPress plugin produces are easily customisable through the plugin's settings and options. The upcoming new version of the plugin will add to this, allowing almost limitless options for adding to the Biography Box though cunning use of the WordPress filter mechanism. But what if you're happy with the content of the Biography Box, but want to change the <em>way</em> in which the Biography Box looks? This is easily achievable with a little bit of CSS know-how.
+<p>The contents of the Biography Box that the <a href="/pages/codeage/wp-biographia/">WP Biographia</a> WordPress plugin produces are easily customisable through the plugin's settings and options. The upcoming new version of the plugin will add to this, allowing almost limitless options for adding to the Biography Box though cunning use of the WordPress filter mechanism. But what if you're happy with the content of the Biography Box, but want to change the <em>way</em> in which the Biography Box looks? This is easily achievable with a little bit of CSS know-how.
 
-<a href="/wp-content/uploads/2012/04/WP-Biographia-Style.png"><img class="aligncenter size-full wp-image-2403" title="Hacking WP Biographia's Style" src="/wp-content/uploads/2012/04/WP-Biographia-Style.png" alt="" width="675" height="477"></a>
+href="/wp-content/uploads/2012/04/WP-Biographia-Style.png"><img class="aligncenter size-full wp-image-2403" title="Hacking WP Biographia's Style" src="/wp-content/uploads/2012/04/WP-Biographia-Style.png" alt="" width="675" height="477"></a>
 
 The layout of the Biography Box that WP Biographia produces looks something like this ...
 <code>
@@ -41,7 +41,7 @@ Secondly, you can just hack your theme's CSS directly. But as with the plugin's 
 
 The third way, is to add the CSS to a new file and to use the theme's <code>functions.php</code> file to load the CSS into your pages and posts. Now granted, the theme's <code>functions.php</code> file may still be overwritten during an upgrade but themes tend to be updated less than plugins and you are still able to isolate the CSS in a file which isn't part of the WordPress core, the plugin or the theme.
 
-So here's how you do this. Put the CSS you want in a file, let's call it <code>custom.css</code>, and place this into the same directory as the root of your theme. If you're using the TwentyTen theme for example, the path would look something like ...
+here's how you do this. Put the CSS you want in a file, let's call it <code>custom.css</code>, and place this into the same directory as the root of your theme. If you're using the TwentyTen theme for example, the path would look something like ...
 
 <code>/wp-content/themes/twentyten/custom.css</code>
 
@@ -56,5 +56,3 @@ function add_custom_css () {
 }
 </code>
 </pre>
-
-<div class="geo">Written and posted from the Marriott Marquis, San Francisco (37.7581, -122.4056)</div></body></html>

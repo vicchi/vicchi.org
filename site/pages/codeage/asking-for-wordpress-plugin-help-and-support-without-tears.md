@@ -1,17 +1,14 @@
-<!--
-.. title: Asking For WordPress Plugin Help And Support Without Tears
-.. slug: asking-for-wordpress-plugin-help-and-support-without-tears
-.. date: 2012-07-17 11:31:49
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
-.. categories: 
-.. has_math: no
-.. status: published
-.. wp-status: publish
--->
+title: Asking For WordPress Plugin Help And Support Without Tears
+slug: asking-for-wordpress-plugin-help-and-support-without-tears
+date: 2012-07-17 11:31:49
+tags: 
+category: 
+link: 
+description: 
+type: text
+categories: 
+has_math: no
+status: published
 
 <html><body><p>When you release some code you've written under one of the many open source licenses that exist today, if you're lucky then you can expect to get asked for help using that code. Note that I say if you're lucky. Some people I know view giving help and support as, frankly, a pain; it gets in the way and stops them thinking about a new feature or the next big thing. I take the opposite view though, I see being asked for help as a compliment; it means someone has found the code I've written and actually thinks it might, maybe, be useful, so they're using it and need a bit of support in getting it to do what they want it to do.</p>
 
@@ -74,6 +71,4 @@
 <p>All of this may seem like a lot of work on your part, but trust me, I'll probably end up needing most, if not all, of this information and if it's there upfront, then I'll probably be able to help a lot quicker and we can both get on with the other, interesting and cool stuff, which is probably want we want at the end of the day.</p>
 
 
-<div class="credits">Photo Credits: <a href="http://www.flickr.com/photos/markhillary/1347412899/">Mark Hillary</a> on Flickr.</div>
-<div class="geo">Written and posted from home (51.427051, -0.333344)</div>
-</body></html>
+Photo Credits: [Mark Hillary](http://www.flickr.com/photos/markhillary/1347412899/) on Flickr.
