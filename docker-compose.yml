@@ -1,42 +1,24 @@
 services:
-  wordpress:
-    image: wordpress:latest
+  site:
+    image: sebp/lighttpd
     networks:
       - vicchi-backend
     expose:
       - 80
+    ports:
+      - 8000:80
     restart: unless-stopped
+    tty: true
     volumes:
-      - ./data-stores/wordpress:/var/www/html
-      - ./etc/php/wordpress.ini:/usr/local/etc/php/conf.d/wordpress.ini
-    environment:
-      - WORDPRESS_DB_HOST=db
-      - WORDPRESS_DB_NAME=${MYSQL_DATABASE:?Database not defined}
-      - WORDPRESS_DB_USER=${MYSQL_USER:?Database user not defined}
-      - WORDPRESS_DB_PASSWORD=${MYSQL_PASSWORD:?Database password not defined}
+        - ./site/public:/var/www/localhost/htdocs
     labels:
-      - traefik.enable=true
-      - traefik.http.routers.vicchi-dot-org.rule=Host(`${SITE_HOST:?Site host not defined}`)
-      - traefik.http.routers.vicchi-dot-org.entrypoints=websecure
-      - traefik.http.routers.vicchi-dot-org.tls.certresolver=reverse-proxy-http
-      - traefik.http.routers.vicchi-dot-org.tls.options=proxy-default@file
-      - traefik.http.routers.vicchi-dot-org.middlewares=secHeaders@file
-
-  db:
-    image: mariadb:10.11.2-jammy
-    networks:
-      - vicchi-backend
-    expose:
-      - 3306
-    restart: unless-stopped
-    volumes:
-      - ./data-stores/mariadb:/var/lib/mysql
-    environment:
-      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD:?Database root password not defined}
-      - MYSQL_DATABASE=${MYSQL_DATABASE:?Database not defined}
-      - MYSQL_USER=${MYSQL_USER:?Database user not defined}
-      - MYSQL_PASSWORD=${MYSQL_PASSWORD:?Database password not defined}
-
+      - traefik.enable=false
+      - traefik.http.routers.vicchi-org.rule=Host(`${SITE_HOST:?Site host not defined}`)
+      - traefik.http.routers.vicchi-org.entrypoints=websecure
+      - traefik.http.routers.vicchi-org.tls.certresolver=reverse-proxy
+      - traefik.http.routers.vicchi-org.tls.options=proxy-default@file
+      - traefik.http.routers.vicchi-org.middlewares=secHeaders@file
+  
 networks:
     vicchi-backend:
       external: true
