@@ -9,7 +9,9 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ifttt.com/images/no_image_card.png)  
+Today's maps found on the interwebs.
+
+![](https://pbs.twimg.com/media/Dk4v81jV4AAcGNq?format=jpg&name=900x900)  
   
 
 Orange Peel Map of Japan #map #maps  

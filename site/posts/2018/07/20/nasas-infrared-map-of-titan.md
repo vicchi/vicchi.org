@@ -9,7 +9,9 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ifttt.com/images/no_image_card.png)  
+Today's maps found on the interwebs.
+
+![](https://i0.wp.com/boingboing.net/wp-content/uploads/2018/07/pia21923-nasa.jpg?fit=1&resize=620%2C4000&ssl=1)  
   
 
 Composed from 13 years of Cassini probe mission data, NASA's infrared-based map of Titan shows off one of the solar system's most promising worlds.  

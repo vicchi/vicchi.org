@@ -9,7 +9,9 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ifttt.com/images/no_image_card.png)  
+Today's maps found on the interwebs.
+
+![](https://images.nypl.org/index.php?id=1630441&t=w)  
   
 
 Lionel Pincus and Princess Firyal Map Division, The New York Public Library. "A new map of Great Britain." The New York Public Library Digital Collections. 1736. https://ift.tt/2HTr3Yo  
