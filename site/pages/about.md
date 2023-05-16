@@ -1,24 +1,26 @@
-<!--
-.. title: About
-.. slug: about
-.. date: 2010-06-03 21:33:35
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
-.. categories: 
-.. has_math: no
-.. status: published
-.. wp-status: publish
--->
+title: About
+slug: about
+date: 2023-05-16 11:49:35
+tags: 
+category: 
+link: 
+description: 
+type: text
+categories: 
+has_math: no
+status: published
 
-<html><body><a class="flickr-image aligncenter" title="Gary at Coit Tower" href="http://www.flickr.com/photos/plasticbag/4475788424/"><img src="http://farm3.staticflickr.com/2802/4475788424_ab48545f66_z_d.jpg" alt="Gary at Coit Tower"></a>
-<h3>I'm Gary; A Geo Technologist And A Geographer At Heart</h3>
-A self professed <em>geek with a life</em>, I've had a lifelong love affair with maps since discovering the <a href="http://en.wikipedia.org/wiki/Harry_Beck">Harry Beck</a> map of the London Underground on the back of the London A-Z street atlas at an early age. I now live in Teddington in South West London with my family and work in London, Berlin, Boston, Chicago and Sunnyvale as the Director of the <a href="http://maps.nokia.com">Places Registry for Nokia</a>. I'm the co-founder of <a href="http://wherecamp.eu/">WhereCamp EU</a>, the chair of <a href="http://www.w3gconf.com/">AGI W3G</a> and sit on the <a href="http://www.agi.org.uk/">AGI Council</a>, the <a href="http://www.w3.org/2010/POI/">W3C POI Working Group</a> and the <a href="http://location.defra.gov.uk/">UK Location User Group</a>.
+<h1 class="text-xxl font-black -leading-tight tracking-normal dark:text-gray-200 md:text-3xl text-center">Hello ... I'm Gary</h1>
 
-Prior to Nokia, I was at <a href="http://maps.yahoo.com">Yahoo!</a>, leading their <a href="http://developer.yahoo.com/geo/">Geo Technologies</a> group in the UK, releasing <a href="http://developer.yahoo.com/geo/geoplanet/">GeoPlanet</a> and <a href="http://developer.yahoo.com/geo/placemaker/">Placemaker</a> and providing the geo heavy lifting for <a href="http://www.flickr.com/">Flickr</a> and <a href="http://fireeagle.yahoo.net/">Fire Eagle</a>; I've also been at Digicon, developing geophysical technologies to aid in the search for natural resources and at the <a href="http://www.esa.int/SPECIALS/ESRIN_SITE/index.html">European Space Agency Research Institute</a> in Rome, Italy, participating in the development and launch of <a href="http://earth.esa.int/ers/satconc/">ERS-1</a>, Europe's first remote sensing satellite. Outside of the location and geo field, I've been at companies including the <a href="http://www.bbc.co.uk/worldservice/">BBC World Service</a>, <a href="http://www.reuters.com/">Reuters</a>, <a href="http://www.dowjones.com/factiva/?from=factivaHome">Factiva</a> and <a href="http://www.mcafee.com/uk/">Network Associates</a>.
+<img src="/assets/images/gary.jpg" />
+ A self-professed geek and map addict, I've worked in the mapping and location space for over ~~25~~30 years through a combination of luck and occasional good judgement. I'm currently CTO with [Kamma](https://www.kammadata.com), a growing #geotech, #proptech and #regtech company based in London's legal district.
 
-As well as being the creator of the <a href="http://vicchi.github.com/wp-biographia/">WP Biographia</a> <a href="http://wordpress.org/extend/plugins/wp-biographia/">WordPress plugin</a> and occasional contributor to the <a href="http://mapstraction.com/">Mapstraction</a> mapping API, I speak at a wide range of conferences including <a href="http://events.nokia.com/nokiaworld/">Nokia World</a>, <a href="http://whereconf.com">Where 2.0</a>, <a href="http://stateofthemap.org/">State of the Map</a>, <a href="http://www.agi.org.uk/geocommunity/">AGI GeoCommunity</a>, <a href="http://geoloco.tv/">Geo Loco</a> and <a href="http://socialloco.net/">Social Loco</a>, <a href="http://geomobldn.org/">GeoMob</a>, <a href="http://www.mashupevent.com/">mashup*</a>, the <a href="http://geospatial.bcs.org/web/">BCS Geospatial SG</a>, <a href="http://wherecamp.eu/">WhereCamp EU</a>, <a href="http://www.thewherebusiness.com/locationsummit/">the Location Business Summit</a> and <a href="http://futureofwebapps.com/">FOWA</a>.
+When I'm not in an office or hybrid working from home, I work from anywhere with the magic combination of good coffee, free Wi-Fi and somewhere to charge my MacBook Pro.
 
-I blog as regularly as possible on location, places, maps and other facets of geography here at <a href="">www.vicchi.org</a>, you can find me on Twitter as <a href="http://twitter.com/vicchi">@vicchi</a> and there's a whole lot more on my <a href="http://www.garygale.com/" target="_blank">About Me site</a>.</body></html>
+Previously I've been CTO of [what3words](http://what3words.com/)], Head of APIs for the [Ordnance Survey](https://www.ordnancesurvey.co.uk/), the United Kingdom's national mapping agency, the Geotechnologist-in-residence for [Lokku](http://lokku.com/), was Director of Places and Director of Global Community Programs for Nokia Maps and [HERE Maps](https://here.com/). Before joining Nokia I led Yahoo’s UK [Geo Technologie](https://developer.yahoo.com/boss/geo/) group, launching [GeoPlanet](https://en.wikipedia.org/wiki/GeoPlanet), Placemaker, helping [Flickr](https://www.flickr.com/) and [Fire Eagle](https://en.wikipedia.org/wiki/Fire_Eagle) do location based services and have even worked at the [European Space Agency](https://www.esa.int/About_Us/ESRIN), a job which really was rocket science.
+
+I'm based in London, where I live with my family in Teddington. A commited Italophile, I'm also a science fiction fan who thinks that removing Deckard's noir voiceover from Blade Runner was utterly the right thing to do. Our house runs on Macs and macOS (because it's basically UNIX with a lovely user interface) and Raspberry Pi's; although an X-Box and Windows laptop have managed to creep in.
+
+I've been tweeting as [@vicchi](https://twitter.com/vicchi) since 2007 and writing here at [www.vicchi.org](https://www.vicchi.org) since 2001. I'm the creator of the [Vaguely Rude Places Map](https://www.vaguelyrudeplacesmap.com/) and also put [Yahoo's WOEIDs](https://woeplanet.org/) back online.
+
+A Fellow of the [Royal Geographical Society](http://rgs.org/), I'm a [RedHat Certified Engineer](https://www.redhat.com/en/services/certification/rhce), I've sat on the Executive for the [AGI(http://www.agi.org.uk/)], the United Kingdom’s Association for Geographic Information, was a founder of the [Location Forum](http://www.thelocationforum.org/), the co-founder of WhereCamp EU and conference chair of W3G. 
