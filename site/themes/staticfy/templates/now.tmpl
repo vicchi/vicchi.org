@@ -1,0 +1,45 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<div class="pt-12 prose dark:prose-invert hover:prose-a:text-blue-500 max-w-full">
+    <h2 class="m-0 text-xl font-black leading-tight tracking-normal md:text-2xl text-purple-500 hover:text-purple-400 mb-4">Now</h2>
+    <p class="my-2">{{ bio }}</p>
+    <p class="mb-0 my-2">{{ status.emoji|emojify }} {{ status.content }}</p>
+
+  <h2 class="m-0 text-xl font-black leading-tight tracking-normal dark:text-gray-200 md:text-2xl mt-8 mb-4">
+    Locating
+  </h2>
+  <div class="pl-4 md:pl-8">
+    <p class="my-2">
+      <span class="icon-inline mr-1">{{ 'world_map'|emojify }}</span>
+      Hybrid working between home in South West London and the office in Central London
+      </p>
+  </div>
+
+
+  <h2 class="m-0 text-xl font-black leading-tight tracking-normal dark:text-gray-200 md:text-2xl mt-8 mb-4">
+    Working
+  </h2>
+  <div class="pl-4 md:pl-8">
+    <p class="my-2">
+      <span class="icon-inline mr-1">{{ 'laptop'|emojify }}</span>
+      Doing CTO stuff for <a href="https://www.kammadata.com">Kamma</a> and scaling the team, the business and our data and products.
+      </p>
+  </div>
+
+  <h2 class="m-0 text-xl font-black leading-tight tracking-normal dark:text-gray-200 md:text-2xl mt-8 mb-4">
+    Building
+  </h2>
+  <div class="pl-4 md:pl-8">
+    <p class="my-2">
+      <span class="icon-inline mr-1">{{ 'desktop_computer'|emojify }}</span>
+      Transitioning this site over from WordPress to a statically generated one, built using <a href="https://getnikola.com">Nikola</a>.
+      </p>
+  </div>
+
+  <p class="text-xs text-center">This is a
+    <a href="https://nownownow.com/about">now page</a>, and if you have your own site,
+    <a href="https://nownownow.com/about">you should make one too</a>.</p>
+
+</div>
+{% endblock %}
