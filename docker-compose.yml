@@ -1,21 +1,26 @@
 services:
+  lookbusy:
+    image: lorel/docker-lookbusy
+    networks: vicchi-backend
+    restart: unless-stopped
+    command:
+      - --cpu-util-range=10-15
+      
   site:
     image: sebp/lighttpd
     networks:
       - vicchi-backend
     expose:
       - 80
-    ports:
-      - 8000:80
     restart: unless-stopped
     tty: true
     volumes:
         - ./site/public:/var/www/localhost/htdocs
     labels:
-      - traefik.enable=false
+      - traefik.enable=true
       - traefik.http.routers.vicchi-org.rule=Host(`${SITE_HOST:?Site host not defined}`)
       - traefik.http.routers.vicchi-org.entrypoints=websecure
-      - traefik.http.routers.vicchi-org.tls.certresolver=reverse-proxy
+      - traefik.http.routers.vicchi-org.tls.certresolver=reverse-proxy-http
       - traefik.http.routers.vicchi-org.tls.options=proxy-default@file
       - traefik.http.routers.vicchi-org.middlewares=secHeaders@file
   
