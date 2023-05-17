@@ -1,11 +1,12 @@
 services:
   lookbusy:
-    image: lorel/docker-lookbusy
-    networks: vicchi-backend
+    image: ghcr.io/vicchi/lookbusy
+    networks:
+      - vicchi-backend
     restart: unless-stopped
     command:
-      - --cpu-util-range=10-15
-      
+      - --cpu-mode=curve
+      - --cpu-util=15-20
   site:
     image: sebp/lighttpd
     networks:
