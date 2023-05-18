@@ -689,11 +689,11 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "rsync -rav --delete --delete-after output/ joe@my.site:/srv/www/site",
-#     ]
-# }
+DEPLOY_COMMANDS = {
+    'default': [
+        "rsync --progress -e ssh -rav --delete public ubuntu@web.vicchi.org:/var/www/vicchi.org/site/",
+    ]
+}
 
 # github_deploy configuration
 # For more details, read the manual:
@@ -1447,6 +1447,7 @@ GLOBAL_CONTEXT = {
         'mail': 'gary@vicchi.org',
         'github': 'https://github.com/vicchi/',
         'lastfm': 'https://www.last.fm/user/vicchi',
+        'listenbrainz': 'https://listenbrainz.org/user/vicchi/',
         'trakt': 'https://trakt.tv/users/garygale',
         'twitter': 'https://twitter.com/vicchi',
         'coffee': 'https://www.buymeacoffee.com/vicchi',
