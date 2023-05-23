@@ -15,7 +15,7 @@
 
 <html><body><a href="/wp-content/uploads/2011/08/wp-biographia-banner.jpg"><img src="/wp-content/uploads/2011/08/wp-biographia-banner.jpg" alt="" title="wp-biographia-banner" class="aligncenter size-full wp-image-3210" width="805" height="282"></a>
 <h2>What Is WP Biographia?</h2>
-WP Biographia is a <a href="http://wordpress.org/" target="_blank" rel="noopener">WordPress</a> plugin to add and display a customisable user biography to the front page, single post types, archives and RSS feeds as well as via a widget in your sidebar.
+WP Biographia is a <a href="https://wordpress.org/" target="_blank" rel="noopener">WordPress</a> plugin to add and display a customisable user biography to the front page, single post types, archives and RSS feeds as well as via a widget in your sidebar.
 <h2>What Does It Do?</h2>
 This plugin allows you to add a customisable biography to posts, to RSS feeds, to pages, to archives and to each post on your blog's landing page as well as via a widget in your sidebar. It integrates out of the box with the information that can be provided in each user's profile and supports custom post types. Display of the Biography Box can be hidden on a global or per user basis for posts, pages and custom post types as well as on a per category basis.
 
@@ -37,7 +37,7 @@ The position and content of the Biography Box, including adding support for new 
 
 The plugin also supports displaying a reduced version of the Biography Box via a sidebar widget and provides a shorter, more terse, biography in the user's Profile to prevent the full length biography text taking up too much space on the sidebar.
 <h2>How Do I Download WP Biographia?</h2>
-To download or install WP Biographia on your WordPress powered site, either search for <em>WP Biographia</em> from the WordPress Dashboard or go to plugin's page on the official <a href="http://wordpress.org/extend/plugins/wp-biographia/" target="_blank" rel="noopener">WordPress plugin repository</a>.
+To download or install WP Biographia on your WordPress powered site, either search for <em>WP Biographia</em> from the WordPress Dashboard or go to plugin's page on the official <a href="https://wordpress.org/extend/plugins/wp-biographia/" target="_blank" rel="noopener">WordPress plugin repository</a>.
 
 If you want to fork the source code of the plugin, you can find it on the plugin's GitHub page at <a href="https://github.com/vicchi/wp-biographia" target="_blank" rel="noopener">https://github.com/vicchi/wp-biographia</a>.
 <h2>What Else Is There To Know?</h2>

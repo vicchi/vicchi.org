@@ -12,7 +12,7 @@ status: published
 Today's maps found on the interwebs. ![](/wp-content/uploads/2017/05/babylonian-ancient-world-maps.jpg)le looked out around them, they couldn’t imagine how far the scope of the world extended beyond what stretched out before their own eyes. Their world was the land that surrounded and fed them, and as far as they knew, it extended no further.  
   
 
-Found at [http://ift.tt/2q6MahO](http://ift.tt/2q6MahO "http://ift.tt/2q6MahO")
+Found at [https://ift.tt/2q6MahO](https://ift.tt/2q6MahO "https://ift.tt/2q6MahO")
 
 
 

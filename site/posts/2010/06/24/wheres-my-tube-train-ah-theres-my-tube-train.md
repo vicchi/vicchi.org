@@ -12,14 +12,14 @@ geo_place: the Ramada Hotel Berlin Mitte in Berlin
 geo_lng: 13.383858
 geo_lat: 52.529858
 
-Back in December of 2009, [I wrote](/2010/02/18/the-use-case-for-wheres-my-train/ "/2010/02/18/the-use-case-for-wheres-my-train/") about Paul Clarke trying to solve the problem of [where's my train](http://paulclarke.com/honestlyreal/2009/12/wheres-my-train/ "http://paulclarke.com/honestlyreal/2009/12/wheres-my-train/"); that *there must be a definitive, raw source of real-time (train) information* and that
+Back in December of 2009, [I wrote](/2010/02/18/the-use-case-for-wheres-my-train/ "/2010/02/18/the-use-case-for-wheres-my-train/") about Paul Clarke trying to solve the problem of [where's my train](https://paulclarke.com/honestlyreal/2009/12/wheres-my-train/ "https://paulclarke.com/honestlyreal/2009/12/wheres-my-train/"); that *there must be a definitive, raw source of real-time (train) information* and that
 
 
 
 > I assert that train operators know where their assets are; it would be irresponsible if they didn't
 
 
-Whilst the plethora of train operators that fragmented from the ashes of the old British Rail network haven't answered this challenge yet, Transport for London has, opening up just such data as part of the [London Datastore API](http://data.london.gov.uk/apibeta "http://data.london.gov.uk/apibeta"). In today's age of [talented web mashup developers](http://icant.co.uk/ "http://icant.co.uk/"), if you release an API people will build things with it if the information is useful and interesting and that's just what Matthew Somerville of MySociety did at the recent Science Hack Day ... a (near) realtime map of the London Underground showing the movement of trains of all of the Tube lines. A screen grab wouldn't do it justice and it takes a while to load, so a video grab might help here.
+Whilst the plethora of train operators that fragmented from the ashes of the old British Rail network haven't answered this challenge yet, Transport for London has, opening up just such data as part of the [London Datastore API](https://data.london.gov.uk/apibeta "https://data.london.gov.uk/apibeta"). In today's age of [talented web mashup developers](https://icant.co.uk/ "https://icant.co.uk/"), if you release an API people will build things with it if the information is useful and interesting and that's just what Matthew Somerville of MySociety did at the recent Science Hack Day ... a (near) realtime map of the London Underground showing the movement of trains of all of the Tube lines. A screen grab wouldn't do it justice and it takes a while to load, so a video grab might help here.
 
 <!-- TEASER_END -->
 

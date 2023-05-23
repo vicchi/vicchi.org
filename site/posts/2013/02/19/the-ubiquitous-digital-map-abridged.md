@@ -12,9 +12,9 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-A lot of great conferences in the UK happen in London. But not all great conferences. For some, you have to travel a little further afield. Maybe to East Anglia. Or more specifically to Norwich, the county town of Norfolk. If you were in Norwich last week, you might have noticed that [SyncConf](http://syncconf.com/ "http://syncconf.com/") was taking place and I'd been asked by ex-MultiMapper and co-founder of SyncConf, [John Fagan](https://twitter.com/johnbfagan "https://twitter.com/johnbfagan") to do a talk on something related to maps. How could I refuse?
+A lot of great conferences in the UK happen in London. But not all great conferences. For some, you have to travel a little further afield. Maybe to East Anglia. Or more specifically to Norwich, the county town of Norfolk. If you were in Norwich last week, you might have noticed that [SyncConf](https://syncconf.com/ "https://syncconf.com/") was taking place and I'd been asked by ex-MultiMapper and co-founder of SyncConf, [John Fagan](https://twitter.com/johnbfagan "https://twitter.com/johnbfagan") to do a talk on something related to maps. How could I refuse?
 
-[![3347163776](/wp-content/uploads/2013/02/3347163776.jpeg)](http://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404 "http://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404")
+[![3347163776](/wp-content/uploads/2013/02/3347163776.jpeg)](https://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404 "https://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404")
 
 SyncConf isn't a maps conference or a geo conference; it's a tech conference for the city's tech and startup community. So it seemed to make sense not to go full-on maps nerd for the conference audience but instead look at how we got to the current state of play where the digital map has become ubiquitous. It also allowed me to the opportunity to put a little bit of [map porn](/tags/mapgasm/ "/tags/mapgasm/") into a slide deck.
 
@@ -23,7 +23,7 @@ This is how it turned out .. my slide deck and notes follow after the break.
 <!-- TEASER_END -->
 
 
-Image Credits: Denise Bradley, [Eastern Daily Press](http://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404 "http://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404").
+Image Credits: Denise Bradley, [Eastern Daily Press](https://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404 "https://www.edp24.co.uk/business/norwich_digital_conference_puts_region_s_technology_industry_on_the_map_1_1936404").
 
 
 [![20130315-syncconf-slide01](/wp-content/uploads/2013/02/20130315-syncconf-slide01.jpg)](/wp-content/uploads/2013/02/20130315-syncconf-slide01.jpg "/wp-content/uploads/2013/02/20130315-syncconf-slide01.jpg")

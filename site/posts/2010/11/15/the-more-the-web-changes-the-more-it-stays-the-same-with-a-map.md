@@ -18,7 +18,7 @@ There's a saying in French which goes "*plus ça change, plus c'est la même cho
 
 Take a look at this screen-shot of Tim Berners-Lee's original World Wide Web browser, circa 1990, running on a NeXT system for an illustration of what I mean.
 
-[![](/wp-content/uploads/2010/11/NextEditorBW.gif "Tim Berners-Lee's Original Web Browser")](http://info.cern.ch/NextBrowser.html "http://info.cern.ch/NextBrowser.html")
+[![](/wp-content/uploads/2010/11/NextEditorBW.gif "Tim Berners-Lee's Original Web Browser")](https://info.cern.ch/NextBrowser.html "https://info.cern.ch/NextBrowser.html")
 
 While Berners-Lee's original vision of the Web browser as an editor, with the web as as collaborative and interactive medium didn't survive per se, the basic principle survives in the form of today's blogs and wikis. While NeXT folded as a hardware company in 1993, NeXT's NeXTstep and OpenStep development environments survive today under the hood of Apple's OS X operating system ... and the principle of overlapping windows, icons and menus are immediately familiar from today's graphical computing environments.
 

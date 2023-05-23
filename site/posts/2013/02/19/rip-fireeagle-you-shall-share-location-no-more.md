@@ -25,11 +25,11 @@ Time and changes of corporate heart have not been kind here. Maybe it's time to 
 
 <!-- TEASER_END -->
 
-[*YQL*](http://developer.yahoo.com/yql/ "http://developer.yahoo.com/yql/"). The Yahoo! Query Language. Still here although I haven't used it in anger for several years as the service was frequently down.
+[*YQL*](https://developer.yahoo.com/yql/ "https://developer.yahoo.com/yql/"). The Yahoo! Query Language. Still here although I haven't used it in anger for several years as the service was frequently down.
 
 *Yahoo! Maps and the Yahoo! Maps API*. RIP. Yahoo! Maps is now run by the back-end services of Nokia, my current employer and the Yahoo! Maps API finally got [switched off in November 2012](/2012/11/23/a-year-on-and-yahoos-maps-api-finally-shuts-down/ "/2012/11/23/a-year-on-and-yahoos-maps-api-finally-shuts-down/").
 
-*Placemaker* and *PlaceFinder*. Still here. Sort of. Placemaker is now Placespotter and while PlaceFinder keeps its name they're both part of Yahoo! BOSS Geo, which means if you want to use them it's time to dig into your wallet for your credit card as they're [no longer free to use](http://www.ysearchblog.com/2012/09/26/boss-geo/ "http://www.ysearchblog.com/2012/09/26/boss-geo/").
+*Placemaker* and *PlaceFinder*. Still here. Sort of. Placemaker is now Placespotter and while PlaceFinder keeps its name they're both part of Yahoo! BOSS Geo, which means if you want to use them it's time to dig into your wallet for your credit card as they're [no longer free to use](https://www.ysearchblog.com/2012/09/26/boss-geo/ "https://www.ysearchblog.com/2012/09/26/boss-geo/").
 
 *GeoPlanet*. Still here. Still free. You have to ask the question for how long though.
 
@@ -37,7 +37,7 @@ Time and changes of corporate heart have not been kind here. Maybe it's time to 
 
 *YUI*. Still here and [open sourced on GitHub](https://github.com/yui/ "https://github.com/yui/").
 
-*Flickr*. Still here, [used on a regular basis by me](http://www.flickr.com/photos/vicchi/ "http://www.flickr.com/photos/vicchi/") and even flourishing with a renewed iPhone app and a horde of refugees from Instagram after that service's on, off, on again change of licensing terms in December 2012.
+*Flickr*. Still here, [used on a regular basis by me](https://www.flickr.com/photos/vicchi/ "https://www.flickr.com/photos/vicchi/") and even flourishing with a renewed iPhone app and a horde of refugees from Instagram after that service's on, off, on again change of licensing terms in December 2012.
 
 *Delicious*. Still here and still used on a relatively regular basis by me but no longer owned or operated by Yahoo! who sold it to AVOS in 2011.
 
@@ -47,7 +47,7 @@ And now it seems that another of Yahoo's geo products has finally done to the de
 
 [![Tom Coates - FireEagle](/wp-content/uploads/2013/02/Tom-Coates-FireEagle-1024x711.jpg)](https://twitter.com/tomcoates/status/303600519199473665 "https://twitter.com/tomcoates/status/303600519199473665")
 
-The fate of FireEagle has long been been in the balance since it was [mentioned](http://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/# "http://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/#") as one of the products due to be sunsetted or merged with another product in 2010. The merging never happened and now FireEagle is no more.
+The fate of FireEagle has long been been in the balance since it was [mentioned](https://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/# "https://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/#") as one of the products due to be sunsetted or merged with another product in 2010. The merging never happened and now FireEagle is no more.
 
 Which is a great shame as FireEagle was way ahead of its time and in today's age of location based services and social media sharing, the need for a way to share your location that makes sense for both the privacy of individuals and for businesses is needed more than ever.
 

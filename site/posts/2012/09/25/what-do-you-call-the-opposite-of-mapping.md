@@ -35,7 +35,7 @@ You take the city apart. Block by block. Then you order the blocks and shapes. Y
 
 [![](/wp-content/uploads/2012/09/berlin-in-parts.png "Berlin In Parts")](/wp-content/uploads/2012/09/berlin-in-parts.png "/wp-content/uploads/2012/09/berlin-in-parts.png")
 
-Berlin isn't the only city that Armelle has turned on its head. There's also Istanbul, New York and Paris to name but a few. [Just take a look for yourself](http://www.armellecaron.fr/cms/index.php?page=plans_de_berlin "http://www.armellecaron.fr/cms/index.php?page=plans_de_berlin").
+Berlin isn't the only city that Armelle has turned on its head. There's also Istanbul, New York and Paris to name but a few. [Just take a look for yourself](https://www.armellecaron.fr/cms/index.php?page=plans_de_berlin "https://www.armellecaron.fr/cms/index.php?page=plans_de_berlin").
 
 I've no idea what these opposite of maps should be called, but they're definitely art in my book.
 

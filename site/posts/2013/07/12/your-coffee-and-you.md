@@ -14,7 +14,7 @@ geo_lat: 51.427051
 
 excerpt: And now for something completely different; a post which has only the most tenuous of a link to maps. Instead and because it's Friday, this post concentrates on my second favourite obsession after maps. That can only be the dark brown, almost black, water of life we know as coffee.
 
-As a direct follow on from Thierry Gregorius' helpful guide to work out what [the tools you use to make maps say about you](/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/ "/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/"), I offer up, courtesy of the [Doghouse Diaries](http://thedoghousediaries.com/5053 "http://thedoghousediaries.com/5053"), another helpful guide. This time it's what your coffee says about you.
+As a direct follow on from Thierry Gregorius' helpful guide to work out what [the tools you use to make maps say about you](/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/ "/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/"), I offer up, courtesy of the [Doghouse Diaries](https://thedoghousediaries.com/5053 "https://thedoghousediaries.com/5053"), another helpful guide. This time it's what your coffee says about you.
 
 <!-- TEASER_END -->
 
@@ -22,7 +22,7 @@ As a direct follow on from Thierry Gregorius' helpful guide to work out what [th
 
 Personally, I think there's another personality type that's missing from this valuable piece of sociological insight. The explanation goes *You love maps as much as you love coffee. You're searching for the perfect espresso to complement the production of your next map masterpiece*. But I'm still unsure whether it needs to be filed under *Long Black* or *Quadruple Espresso*.
 
-And if that's not enough, from the wonderful [Pleated Jeans](http://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/ "http://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/"), comes a breakdown of all of the type of coffee that are around, as well as a few that are not.
+And if that's not enough, from the wonderful [Pleated Jeans](https://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/ "https://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/"), comes a breakdown of all of the type of coffee that are around, as well as a few that are not.
 
 [![types-of-coffee-1](/wp-content/uploads/2013/07/types-of-coffee-1.png)](/wp-content/uploads/2013/07/types-of-coffee-1.png "/wp-content/uploads/2013/07/types-of-coffee-1.png")
 [![types-of-coffee2](/wp-content/uploads/2013/07/types-of-coffee2.png)](/wp-content/uploads/2013/07/types-of-coffee2.png "/wp-content/uploads/2013/07/types-of-coffee2.png")
@@ -35,6 +35,6 @@ A virtual double espresso is due to [Mark Evans](https://twitter.com/markevans10
 
 
 
-Image credits: [Doghouse Diaries](http://thedoghousediaries.com/5053 "http://thedoghousediaries.com/5053") and [Pleated Jeans](http://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/ "http://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/").
+Image credits: [Doghouse Diaries](https://thedoghousediaries.com/5053 "https://thedoghousediaries.com/5053") and [Pleated Jeans](https://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/ "https://www.pleated-jeans.com/2013/04/15/types-of-coffee-4-pics/").
 
 

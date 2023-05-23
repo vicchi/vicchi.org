@@ -23,10 +23,10 @@ Each time I find a new map I always end up learning something, sometimes directl
 
 <!-- TEASER_END -->
 
-[![03942v](/wp-content/uploads/2013/04/03942v.jpg)](http://www.loc.gov/pictures/item/2003671557/ "http://www.loc.gov/pictures/item/2003671557/")
+[![03942v](/wp-content/uploads/2013/04/03942v.jpg)](https://www.loc.gov/pictures/item/2003671557/ "https://www.loc.gov/pictures/item/2003671557/")
 
 How much use this information will be to me is yet to be decided, but every piece of information you learn might come in useful someday, even from this map.
 
-Image Credits: [US Library of Congress](http://www.loc.gov/pictures/item/2003671557/ "http://www.loc.gov/pictures/item/2003671557/").
+Image Credits: [US Library of Congress](https://www.loc.gov/pictures/item/2003671557/ "https://www.loc.gov/pictures/item/2003671557/").
 
 

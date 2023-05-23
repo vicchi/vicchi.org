@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 Forty airports including San Francisco and San Jose are included on the map of delays updated by the Federal Aviation Administration’s Air Traffic Control System Command Center. The status indicates general airport conditions, usually as affected by weather, rather than individual flights.  
   
 
-Found at [http://ift.tt/2zX8VZy](http://ift.tt/2zX8VZy "http://ift.tt/2zX8VZy")
+Found at [https://ift.tt/2zX8VZy](https://ift.tt/2zX8VZy "https://ift.tt/2zX8VZy")
 
 
 

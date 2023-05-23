@@ -29,7 +29,7 @@ Amen to that sentiment and, coincidentally, the postponement of Tegel's closure 
 
 [![](/wp-content/uploads/2012/06/TXL_Cool.jpg "TXL_Cool")](/wp-content/uploads/2012/06/TXL_Cool.jpg "/wp-content/uploads/2012/06/TXL_Cool.jpg")
 
-I also managed to get a very Tegel specific souvenir on this trip, from April's [Pro Race TXL](http://pro.race-txl.com/ "http://pro.race-txl.com/"), a speed walking relay race, with suitcases, around the airport. I kid you not. This is Berlin after all, where quirkiness is almost mandatory. In a nice twist on the *I Heart* style of tee-shirt, this is an I Hex TXL tee-shirt.
+I also managed to get a very Tegel specific souvenir on this trip, from April's [Pro Race TXL](https://pro.race-txl.com/ "https://pro.race-txl.com/"), a speed walking relay race, with suitcases, around the airport. I kid you not. This is Berlin after all, where quirkiness is almost mandatory. In a nice twist on the *I Heart* style of tee-shirt, this is an I Hex TXL tee-shirt.
 
 [![](/wp-content/uploads/2012/06/I-Hex-TXL-1024x527.jpg "I Hex TXL")](/wp-content/uploads/2012/06/I-Hex-TXL.jpg "/wp-content/uploads/2012/06/I-Hex-TXL.jpg")
 

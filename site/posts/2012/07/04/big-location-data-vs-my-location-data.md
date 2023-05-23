@@ -11,7 +11,7 @@ status: published
 
 For a pleasant change, the guts of this talk didn't metamorphose oddly during the writing. Instead, it geolocated. This was originally planned to be my keynote talk at Social-Loco in San Francisco last month. But I wasn't able to make it to the Bay Area as planned for reasons too complex to go into here. Suffice to say, the slide deck languished unloved on my laptops hard drive, taking up 30 odd MB of storage and not really going anywhere.
 
-Then I got an email from Stuart Mitchell at [Geodigital](http://geodigital.biz/contents/ "http://geodigital.biz/contents/") asking me if I'd like to talk at the AGI's Northern Conference and thus, after a brief bit of editing to remove the conspicuous Silicon Valley references, this talk relocated from San Francisco to Manchester. As per usual, the slide deck plus notes are below.
+Then I got an email from Stuart Mitchell at [Geodigital](https://geodigital.biz/contents/ "https://geodigital.biz/contents/") asking me if I'd like to talk at the AGI's Northern Conference and thus, after a brief bit of editing to remove the conspicuous Silicon Valley references, this talk relocated from San Francisco to Manchester. As per usual, the slide deck plus notes are below.
 
 <!-- TEASER_END -->
 
@@ -26,7 +26,7 @@ So, hello, I’m Gary. I’m a self-confessed map addict, a geo-technologist and
 
 There are URLs in this talk but this is the only URL in the entirety of this talk you might want to take a note of. Although if you go there right now, it'll 404 on you, later today or tomorrow, this is where this slide deck, my notes and all the links you'll be seeing will appear on my blog.
 
-[http://vtny.org/jT](http://vtny.org/jT "http://vtny.org/jT")
+[https://vtny.org/jT](https://vtny.org/jT "https://vtny.org/jT")
 **Slide 4**
 
 One of the things I love about writing a talk for a conference is how the things I hear and the things I read get mentally stored away and then, somehow, they start to draw together to form a semi-coherent narrative around the talk title that I inevitably gave to the conference organisers around 3 months prior. So it is with this talk, which in Sesame Street fashion, has been unknowingly brought to you by ...
@@ -223,7 +223,7 @@ So, firstly, there's my own Instagram (and no, I'm not going to share the URL of
 
 My own Instagram is called parallel-ogram. It's on GitHub; you can download it, configure it, run it. For free.
 
-[http://vtny.org/jQ](http://vtny.org/jQ "http://vtny.org/jQ")
+[https://vtny.org/jQ](https://vtny.org/jQ "https://vtny.org/jQ")
 **Slide 50**
 
 Parallel-ogram works as well on my phone as it does on my laptop, showing me exactly what I've uploaded to Instagram. Indeed, it goes one step further than Instagram as currently there's no way to see what you've uploaded other than through their mobile app. Parallel-ogram doesn't allow me to take photos or upload them, at least not yet, but it does allow me to go back to the day I first uploaded a photo, grabs copies for me and twice a day it uses the Instagram API to see what I may have uploaded and quietly grabs a copy and stashes it away for me.
@@ -236,7 +236,7 @@ There's also my own archive of Foursquare ...
 
 It's called privatesquare and it's also on GitHub
 
-[http://vtny.org/jR](http://vtny.org/jR "http://vtny.org/jR")
+[https://vtny.org/jR](https://vtny.org/jR "https://vtny.org/jR")
 **Slide 55**
 
 Like parallel-ogram, privatesquare quietly uses the Foursquare API to go back to my first check-in and twice a day quietly synchs my check-ins for me. I can go back and look at them, see maps of them and browse my check-in history. Unlike parallel-ogram, privatesquare also allows me to check-in, even if I don't want to share this with Foursquare. In short it allows me to use it both as an archive and also as a check-in tool, and if I want to use Foursquare's official mobile app, I can do that, safe and secure in the knowledge that privatesquare will keep itself up to date.
@@ -249,7 +249,7 @@ I take a lot of photos. Some of them go into Instagram. All of them go into Flic
 
 It's called parallel-flickr, it also lives on GitHub and it's also filed under "something I really must install, configure and get running when I have some spare time".
 
-[http://vtny.org/jS](http://vtny.org/jS "http://vtny.org/jS")
+[https://vtny.org/jS](https://vtny.org/jS "https://vtny.org/jS")
 **Slide 63**
 
 So I have my own archives of Instagram, Flickr and Foursquare. I sort of have my own archive of Facebook. But what about my Tweets?

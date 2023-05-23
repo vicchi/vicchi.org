@@ -28,7 +28,7 @@ And in the case of Africa, big means that, if you were playing jigsaw puzzles wi
 
 [![True-size-of-Africa-954x696](/wp-content/uploads/2013/02/True-size-of-Africa-954x696.png)](/wp-content/uploads/2013/02/True-size-of-Africa-954x696.png "/wp-content/uploads/2013/02/True-size-of-Africa-954x696.png")
 
-It's that sort of big. This map infographic from Kai Krause (yes, *that* [Kai Krause](http://en.wikipedia.org/wiki/Kai_Krause "http://en.wikipedia.org/wiki/Kai_Krause")) shows this sort of level of big-ness in a way that 11.6 million square miles just can't convey. There's more information on this map, together with an alternate version over at [The Economist](http://www.economist.com/blogs/dailychart/2010/11/cartography "http://www.economist.com/blogs/dailychart/2010/11/cartography").
+It's that sort of big. This map infographic from Kai Krause (yes, *that* [Kai Krause](https://en.wikipedia.org/wiki/Kai_Krause "https://en.wikipedia.org/wiki/Kai_Krause")) shows this sort of level of big-ness in a way that 11.6 million square miles just can't convey. There's more information on this map, together with an alternate version over at [The Economist](https://www.economist.com/blogs/dailychart/2010/11/cartography "https://www.economist.com/blogs/dailychart/2010/11/cartography").
 
 
 

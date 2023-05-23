@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 Designing a public transit map can be a complicated process, taking months if not years to create a concise layout that can be interpreted quickly for commuters on the go.  
   
 
-Found at [http://ift.tt/2rce925](http://ift.tt/2rce925 "http://ift.tt/2rce925")
+Found at [https://ift.tt/2rce925](https://ift.tt/2rce925 "https://ift.tt/2rce925")
 
 
 

@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 Although it resembles nothing like the clear outline of a modern map of the region, the Peutinger Table is a snapshot of how Romans viewed their world, one in which they were at the center.  
   
 
-Found at [http://ift.tt/2xjdf6Y](http://ift.tt/2xjdf6Y "http://ift.tt/2xjdf6Y")
+Found at [https://ift.tt/2xjdf6Y](https://ift.tt/2xjdf6Y "https://ift.tt/2xjdf6Y")
 
 
 

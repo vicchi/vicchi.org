@@ -14,7 +14,7 @@ geo_lat: 51.427051
 
 In English, null means nothing, nil, empty or void. In computing, null is a special value for nothing, an empty value. In geography, null tends to be what you get when you've been unable to geocode a place or an address and haven't checked the geocoder's response. What you end up with is a pair of coordinates of 0 degrees longitude and 0 degrees latitude, a point somewhere in the middle of the Atlantic Ocean, south of Ghana and west of Gabon. It's here that you'll also find Null Island, if you look hard enough.
 
-The website for the [Republic of Null Island](http://www.nullisland.com/ "http://www.nullisland.com/") (*like no place on earth*) says this about the island's location ...
+The website for the [Republic of Null Island](https://www.nullisland.com/ "https://www.nullisland.com/") (*like no place on earth*) says this about the island's location ...
 
 
 
@@ -23,18 +23,18 @@ The website for the [Republic of Null Island](http://www.nullisland.com/ "http:/
 
 
 
-... but Null Island is an *in joke* created by Nate Kelso and Tom Patterson as part of the [Natural Earth](http://www.naturalearthdata.com/ "http://www.naturalearthdata.com/") data set in January 2011. 
+... but Null Island is an *in joke* created by Nate Kelso and Tom Patterson as part of the [Natural Earth](https://www.naturalearthdata.com/ "https://www.naturalearthdata.com/") data set in January 2011. 
 
 <!-- TEASER_END -->
 
 [![null-island](/wp-content/uploads/2014/04/null-island-1024x788.png)](/wp-content/uploads/2014/04/null-island.png "/wp-content/uploads/2014/04/null-island.png")
 
-It's totally fictitious and is designed as a gentle poke in the ribs for people who don't check the return value from their geocoder and end up putting a pin on a web map in the middle of the ocean. As Natural Earth's [release notes](http://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/ "http://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/") mention ...
+It's totally fictitious and is designed as a gentle poke in the ribs for people who don't check the return value from their geocoder and end up putting a pin on a web map in the middle of the ocean. As Natural Earth's [release notes](https://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/ "https://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/") mention ...
 
 
 
 
-> WARNING: A troubleshooting country has been added with an Indeterminate sovereignty class called [Null Island](http://woe.spum.org/id/0 "http://woe.spum.org/id/0"). It is a fictional, 1 meter square island located off Africa where the equator and prime meridian cross. Being centered at 0,0 (zero latitude, zero longitude) it is useful for flagging geocode failures which are routed to 0,0 by most mapping services. Aside: “Null Islands” exist for all local coordinate reference systems besides WGS84 like State Plane (and global if not using modern Greenwich prime meridian). [Null Island](http://www.aaronland.info/null-island/#18.00/0.00000/0.00000 "http://www.aaronland.info/null-island/#18.00/0.00000/0.00000") in Natural Earth is scaleRank 100, indicating it should never be shown in mapping.
+> WARNING: A troubleshooting country has been added with an Indeterminate sovereignty class called [Null Island](https://woe.spum.org/id/0 "https://woe.spum.org/id/0"). It is a fictional, 1 meter square island located off Africa where the equator and prime meridian cross. Being centered at 0,0 (zero latitude, zero longitude) it is useful for flagging geocode failures which are routed to 0,0 by most mapping services. Aside: “Null Islands” exist for all local coordinate reference systems besides WGS84 like State Plane (and global if not using modern Greenwich prime meridian). [Null Island](https://www.aaronland.info/null-island/#18.00/0.00000/0.00000 "https://www.aaronland.info/null-island/#18.00/0.00000/0.00000") in Natural Earth is scaleRank 100, indicating it should never be shown in mapping.
 
 
 
@@ -42,7 +42,7 @@ Look carefully enough, especially on web sites that handle large amounts of data
 
 [![the-link](/wp-content/uploads/2014/04/the-link-1024x788.png)](/wp-content/uploads/2014/04/the-link.png "/wp-content/uploads/2014/04/the-link.png")
 
-Take Whathouse.com for example, who have a [3 bedroom property near Enfield](http://whathouse.com/home/properties/6815801/sales#tabs/map "http://whathouse.com/home/properties/6815801/sales#tabs/map") in North East London for sale, yours for just £995,000. Whathouse helpfully provide a map tab on their property listings to that if you're not familiar with where the N9 postal district of London is, you can find out.
+Take Whathouse.com for example, who have a [3 bedroom property near Enfield](https://whathouse.com/home/properties/6815801/sales#tabs/map "https://whathouse.com/home/properties/6815801/sales#tabs/map") in North East London for sale, yours for just £995,000. Whathouse helpfully provide a map tab on their property listings to that if you're not familiar with where the N9 postal district of London is, you can find out.
 
 [![the-link-map](/wp-content/uploads/2014/04/the-link-map-1024x788.png)](/wp-content/uploads/2014/04/the-link-map.png "/wp-content/uploads/2014/04/the-link-map.png")
 

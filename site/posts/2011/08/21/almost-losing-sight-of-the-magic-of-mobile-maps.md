@@ -14,7 +14,7 @@ geo_lat: 38.7836
 
 Often maligned and ignored, sometimes science fiction writers are bang on the mark. The cognoscenti of the high brow literary world often dismiss science fiction as being not proper writing or even worthy of the label of literature. But sci-fi authors are often as not as uniquely placed to think about today's technology as they are to extrapolate on tomorrow's.
 
-Recently, Charles Stross, one of my favourite sci-fi authors, gave a keynote at USENIX 2011 on *Network Security In The Medium Term, 2061 To 2561*. Not the most obvious of keynote titles to talk about maps or magic. But as part of his keynote, [which is well worth reading in its entirety](http://www.antipope.org/charlie/blog-static/2011/08/usenix-2011-keynote-network-se.html "http://www.antipope.org/charlie/blog-static/2011/08/usenix-2011-keynote-network-se.html"), he talked about how far technology has come in just the last 50 years and where it might go before the next 50 ...
+Recently, Charles Stross, one of my favourite sci-fi authors, gave a keynote at USENIX 2011 on *Network Security In The Medium Term, 2061 To 2561*. Not the most obvious of keynote titles to talk about maps or magic. But as part of his keynote, [which is well worth reading in its entirety](https://www.antipope.org/charlie/blog-static/2011/08/usenix-2011-keynote-network-se.html "https://www.antipope.org/charlie/blog-static/2011/08/usenix-2011-keynote-network-se.html"), he talked about how far technology has come in just the last 50 years and where it might go before the next 50 ...
 
 <!-- TEASER_END -->
 

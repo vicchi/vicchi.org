@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2mvAYw2)  
+Today's maps found on the interwebs. ![](https://ift.tt/2mvAYw2)  
   
 
 Legendary’s upcoming monster movie Kong: Skull Island hits theaters next week, and Google is having a bit of fun with it by plotting the film’s titular location on Google Maps. You can find the island on Google Maps, just south of the equator in the Pacific Ocean.  
   
 
-Found at [http://ift.tt/2mZM9JM](http://ift.tt/2mZM9JM "http://ift.tt/2mZM9JM")
+Found at [https://ift.tt/2mZM9JM](https://ift.tt/2mZM9JM "https://ift.tt/2mZM9JM")
 
 
 

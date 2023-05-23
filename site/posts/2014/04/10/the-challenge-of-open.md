@@ -12,7 +12,7 @@ geo_place: Lokku, Clerkenwell Road, London
 geo_lng: -0.102549
 geo_lat: 51.522553
 
-One of the great things about the combination of maps, geo, location and London is that roughly once a month there's some kind of meetup happening in the city on these themes. One of the longer running players in this space is the Geospatial Specialist Group of the British Computer Society which is being relaunched and reinvigorated as the <a hef="http://geospatial.bcs.org/lisg/" target="_blank">Location Information SG</a>. Earlier this week I gave a talk, but what to talk about?
+One of the great things about the combination of maps, geo, location and London is that roughly once a month there's some kind of meetup happening in the city on these themes. One of the longer running players in this space is the Geospatial Specialist Group of the British Computer Society which is being relaunched and reinvigorated as the <a hef="https://geospatial.bcs.org/lisg/" target="_blank">Location Information SG</a>. Earlier this week I gave a talk, but what to talk about?
 
 It didn't take too long to come up with a suitable theme. In my current day job, consulting with open data specialists Lokku, I come across the benefits and the challenges in using open data on almost a daily basis. One of the earliest lessons is that nothing is simple and nothing is straightforwards when you bring licensing into a field and open data is no exception.
 

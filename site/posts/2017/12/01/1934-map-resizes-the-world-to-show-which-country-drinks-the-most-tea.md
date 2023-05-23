@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2A3Luit)  
+Today's maps found on the interwebs. ![](https://ift.tt/2A3Luit)  
   
 
 Not a day goes by that I don’t use Google Maps for something or other, whether it’s basic navigation, researching an address, or finding a dry cleaner. Though some of us might resent the dominance such mapping technology has over our daily interactions, there’s no denying its endless utility.  
   
 
-Found at [http://ift.tt/2je0DFQ](http://ift.tt/2je0DFQ "http://ift.tt/2je0DFQ")
+Found at [https://ift.tt/2je0DFQ](https://ift.tt/2je0DFQ "https://ift.tt/2je0DFQ")
 
 
 

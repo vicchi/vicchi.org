@@ -12,7 +12,7 @@ status: published
 Today's maps found on the interwebs. ![](/wp-content/uploads/2017/05/Jeff-Love.jpg)was carved by ancient peoples to map the area of the upper Snake River, possibly as long as 12,000 years ago. The map is believed to have been carved by the Shoshone-Bannock natives long before European contact.  
   
 
-Found at [http://ift.tt/2q6DMBl](http://ift.tt/2q6DMBl "http://ift.tt/2q6DMBl")
+Found at [https://ift.tt/2q6DMBl](https://ift.tt/2q6DMBl "https://ift.tt/2q6DMBl")
 
 
 

@@ -21,14 +21,14 @@ One. The iPhone 3's glass was scratch resistant but not dropping-onto-a-stone-fl
 Two. I am clumsy.
 
 
-[![I Think I Need A New iPhone. Bugger](http://farm5.staticflickr.com/4133/4999105038_c06c7c059b_d.jpg)](http://www.flickr.com/photos/vicchi/4999105038/in/photostream/ "I Think I Need A New iPhone. Bugger")
+[![I Think I Need A New iPhone. Bugger](https://farm5.staticflickr.com/4133/4999105038_c06c7c059b_d.jpg)](https://www.flickr.com/photos/vicchi/4999105038/in/photostream/ "I Think I Need A New iPhone. Bugger")
 Three. The iPhone 4's glass was scratch resistant but not dropping-onto-a-pavement resistant.
 
 
 Four. I am still clumsy.
 
 
-[![FFS. Not Again!](http://farm7.staticflickr.com/6041/6388213187_c0f938e9f7_d.jpg)](http://www.flickr.com/photos/vicchi/6388213187/in/photostream "FFS. Not Again!")
+[![FFS. Not Again!](https://farm7.staticflickr.com/6041/6388213187_c0f938e9f7_d.jpg)](https://www.flickr.com/photos/vicchi/6388213187/in/photostream "FFS. Not Again!")
 
 
 

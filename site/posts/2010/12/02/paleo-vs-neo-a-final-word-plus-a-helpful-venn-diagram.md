@@ -18,7 +18,7 @@ And so it was with my [post on neogeography being removed from wikipedia](/2010/
 
 <!-- TEASER_END -->
 
-[![Paleo vs. Neo - A Helpful Venn Diagram](http://farm6.static.flickr.com/5047/5226437872_34baff9164_d.jpg)](http://www.flickr.com/photos/vicchi/5226437872/ "Paleo vs. Neo - A Helpful Venn Diagram")
+[![Paleo vs. Neo - A Helpful Venn Diagram](https://farm6.static.flickr.com/5047/5226437872_34baff9164_d.jpg)](https://www.flickr.com/photos/vicchi/5226437872/ "Paleo vs. Neo - A Helpful Venn Diagram")
 
 It goes something like this.
 

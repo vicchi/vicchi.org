@@ -12,7 +12,7 @@ status: published
 Today's maps found on the interwebs. ![](/wp-content/uploads/2017/05/klencke.jpg)ty run-of-the-mill job these days—Google alone has scanned over 25 million titles. But some books need special treatment to make it into the digital world, and the Klencke Atlas held at the British Library took a lot of extra effort, Allison Meier at Hyperallergic reports.  
   
 
-Found at [http://ift.tt/2r1MSzR](http://ift.tt/2r1MSzR "http://ift.tt/2r1MSzR")
+Found at [https://ift.tt/2r1MSzR](https://ift.tt/2r1MSzR "https://ift.tt/2r1MSzR")
 
 
 

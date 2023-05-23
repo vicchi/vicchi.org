@@ -18,10 +18,10 @@ Surely the Piccadilly Line ends at Uxbridge, Heathrow Airport and Cockfosters an
 
 Maybe if the London Underground did take over the world, including 3 tunnels across the Atlantic Ocean, this is what the Tube Map might look like.
 
-[![World Metro Map by Mark Ovenden](http://farm1.staticflickr.com/103/313981428_6c06a97180_z_d.jpg)](http://www.flickr.com/photos/anniemole/313981428/ "World Metro Map by Mark Ovenden")
+[![World Metro Map by Mark Ovenden](https://farm1.staticflickr.com/103/313981428_6c06a97180_z_d.jpg)](https://www.flickr.com/photos/anniemole/313981428/ "World Metro Map by Mark Ovenden")
 
 
-Photo Credits: [Annie Mole](http://www.flickr.com/photos/anniemole/313981428/ "http://www.flickr.com/photos/anniemole/313981428/") on Flickr.
+Photo Credits: [Annie Mole](https://www.flickr.com/photos/anniemole/313981428/ "https://www.flickr.com/photos/anniemole/313981428/") on Flickr.
 
 
 

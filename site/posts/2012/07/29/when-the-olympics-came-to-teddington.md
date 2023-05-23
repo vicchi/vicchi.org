@@ -18,9 +18,9 @@ Yes, it was difficult if not impossible to get tickets. Yes, it's overly politic
 
 But also yes, the opening ceremony was amazing. And yes, my home town in the suburbs of London is slap bang in the middle of the cycling road race events.
 
-[![Generic Photo Shot](http://farm8.staticflickr.com/7120/7668280958_33999f922e_z_d.jpg)](http://www.flickr.com/photos/vicchi/7668280958/in/set-72157630802599712/ "Women's Cycle Road Race, Teddington, London 2012 Olympics")
+[![Generic Photo Shot](https://farm8.staticflickr.com/7120/7668280958_33999f922e_z_d.jpg)](https://www.flickr.com/photos/vicchi/7668280958/in/set-72157630802599712/ "Women's Cycle Road Race, Teddington, London 2012 Olympics")
 
-And yes, when [the Olympics came to Teddington](http://www.flickr.com/photos/vicchi/sets/72157630802599712/ "http://www.flickr.com/photos/vicchi/sets/72157630802599712/"), right to the end of the road where I live, it was utterly and truly amazing. For once, the overused cliche of "once in a lifetime experience" seems utterly apt.
+And yes, when [the Olympics came to Teddington](https://www.flickr.com/photos/vicchi/sets/72157630802599712/ "https://www.flickr.com/photos/vicchi/sets/72157630802599712/"), right to the end of the road where I live, it was utterly and truly amazing. For once, the overused cliche of "once in a lifetime experience" seems utterly apt.
 
 
 

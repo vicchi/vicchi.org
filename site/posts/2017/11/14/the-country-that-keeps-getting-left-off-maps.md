@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2gVYxJp)  
+Today's maps found on the interwebs. ![](https://ift.tt/2gVYxJp)  
   
 
 New Zealanders fed up with their country being left off of world maps set up a Reddit group to share their exasperation. The 27,000 subscribers of "Maps Without NZ" post pictures of the world with the island nation left off.  
   
 
-Found at [http://ift.tt/2zyto9W](http://ift.tt/2zyto9W "http://ift.tt/2zyto9W")
+Found at [https://ift.tt/2zyto9W](https://ift.tt/2zyto9W "https://ift.tt/2zyto9W")
 
 
 

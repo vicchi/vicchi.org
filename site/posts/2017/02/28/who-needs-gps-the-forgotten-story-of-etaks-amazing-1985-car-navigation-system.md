@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2mDDtsF)  
+Today's maps found on the interwebs. ![](https://ift.tt/2mDDtsF)  
   
 
 Thirty years ago, a company called Etak released the first commercially available computerized navigation system for automobiles.  
   
 
-Found at [http://ift.tt/1LNDuD8](http://ift.tt/1LNDuD8 "http://ift.tt/1LNDuD8")
+Found at [https://ift.tt/1LNDuD8](https://ift.tt/1LNDuD8 "https://ift.tt/1LNDuD8")
 
 
 

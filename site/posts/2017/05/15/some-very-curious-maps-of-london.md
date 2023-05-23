@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2rfhdaN)  
+Today's maps found on the interwebs. ![](https://ift.tt/2rfhdaN)  
   
 
 Footnote #3 on p. 331 of Curiocity goes as follows: “There is only one Tube station that share no letters with the word 'mackerel'. It is mentioned on p. 297”. Try to find that nugget of trivia in any other London guidebook.  
   
 
-Found at [http://ift.tt/2qgtVZJ](http://ift.tt/2qgtVZJ "http://ift.tt/2qgtVZJ")
+Found at [https://ift.tt/2qgtVZJ](https://ift.tt/2qgtVZJ "https://ift.tt/2qgtVZJ")
 
 
 

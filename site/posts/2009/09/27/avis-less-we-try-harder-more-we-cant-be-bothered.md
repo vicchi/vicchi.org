@@ -14,7 +14,7 @@ Last week I was unfortunate enough to hire a rental car from Avis at *Heathrow*.
 
 I travel quite a lot for work and so it's fair to say I rent a reasonable amount of cars; all of them through Avis who are the company's preferred rental supplier. After getting off a plane, the last thing you really want is to queue to get your car so I'm a member of [Avis' Preferred](https://www.avis.com/car-rental/profile/route.ac?context=CarAndServicesMenu&APPLICATION_TYPE=PREFERRED "https://www.avis.com/car-rental/profile/route.ac?context=CarAndServicesMenu&APPLICATION_TYPE=PREFERRED") service; this allows me to skip the queues, pick my car up and drive out of the rental garage with a wave of my driving license. It's quick, really quick; you see your name on a board which shows you which bay you need to go to, find the car, fling your suitcase in the boot and off you go.
 It typically takes around 3 minutes to get my car; and Avis in the UK makes a selling point of this, proudly proclaiming "*Your keys in under 3 minutes or £20*".
-[![](http://posterous.com/getfile/files.posterous.com/vicchi/zqyorf1e8RK94D1amTcxpv9qXYGcvZ6zCThPBHU020EOV2xIJPfnQT99hElF/Avis.jpg.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/vicchi/mdoNuvldfhdER7s6IsJvpukBM6SyPzIPQt7aLwPCOYu2lQvZb2u2qq1V2xK9/Avis.jpg "http://posterous.com/getfile/files.posterous.com/vicchi/mdoNuvldfhdER7s6IsJvpukBM6SyPzIPQt7aLwPCOYu2lQvZb2u2qq1V2xK9/Avis.jpg")
+[![](https://posterous.com/getfile/files.posterous.com/vicchi/zqyorf1e8RK94D1amTcxpv9qXYGcvZ6zCThPBHU020EOV2xIJPfnQT99hElF/Avis.jpg.scaled.500.jpg)](https://posterous.com/getfile/files.posterous.com/vicchi/mdoNuvldfhdER7s6IsJvpukBM6SyPzIPQt7aLwPCOYu2lQvZb2u2qq1V2xK9/Avis.jpg "https://posterous.com/getfile/files.posterous.com/vicchi/mdoNuvldfhdER7s6IsJvpukBM6SyPzIPQt7aLwPCOYu2lQvZb2u2qq1V2xK9/Avis.jpg")
 
 <!-- TEASER_END -->
 
@@ -39,8 +39,8 @@ The manager wanders over, I ask her the same question.
 "Actually, yes, I do, I'd consider it customer service", "*We don't do that*"
 "Well can't you send an email to let me know?", "*We don't do that*"
 We've now been at this for over half an hour and that "*Your keys in 3 minutes*" promise is way in the distant past, but eventually I get my paper work and am told "*Grey VW Passat, Row A, the hazards will be on*".
-[![](http://farm1.static.flickr.com/228/504568871_91f02279d3.jpg)](http://www.flickr.com/photos/adomas/504568871/ "http://www.flickr.com/photos/adomas/504568871/")
-Out I wander, slightly stunned and bemused, find the only Grey VW Passat in Row A, with the hazards on, load up and drive off to the exit. Where I hand over my driving license and get ready to depart, because after all, the Avis website tells me that as a Preferred member, [*"all you will need to do is show us your driving licence, collect your keys and go*](http://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise "http://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise")".
+[![](https://farm1.static.flickr.com/228/504568871_91f02279d3.jpg)](https://www.flickr.com/photos/adomas/504568871/ "https://www.flickr.com/photos/adomas/504568871/")
+Out I wander, slightly stunned and bemused, find the only Grey VW Passat in Row A, with the hazards on, load up and drive off to the exit. Where I hand over my driving license and get ready to depart, because after all, the Avis website tells me that as a Preferred member, [*"all you will need to do is show us your driving licence, collect your keys and go*](https://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise "https://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise")".
 But no, I have to check the car, confirm my details, check for damage, sign here, sign there, check this and then ...
 "*This isn't your car*", "What?"
 "*This isn't your car*", "Yes it is, VW. Passat, Grey. Hazards on. Row A"
@@ -52,9 +52,9 @@ By this point I'm loosing patience and ask, politely but strongly for him to go 
 I look and it's being washed and will be "*about another 10 minutes*".
 So after over an hour, I finally drive out of the Avis garage with the right car and that's a little over 3 minutes by my reckoning, can't be considered a fast service, and no, I didn't get £20 off, I didn't even get anything vaguely approaching an apology. If this is preferred service, I'd hate to be on the receiving end of normal service.
 So to Avis in the US, in Ireland and in Europe, you do a great job, but Avis in the UK, you're really just can't be bothered and couldn't car less because the one message you sent me through all of this is that you *don't do that* and you really couldn't care less about customer service or satisfaction, but you got your money so that's OK then.
-Image credit: [Avis.co.uk website](http://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise "http://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise") and [AdomasS on Flickr](http://www.flickr.com/photos/adomas/504568871/ "http://www.flickr.com/photos/adomas/504568871/")
+Image credit: [Avis.co.uk website](https://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise "https://www.avis.co.uk/VehiclesAndServices/3-Minute-Promise") and [AdomasS on Flickr](https://www.flickr.com/photos/adomas/504568871/ "https://www.flickr.com/photos/adomas/504568871/")
 
-[Posted via email](http://posterous.com "http://posterous.com") from [Gary's Posterous](http://vicchi.posterous.com/avis-less-we-try-harder-more-we-cant-be-bothe "http://vicchi.posterous.com/avis-less-we-try-harder-more-we-cant-be-bothe")
+[Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/avis-less-we-try-harder-more-we-cant-be-bothe "https://vicchi.posterous.com/avis-less-we-try-harder-more-we-cant-be-bothe")
 
 
 

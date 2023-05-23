@@ -18,7 +18,7 @@ For Londoners this will probably come as no surprise, but this time around, the 
 
 [![](/wp-content/uploads/2010/10/TubeStrikeMap-300x224.jpg "Tube Strike Map")](/wp-content/uploads/2010/10/TubeStrikeMap.jpg "/wp-content/uploads/2010/10/TubeStrikeMap.jpg")
 
-You can see a snapshot of how the map looks, taken a few minutes ago; head over to the [London Tube Strike Map](http://tubestrike.crowdmap.com/ "http://tubestrike.crowdmap.com/") for more updates as the strike starts to affect London.
+You can see a snapshot of how the map looks, taken a few minutes ago; head over to the [London Tube Strike Map](https://tubestrike.crowdmap.com/ "https://tubestrike.crowdmap.com/") for more updates as the strike starts to affect London.
 
 
 

@@ -15,7 +15,7 @@
 
 <html><body><a href="/wp-content/uploads/2012/07/wp-avertere-banner.jpg"><img src="/wp-content/uploads/2012/07/wp-avertere-banner.jpg" alt="" title="WP Avertere" class="aligncenter size-full wp-image-3214" width="805" height="282"></a>
 <h2>What Is WP Avertere?</h2>
-WP Avertere is a <a href="http://wordpress.org">WordPress</a> plugin to set up and manage an HTTP 301/302 Redirect from the URL of any post type to another URL, either on your site or externally.
+WP Avertere is a <a href="https://wordpress.org">WordPress</a> plugin to set up and manage an HTTP 301/302 Redirect from the URL of any post type to another URL, either on your site or externally.
 <h2>What Does It Do?</h2>
 This plugin allows you to easily set up redirections from the URL of any post, page or other post type on your WordPress site to another URL, either on your site or external to your site. Redirections can either be permanent (HTTP 301) or temporary (HTTP 302) and can easily be changed or deleted entirely.
 
@@ -36,7 +36,7 @@ While the main use of the plugin is to redirect posts and pages, you can also us
  	<li>Create a shortcut category or tag archive link; you can create a new blank page, such as <code>/plugins</code> and then redirect that page to <code>/tags/plugins</code>.</li>
 </ol>
 <h2>How Do I Download WP Avertere?</h2>
-To download or install WP Avertere on your WordPress powered site, either search for <em>WP Avertere</em> from the WordPress Dashboard or go to plugin’s page on the official <a href="http://wordpress.org/extend/plugins/wp-avertere/">WordPress plugin repository</a>.
+To download or install WP Avertere on your WordPress powered site, either search for <em>WP Avertere</em> from the WordPress Dashboard or go to plugin’s page on the official <a href="https://wordpress.org/extend/plugins/wp-avertere/">WordPress plugin repository</a>.
 
 If you want to fork the source code of the plugin, you can find it on the plugin’s GitHub page at <a href="https://github.com/vicchi/wp-avertere">https://github.com/vicchi/wp-avertere</a>.
 <h2>What's New?</h2>
@@ -68,7 +68,7 @@ WP Avertere v1.1.0 was released 06/11/12.
 </a><a></a><a href="/wp-content/uploads/2012/07/v1.0.0-screenshot-2.jpg"><img src="/wp-content/uploads/2012/07/v1.0.0-screenshot-2.jpg" alt="" title="v1.0.0-screenshot-2" class="aligncenter size-full wp-image-2881" width="737" height="391"></a>
 <h2><a name="faq"></a>Frequently Asked Questions</h2>
 <h3>How do I get help or support for this plugin?</h3>
-In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="http://wordpress.org/support/plugin/wp-avertere">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="http://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
+In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="https://wordpress.org/support/plugin/wp-avertere">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="https://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
 <h3>I've just installed this plugin; where's the admin Settings &amp; Options page for the plugin?</h3>
 There isn't one! All the settings and options for the plugin are in the <em>Redirect This Post</em> meta box that you'll find on the <em>Edit Post</em> page.
 <h3>My redirect URL validates as well formed but the URL now shows a 404/Page Not Found when I click on it. What's going on?</h3>
@@ -86,13 +86,13 @@ In short, very easily. Edit the post that the redirection is set up on and then 
 <h3>Why don't I just use the REFRESH HTML meta tag in my post instead?</h3>
 There's nothing wrong with using the <code>REFRESH</code> HTML meta tag to redirect to another URL but it's not as easy or efficient as using the plugin. Here's why. The <code>REFRESH</code> meta tag lives in a page's header section. You not only need to inject this into the page (you could use the <code>wp_head</code> action hook) but you need to wait for the entire page to load before your browser will take note of and act on the <code>REFRESH</code> meta tag. WP Avertere hooks into the WordPress <code>template_redirect</code> hook and issues an HTTP <code>Location</code> header on your behalf; this means that the decision to redirect and the act of actually redirecting takes place before the page even loads, which is faster and more efficient.
 <h3>Wait a moment. HTTP 302 is Found not Temporary Redirect. Why aren't you using HTTP 307 Temporary Redirect instead?</h3>
-This is a classic case of <em>industry practice contradicting the standard</em> (according to <a href="http://en.wikipedia.org/wiki/HTTP_302">Wikipedia</a>). The HTTP/1.0 standard defined HTTP 301 as <em>Moved Permanently</em> and HTTP 302 as <em>Temporary Redirect</em>. With the introduction of HTTP/1.1, HTTP 302 changed to <em>Found</em> and added HTTP 307 <em>Temporary Redirect</em>. But the majority of web services still use HTTP/1.1 302 as the original intent of the HTTP/1.0 meaning.
+This is a classic case of <em>industry practice contradicting the standard</em> (according to <a href="https://en.wikipedia.org/wiki/HTTP_302">Wikipedia</a>). The HTTP/1.0 standard defined HTTP 301 as <em>Moved Permanently</em> and HTTP 302 as <em>Temporary Redirect</em>. With the introduction of HTTP/1.1, HTTP 302 changed to <em>Found</em> and added HTTP 307 <em>Temporary Redirect</em>. But the majority of web services still use HTTP/1.1 302 as the original intent of the HTTP/1.0 meaning.
 <h3>My original post had comments; I can't see them now that I've set up a redirect. Where are they?</h3>
 The current version of the plugin doesn't touch comments but after a redirect is set up they won't be visible due to the inherent nature of a redirect. The next version of the plugin will support the ability to copy comments from the source URL to the redirected target URL as long as that URL is on the same WordPress powered site.
 <h3>WP Avertere isn't available in my language; can I submit a translation?</h3>
-WordPress and this plugin use the gettext tools to support internationalisation. The source file containing each string that needs to be translated ships with the plugin in <code>wp-avertere/lang/src/wp-biographia.po</code>. See the <a href="http://codex.wordpress.org/I18n_for_WordPress_Developers">I18n for WordPress Developers</a> page for more information or get in touch for help and hand-holding.
+WordPress and this plugin use the gettext tools to support internationalisation. The source file containing each string that needs to be translated ships with the plugin in <code>wp-avertere/lang/src/wp-biographia.po</code>. See the <a href="https://codex.wordpress.org/I18n_for_WordPress_Developers">I18n for WordPress Developers</a> page for more information or get in touch for help and hand-holding.
 <h3>I want to amend/hack/augment this plugin; can I do this?</h3>
-Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt for the full license terms.
+Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt for the full license terms.
 <h3>Where does the name WP Avertere come from?</h3>
 WP Avertere is named after the latin for "divert", meaning to turn aside from a path or course.
 <h2><a name="filters"></a>Filter Support And Usage</h2>

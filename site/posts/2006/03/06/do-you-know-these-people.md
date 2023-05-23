@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-I get spam email; so does everyone I know with an email address. My mail client of choice is currently [Apple's Mail.app](http://www.apple.com/uk/macosx/features/mail/ "http://www.apple.com/uk/macosx/features/mail/") and this includes a [Bayesian junk mail](http://en.wikipedia.org/wiki/Bayesian_filtering "http://en.wikipedia.org/wiki/Bayesian_filtering") filtering system which, after a bit of training, is very effective.
+I get spam email; so does everyone I know with an email address. My mail client of choice is currently [Apple's Mail.app](https://www.apple.com/uk/macosx/features/mail/ "https://www.apple.com/uk/macosx/features/mail/") and this includes a [Bayesian junk mail](https://en.wikipedia.org/wiki/Bayesian_filtering "https://en.wikipedia.org/wiki/Bayesian_filtering") filtering system which, after a bit of training, is very effective.
 
 <!-- TEASER_END -->
 

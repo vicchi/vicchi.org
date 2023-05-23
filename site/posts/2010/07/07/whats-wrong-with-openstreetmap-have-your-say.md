@@ -12,11 +12,11 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-At the end of this week, anyone with even a passing interest in OpenStreetMap will be descending on Girona to be at the annual mapfest that is the [State Of The Map](http://stateofthemap.org/ "http://stateofthemap.org/") conference. Sadly I won't be there this year, as [I mentioned in a post](/2010/05/26/and-in-a-change-to-our-scheduled-programming/ "/2010/05/26/and-in-a-change-to-our-scheduled-programming/") earlier this year. But Chris Osborne will and he's hosting a panel discussion under the intriguing title of [What's Wrong With OpenStreetMap](http://www.cloudsourced.com/2010/07/06/whats-wrong-with-openstreetmap/ "http://www.cloudsourced.com/2010/07/06/whats-wrong-with-openstreetmap/"), with all the attendant controversy that such a title might engender. Yesterday, [he asked](http://twitter.com/osbornec/statuses/17866614930 "http://twitter.com/osbornec/statuses/17866614930") for points around which to build the inevitable conversation that will ensure, so here's a list of points that I'd love to see debated.
+At the end of this week, anyone with even a passing interest in OpenStreetMap will be descending on Girona to be at the annual mapfest that is the [State Of The Map](https://stateofthemap.org/ "https://stateofthemap.org/") conference. Sadly I won't be there this year, as [I mentioned in a post](/2010/05/26/and-in-a-change-to-our-scheduled-programming/ "/2010/05/26/and-in-a-change-to-our-scheduled-programming/") earlier this year. But Chris Osborne will and he's hosting a panel discussion under the intriguing title of [What's Wrong With OpenStreetMap](https://www.cloudsourced.com/2010/07/06/whats-wrong-with-openstreetmap/ "https://www.cloudsourced.com/2010/07/06/whats-wrong-with-openstreetmap/"), with all the attendant controversy that such a title might engender. Yesterday, [he asked](https://twitter.com/osbornec/statuses/17866614930 "https://twitter.com/osbornec/statuses/17866614930") for points around which to build the inevitable conversation that will ensure, so here's a list of points that I'd love to see debated.
 
 <!-- TEASER_END -->
 
-[![OpenStreetMap - Coastlines](http://farm4.static.flickr.com/3201/3120509512_c5e5575b46_d.jpg)](http://www.flickr.com/photos/peterito/3120509512/ "OpenStreetMap - Coastlines")
+[![OpenStreetMap - Coastlines](https://farm4.static.flickr.com/3201/3120509512_c5e5575b46_d.jpg)](https://www.flickr.com/photos/peterito/3120509512/ "OpenStreetMap - Coastlines")
 ***Is OSM Finished?*** The terms complete or finished mean different things to different people. OSM certainly has global coverage but at what point do you say that the project is complete and that it's refreshing and maintaining the data from this point on?
 
 ***Is OSM Just About The Map?*** Building the OSM map has been an amazing achievement, but the current explosion of interest around location and geo has been as much about linking disparate geographical data sets as it has been about displaying a map. Should OSM look beyond just the map and become more about enhancing and expanding the reach and scope of the data?
@@ -28,6 +28,6 @@ At the end of this week, anyone with even a passing interest in OpenStreetMap wi
 I look forward to seeing the Twitter steam and blog posts that come about after the panel has finished. Good luck Chris, hope you make it off of the stage in one piece!
 
 
-Photo Credits: [Peter Ito](http://www.flickr.com/photos/peterito/3120509512/ "http://www.flickr.com/photos/peterito/3120509512/") on Flickr.
+Photo Credits: [Peter Ito](https://www.flickr.com/photos/peterito/3120509512/ "https://www.flickr.com/photos/peterito/3120509512/") on Flickr.
 
 

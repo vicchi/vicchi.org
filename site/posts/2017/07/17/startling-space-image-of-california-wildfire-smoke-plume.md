@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 On Sunday, NASA's Earth-monitoring Terra satellite captured this image of a smoke plume from the brutal Alamo Fire blazing in the County of Santa Barbara, California.  
   
 
-Found at [http://ift.tt/2ta573p](http://ift.tt/2ta573p "http://ift.tt/2ta573p")
+Found at [https://ift.tt/2ta573p](https://ift.tt/2ta573p "https://ift.tt/2ta573p")
 
 
 

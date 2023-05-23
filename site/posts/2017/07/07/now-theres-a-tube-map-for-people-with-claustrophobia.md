@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2sUH5cl)  
+Today's maps found on the interwebs. ![](https://ift.tt/2sUH5cl)  
   
 
 If you get anxiety or claustrophobia, there’s a new Tube map to make it easier for you to get around London. TfL just released a new map which shows which lines go into tunnels, when, and for how long, in a bid to make it easier for people to travel.  
   
 
-Found at [http://ift.tt/2tfYhfM](http://ift.tt/2tfYhfM "http://ift.tt/2tfYhfM")
+Found at [https://ift.tt/2tfYhfM](https://ift.tt/2tfYhfM "https://ift.tt/2tfYhfM")
 
 
 

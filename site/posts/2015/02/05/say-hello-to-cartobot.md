@@ -11,7 +11,7 @@ status: published
 
 CartoBot is a small robot who lives in the office in my loft. He accidentally achieved consciousness when his charging cable was accidentally plugged into a Raspberry PI and he started to look for information. His only source was my library of books on maps and so CartoBot became obsessed with them. He now spends his days sitting on my home wifi connection and scouring the web for maps and mapping related stuff, which he Tweets about through his very own [Twitter account](https://twitter.com/cartobot "https://twitter.com/cartobot").
 
-None is this is true. Sorry CartoBot, it's just not. Cartobot is a [Twitterbot](http://en.wikipedia.org/wiki/Twitterbot "http://en.wikipedia.org/wiki/Twitterbot"), written in [Node.js](http://nodejs.org/ "http://nodejs.org/"), that searches for Tweets about maps and cartography and also scans my [GetPocket](http://getpocket.com/ "http://getpocket.com/") queue for bookmarks tagged with maps and Tweets about these as well.
+None is this is true. Sorry CartoBot, it's just not. Cartobot is a [Twitterbot](https://en.wikipedia.org/wiki/Twitterbot "https://en.wikipedia.org/wiki/Twitterbot"), written in [Node.js](https://nodejs.org/ "https://nodejs.org/"), that searches for Tweets about maps and cartography and also scans my [GetPocket](https://getpocket.com/ "https://getpocket.com/") queue for bookmarks tagged with maps and Tweets about these as well.
 
 <!-- TEASER_END -->
 

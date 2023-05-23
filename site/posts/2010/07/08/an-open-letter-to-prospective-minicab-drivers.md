@@ -28,7 +28,7 @@ Give me a receipt if I ask for one; lots of people travel to the airport on busi
 
 Take the fastest and more direct route to the passenger's destination. Driving a route which describes 11 of the sides of a dodecahedron because "it's a short cut" or because "my satnav told me so" isn't going to be met with any other tip than "learn the Highway Code and your local area, in that order".
 
-[![Weekend with an iPhone 6: Mini cab](http://farm4.static.flickr.com/3339/4632820240_536eb8b300_d.jpg)](http://www.flickr.com/photos/pixelthing/4632820240/ "Weekend with an iPhone 6: Mini cab")
+[![Weekend with an iPhone 6: Mini cab](https://farm4.static.flickr.com/3339/4632820240_536eb8b300_d.jpg)](https://www.flickr.com/photos/pixelthing/4632820240/ "Weekend with an iPhone 6: Mini cab")
 
 DON'T
 -----
@@ -44,6 +44,6 @@ Don't attempt to argue with me that my house isn't in the neighbourhood I mentio
 Jump red traffic lights on the way to the airport. Even more so, don't jump red traffic lights and when I point out that you've jumped a red traffic light, stop the cab in the middle of the road, reverse into the oncoming traffic and try to argue that the light really wasn't red when you jumped it. The presence of other driver gesticulating violently through their rolled down windows with the elbows jammed onto the car horn might also be considered a contextual clue.
 
 Turn right on a no right turn junction because "you know a short cut". Even more so, don't turn right on a no right turn junction, jumping a red traffic light into the bargain and in doing so cut across the path of three lanes of fast moving traffic which misses colliding with the passenger side of the car by a fraction of a millimeter. I'm liable to get irate under these circumstances.
-Photo Credits: [pixelthing](http://www.flickr.com/photos/pixelthing/4632820240/ "http://www.flickr.com/photos/pixelthing/4632820240/") on Flickr.
+Photo Credits: [pixelthing](https://www.flickr.com/photos/pixelthing/4632820240/ "https://www.flickr.com/photos/pixelthing/4632820240/") on Flickr.
 
 

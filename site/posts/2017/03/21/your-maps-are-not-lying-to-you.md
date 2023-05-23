@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2nyvDEE)  
+Today's maps found on the interwebs. ![](https://ift.tt/2nyvDEE)  
   
 
 Or, your maps are lying to you but so would any other map. Your maps are lying to you! They are WRONG! Everything you learned is wrong! They are instruments of imperial oppressors! All because of the “monstrosity” of a map projection, the Mercator projection.  
   
 
-Found at [http://ift.tt/2mpYs6I](http://ift.tt/2mpYs6I "http://ift.tt/2mpYs6I")
+Found at [https://ift.tt/2mpYs6I](https://ift.tt/2mpYs6I "https://ift.tt/2mpYs6I")
 
 
 

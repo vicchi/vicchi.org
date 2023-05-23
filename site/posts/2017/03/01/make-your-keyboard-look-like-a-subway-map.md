@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2lNGXJE)  
+Today's maps found on the interwebs. ![](https://ift.tt/2lNGXJE)  
   
 
 SA Metro is a set of keys for mechanical keyboards that form colored subway lines in the classic style of the London Underground map. Three editions are planned, covering staggered, gridded and ergonomic keyboard layouts; to be absolutely clear, it lacks standard legends.  
   
 
-Found at [http://ift.tt/2lgfTkG](http://ift.tt/2lgfTkG "http://ift.tt/2lgfTkG")
+Found at [https://ift.tt/2lgfTkG](https://ift.tt/2lgfTkG "https://ift.tt/2lgfTkG")
 
 
 

@@ -20,7 +20,7 @@ Maybe a location based service I use does want to target me with location based 
 
 <!-- TEASER_END -->
 
-[![You are here.](http://farm7.staticflickr.com/6065/6139554835_377a521ce7.jpg)](http://www.flickr.com/photos/misspixels/6139554835/ "You are here. by misspixels, on Flickr")
+[![You are here.](https://farm7.staticflickr.com/6065/6139554835_377a521ce7.jpg)](https://www.flickr.com/photos/misspixels/6139554835/ "You are here. by misspixels, on Flickr")
 
 Now it's true that if you gather enough data points you can start to infer some meaning from the resultant data set. You can probably determine the rough area where someone works and where they live based on their location at certain times of the day. But in today's connected world of the interwebs, with their social networks and uploaded photographs, that level of locational granularity can be inferred fairly easily without the need to explicitly track the location of an individual.
 
@@ -35,11 +35,11 @@ All of the above can be summed up as something like ...
 
 I'm sure I've said words to this effect before in a talk at a conference but try as I might I can't find a reference to back up this assertion.
 
-What's even more interesting is that a recent research study at the UK's University of Birmingham took 200 volunteers who agreed to have their phones track them, added in the locations of their friends in their social graphs and produced an algorithm that was able to predict where a participant would be in 24 hours time, sometimes with accuracies of less than 20 meters and with an average accuracy of around 1000 meters. The [full research paper](http://research.nokia.com/files/public/mdc-final306_dedomenico.pdf "http://research.nokia.com/files/public/mdc-final306_dedomenico.pdf") makes for fascinating reading and shows that the real key to location technologies may not be where you currently are but may be much more about our predicability and daily routines for ourselves and our friends.
+What's even more interesting is that a recent research study at the UK's University of Birmingham took 200 volunteers who agreed to have their phones track them, added in the locations of their friends in their social graphs and produced an algorithm that was able to predict where a participant would be in 24 hours time, sometimes with accuracies of less than 20 meters and with an average accuracy of around 1000 meters. The [full research paper](https://research.nokia.com/files/public/mdc-final306_dedomenico.pdf "https://research.nokia.com/files/public/mdc-final306_dedomenico.pdf") makes for fascinating reading and shows that the real key to location technologies may not be where you currently are but may be much more about our predicability and daily routines for ourselves and our friends.
 
 Now that's interesting.
 
-Photo Credits: [misspixels](http://www.flickr.com/photos/misspixels/6139554835/ "http://www.flickr.com/photos/misspixels/6139554835/") on Flickr.
+Photo Credits: [misspixels](https://www.flickr.com/photos/misspixels/6139554835/ "https://www.flickr.com/photos/misspixels/6139554835/") on Flickr.
 
 
 

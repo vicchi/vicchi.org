@@ -15,7 +15,7 @@ Today's maps found on the interwebs. ![](https://cdn.theatlantic.com/assets/medi
 The first modern atlas was created in the late 16th century, and was called Theater of the World. It included more than 50 pages of maps of places around the world, which Dutch cartographer Abraham Ortelius likened to a stage where human life played out  
   
 
-Found at [http://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/](http://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/ "http://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/")
+Found at [https://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/](https://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/ "https://www.citylab.com/design/2016/09/mapping-how-shakespeare-saw-the-world/500786/")
 
 
 

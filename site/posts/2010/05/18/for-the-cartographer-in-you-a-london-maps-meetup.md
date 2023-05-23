@@ -16,17 +16,17 @@ It may have escaped your notice but London is [pretty much map mad](/2010/05/13/
 
 Which seems an apt and fitting time to organise an ad-hoc, impromptu, totally unofficial gathering of latent geographers, geo-wonks, map-nerds, professional cartographers and anyone else who likes maps.
 
-Fully intending to use the week off that I have between leaving my role in the Geo Technologies group of Yahoo! and starting my role as [***redacted***] with [***redacted***] in [***redacted***], I'm going to be going to the [Magnificent Maps: Power, Propaganda and Art exhibition at the British Library](http://www.bl.uk/whatson/exhibitions/magnificentmaps/ "http://www.bl.uk/whatson/exhibitions/magnificentmaps/") in the afternoon of Wednesday 2nd. June 2010, followed by a few geobeers in a local hostelry and a cheeky curry afterwards.
+Fully intending to use the week off that I have between leaving my role in the Geo Technologies group of Yahoo! and starting my role as [***redacted***] with [***redacted***] in [***redacted***], I'm going to be going to the [Magnificent Maps: Power, Propaganda and Art exhibition at the British Library](https://www.bl.uk/whatson/exhibitions/magnificentmaps/ "https://www.bl.uk/whatson/exhibitions/magnificentmaps/") in the afternoon of Wednesday 2nd. June 2010, followed by a few geobeers in a local hostelry and a cheeky curry afterwards.
 
 <!-- TEASER_END -->
 
-[![Relief map of old London](http://farm3.static.flickr.com/2629/3709279521_526e9367c6_d.jpg)](http://www.flickr.com/photos/mildlydiverting/3709279521/ "Relief map of old London")
+[![Relief map of old London](https://farm3.static.flickr.com/2629/3709279521_526e9367c6_d.jpg)](https://www.flickr.com/photos/mildlydiverting/3709279521/ "Relief map of old London")
 
-Anyone who would like to join me are more than welcome. I've created an [Upcoming event](http://upcoming.yahoo.com/event/5957204/LONDON/London/Unofficial-London-Maps-Meetup/British-Library/ "http://upcoming.yahoo.com/event/5957204/LONDON/London/Unofficial-London-Maps-Meetup/British-Library/") for those who'd like to sign up, if you don't have a Yahoo! id and don't want one, add your presence in the comments and if you don't want to do that then just turn up. See you all, however many of you there are, outside the main entrance of the British Library at 96 Euston Road, London NW1 2DB at 3.00 PM.
+Anyone who would like to join me are more than welcome. I've created an [Upcoming event](https://upcoming.yahoo.com/event/5957204/LONDON/London/Unofficial-London-Maps-Meetup/British-Library/ "https://upcoming.yahoo.com/event/5957204/LONDON/London/Unofficial-London-Maps-Meetup/British-Library/") for those who'd like to sign up, if you don't have a Yahoo! id and don't want one, add your presence in the comments and if you don't want to do that then just turn up. See you all, however many of you there are, outside the main entrance of the British Library at 96 Euston Road, London NW1 2DB at 3.00 PM.
 
-It'll probably be [geotastic](http://www.flickr.com/photos/vicchi/4616292644/ "http://www.flickr.com/photos/vicchi/4616292644/") you know.
+It'll probably be [geotastic](https://www.flickr.com/photos/vicchi/4616292644/ "https://www.flickr.com/photos/vicchi/4616292644/") you know.
 
 
-Photo Credits: [Mildly Diverting](http://www.flickr.com/photos/mildlydiverting/3709279521/ "http://www.flickr.com/photos/mildlydiverting/3709279521/") on Flickr.
+Photo Credits: [Mildly Diverting](https://www.flickr.com/photos/mildlydiverting/3709279521/ "https://www.flickr.com/photos/mildlydiverting/3709279521/") on Flickr.
 
 

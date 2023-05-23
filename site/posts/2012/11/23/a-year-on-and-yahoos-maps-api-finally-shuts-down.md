@@ -12,22 +12,22 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-Nothing on the interwebs is forever. Services start up and either become successful, get acquired or shut down. If they shut down they usually end up in TechCrunch's [deadpool](http://techcrunch.com/tags/deadpool/ "http://techcrunch.com/tags/deadpool/"). The same applies for APIs and when they finally go offline, they usually end up in the Programmable Web [deadpool](http://www.programmableweb.com/apitag/deadpool "http://www.programmableweb.com/apitag/deadpool").
+Nothing on the interwebs is forever. Services start up and either become successful, get acquired or shut down. If they shut down they usually end up in TechCrunch's [deadpool](https://techcrunch.com/tags/deadpool/ "https://techcrunch.com/tags/deadpool/"). The same applies for APIs and when they finally go offline, they usually end up in the Programmable Web [deadpool](https://www.programmableweb.com/apitag/deadpool "https://www.programmableweb.com/apitag/deadpool").
 
 [![YDN Maps Shutdown](/wp-content/uploads/2011/09/YDN-Maps-Shutdown.jpg)](/wp-content/uploads/2011/09/YDN-Maps.jpg "YDN Maps Shutdown")
 
-At around 1.30 PM London time yesterday, the Yahoo! Maps API got [added to the Programmable Web deadpool for good](http://www.programmableweb.com/api/yahoo-maps "http://www.programmableweb.com/api/yahoo-maps"). Despite the announcement [I wrote about last year](/2011/09/05/farewell-yahoo-maps-api-hello-nokia-maps-api/ "/2011/09/05/farewell-yahoo-maps-api-hello-nokia-maps-api/") that it was being shutdown on September 13, 2011, up until yesterday the API was very much alive and well and still serving up map tiles, markers and polylines via JavaScript.
+At around 1.30 PM London time yesterday, the Yahoo! Maps API got [added to the Programmable Web deadpool for good](https://www.programmableweb.com/api/yahoo-maps "https://www.programmableweb.com/api/yahoo-maps"). Despite the announcement [I wrote about last year](/2011/09/05/farewell-yahoo-maps-api-hello-nokia-maps-api/ "/2011/09/05/farewell-yahoo-maps-api-hello-nokia-maps-api/") that it was being shutdown on September 13, 2011, up until yesterday the API was very much alive and well and still serving up map tiles, markers and polylines via JavaScript.
 
 <!-- TEASER_END -->
 
-Yesterday I was running some tests on the latest pre-release version of [Mapstraction](http://mapstraction.com "http://mapstraction.com"), which still supported the Yahoo! Maps API and they were running without error all morning. Then they *stopped*. The API just wasn't there anymore.
+Yesterday I was running some tests on the latest pre-release version of [Mapstraction](https://mapstraction.com "https://mapstraction.com"), which still supported the Yahoo! Maps API and they were running without error all morning. Then they *stopped*. The API just wasn't there anymore.
 
-`$ wget http://api.maps.yahoo.com/ajaxymap?v=3.8&appid=(redacted)
+`$ wget https://api.maps.yahoo.com/ajaxymap?v=3.8&appid=(redacted)
 Resolving api.maps.yahoo.com... 98.139.25.243
 Connecting to api.maps.yahoo.com|98.139.25.243|:80... connected.
 HTTP request sent, awaiting response... 503 Service Unavailable`
 
-A quick look at the API's home on the web at [developer.yahoo.com/maps/ajax/](http://developer.yahoo.com/maps/ajax/ "http://developer.yahoo.com/maps/ajax/") shows an update to the previous shutting down message, with developers now being redirected to [developer.here.net](http://developer.here.net "http://developer.here.net"), the home of Nokia's new Here Maps API.
+A quick look at the API's home on the web at [developer.yahoo.com/maps/ajax/](https://developer.yahoo.com/maps/ajax/ "https://developer.yahoo.com/maps/ajax/") shows an update to the previous shutting down message, with developers now being redirected to [developer.here.net](https://developer.here.net "https://developer.here.net"), the home of Nokia's new Here Maps API.
 
 [![](/wp-content/uploads/2012/11/Yahoo-Maps.jpg "Yahoo! Maps")](/wp-content/uploads/2012/11/Yahoo-Maps.jpg "/wp-content/uploads/2012/11/Yahoo-Maps.jpg")
 

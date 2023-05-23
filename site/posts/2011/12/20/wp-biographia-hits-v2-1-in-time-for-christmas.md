@@ -12,13 +12,13 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-WP Biographia's always had the ability to suppress the display of the plugin's Biography Box for all users; unfortunately that's been accomplished by simply not installing the plugin. But judging from requests on the [WordPress forums](http://wordpress.org/tags/wp-biographia?forum_id=10 "http://wordpress.org/tags/wp-biographia?forum_id=10") as well as emails hitting my Inbox, suppressing the display of the Biography Box for some users ranks highest on the list of requested features.
+WP Biographia's always had the ability to suppress the display of the plugin's Biography Box for all users; unfortunately that's been accomplished by simply not installing the plugin. But judging from requests on the [WordPress forums](https://wordpress.org/tags/wp-biographia?forum_id=10 "https://wordpress.org/tags/wp-biographia?forum_id=10") as well as emails hitting my Inbox, suppressing the display of the Biography Box for some users ranks highest on the list of requested features.
 
-So it's good to be able to say that as of v2.1.1 of the plugin, you can now do this and v2.1.1 is now live and able to be [downloaded from GitHub](http://vicchi.github.com/wp-biographia/ "http://vicchi.github.com/wp-biographia/") as well as from within WordPress or via the [WordPress plugin repository](http://wordpress.org/extend/plugins/wp-biographia/ "http://wordpress.org/extend/plugins/wp-biographia/").
+So it's good to be able to say that as of v2.1.1 of the plugin, you can now do this and v2.1.1 is now live and able to be [downloaded from GitHub](https://vicchi.github.com/wp-biographia/ "https://vicchi.github.com/wp-biographia/") as well as from within WordPress or via the [WordPress plugin repository](https://wordpress.org/extend/plugins/wp-biographia/ "https://wordpress.org/extend/plugins/wp-biographia/").
 
 <!-- TEASER_END -->
 
-[![New!](/wp-content/uploads/2011/12/2555713988_829f712017.jpg "New!")](http://www.flickr.com/photos/samd/2555713988/ "http://www.flickr.com/photos/samd/2555713988/")
+[![New!](/wp-content/uploads/2011/12/2555713988_829f712017.jpg "New!")](https://www.flickr.com/photos/samd/2555713988/ "https://www.flickr.com/photos/samd/2555713988/")
 
 As well as supporting the latest v3.3 version of the WordPress core, the complete list of changes for this latest version of the plugin is ...
 
@@ -33,6 +33,6 @@ As well as supporting the latest v3.3 version of the WordPress core, the complet
 
 
 As always, the [WP Biographia home page](/pages/codeage/wp-biographia/ "/pages/codeage/wp-biographia/") has the full details. Consider this, if you will, an early visit from Santa. What's next for the plugin? Internationalisation is probably on the cards as well as converting the plugin to use classes and not a simple set of WordPress PHP functions; but all of that will have to wait until after the Holiday season.
-Photo Credits: [Sam. D.](http://www.flickr.com/photos/samd/2555713988/ "http://www.flickr.com/photos/samd/2555713988/") on Flickr.
+Photo Credits: [Sam. D.](https://www.flickr.com/photos/samd/2555713988/ "https://www.flickr.com/photos/samd/2555713988/") on Flickr.
 
 

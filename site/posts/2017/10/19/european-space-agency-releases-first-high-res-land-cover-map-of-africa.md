@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2zB7y3s)  
+Today's maps found on the interwebs. ![](https://ift.tt/2zB7y3s)  
   
 
   
   
 
-Found at [http://ift.tt/2xOHYpg](http://ift.tt/2xOHYpg "http://ift.tt/2xOHYpg")
+Found at [https://ift.tt/2xOHYpg](https://ift.tt/2xOHYpg "https://ift.tt/2xOHYpg")
 
 
 

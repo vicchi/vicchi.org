@@ -12,7 +12,7 @@ geo_place: Harris+Hoole, King Street, Twickenham
 geo_lng: -0.32866
 geo_lat: 51.44619
 
-It's the mid-1920's and you're in a plane trying to navigate your way across the vastness of the United States. GPS hasn't been invented yet. <a href="http://en.wikipedia.org/wiki/VHF_omnidirectional_range" target="_blank">VHF Omni Directional Radio Range</a>, shortened to VOR, hasn't been invented yet. <a href="http://en.wikipedia.org/wiki/Low_Frequency_Radio_Range" target="_blank">LFR, or Low Frequency Radio Range</a>, hasn't been invented yet. How do you hope to stay on course?
+It's the mid-1920's and you're in a plane trying to navigate your way across the vastness of the United States. GPS hasn't been invented yet. <a href="https://en.wikipedia.org/wiki/VHF_omnidirectional_range" target="_blank">VHF Omni Directional Radio Range</a>, shortened to VOR, hasn't been invented yet. <a href="https://en.wikipedia.org/wiki/Low_Frequency_Radio_Range" target="_blank">LFR, or Low Frequency Radio Range</a>, hasn't been invented yet. How do you hope to stay on course?
 
 As a pilot you'd have a compass, an altimeter and maybe a map of the railway system to help you navigate and this is just what pilots did from 1918 when the U.S. Postal Service introduced the U.S. Air Mail system. But you needed one critical thing to help you navigate, one thing that wasn't available 24 hours a day. You needed *daylight*.
 
@@ -22,7 +22,7 @@ In 1921, an experimental night flight was successfully completed using the cleve
 
 [![airway-beacon](/wp-content/uploads/2013/11/airway-beacon.jpg)](/wp-content/uploads/2013/11/airway-beacon.jpg "/wp-content/uploads/2013/11/airway-beacon.jpg")
 
-Having proved that a regular, day and night, postal service was possible, starting in 1923 a system of [beacons](http://en.wikipedia.org/wiki/Airway_beacon "http://en.wikipedia.org/wiki/Airway_beacon") were built across the United States. Each beacon was a 51 foot tall tower, one every 10 miles, with a massive rotating lamp on top that could be seen up to 40 miles away. Additional lights of differing colours pointed the two directions of the route and another light flashed out the beacon's identifier, in Morse code.
+Having proved that a regular, day and night, postal service was possible, starting in 1923 a system of [beacons](https://en.wikipedia.org/wiki/Airway_beacon "https://en.wikipedia.org/wiki/Airway_beacon") were built across the United States. Each beacon was a 51 foot tall tower, one every 10 miles, with a massive rotating lamp on top that could be seen up to 40 miles away. Additional lights of differing colours pointed the two directions of the route and another light flashed out the beacon's identifier, in Morse code.
 
 [![air-beacon-shelbyville](/wp-content/uploads/2013/11/air-beacon-shelbyville.png)](https://maps.google.com/maps?q=39.576757,+-85.799653&hl=en&ll=39.576755,-85.799655&spn=0.003419,0.004866&sll=39.577045,-85.800133&sspn=0.00171,0.002433&t=h&z=18 "https://maps.google.com/maps?q=39.576757,+-85.799653&hl=en&ll=39.576755,-85.799655&spn=0.003419,0.004866&sll=39.577045,-85.800133&sspn=0.00171,0.002433&t=h&z=18")
 
@@ -38,6 +38,6 @@ There's an oddly pleasing sense of continuity that a navigation aid from the pre
 
 
 
-Air beacon courtesy of the [United States Federal Aviation Administration](http://www.faa.gov/ "http://www.faa.gov/"), map imagery courtesy of [Google Maps](http://maps.google.com "http://maps.google.com").
+Air beacon courtesy of the [United States Federal Aviation Administration](https://www.faa.gov/ "https://www.faa.gov/"), map imagery courtesy of [Google Maps](https://maps.google.com "https://maps.google.com").
 
 

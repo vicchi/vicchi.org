@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-In January of 2014, Atanas Entchev from GeoHipster asked me to make [some predictions](http://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/ "http://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/") about where the maps, location and geo industry would go during the course of the year. That year has now passed, so I think it's time to revisit those predictions and see how inaccurate my crystal ball gazing really was.
+In January of 2014, Atanas Entchev from GeoHipster asked me to make [some predictions](https://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/ "https://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/") about where the maps, location and geo industry would go during the course of the year. That year has now passed, so I think it's time to revisit those predictions and see how inaccurate my crystal ball gazing really was.
 
 <!-- TEASER_END -->
 
@@ -24,7 +24,7 @@ A successful prediction for vector maps I think. Yes, vectors are behind almost 
 
 
 
-If I'm feeling generous, I consider this a partial success. While MapQuest is still very much alive and kicking, over in the mobile world Samsung is a fully paid up member of *the enemy of my enemy is my friend* school of thought and in September 2014 [joined forces](http://www.theverge.com/2014/8/29/6082067/samsung-navigates-away-from-google-with-here-maps-for-galaxy-phones "http://www.theverge.com/2014/8/29/6082067/samsung-navigates-away-from-google-with-here-maps-for-galaxy-phones") with HERE Maps to try and show that maps on an Android phone don't have to be Google's maps.
+If I'm feeling generous, I consider this a partial success. While MapQuest is still very much alive and kicking, over in the mobile world Samsung is a fully paid up member of *the enemy of my enemy is my friend* school of thought and in September 2014 [joined forces](https://www.theverge.com/2014/8/29/6082067/samsung-navigates-away-from-google-with-here-maps-for-galaxy-phones "https://www.theverge.com/2014/8/29/6082067/samsung-navigates-away-from-google-with-here-maps-for-galaxy-phones") with HERE Maps to try and show that maps on an Android phone don't have to be Google's maps.
 
 
 > We’re already seeing the stratification of the geo industry. We already have data-as-a-service (think Open Cage Data and GeoFabrik) and maps-as-a-service (hello MapBox). Next up will be imagery-as-a-service as companies such as Planet Labs and Skybox Imaging disrupt Digital Globe’s imaging hegemony.

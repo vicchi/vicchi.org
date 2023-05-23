@@ -20,7 +20,7 @@ The planet we live on is one giant magnet, with poles that roughly align with th
 
 [![upside-down-map](/wp-content/uploads/2013/11/upside-down-map.jpg)](/wp-content/uploads/2013/11/upside-down-map.jpg "/wp-content/uploads/2013/11/upside-down-map.jpg")
 
-From examining the magnetic patterns in rock, scientists have calculated that the process of [*geomagnetic reversal*](http://en.wikipedia.org/wiki/Geomagnetic_reversal "http://en.wikipedia.org/wiki/Geomagnetic_reversal") has happened more times than you'd think, almost 20 times in the course of our planet's history and they estimate this will happen again. But probably not for another 2000 or so years so you won't need this map just yet.
+From examining the magnetic patterns in rock, scientists have calculated that the process of [*geomagnetic reversal*](https://en.wikipedia.org/wiki/Geomagnetic_reversal "https://en.wikipedia.org/wiki/Geomagnetic_reversal") has happened more times than you'd think, almost 20 times in the course of our planet's history and they estimate this will happen again. But probably not for another 2000 or so years so you won't need this map just yet.
 
 On a shorter timescale, you might need these next maps a bit sooner. You don't need to be a scientist to know that our planet is slowly but surely warming and the polar ice caps aren't as big as they were. But what would the map of the world look like if all the polar ice melted? In Europe a lot of familiar cities would go the way of Atlantis; London, Venice, Amsterdam and Copenhagen would all vanish slowly under the rising seas.
 
@@ -34,6 +34,6 @@ Whatever your views on the topic of climate change, these National Geographic ma
 
 
 
-Map credits: [Amazing Maps](https://twitter.com/Amazing_Maps/status/378928430769000449/ "https://twitter.com/Amazing_Maps/status/378928430769000449/") and [National Geographic](http://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map "http://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map")
+Map credits: [Amazing Maps](https://twitter.com/Amazing_Maps/status/378928430769000449/ "https://twitter.com/Amazing_Maps/status/378928430769000449/") and [National Geographic](https://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map "https://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map")
 
 

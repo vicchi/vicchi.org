@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2pyqNZm)  
+Today's maps found on the interwebs. ![](https://ift.tt/2pyqNZm)  
   
 
 One of the weirdest places in Antarctica is Blood Falls, a five-story cascade of blood-red liquid pouring from Taylor Glacier. Researchers finally traced its source: a saltwater lake millions of years old trapped under the glacier.  
   
 
-Found at [http://ift.tt/2pytf23](http://ift.tt/2pytf23 "http://ift.tt/2pytf23")
+Found at [https://ift.tt/2pytf23](https://ift.tt/2pytf23 "https://ift.tt/2pytf23")
 
 
 

@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 More than 40 different map dealers from across the globe came to Miami recently to display their antique maps, charts, town plans and atlases.  
   
 
-Found at [http://ift.tt/2lz1twR](http://ift.tt/2lz1twR "http://ift.tt/2lz1twR")
+Found at [https://ift.tt/2lz1twR](https://ift.tt/2lz1twR "https://ift.tt/2lz1twR")
 
 
 

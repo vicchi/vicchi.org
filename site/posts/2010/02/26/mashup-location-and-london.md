@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Last night I was at [LBi](http://www.lbi.co.uk/ "http://www.lbi.co.uk/") in the old [Truman Brewery](http://www.trumanbrewery.com/ "http://www.trumanbrewery.com/") on London's Brick Lane for Mashup's [Location ... It's Moving On](http://www.mashupevent.com/location-event "http://www.mashupevent.com/location-event"). I've spoken at a Mashup event [once](http://www.slideshare.net/vicchi/mashup-location-privacy-where-i-am-and-why-its-ok-to-lie-about-this "http://www.slideshare.net/vicchi/mashup-location-privacy-where-i-am-and-why-its-ok-to-lie-about-this") or [twice](http://www.slideshare.net/vicchi/mashup-being-digital-open-location "http://www.slideshare.net/vicchi/mashup-being-digital-open-location") before but this time the organising team threw caution to the wind and asked me to chair the panel discussion.
+Last night I was at [LBi](https://www.lbi.co.uk/ "https://www.lbi.co.uk/") in the old [Truman Brewery](https://www.trumanbrewery.com/ "https://www.trumanbrewery.com/") on London's Brick Lane for Mashup's [Location ... It's Moving On](https://www.mashupevent.com/location-event "https://www.mashupevent.com/location-event"). I've spoken at a Mashup event [once](https://www.slideshare.net/vicchi/mashup-location-privacy-where-i-am-and-why-its-ok-to-lie-about-this "https://www.slideshare.net/vicchi/mashup-location-privacy-where-i-am-and-why-its-ok-to-lie-about-this") or [twice](https://www.slideshare.net/vicchi/mashup-being-digital-open-location "https://www.slideshare.net/vicchi/mashup-being-digital-open-location") before but this time the organising team threw caution to the wind and asked me to chair the panel discussion.
 
 Prior to kicking the panel discussion off, I attempted to gently suggest some topics to my fellow panelists that we might want to discuss.
 
@@ -25,9 +25,9 @@ We started off with a quick review of my [Theory of Stuff](/2010/02/01/the-theor
 
 <!-- TEASER_END -->
 
-I was then joined by [Chris Osborne](http://twitter.com/osbornec "http://twitter.com/osbornec") (#geomob and Ito World), [Alex Housely](http://twitter.com/ahousley "http://twitter.com/ahousley") (Rummble), Jon Fisher (Vodafone), [David Glennie](http://twitter.com/migcan "http://twitter.com/migcan") (MIG) and [Alan Patrick](http://twitter.com/freecloud "http://twitter.com/freecloud") (Broadsight) for an hour's worth of lively, animated, opinionated and occasionally profane panel discussion, making the job of ring-mastering all the more challenging and a whole lot of fun at the same time.
+I was then joined by [Chris Osborne](https://twitter.com/osbornec "https://twitter.com/osbornec") (#geomob and Ito World), [Alex Housely](https://twitter.com/ahousley "https://twitter.com/ahousley") (Rummble), Jon Fisher (Vodafone), [David Glennie](https://twitter.com/migcan "https://twitter.com/migcan") (MIG) and [Alan Patrick](https://twitter.com/freecloud "https://twitter.com/freecloud") (Broadsight) for an hour's worth of lively, animated, opinionated and occasionally profane panel discussion, making the job of ring-mastering all the more challenging and a whole lot of fun at the same time.
 
-[![The #mashupevent audience look on from the bowels of Brick Lane](http://farm5.static.flickr.com/4010/4387374829_b73e0b9bec.jpg)](http://www.flickr.com/photos/vicchi/4387374829/ "The #mashupevent audience look on from the bowels of Brick Lane")
+[![The #mashupevent audience look on from the bowels of Brick Lane](https://farm5.static.flickr.com/4010/4387374829_b73e0b9bec.jpg)](https://www.flickr.com/photos/vicchi/4387374829/ "The #mashupevent audience look on from the bowels of Brick Lane")
 
 The audience chimed in with a variety of questions, some pointed, some speculative and some downright rambling before we retired to the bar and then out to sample one of Brick Lane's finest curry houses; it's a shame we didn't find one of the finest but a decent post event wind down took place anyway in the basement of an establishment which had "Spice" in the name. I think.
 
@@ -38,8 +38,8 @@ Update: 1 March 2010
 --------------------
 
 
-It seems that the topic of the Mashup\* event and the buzz of publicity that the team created on social media streams, including [Twitter](http://www.slideshare.net/ "http://www.slideshare.net/"), were sufficient to get my introductory deck onto the [Featured Presentations & Documents](http://www.slideshare.net/featured "http://www.slideshare.net/featured") section of the [SlideShare](http://www.slideshare.net/ "http://www.slideshare.net/") home page.
+It seems that the topic of the Mashup\* event and the buzz of publicity that the team created on social media streams, including [Twitter](https://www.slideshare.net/ "https://www.slideshare.net/"), were sufficient to get my introductory deck onto the [Featured Presentations & Documents](https://www.slideshare.net/featured "https://www.slideshare.net/featured") section of the [SlideShare](https://www.slideshare.net/ "https://www.slideshare.net/") home page.
 
-[![SlideShare Home Page](http://farm3.static.flickr.com/2681/4397432161_3886d2fb86.jpg)](http://www.flickr.com/photos/vicchi/4397432161/ "SlideShare Home Page")
+[![SlideShare Home Page](https://farm3.static.flickr.com/2681/4397432161_3886d2fb86.jpg)](https://www.flickr.com/photos/vicchi/4397432161/ "SlideShare Home Page")
 Updated and posted from the Yahoo! London office (51.5141985, -0.1292006)
 

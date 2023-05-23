@@ -20,7 +20,7 @@ But on a Mercator map it doesn't appear so; both Greenland and Africa look to be
 
 <!-- TEASER_END -->
 
-[![The Mercator Projection](/wp-content/uploads/2013/01/707px-Mercator_projection_SW.jpg)](http://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg "http://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg")
+[![The Mercator Projection](/wp-content/uploads/2013/01/707px-Mercator_projection_SW.jpg)](https://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg "https://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg")
 
 A really effective way to show this distortion in action is the [Mercator Puzzle](https://gmaps-samples.googlecode.com/svn/trunk/poly/puzzledrag.html "https://gmaps-samples.googlecode.com/svn/trunk/poly/puzzledrag.html") by Luke Mahe of the Google Maps Developer Relations Team. Drag and drop the red shapes, which represent countries, around the map; watch them shrink as you near the Equator and expand and distort as you move towards the poles.
 
@@ -30,6 +30,6 @@ It's a nice geographical puzzle and an equally nice way of showing Mercator in a
 
 
 
-Picture Credits: [Mercator Map](http://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg "http://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg") Wikimedia Commons, CC-BY-SA 3.0.
+Picture Credits: [Mercator Map](https://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg "https://en.wikipedia.org/wiki/File:Mercator_projection_SW.jpg") Wikimedia Commons, CC-BY-SA 3.0.
 
 

@@ -12,9 +12,9 @@ geo_place: the BA Lounge, Terminal 5, London Heathrow
 geo_lng: -0.485936
 geo_lat: 51.469935
 
-I'm currently on my way to California, the Yahoo! mothership in Sunnyvale and the Where 2.0 conference in San Jose, where I'll be talking abo[ut Ubiquitous Location, The New Frontier and Hyperlocal Nirvana](http://en.oreilly.com/where2010/public/schedule/detail/13234 "http://en.oreilly.com/where2010/public/schedule/detail/13234") on Wednesday, March 31st. From doing some background research while waiting for my plane, it looks like my talk is going to be changing somewhat from the original plan. If you're going to be at Where 2.0, please pop over to the Yahoo! booth and say hello and meet the Geo Technologies and Yahoo! Developer Network teams.
+I'm currently on my way to California, the Yahoo! mothership in Sunnyvale and the Where 2.0 conference in San Jose, where I'll be talking abo[ut Ubiquitous Location, The New Frontier and Hyperlocal Nirvana](https://en.oreilly.com/where2010/public/schedule/detail/13234 "https://en.oreilly.com/where2010/public/schedule/detail/13234") on Wednesday, March 31st. From doing some background research while waiting for my plane, it looks like my talk is going to be changing somewhat from the original plan. If you're going to be at Where 2.0, please pop over to the Yahoo! booth and say hello and meet the Geo Technologies and Yahoo! Developer Network teams.
 
-[![The Long Tail - Review Copy](http://farm1.static.flickr.com/56/181120172_1e2efa1f1a_d.jpg)](http://www.flickr.com/photos/jason_coleman/181120172/ "The Long Tail - Review Copy")
+[![The Long Tail - Review Copy](https://farm1.static.flickr.com/56/181120172_1e2efa1f1a_d.jpg)](https://www.flickr.com/photos/jason_coleman/181120172/ "The Long Tail - Review Copy")
 
 I'll be writing up a fuller version of my talk once it's complete and once it's actually written but for now, here's the published abstract.
 
@@ -28,6 +28,6 @@ I'll be writing up a fuller version of my talk once it's complete and once it's 
 > This talk looks at the business, social, and technological hurdles that are now being addressed or that still need to be overcome in order to reach the long-promised hyperlocal nirvana.
 
 
-Photo Credits: [super-structure](http://www.flickr.com/photos/jason_coleman/181120172/ "http://www.flickr.com/photos/jason_coleman/181120172/") on Flickr.
+Photo Credits: [super-structure](https://www.flickr.com/photos/jason_coleman/181120172/ "https://www.flickr.com/photos/jason_coleman/181120172/") on Flickr.
 
 

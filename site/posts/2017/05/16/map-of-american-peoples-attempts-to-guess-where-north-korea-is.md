@@ -12,7 +12,7 @@ status: published
 Today's maps found on the interwebs. ![](/wp-content/uploads/2017/05/north-korea.jpg)e North Korea is are more like to favor diplomacy over war in dealing with its regime. Unfortunately, few Americans know where North Korea is.  
   
 
-Found at [http://ift.tt/2r8E3nU](http://ift.tt/2r8E3nU "http://ift.tt/2r8E3nU")
+Found at [https://ift.tt/2r8E3nU](https://ift.tt/2r8E3nU "https://ift.tt/2r8E3nU")
 
 
 

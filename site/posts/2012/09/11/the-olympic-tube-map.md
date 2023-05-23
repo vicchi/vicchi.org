@@ -18,7 +18,7 @@ In case you hadn't noticed, London hosted the 2012 Olympic Games a few weeks ago
 
 [![](/wp-content/uploads/2012/09/Olympic-Tube-Map.jpg "Olympic Legends Tube Map")](/wp-content/uploads/2012/09/Olympic-Tube-Map.jpg "/wp-content/uploads/2012/09/Olympic-Tube-Map.jpg")
 
-Hop over to the Transport for London web site and for between £3.99 and £49.00, the [Olympic Legends Tube Map](http://shop.tfl.gov.uk/design-collections/underground-olympic-legends-map.html "http://shop.tfl.gov.uk/design-collections/underground-olympic-legends-map.html") can be yours. I certainly want one. Huge amounts of kudos go to my darling wife for spotting this in the first place.
+Hop over to the Transport for London web site and for between £3.99 and £49.00, the [Olympic Legends Tube Map](https://shop.tfl.gov.uk/design-collections/underground-olympic-legends-map.html "https://shop.tfl.gov.uk/design-collections/underground-olympic-legends-map.html") can be yours. I certainly want one. Huge amounts of kudos go to my darling wife for spotting this in the first place.
 
 
 

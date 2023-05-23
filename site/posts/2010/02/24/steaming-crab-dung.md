@@ -11,7 +11,7 @@ status: published
 
 Yes I know it's short for Dungeness Crab (Steamed) but that's not what it says on the receipt is it?
 
-[![Steaming Crab Dung?](http://farm3.static.flickr.com/2426/4383806287_249f53c63c.jpg)](http://www.flickr.com/photos/vicchi/4383806287/ "Steaming Crab Dung?")
+[![Steaming Crab Dung?](https://farm3.static.flickr.com/2426/4383806287_249f53c63c.jpg)](https://www.flickr.com/photos/vicchi/4383806287/ "Steaming Crab Dung?")
 I feel sorry for the sole pan fried Monk as well ...
 
 

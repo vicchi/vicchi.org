@@ -24,9 +24,9 @@ I've participated in conferences which exemplify both ends of the spectrum and p
 
 <!-- TEASER_END -->
 
-This was very much the case earlier this year with [WhereCamp EU in Berlin](http://wherecamp.eu "http://wherecamp.eu") and it will be very much the case, and hopefully even more so, at W3G in Nottingham in just under a month's time.
+This was very much the case earlier this year with [WhereCamp EU in Berlin](https://wherecamp.eu "https://wherecamp.eu") and it will be very much the case, and hopefully even more so, at W3G in Nottingham in just under a month's time.
 
-After last year's first tentative steps, [W3G](http://w3gconf.com "http://w3gconf.com") is back, a little bit older, a little bit wiser and a whole lot more provocative under the banner of “*Because There's More to Geo than Just Maps and Check-Ins*”  
+After last year's first tentative steps, [W3G](https://w3gconf.com "https://w3gconf.com") is back, a little bit older, a little bit wiser and a whole lot more provocative under the banner of “*Because There's More to Geo than Just Maps and Check-Ins*”  
    
 We all know that there is more to geospatial information than just ‘check-ins’. We all know that the free Web 2.0 map services offered are generally little more than ‘push-pin’ maps.
 
@@ -38,7 +38,7 @@ But to avoid being merely a lecture, a debate has to be a two way thing and to b
 
 And, as it's an unconference, W3G needs you.
 
-So head over to the [official W3G web site](http://w3gconf.com "http://w3gconf.com") and start the debate and the dialog. Suggest session topics or even start the unconference wall with a pledge to do a talk, moderate a discussion, or put together some slides.
+So head over to the [official W3G web site](https://w3gconf.com "https://w3gconf.com") and start the debate and the dialog. Suggest session topics or even start the unconference wall with a pledge to do a talk, moderate a discussion, or put together some slides.
 
 If you've even been to an unconference, even one without a Geo flavour, then I hope you'll agree that to Geo debate is far far more fun than to merely Geo lecture.
 

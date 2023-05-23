@@ -14,13 +14,13 @@ geo_lat: 51.427051
 
 If you live in a city for any period of time, you form a mental image of what quantifies certain areas or neighbourhoods. If someone mentions, say, <em>posh</em> London, I instantly think of the area around Mayfair and Knightsbridge. But you could put this personal and biased view on a map?
 
-It turns out Yelp has done just that, producing a heat map of my home city of all the reviews that mention [*posh*](http://www.yelp.com/wordmap/london/posh "http://www.yelp.com/wordmap/london/posh"). It looks pretty much as I'd imagine.
+It turns out Yelp has done just that, producing a heat map of my home city of all the reviews that mention [*posh*](https://www.yelp.com/wordmap/london/posh "https://www.yelp.com/wordmap/london/posh"). It looks pretty much as I'd imagine.
 
 <!-- TEASER_END -->
 
 [![london-yelp-map-posh](/wp-content/uploads/2013/07/london-yelp-map-posh-1024x760.png)](/wp-content/uploads/2013/07/london-yelp-map-posh.png "/wp-content/uploads/2013/07/london-yelp-map-posh.png")
 
-The same applies for the term [*hipster*](http://www.yelp.com/wordmap/london/hipster "http://www.yelp.com/wordmap/london/hipster"). I'd immediately associate the area around Hoxton and Old Street (AKA Silicon Roundabout) with all things hipsterish. As it turns out, so do Yelp's reviewers.
+The same applies for the term [*hipster*](https://www.yelp.com/wordmap/london/hipster "https://www.yelp.com/wordmap/london/hipster"). I'd immediately associate the area around Hoxton and Old Street (AKA Silicon Roundabout) with all things hipsterish. As it turns out, so do Yelp's reviewers.
 
 [![london-yelp-map-hipster](/wp-content/uploads/2013/07/london-yelp-map-hipster-1024x760.png)](/wp-content/uploads/2013/07/london-yelp-map-hipster.png "/wp-content/uploads/2013/07/london-yelp-map-hipster.png")
 

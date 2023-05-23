@@ -11,9 +11,9 @@ status: published
 
 
 Once again, this is not the post I set out to write. The one I set out to write was called "In Search of Location's Sweet Spot" and it's sitting in draft and not yet posted. That's because before I can submit that post I need to write this one as a warm up act.
-Just like [Anne Elk (Miss)](http://en.wikipedia.org/wiki/Anne_Elk's_Theory_on_Brontosauruses "http://en.wikipedia.org/wiki/Anne_Elk's_Theory_on_Brontosauruses"), [I have a theory](http://www.youtube.com/watch?v=cAYDiPizDIs "http://www.youtube.com/watch?v=cAYDiPizDIs"). I call it my Theory of Stuff. I'm sure that other people, far more learned and erudite than I, have articulated such a theory but I've yet to come across any evidence for this and for now at least, it remains mine and it contains three buckets, looking something like this:
+Just like [Anne Elk (Miss)](https://en.wikipedia.org/wiki/Anne_Elk's_Theory_on_Brontosauruses "https://en.wikipedia.org/wiki/Anne_Elk's_Theory_on_Brontosauruses"), [I have a theory](https://www.youtube.com/watch?v=cAYDiPizDIs "https://www.youtube.com/watch?v=cAYDiPizDIs"). I call it my Theory of Stuff. I'm sure that other people, far more learned and erudite than I, have articulated such a theory but I've yet to come across any evidence for this and for now at least, it remains mine and it contains three buckets, looking something like this:
 
-![](http://posterous.com/getfile/files.posterous.com/vicchi/UolSoSxekvSjetTGAENeI9jhr2ndi70okNpgTzGpEGi31inoUu7RvYB3yHWv/The_Theory_of_Stuff.png.scaled.500.jpg)
+![](https://posterous.com/getfile/files.posterous.com/vicchi/UolSoSxekvSjetTGAENeI9jhr2ndi70okNpgTzGpEGi31inoUu7RvYB3yHWv/The_Theory_of_Stuff.png.scaled.500.jpg)
 
 <!-- TEASER_END -->
 
@@ -30,7 +30,7 @@ And then in the middle we have the *secret sauce* bucket. Again, it doesn't matt
 In order for your business to succeed, you need to have all three of these buckets in place. Have people and secret sauce but no stuff? Fail. Have stuff and secret sauce but no people? Fail. You get the idea.
 Take a look at every business that is succeeding, especially those that are online and where the stuff bucket contains data, and you'll see that they have all three buckets in place. Take a look at those businesses which have failed or are failing, especially those that are online, and you either see one bucket missing or there's just not enough of it.
 Written and posted from home (51.427051, -0.333344)
-[Posted via email](http://posterous.com "http://posterous.com") from [Gary's Posterous](http://vicchi.posterous.com/the-theory-of-stuff "http://vicchi.posterous.com/the-theory-of-stuff")
+[Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/the-theory-of-stuff "https://vicchi.posterous.com/the-theory-of-stuff")
 
 
 

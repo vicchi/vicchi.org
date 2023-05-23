@@ -19,13 +19,13 @@ I live in what used to be the rather grandly named Municipal Borough of Twickenh
 
 But traces of the old borough still exist, if you keep your eyes open. Almost all of the old street signs still exist, with the old Borough of Twickenham wording carefully painted out, by the man from the council with a tin of council issued standard white paint. Almost 45 years later, those same street signs are still there, but they're starting to show their age and the paint is peeling in places, peeling back the years as an added bonus.
 
-[![Lost London: The Borough of Twickenham](http://farm5.static.flickr.com/4060/4604163424_5d40fd9341_d.jpg)](http://www.flickr.com/photos/vicchi/4604163424/ "Lost London: The Borough of Twickenham")
+[![Lost London: The Borough of Twickenham](https://farm5.static.flickr.com/4060/4604163424_5d40fd9341_d.jpg)](https://www.flickr.com/photos/vicchi/4604163424/ "Lost London: The Borough of Twickenham")
 
-The Borough of Twickenham wasn't the only thing to vanish overnight in 1965, so did the [County of Middlesex](http://en.wikipedia.org/wiki/Middlesex "http://en.wikipedia.org/wiki/Middlesex"), of which Twickenham was a part. Middlesex however lives on, both as an informal name and as a [postal county](http://en.wikipedia.org/wiki/Postal_counties_of_the_United_Kingdom "http://en.wikipedia.org/wiki/Postal_counties_of_the_United_Kingdom") and again, traces of the lost county still exist, if you know where to look.
+The Borough of Twickenham wasn't the only thing to vanish overnight in 1965, so did the [County of Middlesex](https://en.wikipedia.org/wiki/Middlesex "https://en.wikipedia.org/wiki/Middlesex"), of which Twickenham was a part. Middlesex however lives on, both as an informal name and as a [postal county](https://en.wikipedia.org/wiki/Postal_counties_of_the_United_Kingdom "https://en.wikipedia.org/wiki/Postal_counties_of_the_United_Kingdom") and again, traces of the lost county still exist, if you know where to look.
 
-[![County of Middlesex sign](http://farm4.static.flickr.com/3211/3076255425_c307ffe332_d.jpg)](http://www.flickr.com/photos/inteawetrust/3076255425/ "County of Middlesex sign")
+[![County of Middlesex sign](https://farm4.static.flickr.com/3211/3076255425_c307ffe332_d.jpg)](https://www.flickr.com/photos/inteawetrust/3076255425/ "County of Middlesex sign")
 
 
-Photo Credits: [Gary Gale](http://www.flickr.com/photos/vicchi/4604163424/ "http://www.flickr.com/photos/vicchi/4604163424/") and [In Tea We Trust](http://www.flickr.com/photos/inteawetrust/3076255425/ "http://www.flickr.com/photos/inteawetrust/3076255425/") on Flickr.
+Photo Credits: [Gary Gale](https://www.flickr.com/photos/vicchi/4604163424/ "https://www.flickr.com/photos/vicchi/4604163424/") and [In Tea We Trust](https://www.flickr.com/photos/inteawetrust/3076255425/ "https://www.flickr.com/photos/inteawetrust/3076255425/") on Flickr.
 Written at the Radisson Blu hotel, Berlin (52.519648, 13.40258) and posted from the Nokia gate5 office in Berlin (52.53105, 13.38521)
 

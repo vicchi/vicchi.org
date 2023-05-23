@@ -18,7 +18,7 @@ For them to do this, the barriers to entry have to be very low. Ask a user for t
 
 <!-- TEASER_END -->
 
-Nowhere is this more evident than in the [Foursquare entry for the BCS](http://foursquare.com/venue/1023691 "http://foursquare.com/venue/1023691") itself. According to the [BCS website](http://www.bcs.org/server.php?show=nav.8401 "http://www.bcs.org/server.php?show=nav.8401"), the London HQ of the UK's Chartered Institude for IT is at *The Davidson Building, 5 Southampton Street, London, WC2E 7HA*. Now compare that to Foursquare, which lists *BCS HQ LONDON as 5 south hompton road, The strand, london, london uk*. Complete with interesting use of capitalisation. That's the first problem.
+Nowhere is this more evident than in the [Foursquare entry for the BCS](https://foursquare.com/venue/1023691 "https://foursquare.com/venue/1023691") itself. According to the [BCS website](https://www.bcs.org/server.php?show=nav.8401 "https://www.bcs.org/server.php?show=nav.8401"), the London HQ of the UK's Chartered Institude for IT is at *The Davidson Building, 5 Southampton Street, London, WC2E 7HA*. Now compare that to Foursquare, which lists *BCS HQ LONDON as 5 south hompton road, The strand, london, london uk*. Complete with interesting use of capitalisation. That's the first problem.
 
 [![](/wp-content/uploads/2010/10/BCS-Foursquare-Incorrect.jpg "The BCS On Foursquare Take 1")](/wp-content/uploads/2010/10/BCS-Foursquare-Incorrect.jpg "/wp-content/uploads/2010/10/BCS-Foursquare-Incorrect.jpg")
 
@@ -26,13 +26,13 @@ Foursquare helpfully shows this on a map but evidently uses the provided address
 
 [![](/wp-content/uploads/2010/10/Google-Disambiguation.jpg "Google Disambiguation")](/wp-content/uploads/2010/10/Google-Disambiguation.jpg "/wp-content/uploads/2010/10/Google-Disambiguation.jpg")
 
-But there's also more than one entry in [Foursquare for the BCS in London](http://foursquare.com/venue/206285 "http://foursquare.com/venue/206285") which highlights the third problem; large amounts of duplicate Places created by users either unwilling to search too closely for an existing Place or who are trying to subvert the gaming aspect to social location apps in order to gain points or recognition in the community for number of Places created, number of Mayorships gained and so on.
+But there's also more than one entry in [Foursquare for the BCS in London](https://foursquare.com/venue/206285 "https://foursquare.com/venue/206285") which highlights the third problem; large amounts of duplicate Places created by users either unwilling to search too closely for an existing Place or who are trying to subvert the gaming aspect to social location apps in order to gain points or recognition in the community for number of Places created, number of Mayorships gained and so on.
 
 [![](/wp-content/uploads/2010/10/BCS-Foursquare-Correct.jpg "BCS Foursquare Correct")](/wp-content/uploads/2010/10/BCS-Foursquare-Correct.jpg "/wp-content/uploads/2010/10/BCS-Foursquare-Correct.jpg")
 
 Quantity? Yes. Quality? Sadly no. Foursquare are reliant on their user community to clear up their data and as this example shows, that's not always an effective strategy. As an industry we may be building a massive Place based view of the world but we've a long way to go before we can rely on data produced in this manner.
 
-A geographic nod of the hat must go to [Harry Wood](http://twitter.com/#!/harry_wood/statuses/27226371393 "http://twitter.com/#!/harry_wood/statuses/27226371393") for spotting this classic example of a "*junk POI*"; I'm not singling Foursquare out for any particular opprobrium here by the way, all of the social location data sets have their own howlers, as do the commercial POI data sets, ready and waiting for people to stumble across.
+A geographic nod of the hat must go to [Harry Wood](https://twitter.com/#!/harry_wood/statuses/27226371393 "https://twitter.com/#!/harry_wood/statuses/27226371393") for spotting this classic example of a "*junk POI*"; I'm not singling Foursquare out for any particular opprobrium here by the way, all of the social location data sets have their own howlers, as do the commercial POI data sets, ready and waiting for people to stumble across.
 
 
 

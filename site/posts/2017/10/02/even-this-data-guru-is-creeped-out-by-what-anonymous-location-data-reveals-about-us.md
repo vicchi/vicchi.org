@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2xzQVo3)  
+Today's maps found on the interwebs. ![](https://ift.tt/2xzQVo3)  
   
 
 When Edward Snowden blew the lid off of the NSA’s mass surveillance program, he also revealed the extent of the government’s smartphone location tracking records.  
   
 
-Found at [http://ift.tt/2fnyZ7V](http://ift.tt/2fnyZ7V "http://ift.tt/2fnyZ7V")
+Found at [https://ift.tt/2fnyZ7V](https://ift.tt/2fnyZ7V "https://ift.tt/2fnyZ7V")
 
 
 

@@ -18,7 +18,7 @@ It's easy to say "*well ... duh*" with the benefit of hindsight in 2010 but cons
 
 <!-- TEASER_END -->
 
-[![Another reason not to trust everything computers tell you](http://farm3.static.flickr.com/2297/2053737914_db2f788d9e_d.jpg)](http://www.flickr.com/photos/nicmcphee/2053737914/ "Another reason not to trust everything computers tell you ")
+[![Another reason not to trust everything computers tell you](https://farm3.static.flickr.com/2297/2053737914_db2f788d9e_d.jpg)](https://www.flickr.com/photos/nicmcphee/2053737914/ "Another reason not to trust everything computers tell you ")
 
 Fast forward back to 2010; the big two mapping data providers, Teleatlas and Navteq, have both been acquired, Garmin, once synonymous with GPS is looking increasingly less and less relevant and both Google and Nokia are offering full turn by turn navigation on mobile devices, for free.
 
@@ -26,15 +26,15 @@ So how will this play out? What will dominate? PNDs, telematics dashboard "info-
 
 In 1996 the first GPS navigation systems were the preserve of the high end, executive car marques; both prestigious and viewed as a luxury commodity they were the precursor of today's info-tainment consoles. Skip to 2004 and TomTom's GO was one of the first of the now ubiquitous PNDs at commodity prices. Six years later and GPS enabled mobile phones are capable of running the same, turn by turn navigation systems but for free and they come preloaded with the handset. Sensing that most consumers are unlikely or unwilling to pay for a dedicated PND when they can have a free navigation system on their mobile the market is reacting and we're seeing the first interfaces between smartphone and info-tainment consoles such as that from Harman and Nokia.
 
-[![Get Your Free Sat Nav Here](http://farm1.static.flickr.com/99/271628274_7d3a57ae08_d.jpg)](hthttp://www.flickr.com/photos/paul-r/271628274/ "Get Your Free Sat Nav Here")
+[![Get Your Free Sat Nav Here](https://farm1.static.flickr.com/99/271628274_7d3a57ae08_d.jpg)](hthttps://www.flickr.com/photos/paul-r/271628274/ "Get Your Free Sat Nav Here")
 
 Surely this means that we've come full circle and moving back to in-car based systems? I doubt it. The mobile offering has all the advantages; multi modal routing, pedestrian routing, your music collection, a camera, a phone, an internet console with email and social media apps yet none of the disadvantages; additional subscription cost, another gadget to carry, only works in the car.
 
 The mobile phone and the in-car console are here to stay; the PND is destined for extinction. But like Messrs. Olsen and Watson, I could be wrong.
 
-Written for and originally published in the [June edition of Coordinates](http://mycoordinates.org/pnd-vs-mobile-is-landscape-shifting/all/ "http://mycoordinates.org/pnd-vs-mobile-is-landscape-shifting/all/") magazine.
+Written for and originally published in the [June edition of Coordinates](https://mycoordinates.org/pnd-vs-mobile-is-landscape-shifting/all/ "https://mycoordinates.org/pnd-vs-mobile-is-landscape-shifting/all/") magazine.
 
 
-Photo Credits: [Unhindered by Talent](http://www.flickr.com/photos/nicmcphee/2053737914/ "http://www.flickr.com/photos/nicmcphee/2053737914/") and [Paul Robinson](http://www.flickr.com/photos/paul-r/271628274/ "http://www.flickr.com/photos/paul-r/271628274/") on Flickr.
+Photo Credits: [Unhindered by Talent](https://www.flickr.com/photos/nicmcphee/2053737914/ "https://www.flickr.com/photos/nicmcphee/2053737914/") and [Paul Robinson](https://www.flickr.com/photos/paul-r/271628274/ "https://www.flickr.com/photos/paul-r/271628274/") on Flickr.
 
 

@@ -20,7 +20,7 @@ Me: "*That's good; one less thing to have to take out of my bag*"
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/03/2527918562_e57bc126dc.jpg "WTF?")](http://www.flickr.com/photos/schoschie/2527918562/ "http://www.flickr.com/photos/schoschie/2527918562/")
+[![](/wp-content/uploads/2012/03/2527918562_e57bc126dc.jpg "WTF?")](https://www.flickr.com/photos/schoschie/2527918562/ "https://www.flickr.com/photos/schoschie/2527918562/")
 
 It's Thursday, March 1st 2012 and I'm in the same TSA security line at SFO. Shoes off. Belt off. Watch off. Laptop and iPad out of my bag and into the trays. Kindle ***in*** my bag. My bag goes through the X-Ray machine and I manage to avoid getting the full body scanner treatment.
 
@@ -41,6 +41,6 @@ TSA guard: "*I would **never** have told you that*"
 TSA ... WTF?
 
 
-Photo Credits: [Niels Heidenreich](http://www.flickr.com/photos/schoschie/2527918562/ "http://www.flickr.com/photos/schoschie/2527918562/") on Flickr.
+Photo Credits: [Niels Heidenreich](https://www.flickr.com/photos/schoschie/2527918562/ "https://www.flickr.com/photos/schoschie/2527918562/") on Flickr.
 
 

@@ -16,9 +16,9 @@ I once wrote two posts saying that people are [mistaking the context (location) 
 
 <!-- TEASER_END -->
 
-[youtube http://www.youtube.com/watch?v=mWWbUd2CGCM&rel=0]
+[youtube https://www.youtube.com/watch?v=mWWbUd2CGCM&rel=0]
 
-These days I tend to work as much out of the office than I do in the office. My needs for this are relatively few; somewhere to plug my laptop in, free wifi and a half-way decent cup of espresso now and again. Using local location based search services I can find places near me that meet these needs but it's a disjointed experience, using multiple apps to find free wifi, good espresso and so on. Maybe the recently launched [Work+](http://www.workpl.us/ "http://www.workpl.us/") can help me out here?
+These days I tend to work as much out of the office than I do in the office. My needs for this are relatively few; somewhere to plug my laptop in, free wifi and a half-way decent cup of espresso now and again. Using local location based search services I can find places near me that meet these needs but it's a disjointed experience, using multiple apps to find free wifi, good espresso and so on. Maybe the recently launched [Work+](https://www.workpl.us/ "https://www.workpl.us/") can help me out here?
 
 First impressions are good. I launch the app and connect it to my Foursquare account (the check-in feature within Work+ is a nice touch). Work+ also passes the first hurdle than many location based apps fail at; it actually works *outside* of the United States.
 

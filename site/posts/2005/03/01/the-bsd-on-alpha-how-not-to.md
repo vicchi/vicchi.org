@@ -27,7 +27,7 @@ So, we have a 433 MHz Alpha box, with 128 Mb of memory and a 4 Gb SCSI hard driv
 
 The first difference that strikes you is that the PWS has not one but two flavours of BIOS firmware. AlphaBIOS, also known as ARC, is a BIOS which will be quite familiar to anyone who's played with PC hardware and is heavily biased towards Windows NT and a PC-centric architecture. SRM, on the other hand, is a console based BIOS which will be very familiar to anyone who's worked on, or played with, any of the various Alpha platforms that DEC produced.
 
-Everything you could want to know about both BIOS's can be found in AlphaLinux's [SRM Firmware HOWTO](http://www.alphalinux.org/faq/srm.html "http://www.alphalinux.org/faq/srm.html") and [AlphaBIOS HOWTO](http://www.alphalinux.org/faq/alphabios-howto.html "http://www.alphalinux.org/faq/alphabios-howto.html").
+Everything you could want to know about both BIOS's can be found in AlphaLinux's [SRM Firmware HOWTO](https://www.alphalinux.org/faq/srm.html "https://www.alphalinux.org/faq/srm.html") and [AlphaBIOS HOWTO](https://www.alphalinux.org/faq/alphabios-howto.html "https://www.alphalinux.org/faq/alphabios-howto.html").
 
 The default BIOS is AlphaBIOS and as I come from a DEC hardware background the first thing I did was swap the firmware over to default to the SRM, by selecting SRM from the Console Selection menu in Advanced CMOS Setup.
 

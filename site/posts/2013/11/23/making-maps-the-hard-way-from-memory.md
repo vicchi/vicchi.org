@@ -20,7 +20,7 @@ Maybe something like this perhaps? The shape of the United Kingdom and Ireland i
 
 [![hand-drawn-britain-1](/wp-content/uploads/2013/11/hand-drawn-britain-1-768x1024.jpg)](/wp-content/uploads/2013/11/hand-drawn-britain-1.jpg "/wp-content/uploads/2013/11/hand-drawn-britain-1.jpg")
 
-Or maybe your lovingly hand drawn map would look like this one, which is my personal favourite for no other reason than the helpful arrow in the North East corner pointing to *Iceland (Not The Shop)*. Readers of this blog who don't live in the UK should know that in addition to being a Nordic island country that straddles the boundary between the North Atlantic and Artic Oceans, Iceland is also a chain of [British stores](http://www.iceland.co.uk/ "http://www.iceland.co.uk/") that specialise in frozen food.
+Or maybe your lovingly hand drawn map would look like this one, which is my personal favourite for no other reason than the helpful arrow in the North East corner pointing to *Iceland (Not The Shop)*. Readers of this blog who don't live in the UK should know that in addition to being a Nordic island country that straddles the boundary between the North Atlantic and Artic Oceans, Iceland is also a chain of [British stores](https://www.iceland.co.uk/ "https://www.iceland.co.uk/") that specialise in frozen food.
 
 [![hand-drawn-britain-2](/wp-content/uploads/2013/11/hand-drawn-britain-2-768x1024.jpg)](/wp-content/uploads/2013/11/hand-drawn-britain-2.jpg "/wp-content/uploads/2013/11/hand-drawn-britain-2.jpg")
 
@@ -29,6 +29,6 @@ I'd like to think that I'd be able to do better than this final example from som
 [![hand-drawn-britain-3](/wp-content/uploads/2013/11/hand-drawn-britain-3-768x1024.jpg)](/wp-content/uploads/2013/11/hand-drawn-britain-3.jpg "/wp-content/uploads/2013/11/hand-drawn-britain-3.jpg")
 
 
-Maps courtesy of [BuzzFeed](http://www.buzzfeed.com/robinedds/this-is-what-happens-when-you-ask-people-to-draw-a-map-of-th "http://www.buzzfeed.com/robinedds/this-is-what-happens-when-you-ask-people-to-draw-a-map-of-th").
+Maps courtesy of [BuzzFeed](https://www.buzzfeed.com/robinedds/this-is-what-happens-when-you-ask-people-to-draw-a-map-of-th "https://www.buzzfeed.com/robinedds/this-is-what-happens-when-you-ask-people-to-draw-a-map-of-th").
 
 

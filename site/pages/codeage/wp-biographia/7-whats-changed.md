@@ -145,7 +145,7 @@
 	<li>Enhance contact information and Biography Box links to support Delicious, Flickr, Picasa, Vimeo, YouTube and Reddit</li>
 	<li>Fixed bug that caused the Biography Box to be displayed for every page of a multiple page post</li>
 	<li>Fixed bugs in avatar image size handling; non-default avatar image size was not persisted across settings changes; avatar image container div was not resized to new non-default avatar image size</li>
-	<li>Migrate use of wp_print_styles to wp_enqueue_scripts; see (<a href="http://wpdevel.wordpress.com/2011/12/12/use-wp_enqueue_scripts-not-wp_print_styles-to-enqueue-scripts-and-styles-for-the-frontend/" target="_blank">http://wpdevel.wordpress.com/2011/12/12/use-wp_enqueue_scripts-not-wp_print_styles-to-enqueue-scripts-and-styles-for-the-frontend/</a>)</li>
+	<li>Migrate use of wp_print_styles to wp_enqueue_scripts; see (<a href="https://wpdevel.wordpress.com/2011/12/12/use-wp_enqueue_scripts-not-wp_print_styles-to-enqueue-scripts-and-styles-for-the-frontend/" target="_blank">https://wpdevel.wordpress.com/2011/12/12/use-wp_enqueue_scripts-not-wp_print_styles-to-enqueue-scripts-and-styles-for-the-frontend/</a>)</li>
 	<li>Made terminology and control ordering for custom post types consistent in admin pages</li>
 </ul>
 

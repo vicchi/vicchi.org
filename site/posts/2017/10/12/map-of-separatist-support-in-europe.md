@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 "What about an Independent Northern Ireland" - since it was a higher figure, I used support for a United Ireland. But otherwise if anyone is curious support for an independent Northern Ireland is around 5-7%.  
   
 
-Found at [http://ift.tt/2yg6LGd](http://ift.tt/2yg6LGd "http://ift.tt/2yg6LGd")
+Found at [https://ift.tt/2yg6LGd](https://ift.tt/2yg6LGd "https://ift.tt/2yg6LGd")
 
 
 

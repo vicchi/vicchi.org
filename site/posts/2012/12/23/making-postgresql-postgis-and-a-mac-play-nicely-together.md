@@ -14,9 +14,9 @@ geo_lat: 51.427051
 
 Most things in life are a journey and the destination of this particular journey was to try and create a custom map style that represented the unique features and challenges of Tandale.
 
-![](http://staticmap.openstreetmap.de/staticmap.php?center=-6.7937516843812,39.241600033064&zoom=15&size=600x350)
+![](https://staticmap.openstreetmap.de/staticmap.php?center=-6.7937516843812,39.241600033064&zoom=15&size=600x350)
 
-Which meant I needed to download and install [TileMill](http://mapbox.com/tilemill/ "http://mapbox.com/tilemill/"), an interactive map design tool.
+Which meant I needed to download and install [TileMill](https://mapbox.com/tilemill/ "https://mapbox.com/tilemill/"), an interactive map design tool.
 
 Which meant I needed to learn [Carto](https://github.com/mapbox/carto/ "https://github.com/mapbox/carto/"), the CSS-like language for map styling.
 
@@ -26,19 +26,19 @@ Which meant I found [OSM Bright](https://github.com/mapbox/osm-bright "https://g
 
 Which meant I needed to start small and find a map extract of Tanzania to work with.
 
-Which meant I needed to install and configure [PostgreSQL](http://www.postgresql.org/download/macosx/ "http://www.postgresql.org/download/macosx/") and [PostGIS](http://postgis.refractions.net/download/ "http://postgis.refractions.net/download/") on my Mac.
+Which meant I needed to install and configure [PostgreSQL](https://www.postgresql.org/download/macosx/ "https://www.postgresql.org/download/macosx/") and [PostGIS](https://postgis.refractions.net/download/ "https://postgis.refractions.net/download/") on my Mac.
 
 Which brings me to the starting point of the journey and the reason for this post in the first place.
 
 <!-- TEASER_END -->
 
-When I normally need to install UNIX-y command line and server tools I turn to [Homebrew](http://mxcl.github.com/homebrew/ "http://mxcl.github.com/homebrew/"), the tool set that *"installs the stuff you need that Apple didn't"*. Homebrew supports installing both PostgreSQL and PostGIS but a bit of background research showed that installing these on Lion and on Mountain Lion could be problematic. A bit of further research soon turned up [Postgres.app](http://postgresapp.com/ "http://postgresapp.com/"), which claims to be *"the easiest way to run PostgreSQL on the Mac"*. Postgres.app is a single shot installer which wraps PostgreSQL and PostGIS into an easy to install and run self contained environment.
+When I normally need to install UNIX-y command line and server tools I turn to [Homebrew](https://mxcl.github.com/homebrew/ "https://mxcl.github.com/homebrew/"), the tool set that *"installs the stuff you need that Apple didn't"*. Homebrew supports installing both PostgreSQL and PostGIS but a bit of background research showed that installing these on Lion and on Mountain Lion could be problematic. A bit of further research soon turned up [Postgres.app](https://postgresapp.com/ "https://postgresapp.com/"), which claims to be *"the easiest way to run PostgreSQL on the Mac"*. Postgres.app is a single shot installer which wraps PostgreSQL and PostGIS into an easy to install and run self contained environment.
 
-[![Postgres.app](/wp-content/uploads/2012/12/Postgres.app_-1024x525.jpg)](http://postgresapp.com/ "http://postgresapp.com/")
+[![Postgres.app](/wp-content/uploads/2012/12/Postgres.app_-1024x525.jpg)](https://postgresapp.com/ "https://postgresapp.com/")
 
-I'm a big fan of this approach to a software development environment. All of the stuff I've put up on GitHub and on WordPress.org has been written using [MAMP](http://mamp.info/en/index.html "http://mamp.info/en/index.html"), the single shot installer which wraps up Apache, MySQL and PHP on the Mac so Postgres.app gave instant appeal to me. So, download, install, start.
+I'm a big fan of this approach to a software development environment. All of the stuff I've put up on GitHub and on WordPress.org has been written using [MAMP](https://mamp.info/en/index.html "https://mamp.info/en/index.html"), the single shot installer which wraps up Apache, MySQL and PHP on the Mac so Postgres.app gave instant appeal to me. So, download, install, start.
 
-Next I found an OSM map extract of Tanzania courtesy of [GeoFabrik](http://download.geofabrik.de/openstreetmap/africa/ "http://download.geofabrik.de/openstreetmap/africa/"), which I also downloaded. Now to load the map into PostgreSQL. I made sure my shell's `PATH` pointed to the command line tools provided by Postgres.app by prepending `/Applications/Postgres.app/Contents/MacOS/bin` to the `PATH` defined in my `.bash_profile`, ran `psql` and created a database called `tanzania`. So far so good.
+Next I found an OSM map extract of Tanzania courtesy of [GeoFabrik](https://download.geofabrik.de/openstreetmap/africa/ "https://download.geofabrik.de/openstreetmap/africa/"), which I also downloaded. Now to load the map into PostgreSQL. I made sure my shell's `PATH` pointed to the command line tools provided by Postgres.app by prepending `/Applications/Postgres.app/Contents/MacOS/bin` to the `PATH` defined in my `.bash_profile`, ran `psql` and created a database called `tanzania`. So far so good.
 
 
 
@@ -56,7 +56,7 @@ gary=# \q
 ```
 
 
-To load the map into the database I had a choice of two command line tools; [Imposm](http://imposm.org/ "http://imposm.org/") or [osm2pgsql](http://wiki.openstreetmap.org/wiki/Osm2pgsql "http://wiki.openstreetmap.org/wiki/Osm2pgsql"). The latter of the two seemed to work out of the box according to the documentation so I used Homebrew to install this tool.
+To load the map into the database I had a choice of two command line tools; [Imposm](https://imposm.org/ "https://imposm.org/") or [osm2pgsql](https://wiki.openstreetmap.org/wiki/Osm2pgsql "https://wiki.openstreetmap.org/wiki/Osm2pgsql"). The latter of the two seemed to work out of the box according to the documentation so I used Homebrew to install this tool.
 
 
 ```
@@ -268,7 +268,7 @@ Although Postgres.app was running, it looked like the server wasn't. Checking th
 ```
 
 
-Thankfully this is a [known problem](http://benscheirman.com/2011/04/increasing-shared-memory-for-postgres-on-os-x "http://benscheirman.com/2011/04/increasing-shared-memory-for-postgres-on-os-x"); PostgreSQL is really a server application, not a laptop application. The default Mac configuration isn't enough to support a medium sized PostgreSQL database, but adding the following configuration settings to `/etc/sysctl.conf`, creating it via `sudo` if it doesn't already exist and rebooting solved that final problem.
+Thankfully this is a [known problem](https://benscheirman.com/2011/04/increasing-shared-memory-for-postgres-on-os-x "https://benscheirman.com/2011/04/increasing-shared-memory-for-postgres-on-os-x"); PostgreSQL is really a server application, not a laptop application. The default Mac configuration isn't enough to support a medium sized PostgreSQL database, but adding the following configuration settings to `/etc/sysctl.conf`, creating it via `sudo` if it doesn't already exist and rebooting solved that final problem.
 
 
 ```

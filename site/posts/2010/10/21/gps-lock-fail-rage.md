@@ -16,8 +16,8 @@ Isn't GPS a wonderful invention? In the space of a few seconds, your GPS enabled
 
 Except when it doesn't ... you're in an urban canyon, you're deep in a building or underground where you just can't get a GPS lock and you stand there watching the "*waiting for GPS*" message to disappear. GPS lock fail rage.
 
-[![Horrible Truth: All Technological Progress ... ](/wp-content/uploads/2010/10/20101020.gif "Horrible Truth: All Technological Progress ... ")](http://www.smbc-comics.com/index.php?db=comics&id=2035 "http://www.smbc-comics.com/index.php?db=comics&id=2035")
-[Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/ "http://www.smbc-comics.com/") seems to sum up the rage and frustration rather neatly. We've all been there ...
+[![Horrible Truth: All Technological Progress ... ](/wp-content/uploads/2010/10/20101020.gif "Horrible Truth: All Technological Progress ... ")](https://www.smbc-comics.com/index.php?db=comics&id=2035 "https://www.smbc-comics.com/index.php?db=comics&id=2035")
+[Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/ "https://www.smbc-comics.com/") seems to sum up the rage and frustration rather neatly. We've all been there ...
 
 
 

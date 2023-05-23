@@ -15,7 +15,7 @@ So far, so familiar. The curse of the non specific, applies to everyone, on hold
 
 <!-- TEASER_END -->
 
-So some background. My domain names are registered through one company, [easyspace.com](http://www.easyspace.com/ "http://www.easyspace.com/"). They're not the best, they're not the cheapest, they're a bit impersonal and corporate but they're a case of better the devil you know and they've never threatened me and over reacted. My web hosting and email hosting are through another company, [justhost.com](http://www.justhost.com/ "http://www.justhost.com/"). They're not the best, they're pretty cheap, they've had a few outages but overall they've been ... OK. I should probably have shopped around a bit more but when I moved from self hosting to the cloud they fitted the bill.
+So some background. My domain names are registered through one company, [easyspace.com](https://www.easyspace.com/ "https://www.easyspace.com/"). They're not the best, they're not the cheapest, they're a bit impersonal and corporate but they're a case of better the devil you know and they've never threatened me and over reacted. My web hosting and email hosting are through another company, [justhost.com](https://www.justhost.com/ "https://www.justhost.com/"). They're not the best, they're pretty cheap, they've had a few outages but overall they've been ... OK. I should probably have shopped around a bit more but when I moved from self hosting to the cloud they fitted the bill.
 And then this gem dropped into my Inbox ...
 To: Gary Gale
 Subject: Just Host Payment Overdue
@@ -37,10 +37,10 @@ Kind Regards,
 
 Brooke Bryan
 Co-Founder, Just Host
-[www.justhost.com](http://www.justhost.com "http://www.justhost.com")
+[www.justhost.com](https://www.justhost.com "https://www.justhost.com")
 
 Introduce a Friend to Just Host and receive $60!
-[http://www.justhost.com/affiliates](http://www.justhost.com/affiliates "http://www.justhost.com/affiliates")
+[https://www.justhost.com/affiliates](https://www.justhost.com/affiliates "https://www.justhost.com/affiliates")
 
 Let's just look at this in detail ...
 Your Just Host account has an overdue invoice.
@@ -58,10 +58,10 @@ If your account has not been paid in full after 21 days, we will refer your acco
 But a more realistic interpretation would be in the form of a question. *So Just Host, do you really think that threatening a customer who's up for renewal with legal action and with a debt collection agency is going to make me want to renew with you? Really?*
 But then comes the finale ...
 Introduce a Friend to Just Host and receive $60!
-[http://www.justhost.com/affiliates](http://www.justhost.com/affiliates "http://www.justhost.com/affiliates")
+[https://www.justhost.com/affiliates](https://www.justhost.com/affiliates "https://www.justhost.com/affiliates")
 So, after being shouted at in cap lock, not once but twice, after being threatened with legal action for money I can't possible owe as I haven't renewed and this was a renewal notice after all, after all of that you want me to refer a friend. *Really**?*
 After all of this I still can't quite work out whether this is breathtaking arrogance or touching naivete on the part of Just Host and of Brooke Bryan, the co founder. Whichever it is, it shows just how little the customer is valued at this certain hosting establishment.
-[Posted via email](http://posterous.com "http://posterous.com") from [Gary's Posterous](http://vicchi.posterous.com/threaten-your-customers-with-legal-action-tha "http://vicchi.posterous.com/threaten-your-customers-with-legal-action-tha")
+[Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/threaten-your-customers-with-legal-action-tha "https://vicchi.posterous.com/threaten-your-customers-with-legal-action-tha")
 
 
 

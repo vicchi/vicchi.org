@@ -26,7 +26,7 @@ Then I was at home for just under a day. Cold, clear skies and a typical suburba
 
 Then I was under a blazing sun in the capital of Tanzania. The contrast between an American city, a British city and a Tanzanian one couldn't have been more marked.
 
-[![](http://farm9.staticflickr.com/8197/8233535049_46b676cdb1_z.jpg)](http://www.flickr.com/photos/vicchi/8233535049/ "Tandale Market, Dar es Salaam, Tanzania")
+[![](https://farm9.staticflickr.com/8197/8233535049_46b676cdb1_z.jpg)](https://www.flickr.com/photos/vicchi/8233535049/ "Tandale Market, Dar es Salaam, Tanzania")
 Three days, three cities, three continents and a well and truly broadened mind.
 
 

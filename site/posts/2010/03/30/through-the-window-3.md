@@ -14,11 +14,11 @@ geo_lat: 37.3305408
 
 The view from the window has changed again. Last week I was deep in the Silicon Valley suburbia staying with good friends in Campbell, where the sunrises were gorgeous.
 
-[![Through the window: Campbell sunrise](http://farm3.static.flickr.com/2709/4474479665_9037b50d07.jpg)](http://www.flickr.com/photos/vicchi/4474479665/ "Through the window: Campbell sunrise")
+[![Through the window: Campbell sunrise](https://farm3.static.flickr.com/2709/4474479665_9037b50d07.jpg)](https://www.flickr.com/photos/vicchi/4474479665/ "Through the window: Campbell sunrise")
 
-This week I'm deep in the heart of the city nicknamed *The Capital of Silicon Valley*, San Jose. The view from the window isn't nearly as appealing but it shows that the annual Geo industry extravaganza that is [Where 2.0](http://en.oreilly.com/where2010/ "http://en.oreilly.com/where2010/") is only a few days away.
+This week I'm deep in the heart of the city nicknamed *The Capital of Silicon Valley*, San Jose. The view from the window isn't nearly as appealing but it shows that the annual Geo industry extravaganza that is [Where 2.0](https://en.oreilly.com/where2010/ "https://en.oreilly.com/where2010/") is only a few days away.
 
-[![Through the window: downtown San Jose](http://farm5.static.flickr.com/4008/4474480165_f24bbf22d3.jpg)](http://www.flickr.com/photos/vicchi/4474480165/ "Through the window: downtown San Jose")
+[![Through the window: downtown San Jose](https://farm5.static.flickr.com/4008/4474480165_f24bbf22d3.jpg)](https://www.flickr.com/photos/vicchi/4474480165/ "Through the window: downtown San Jose")
 
 
 

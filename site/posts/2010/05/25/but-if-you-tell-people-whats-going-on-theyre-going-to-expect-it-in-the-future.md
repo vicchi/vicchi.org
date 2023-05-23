@@ -22,7 +22,7 @@ After my train home suffered this fate I trudged to the end of the platform wher
 
 <!-- TEASER_END -->
 
-[![Mind The Gag](http://farm1.static.flickr.com/147/428129385_493b1826a6_d.jpg)](http://www.flickr.com/photos/shht/428129385/ "Mind The Gag")
+[![Mind The Gag](https://farm1.static.flickr.com/147/428129385_493b1826a6_d.jpg)](https://www.flickr.com/photos/shht/428129385/ "Mind The Gag")
 
 Just before I headed for the nearest entrance to the Tube station and a longer than planned commute home, another SouthWest Trains colleague, let's call him SWT Two saw what was going on and strolled over; their conversation, while short, shows the affection which SouthWest Trains has for its passengers, sorry, customers.
 
@@ -49,6 +49,6 @@ Wonderful; as customers it's our responsibility to find out what the train compa
 Lovely to know that we're such a pain in the backside and a burden to the poor overworked train operator.
 
 
-Photo Credits: [Shht!](http://www.flickr.com/photos/shht/428129385/ "http://www.flickr.com/photos/shht/428129385/") on Flickr.
+Photo Credits: [Shht!](https://www.flickr.com/photos/shht/428129385/ "https://www.flickr.com/photos/shht/428129385/") on Flickr.
 
 

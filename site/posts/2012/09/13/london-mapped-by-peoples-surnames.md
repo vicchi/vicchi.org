@@ -12,13 +12,13 @@ geo_place: Nokia House Berlin, Invalidenstraße, Berlin
 geo_lng: 13.38521
 geo_lat: 52.53105
 
-The rather geotastic [James Cheshire](https://twitter.com/spatialanalysis "https://twitter.com/spatialanalysis") and [Ollie O'Brien](https://twitter.com/oobr "https://twitter.com/oobr") from London's UCL have produced a [map of London](http://names.mappinglondon.co.uk/ "http://names.mappinglondon.co.uk/") which is certainly not your average map. The Thames is shown winding through the capital but what really grabs the attention is the fact that the rest of the map shows the population's surnames.
+The rather geotastic [James Cheshire](https://twitter.com/spatialanalysis "https://twitter.com/spatialanalysis") and [Ollie O'Brien](https://twitter.com/oobr "https://twitter.com/oobr") from London's UCL have produced a [map of London](https://names.mappinglondon.co.uk/ "https://names.mappinglondon.co.uk/") which is certainly not your average map. The Thames is shown winding through the capital but what really grabs the attention is the fact that the rest of the map shows the population's surnames.
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/09/London-Surnames-1024x740.jpg "London Surnames")](http://names.mappinglondon.co.uk/ "http://names.mappinglondon.co.uk/")
+[![](/wp-content/uploads/2012/09/London-Surnames-1024x740.jpg "London Surnames")](https://names.mappinglondon.co.uk/ "https://names.mappinglondon.co.uk/")
 
-As James says in his [accompanying blog post](http://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/ "http://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/") ...
+As James says in his [accompanying blog post](https://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/ "https://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/") ...
 
 
 

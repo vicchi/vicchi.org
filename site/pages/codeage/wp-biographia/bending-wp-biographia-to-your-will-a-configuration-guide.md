@@ -32,7 +32,7 @@ Firstly, set your biography details up. From the Dashboard, navigate to <em>User
 
 Now add your <em>Contact Info</em>. WP Biographia adds fields for Twitter, Facebook, LinkedIn, Google+, Delicious, Flickr, Picasa, Vimeo, YouTube and Reddit to the contact info that WordPress provides out of the box. For each piece of contact information you want displayed in the Biography Box, add the corresponding URL.
 
-<em><strong>Contact Info Gotcha:</strong></em> It's important to note that you need to enter the full URL to your profile for each social media site. For example, for Twitter you'll need to add <code>http://twitter.com/user</code>, not just <code>@user</code>.
+<em><strong>Contact Info Gotcha:</strong></em> It's important to note that you need to enter the full URL to your profile for each social media site. For example, for Twitter you'll need to add <code>https://twitter.com/user</code>, not just <code>@user</code>.
 
 Now add your biography text to the <em>Biographical Info</em> field under <em>About Yourself</em>.
 
@@ -40,7 +40,7 @@ Now add your biography text to the <em>Biographical Info</em> field under <em>Ab
 
 Finally, click on <em>Update Profile</em> to save all your changes.
 <h3><a name="avatar-setup"></a>Setting Up Your Author's Picture</h3>
-Next, set up your author picture, or avatar. By default, WordPress uses Gravatars, short for Globally Recognised Avatars, to display author pictures. Head over to the <a href="http://en.gravatar.com" target="_blank">Gravatar site</a>, sign up for an account and upload your author picture.
+Next, set up your author picture, or avatar. By default, WordPress uses Gravatars, short for Globally Recognised Avatars, to display author pictures. Head over to the <a href="https://en.gravatar.com" target="_blank">Gravatar site</a>, sign up for an account and upload your author picture.
 
 <em><strong>Avatar Gotcha:</strong></em> One important gotcha you need to know is that the link between your user profile on your WordPress blog and your author's picture on the Gravatar site is your email address, so when you sign up you need to ensure you use the same email address as is listed in your user profile on your blog.
 
@@ -55,12 +55,12 @@ This tab has broad settings to control how the WP Biographia Biography Box is di
 
 href="/wp-content/uploads/2012/05/screenshot-1.jpg"><img src="/wp-content/uploads/2012/05/screenshot-1.jpg" alt="" title="v3.1 - screenshot-1" width="916" height="569" class="aligncenter size-full wp-image-2667"></a>
 
-<em><strong>Display Gotcha:</strong></em> If you choose to display the Biography Box on post archives, this will do so for all archive types, be that tag archives, author archives, category archives, date archives or so on. If you want to restrict the display to a particular type of archive, you'll need to <a href="http://codex.wordpress.org/Conditional_Tags" target="_blank">add some conditional tags to your theme's template files</a>.
+<em><strong>Display Gotcha:</strong></em> If you choose to display the Biography Box on post archives, this will do so for all archive types, be that tag archives, author archives, category archives, date archives or so on. If you want to restrict the display to a particular type of archive, you'll need to <a href="https://codex.wordpress.org/Conditional_Tags" target="_blank">add some conditional tags to your theme's template files</a>.
 
 Click on <em>Save Display Settings</em> before moving onto the <em>Style</em> tab.
 
 <h3><a name="style-tab"></a>Basic Settings; The Style Tab</h3>
-This tab controls how the Biography Box is styled, its background colour and what sort of border, if any, is drawn around the Biography Box. You can enter the background colour as an <a href="http://html-color-codes.info/" target="_blank">HTML colour code</a> or use the built-in colour picker tool.
+This tab controls how the Biography Box is styled, its background colour and what sort of border, if any, is drawn around the Biography Box. You can enter the background colour as an <a href="https://html-color-codes.info/" target="_blank">HTML colour code</a> or use the built-in colour picker tool.
 
 href="/wp-content/uploads/2012/05/screenshot-7.jpg"><img src="/wp-content/uploads/2012/05/screenshot-7.jpg" alt="" title="v3.1 - screenshot-7" width="916" height="428" class="aligncenter size-full wp-image-2673"></a>
 

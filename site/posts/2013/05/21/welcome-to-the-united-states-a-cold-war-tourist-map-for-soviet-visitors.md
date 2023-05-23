@@ -24,7 +24,7 @@ What makes this map interesting is not so much the slice of relatively recent wo
 
 You can make some educated guesses. It's not unreasonable to assume that major ports, coastlines, industrial areas and military and weapons areas were off limits. But that doesn't cover the full scope of the open and closed areas.
 
-Over at [BoingBoing](http://boingboing.net/2013/05/16/the-places-soviet-tourists-cou.html "http://boingboing.net/2013/05/16/the-places-soviet-tourists-cou.html"), there's speculation that this was as much a tit-for-tat set of restrictions as it was a set of restrictions based on what the US Government didn't want Soviets to see. As Cold War era historian Audra Wolfe, the author of the [Slate article](http://www.slate.com/blogs/the_vault/2013/05/15/cold_war_map_shows_areas_prohibited_to_soviet_travelers_in_the_united_states.html "http://www.slate.com/blogs/the_vault/2013/05/15/cold_war_map_shows_areas_prohibited_to_soviet_travelers_in_the_united_states.html") on this map, notes
+Over at [BoingBoing](https://boingboing.net/2013/05/16/the-places-soviet-tourists-cou.html "https://boingboing.net/2013/05/16/the-places-soviet-tourists-cou.html"), there's speculation that this was as much a tit-for-tat set of restrictions as it was a set of restrictions based on what the US Government didn't want Soviets to see. As Cold War era historian Audra Wolfe, the author of the [Slate article](https://www.slate.com/blogs/the_vault/2013/05/15/cold_war_map_shows_areas_prohibited_to_soviet_travelers_in_the_united_states.html "https://www.slate.com/blogs/the_vault/2013/05/15/cold_war_map_shows_areas_prohibited_to_soviet_travelers_in_the_united_states.html") on this map, notes
 
 
 
@@ -32,7 +32,7 @@ Over at [BoingBoing](http://boingboing.net/2013/05/16/the-places-soviet-tourists
 > The main premise is 'strict reciprocity'. X% of Soviet coasts are off-limits, therefore X% of US coasts are off-limits, too.
 
 
-Photo Credits: [Rockefeller Archive Center](http://www.rockarch.org/ "http://www.rockarch.org/"), Item record: Rockefeller Family Archives (III) Record Group: 4 Nelson A. Rockefeller – Personal, Series: Washington D.C Files, Subseries: O.9 Special Assistant to the President Declassified Materials, 1954-1956, 1969 Box: 4 Folder 94.
+Photo Credits: [Rockefeller Archive Center](https://www.rockarch.org/ "https://www.rockarch.org/"), Item record: Rockefeller Family Archives (III) Record Group: 4 Nelson A. Rockefeller – Personal, Series: Washington D.C Files, Subseries: O.9 Special Assistant to the President Declassified Materials, 1954-1956, 1969 Box: 4 Folder 94.
 
 
 

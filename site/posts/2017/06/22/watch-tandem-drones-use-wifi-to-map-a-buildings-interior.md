@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2tsZ3UM)  
+Today's maps found on the interwebs. ![](https://ift.tt/2tsZ3UM)  
   
 
 This novel mapping technique developed by Yasamin Mostofi allows two drones to map the interior of an unknown building by using wifi signals and some impressive number-crunching. More details about how it works here.  
   
 
-Found at [http://ift.tt/2rBYo2d](http://ift.tt/2rBYo2d "http://ift.tt/2rBYo2d")
+Found at [https://ift.tt/2rBYo2d](https://ift.tt/2rBYo2d "https://ift.tt/2rBYo2d")
 
 
 

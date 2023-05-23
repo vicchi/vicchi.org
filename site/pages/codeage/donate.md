@@ -13,18 +13,18 @@
 .. wp-status: publish
 -->
 
-<html><body><p>It's a sweeping generalisation but you're probably reading this for one of two reasons. Either you've come here from a search engine link or a link from somewhere else on this site. Or you've come here from the <em>Donate</em> link on a <a href="http://profiles.wordpress.org/vicchi/">WordPress plugin</a> I've written.
+<html><body><p>It's a sweeping generalisation but you're probably reading this for one of two reasons. Either you've come here from a search engine link or a link from somewhere else on this site. Or you've come here from the <em>Donate</em> link on a <a href="https://profiles.wordpress.org/vicchi/">WordPress plugin</a> I've written.
 
 If it's the first reason, feel free to read on. If it's the second, then if you're looking for information on donating, then you're also in the right place.
 
-I'm not a professional software developer, but I used to be. I used to earn a living writing back end code for various flavours of UNIX and Linux using C and C++. Now I earn my living in a slightly <a href="http://www.garygale.com/" target="_blank">different way</a>. But I still write code.
+I'm not a professional software developer, but I used to be. I used to earn a living writing back end code for various flavours of UNIX and Linux using C and C++. Now I earn my living in a slightly <a href="https://www.garygale.com/" target="_blank">different way</a>. But I still write code.
 
 The code I do write is free and will always be free; there's no premium and light versions and the code contains no ads.
 
 If you like some of the code I've written and want to give back, there's two ways you can do this.
 
 </p><ul>
-	<li>Review the WordPress plugin or code on your site or on your blog. If you do, <a href="http://www.garygale.com/" target="_blank">drop me an email</a> so I can say "<em>thanks</em>".</li>
+	<li>Review the WordPress plugin or code on your site or on your blog. If you do, <a href="https://www.garygale.com/" target="_blank">drop me an email</a> so I can say "<em>thanks</em>".</li>
 	<li>Make a donation using PayPal using the button below.</li>
 </ul>
 
@@ -37,4 +37,4 @@ There's no compulsion for you to do either of these things; they're just options
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Finally, all of the code described on these pages is released under an open source license, either the GPL or the BSD license and the code lives over on <a href="http://github.com/vicchi">GitHub</a> where each repository describes the license, either in the README or in one of the source files themselves.</body></html>
+Finally, all of the code described on these pages is released under an open source license, either the GPL or the BSD license and the code lives over on <a href="https://github.com/vicchi">GitHub</a> where each repository describes the license, either in the README or in one of the source files themselves.</body></html>

@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2zvja7K)  
+Today's maps found on the interwebs. ![](https://ift.tt/2zvja7K)  
   
 
 America votes Democrat but elects Republicans, and it's all thanks to how the country is divided up. Even if gerrymandering dies in court, Americans must still live with the the plain fact that every state gets the same number of senators. But what if things were different?  
   
 
-Found at [http://ift.tt/2zvLo2z](http://ift.tt/2zvLo2z "http://ift.tt/2zvLo2z")
+Found at [https://ift.tt/2zvLo2z](https://ift.tt/2zvLo2z "https://ift.tt/2zvLo2z")
 
 
 

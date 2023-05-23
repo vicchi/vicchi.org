@@ -15,9 +15,9 @@ When I'm working on a Windows machine I like to keep *Task Manager* running mini
 
 When this happens, which is a fairly common occurence, Task Manager's *Processes tab* will normally point a finger at the culprit process, which is all well and good if I see a process like **firefox.exe** soaking up all the resources it can but if the process name isn't as intuitive how can you tell if this process needs to be killed or restarted?
 
-Whilst a Google search is always worthwhile, a combination of [What Process?](http://www.what-process.com/ "What Process?") and Greatis' [Startup Programs Database](http://greatis.com/appdata/ "Application Database") have proved indispensible in the past. Whilst What Process? can be as apocryphal as the Wikipedia the combination of the two sites have yet to fail me.
+Whilst a Google search is always worthwhile, a combination of [What Process?](https://www.what-process.com/ "What Process?") and Greatis' [Startup Programs Database](https://greatis.com/appdata/ "Application Database") have proved indispensible in the past. Whilst What Process? can be as apocryphal as the Wikipedia the combination of the two sites have yet to fail me.
 
-As a nice side effect, checking all of your running processes against the Startup Programs Database can dramatically increase the startup speed of your Windows machine. For example, if you've got a version of Java installed, then you've probably got a copy of [**jusched.exe**](http://www.greatis.com/appdata/a/j/jusched.exe.htm "http://www.greatis.com/appdata/a/j/jusched.exe.htm") running to check for updates; if you'd prefer to check manually then this process can be prevented from starting at boot time without any problem.
+As a nice side effect, checking all of your running processes against the Startup Programs Database can dramatically increase the startup speed of your Windows machine. For example, if you've got a version of Java installed, then you've probably got a copy of [**jusched.exe**](https://www.greatis.com/appdata/a/j/jusched.exe.htm "https://www.greatis.com/appdata/a/j/jusched.exe.htm") running to check for updates; if you'd prefer to check manually then this process can be prevented from starting at boot time without any problem.
 
 
 

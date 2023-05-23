@@ -16,11 +16,11 @@ geo_lat: 51.427051
 
 
 Judging by comments to this blog post, on Twitter and on Google Plus, the consensus seems to be that yes, Apple is using OSM data from 2010 outside of the US; inside of the US it's (probably) TIGER data and no, there doesn't seem to be attribution and Apple may well be getting a communiqué from OSM to that effect. Other sources of information on this include
-* The [iPhoto for iOS Not Using Google Maps thread](http://lists.openstreetmap.org/pipermail/talk/2012-March/062202.html "http://lists.openstreetmap.org/pipermail/talk/2012-March/062202.html") on the OSM-Talk mailing list
-* [Iván Sánchez Ortega](https://twitter.com/#!/realivansanchez "https://twitter.com/#!/realivansanchez") has put up a nice [map comparison](http://ivan.sanchezortega.es/leaflet-apple.php "http://ivan.sanchezortega.es/leaflet-apple.php") between OSM and iPhoto's map tiles.
-* There's also [another comparison](http://www.refnum.com/tmp/apple.html "http://www.refnum.com/tmp/apple.html") between Apple's, OSM's and Google's map tiles.
-* [Jonas. K](https://twitter.com/#!/jokru "https://twitter.com/#!/jokru") has put up a [blog post](http://jokru.tumblr.com/post/18929681613 "http://jokru.tumblr.com/post/18929681613") which comes right out and says that iPhoto is using OSM and other public domain mapping sources.
-* Finally, as a nice touch, this post seems to have made it into [OSM Community Blogs](http://blogs.openstreetmap.org/ "http://blogs.openstreetmap.org/").
+* The [iPhoto for iOS Not Using Google Maps thread](https://lists.openstreetmap.org/pipermail/talk/2012-March/062202.html "https://lists.openstreetmap.org/pipermail/talk/2012-March/062202.html") on the OSM-Talk mailing list
+* [Iván Sánchez Ortega](https://twitter.com/#!/realivansanchez "https://twitter.com/#!/realivansanchez") has put up a nice [map comparison](https://ivan.sanchezortega.es/leaflet-apple.php "https://ivan.sanchezortega.es/leaflet-apple.php") between OSM and iPhoto's map tiles.
+* There's also [another comparison](https://www.refnum.com/tmp/apple.html "https://www.refnum.com/tmp/apple.html") between Apple's, OSM's and Google's map tiles.
+* [Jonas. K](https://twitter.com/#!/jokru "https://twitter.com/#!/jokru") has put up a [blog post](https://jokru.tumblr.com/post/18929681613 "https://jokru.tumblr.com/post/18929681613") which comes right out and says that iPhoto is using OSM and other public domain mapping sources.
+* Finally, as a nice touch, this post seems to have made it into [OSM Community Blogs](https://blogs.openstreetmap.org/ "https://blogs.openstreetmap.org/").
 
 <!-- TEASER_END -->
 
@@ -36,7 +36,7 @@ Ever since the launch of the original iPhone, for Apple that look and feel of th
 
 Maybe that time has now come, for iPhoto on iOS at least. Take a look at the screen grabs above. These maps aren't, at least at face value, Google's. The map style isn't Google's and even more interestingly, there's no immediately apparent copyright or brand notice anywhere on the map. Is this Apple's new map or is it another map provider's under a license that doesn't need branding?
 
-Thanks must go to follow Nokian [Andrea Trasatti](https://twitter.com/#!/andreatrasatti "https://twitter.com/#!/andreatrasatti") for spotting this on [MacRumors](http://forums.macrumors.com/showthread.php?t=1335588 "http://forums.macrumors.com/showthread.php?t=1335588"); there's also commentary on this over at [512 Pixels](http://512pixels.net/iphoto-for-ios-not-using-google-maps/ "http://512pixels.net/iphoto-for-ios-not-using-google-maps/") as well.
-Photo Credits courtesy of [MacRumors](http://forums.macrumors.com/showthread.php?t=1335588 "http://forums.macrumors.com/showthread.php?t=1335588").
+Thanks must go to follow Nokian [Andrea Trasatti](https://twitter.com/#!/andreatrasatti "https://twitter.com/#!/andreatrasatti") for spotting this on [MacRumors](https://forums.macrumors.com/showthread.php?t=1335588 "https://forums.macrumors.com/showthread.php?t=1335588"); there's also commentary on this over at [512 Pixels](https://512pixels.net/iphoto-for-ios-not-using-google-maps/ "https://512pixels.net/iphoto-for-ios-not-using-google-maps/") as well.
+Photo Credits courtesy of [MacRumors](https://forums.macrumors.com/showthread.php?t=1335588 "https://forums.macrumors.com/showthread.php?t=1335588").
 
 

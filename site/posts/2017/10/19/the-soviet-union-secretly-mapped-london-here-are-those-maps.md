@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2yvMg91)  
+Today's maps found on the interwebs. ![](https://ift.tt/2yvMg91)  
   
 
 After the Soviet Union crumbled in the early 1990s, something altogether eerie was discovered. Hundreds and thousand of maps of countries and cities throughout the world had been drawn up by Soviet cartographers, and annotated — often in exacting detail — using Cyrillic script.  
   
 
-Found at [http://ift.tt/2zuiBv0](http://ift.tt/2zuiBv0 "http://ift.tt/2zuiBv0")
+Found at [https://ift.tt/2zuiBv0](https://ift.tt/2zuiBv0 "https://ift.tt/2zuiBv0")
 
 
 

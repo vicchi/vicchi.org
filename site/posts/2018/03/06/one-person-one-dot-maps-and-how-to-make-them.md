@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://www.maartenlambrechts.com/assets/images/dots/trump_choropleth.jpg)  
+Today's maps found on the interwebs. ![](https://www.maartenlambrechts.com/assets/images/dots/trump_choropleth.jpg)  
   
 
 A couple of days ago, one of my favorite cartographers, Esri’s John Nelson declared his love for dot density maps. I like dot density maps too, but never really thought through why.  
   
 
-Found at [http://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html](http://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html "http://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html")
+Found at [https://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html](https://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html "https://www.maartenlambrechts.com/2018/02/13/one-person-one-dot-maps-and-how-to-make-them.html")
 
 
 

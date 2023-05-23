@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2zkXESv)  
+Today's maps found on the interwebs. ![](https://ift.tt/2zkXESv)  
   
 
 Hundreds of mysterious structures have been discovered on ancient lava domes in Saudi Arabia by an archaeologist using Google Earth. But the structures found by Mr Kennedy are unlike any before them.  
   
 
-Found at [http://ift.tt/2yspsrp](http://ift.tt/2yspsrp "http://ift.tt/2yspsrp")
+Found at [https://ift.tt/2yspsrp](https://ift.tt/2yspsrp "https://ift.tt/2yspsrp")
 
 
 

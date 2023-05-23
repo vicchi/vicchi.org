@@ -17,7 +17,7 @@ So much of what appears on today's digital maps is crowdsourced. Whether it's a 
 
 <!-- TEASER_END -->
 
-Next week at the the [British Cartographic Society](http://www.cartography.org.uk/ "http://www.cartography.org.uk/")'s and [Society of Cartographers](http://www.soc.org.uk/index.htm "http://www.soc.org.uk/index.htm")' [Mapping Together](http://www.soc.org.uk/mappingtogether/programme.html "http://www.soc.org.uk/mappingtogether/programme.html") conference crowdsourcing a set of maps to critique is exactly what's going to happen. 
+Next week at the the [British Cartographic Society](https://www.cartography.org.uk/ "https://www.cartography.org.uk/")'s and [Society of Cartographers](https://www.soc.org.uk/index.htm "https://www.soc.org.uk/index.htm")' [Mapping Together](https://www.soc.org.uk/mappingtogether/programme.html "https://www.soc.org.uk/mappingtogether/programme.html") conference crowdsourcing a set of maps to critique is exactly what's going to happen. 
 
 The idea is hopefully a simple one. We're asking people to suggest a map. It can be a good map, it can be a howlingly bad map or it can just be a favourite map. All the submissions will then be put together and shown to an unsuspecting panel of cartographers who will then critique them on the fly, there and then, with no preparation whatsoever.
 
@@ -25,9 +25,9 @@ I'll be chairing the whole process and unleashing the map submissions on both [K
 
 You can take part too but submitting a map, but don't do it publicly. Send me a mail with the details of your map to [gromit@soc.org.uk](mailto:gromit@soc.org.uk "mailto:gromit@soc.org.uk").
 
-Each year, the Society of Cartographers announces the [Wallis Award](http://www.soc.org.uk/wallis.htm "http://www.soc.org.uk/wallis.htm") for *excellence in cartography*. This year, with tongues firmly in cheek, we'll be announcing the [Gromit Award](http://www.soc.org.uk/mappingtogether/awards.html#soc "http://www.soc.org.uk/mappingtogether/awards.html#soc") for the best of the worst cartography we can get our hands on.
+Each year, the Society of Cartographers announces the [Wallis Award](https://www.soc.org.uk/wallis.htm "https://www.soc.org.uk/wallis.htm") for *excellence in cartography*. This year, with tongues firmly in cheek, we'll be announcing the [Gromit Award](https://www.soc.org.uk/mappingtogether/awards.html#soc "https://www.soc.org.uk/mappingtogether/awards.html#soc") for the best of the worst cartography we can get our hands on.
 
-It should be a lot of fun and with your help it probably will be. No prizes will be given to anyone who works out the [connection](http://www.wallaceandgromit.com/ "http://www.wallaceandgromit.com/") between the Gromit award and the Wallis Award.
+It should be a lot of fun and with your help it probably will be. No prizes will be given to anyone who works out the [connection](https://www.wallaceandgromit.com/ "https://www.wallaceandgromit.com/") between the Gromit award and the Wallis Award.
 
 
 

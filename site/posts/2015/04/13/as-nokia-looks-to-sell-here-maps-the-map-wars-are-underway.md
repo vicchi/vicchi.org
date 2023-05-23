@@ -9,9 +9,9 @@ type: text
 has_math: no
 status: published
 
-Last month, in response to the news that Uber had acquired LBS platform provider deCarta, Marc Prioleau penned an article asking [is this the start of a mapping war](http://prioleauadv.com/archives/598 "http://prioleauadv.com/archives/598")?
+Last month, in response to the news that Uber had acquired LBS platform provider deCarta, Marc Prioleau penned an article asking [is this the start of a mapping war](https://prioleauadv.com/archives/598 "https://prioleauadv.com/archives/598")?
 
-A few days ago, Bloomberg announced news that [Nokia is looking to sell off HERE](http://www.bloomberg.com/news/articles/2015-04-10/nokia-said-to-weigh-sale-of-maps-business-to-focus-on-networks "http://www.bloomberg.com/news/articles/2015-04-10/nokia-said-to-weigh-sale-of-maps-business-to-focus-on-networks"), the maps business forged from the, sometimes unwilling, union of NAVTEQ and Nokia's Ovi Maps. Potential buyers for HERE include ... *Uber*.
+A few days ago, Bloomberg announced news that [Nokia is looking to sell off HERE](https://www.bloomberg.com/news/articles/2015-04-10/nokia-said-to-weigh-sale-of-maps-business-to-focus-on-networks "https://www.bloomberg.com/news/articles/2015-04-10/nokia-said-to-weigh-sale-of-maps-business-to-focus-on-networks"), the maps business forged from the, sometimes unwilling, union of NAVTEQ and Nokia's Ovi Maps. Potential buyers for HERE include ... *Uber*.
 
 This looks like either a skirmish before an all out map war offensive or this is the start of that mapping war.
 
@@ -23,7 +23,7 @@ But why would a mobile car booking application want to buy another mapping platf
 
 This isn't the first time this has happened in the maps and location industry. In 2009, Google dropped TeleAtlas (now owned by TomTom) in favour of their own map data, gleaned from their Street View project. Although this was initially in the US only, Google has since expanded their own global map outside of the United States. As with Uber, Google sees the value in owning as much of the location platform, including the data, as they can.
 
-Although buying your own location data provider doesn't come cheap it also isn't prohibitively expensive either. Consider that in 2007 Nokia acquired NAVTEQ for a reported $8.1 billion. In August of 2014, [unnamed analysts valued HERE at $6 billion](http://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html "http://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html") should Nokia look to sell of that part of the business. Now Bloomberg are citing a valuation for HERE at around $2.1 billion. Now consider that Uber is thought to have a war chest of just under $6 billion. Even if paying the asking price, Uber will be able to write a cheque for HERE with relative ease.
+Although buying your own location data provider doesn't come cheap it also isn't prohibitively expensive either. Consider that in 2007 Nokia acquired NAVTEQ for a reported $8.1 billion. In August of 2014, [unnamed analysts valued HERE at $6 billion](https://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html "https://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html") should Nokia look to sell of that part of the business. Now Bloomberg are citing a valuation for HERE at around $2.1 billion. Now consider that Uber is thought to have a war chest of just under $6 billion. Even if paying the asking price, Uber will be able to write a cheque for HERE with relative ease.
 
 Of course, Uber may not end up owning HERE. There are other potential buyers with equally large war chests and that's before you look at private equity firms.
 
@@ -42,5 +42,5 @@ Only time will tell, but I predict that these times are going to get a whole lot
 *Disclaimer: I worked at Nokia Maps and subsequently HERE Maps between 2010 and 2013 and remain a Nokia shareholder; no insider secrets were divulged or harmed in the writing of this post.*
 
 
-Keep Calm and Make Maps via the [Keep Calm-o-Matic](http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-make-maps/ "http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-make-maps/").
+Keep Calm and Make Maps via the [Keep Calm-o-Matic](https://www.keepcalm-o-matic.co.uk/p/keep-calm-and-make-maps/ "https://www.keepcalm-o-matic.co.uk/p/keep-calm-and-make-maps/").
 

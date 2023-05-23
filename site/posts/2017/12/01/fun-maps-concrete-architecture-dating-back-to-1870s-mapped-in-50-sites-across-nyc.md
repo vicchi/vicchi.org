@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2zUKArK)  
+Today's maps found on the interwebs. ![](https://ift.tt/2zUKArK)  
   
 
 As most New Yorkers know, the five boroughs are filled with impressive architecture, but few have paid particular attention to the material used to create it.  
   
 
-Found at [http://ift.tt/2j7OD9F](http://ift.tt/2j7OD9F "http://ift.tt/2j7OD9F")
+Found at [https://ift.tt/2j7OD9F](https://ift.tt/2j7OD9F "https://ift.tt/2j7OD9F")
 
 
 

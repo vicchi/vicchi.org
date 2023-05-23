@@ -20,7 +20,7 @@ Lumped in with my father's posessions were also some things from my childhood wh
 
 At the weekend, I had another clear out and came across some jigsaws I had when I was around 8 or so years old.
 
-[![8440178739_e0f98e011f_b](/wp-content/uploads/2013/02/8440178739_e0f98e011f_b.jpg)](http://www.flickr.com/photos/vicchi/8440178739/in/photostream/ "http://www.flickr.com/photos/vicchi/8440178739/in/photostream/")
+[![8440178739_e0f98e011f_b](/wp-content/uploads/2013/02/8440178739_e0f98e011f_b.jpg)](https://www.flickr.com/photos/vicchi/8440178739/in/photostream/ "https://www.flickr.com/photos/vicchi/8440178739/in/photostream/")
 
 Maps jigsaws from the early 1970's of Australia, the US, India and the UK; maybe I was a map nerd even as a child and just didn't know it then.
 

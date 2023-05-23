@@ -14,12 +14,12 @@
 -->
 
 <html><body><h2 id="page-title">
-	... which almost always ends up on GitHub. It's mostly <a href="http://profiles.wordpress.org/vicchi" target="_blank" rel="noopener">WordPress plugins</a> or experimentations with web maps. You'll find a selection below and you'll find the full list over on <a href="https://github.com/vicchi" target="_blank" rel="noopener">GitHub</a>.
+	... which almost always ends up on GitHub. It's mostly <a href="https://profiles.wordpress.org/vicchi" target="_blank" rel="noopener">WordPress plugins</a> or experimentations with web maps. You'll find a selection below and you'll find the full list over on <a href="https://github.com/vicchi" target="_blank" rel="noopener">GitHub</a>.
 <ul id="projects_list" class="row">
  	<li class="three columns">
 <div>
 <h3>
-				<a href="http://mapstraction.com" id="code-mxn"><small>Mapstraction</small></a></h3>
+				<a href="https://mapstraction.com" id="code-mxn"><small>Mapstraction</small></a></h3>
 </div></li>
  	<li class="three columns">
 <div>
@@ -49,7 +49,7 @@
  	<li class="three columns">
 <div>
 <h3>
-				<a href="http://maps.geotastic.org/" id="code-maps" target="_blank" rel="noopener"><small>maps.geotastic.org</small></a></h3>
+				<a href="https://maps.geotastic.org/" id="code-maps" target="_blank" rel="noopener"><small>maps.geotastic.org</small></a></h3>
 </div></li>
  	<li class="three columns">
 <div>

@@ -22,9 +22,9 @@ But something else has changed. Switching the other TV set we have on, the one t
 
 ... nothing. Because sometime yesterday the Crystal Palace transmitter finally switched off their analogue TV signal for London. It's digital all the way from now on, whether it's via cable, via satellite or via the digital terrestrial service that Crystal Palace is still broadcasting.
 
-Something else changed as well. With the analogue switch off, a precursor to today's broadband and the web as our prime source of information died. Pressing the text button on the TV remote no longer gives us the teletext services, the BBC's [Ceefax](http://en.wikipedia.org/wiki/Ceefax "http://en.wikipedia.org/wiki/Ceefax") and ITV's [Oracle](http://en.wikipedia.org/wiki/ORACLE_(teletext) "http://en.wikipedia.org/wiki/ORACLE_(teletext)"), that were tucked away in a hidden part of the analogue signal since the early 1970's. A piece of British information technology history is no more.
+Something else changed as well. With the analogue switch off, a precursor to today's broadband and the web as our prime source of information died. Pressing the text button on the TV remote no longer gives us the teletext services, the BBC's [Ceefax](https://en.wikipedia.org/wiki/Ceefax "https://en.wikipedia.org/wiki/Ceefax") and ITV's [Oracle](https://en.wikipedia.org/wiki/ORACLE_(teletext) "https://en.wikipedia.org/wiki/ORACLE_(teletext)"), that were tucked away in a hidden part of the analogue signal since the early 1970's. A piece of British information technology history is no more.
 
-[![](/wp-content/uploads/2012/04/Ceefax.png "Ceefax")](http://en.wikipedia.org/wiki/Ceefax "http://en.wikipedia.org/wiki/Ceefax")
+[![](/wp-content/uploads/2012/04/Ceefax.png "Ceefax")](https://en.wikipedia.org/wiki/Ceefax "https://en.wikipedia.org/wiki/Ceefax")
 
 Thankfully our other TV set is capable of receiving the digital terrestrial service and a quick retune later, sound and vision is restored.
 

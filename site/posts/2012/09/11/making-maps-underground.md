@@ -12,7 +12,7 @@ geo_place: the Arcotel Velvet, Oranienburger Straße, Berlin
 geo_lng: 13.38834
 geo_lat: 52.52602
 
-Warning. This post contains a sweeping generalisation. Yes, I know that Places are not just part of today's digital maps; see the [James Fee](https://twitter.com/cageyjames "https://twitter.com/cageyjames") and [Tyler Bell](https://twitter.com/twbell "https://twitter.com/twbell") hangout *[The One Where Tyler Bell Defines Big Data](http://vtny.org/kr "http://vtny.org/kr")* as a proof point. But for the sake of this post, just assume that Places and maps are synonymous.
+Warning. This post contains a sweeping generalisation. Yes, I know that Places are not just part of today's digital maps; see the [James Fee](https://twitter.com/cageyjames "https://twitter.com/cageyjames") and [Tyler Bell](https://twitter.com/twbell "https://twitter.com/twbell") hangout *[The One Where Tyler Bell Defines Big Data](https://vtny.org/kr "https://vtny.org/kr")* as a proof point. But for the sake of this post, just assume that Places and maps are synonymous.
 
 It's never been easier to make a map. Correction. It's never been easier to contribute to a map. Today we seem to be ~~making~~contributing to maps everywhere, even underground, or should I say Underground?
 
@@ -20,7 +20,7 @@ To ~~make~~contribute to a map, you used to have to be a professional map maker,
 
 <!-- TEASER_END -->
 
-Then came the notion of community mapping. Be it [OpenStreetMap](http://www.openstreetmap.org/ "http://www.openstreetmap.org/"), Navteq's and Nokia's [Map Creator](http://blog.maps.nokia.com/maps-nokia-com/introducing-nokia-map-creator "http://blog.maps.nokia.com/maps-nokia-com/introducing-nokia-map-creator") or Google's [Map Maker](http://www.google.com/mapmaker "http://www.google.com/mapmaker"), anyone armed with a GPS enabled smartphone, hell, anyone without a GPS, could help make a map.
+Then came the notion of community mapping. Be it [OpenStreetMap](https://www.openstreetmap.org/ "https://www.openstreetmap.org/"), Navteq's and Nokia's [Map Creator](https://blog.maps.nokia.com/maps-nokia-com/introducing-nokia-map-creator "https://blog.maps.nokia.com/maps-nokia-com/introducing-nokia-map-creator") or Google's [Map Maker](https://www.google.com/mapmaker "https://www.google.com/mapmaker"), anyone armed with a GPS enabled smartphone, hell, anyone without a GPS, could help make a map.
 
 [![](/wp-content/uploads/2012/09/IMG_0387.png "Foursquare On The Tube")](/wp-content/uploads/2012/09/IMG_0387.png "/wp-content/uploads/2012/09/IMG_0387.png")
 

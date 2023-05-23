@@ -23,9 +23,9 @@ This map however, is not a pointer *to* riches, instead it's made *of* riches.
 
 <!-- TEASER_END -->
 
-[![chrischamberlainjeweloftheuniverse1](/wp-content/uploads/2013/02/chrischamberlainjeweloftheuniverse1.jpeg)](http://www.jeweloftheuniverse.net/ "http://www.jeweloftheuniverse.net/")
+[![chrischamberlainjeweloftheuniverse1](/wp-content/uploads/2013/02/chrischamberlainjeweloftheuniverse1.jpeg)](https://www.jeweloftheuniverse.net/ "https://www.jeweloftheuniverse.net/")
 
-I've written before about [maps as art](/2012/11/01/the-maps-as-art-debate/ "/2012/11/01/the-maps-as-art-debate/"), but this is both a map, a work of art and the map as art and with a tip of the hat to [Sitaram Shastri](https://twitter.com/seetu/status/305558612166713345 "https://twitter.com/seetu/status/305558612166713345") for the heads up. Check out [jeweloftheuniverse.net](http://www.jeweloftheuniverse.net/ "http://www.jeweloftheuniverse.net/") for loads [more pictures](http://www.jeweloftheuniverse.net/pages/gallery.html "http://www.jeweloftheuniverse.net/pages/gallery.html") of this gorgeous map.
+I've written before about [maps as art](/2012/11/01/the-maps-as-art-debate/ "/2012/11/01/the-maps-as-art-debate/"), but this is both a map, a work of art and the map as art and with a tip of the hat to [Sitaram Shastri](https://twitter.com/seetu/status/305558612166713345 "https://twitter.com/seetu/status/305558612166713345") for the heads up. Check out [jeweloftheuniverse.net](https://www.jeweloftheuniverse.net/ "https://www.jeweloftheuniverse.net/") for loads [more pictures](https://www.jeweloftheuniverse.net/pages/gallery.html "https://www.jeweloftheuniverse.net/pages/gallery.html") of this gorgeous map.
 
 
 

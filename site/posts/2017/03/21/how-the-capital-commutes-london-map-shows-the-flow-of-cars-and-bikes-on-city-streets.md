@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2nPGebH)  
+Today's maps found on the interwebs. ![](https://ift.tt/2nPGebH)  
   
 
 Many of London's streets are highly polluted and this harmful air is said to contribute to thousands of deaths each year. At the heart of the problem is the vast range of vehicles on the capital's roads.  
   
 
-Found at [http://ift.tt/2nvmEEd](http://ift.tt/2nvmEEd "http://ift.tt/2nvmEEd")
+Found at [https://ift.tt/2nvmEEd](https://ift.tt/2nvmEEd "https://ift.tt/2nvmEEd")
 
 
 

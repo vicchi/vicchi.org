@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2zBciZB)  
+Today's maps found on the interwebs. ![](https://ift.tt/2zBciZB)  
   
 
 The EarthWindMap not only animates our homeworld's air currents, but you can drag, zoom and warp the view to create unique projections of its surface.  
   
 
-Found at [http://ift.tt/2hxRJ9o](http://ift.tt/2hxRJ9o "http://ift.tt/2hxRJ9o")
+Found at [https://ift.tt/2hxRJ9o](https://ift.tt/2hxRJ9o "https://ift.tt/2hxRJ9o")
 
 
 

@@ -22,7 +22,7 @@ But most of these lines of meaning are ignored by the fellow denizens of our pla
 
 But put a big mass of water in the way, like the English Channel (or *La Manche* as our French neighbours say) and travel much more slowly, say on a ferry and something much more *interesting* happens.
 
-[![Halfway Between England and France](http://farm5.static.flickr.com/4082/4868395211_a53c4d2863_d.jpg)](http://www.flickr.com/photos/vicchi/4868395211/ "Halfway Between England and France")
+[![Halfway Between England and France](https://farm5.static.flickr.com/4082/4868395211_a53c4d2863_d.jpg)](https://www.flickr.com/photos/vicchi/4868395211/ "Halfway Between England and France")
 
 Roughly half way across the Channel and the French mobile signals weaken and signal strength starts to drop off. At the same time, the first faint signals from their UK counterparts start to gain in strength and, if you're watching carefully, your mobile gets confused for about 5 minutes, swapping back and forth between UK and French networks until, as you get closer to Dover, the UK signal strength overwhelms the French ones. If you're watching carefully, you can see it happen, right before your eyes. If it helps, it's like another, technological border and your mobile phone is the passport, allowing you passage from a French roaming network back to your UK home network.
 

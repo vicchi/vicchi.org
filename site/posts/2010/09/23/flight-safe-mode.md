@@ -20,11 +20,11 @@ This makes sense; in the case of an emergency, the airline wants you concentrati
 
 The bit about the flight safe mode is certainly the case with Virgin Atlantic, Lufthansa and KLM, all of which I've flown with of recent. But British Airways seems to be taking this one step beyond, now insisting that not only do you switch things off but for mobiles, you enable flight safe mode and *then* switch it off as well into the bargain.
 
-[![Broken](http://farm4.static.flickr.com/3153/2977363615_bc164e2a2d_d.jpg)](http://www.flickr.com/photos/kozumel/2977363615/ "Broken")
+[![Broken](https://farm4.static.flickr.com/3153/2977363615_bc164e2a2d_d.jpg)](https://www.flickr.com/photos/kozumel/2977363615/ "Broken")
 
 Isn't this taking things just a bit too far in the name of safety? It's called flight safe mode for a reason. It's safe. For flights. How much further will BA take this? "*Please engage flight safe mode, switch the phone off, take the battery out and then, after placing the device on the floor, smash it with your heel and place the fragments in the bag provided taking care not to injure yourself*".
 
 
-Photo Credits: [Camilo Rueda Lopez](http://www.flickr.com/photos/kozumel/2977363615/ "http://www.flickr.com/photos/kozumel/2977363615/") on Flickr.
+Photo Credits: [Camilo Rueda Lopez](https://www.flickr.com/photos/kozumel/2977363615/ "https://www.flickr.com/photos/kozumel/2977363615/") on Flickr.
 
 

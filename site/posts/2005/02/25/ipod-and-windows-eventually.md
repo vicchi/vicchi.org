@@ -29,7 +29,7 @@ Standard Caveat
 ---------------
 
 
-I'm no Windows expert; indeed I spend almost all of my time using some version of UNIX. With this in mind, what I've documented here worked for me, and I came out of it reasonably unscathed, both mentally, in hardware and in software.  [YMMV.](http://www.catb.org/%7Eesr/jargon/html/Y/YMMV.html "http://www.catb.org/%7Eesr/jargon/html/Y/YMMV.html")
+I'm no Windows expert; indeed I spend almost all of my time using some version of UNIX. With this in mind, what I've documented here worked for me, and I came out of it reasonably unscathed, both mentally, in hardware and in software.  [YMMV.](https://www.catb.org/%7Eesr/jargon/html/Y/YMMV.html "https://www.catb.org/%7Eesr/jargon/html/Y/YMMV.html")
 Installing iTunes and the iPod
 ------------------------------
 
@@ -51,7 +51,7 @@ So I reconnected the iPod and this was where my problems started. The first time
 
 Again following the troubleshooting section of the manual, I reformatted the iPod and tried again; this time with even less luck as the iPod wasn't recognised by Windows or by iTunes.
 
-Checking on Apple's [web site](http://www.apple.com/uk/ipod/download/ "http://www.apple.com/uk/ipod/download/") I found there were updated versions of iTunes, version 4.6, and the iPod system software, Update 2004-04-28. I downloaded these and installed them. I also checked, both via Windows Udpdate and via Device Manager that I had the latest USB drivers.
+Checking on Apple's [web site](https://www.apple.com/uk/ipod/download/ "https://www.apple.com/uk/ipod/download/") I found there were updated versions of iTunes, version 4.6, and the iPod system software, Update 2004-04-28. I downloaded these and installed them. I also checked, both via Windows Udpdate and via Device Manager that I had the latest USB drivers.
 
 As it turns out, I would have needed the update to iTunes anyway as the version supplied with the iPod wasn't compatible with the current version of iTMS.
 
@@ -59,7 +59,7 @@ The updates sort of worked, sometimes, but by no means all the time. I've lost t
 
 There didn't appear to be a consistent pattern to the problems. Sometimes it worked fine, sometimes it didn't, sometimes the iPod was recognised in iTunes, sometimes the iPod was recognised by Windows. Most of the time it wasn't.
 
-I googled for a solution, searched Apple's [support site](http://www.apple.com/uk/support/itunes/windows/ "http://www.apple.com/uk/support/itunes/windows/") and the forums at [ipodlounge](http://www.ipodlounge.com/ "http://www.ipodlounge.com/"). People had definately had problems with the iPod under Windows but there was nothing that I could see that described the exact, erratic, symptoms that I was experiencing.
+I googled for a solution, searched Apple's [support site](https://www.apple.com/uk/support/itunes/windows/ "https://www.apple.com/uk/support/itunes/windows/") and the forums at [ipodlounge](https://www.ipodlounge.com/ "https://www.ipodlounge.com/"). People had definately had problems with the iPod under Windows but there was nothing that I could see that described the exact, erratic, symptoms that I was experiencing.
 
 Frustrated, I decided to take a break. With the iPod still connected I fired up my VPN connection to work and started up OutLook and suddenly the penny started to drop.
 A Moment of Clarity

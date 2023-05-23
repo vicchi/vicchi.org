@@ -16,7 +16,7 @@ Back in July, I wrote about [Big (Location) Data vs. My (Location) Data](/2012/0
 
 Once I'd given that talk, done the usual blog write up and posted it, I considered the topic done and dusted and I moved onto the next theme. But as it turns out, the topic was neither done, nor dusted.
 
-Firstly Eric van Rees from Geoinformatics magazine mailed me to say he'd liked the write up and would I consider crunching down 60 odd slides and 3000 odd words into a [750 word maximum column](http://vtny.org/kQ "http://vtny.org/kQ") for the next issue of the magazine.
+Firstly Eric van Rees from Geoinformatics magazine mailed me to say he'd liked the write up and would I consider crunching down 60 odd slides and 3000 odd words into a [750 word maximum column](https://vtny.org/kQ "https://vtny.org/kQ") for the next issue of the magazine.
 
 <!-- TEASER_END -->
 

@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/eA8V8J)  
+Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
   
 
 One of my favorite illustrators is eBoy (a collective of people from Germany and LA). They designed our Jackhammer Jill logo and did a cool Boing Boing shirt many years ago (I don't think it's available any longer).  
   
 
-Found at [http://ift.tt/2AwWMOV](http://ift.tt/2AwWMOV "http://ift.tt/2AwWMOV")
+Found at [https://ift.tt/2AwWMOV](https://ift.tt/2AwWMOV "https://ift.tt/2AwWMOV")
 
 
 

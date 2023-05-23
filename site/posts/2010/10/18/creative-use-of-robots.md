@@ -14,7 +14,7 @@ geo_lat: 51.427051
 
 I'm not talking about vaguely human looking machines here, the sort that crop up in Forbidden Planet and Lost In Space, waving their metal arms and saying things like "*Danger Will Robinson*". What I'm talking about is a small file called robots.txt.
 
-[![T is for Tofu Robot](http://farm3.static.flickr.com/2185/2385041554_5a3f940c6c_d.jpg)](http://www.flickr.com/photos/donsolo/2385041554/ "T is for Tofu Robot")
+[![T is for Tofu Robot](https://farm3.static.flickr.com/2185/2385041554_5a3f940c6c_d.jpg)](https://www.flickr.com/photos/donsolo/2385041554/ "T is for Tofu Robot")
 
 If you run your own web server you probably have one of these. It tells the web robots sent out by the search engines, such as Google, Yahoo! and Bing, what pages on your web site should and shouldn't be indexed and searchable. This doesn't mean that those pages can't be viewed, just that they shouldn't be able to be searched for.
 
@@ -37,7 +37,7 @@ Disallow: /home/scotland/
 ```
 
 
-Sometimes the lines between a metal robot and the robots.txt file gets blurred; [yelp.com](http://yelp.com "http://yelp.com")'s robots.txt file starts with the famous Three Laws Of Robotics that Isaac Asimov wrote about back in 1942.
+Sometimes the lines between a metal robot and the robots.txt file gets blurred; [yelp.com](https://yelp.com "https://yelp.com")'s robots.txt file starts with the famous Three Laws Of Robotics that Isaac Asimov wrote about back in 1942.
 
 ```
 #
@@ -57,7 +57,7 @@ Disallow: /advertise?
 Disallow: /biz_share?
 ```
 
-Social music site [last.fm](http://last.fm "http://last.fm") has taken this one step further and represents Asimov's laws as faked URLs on their web site.
+Social music site [last.fm](https://last.fm "https://last.fm") has taken this one step further and represents Asimov's laws as faked URLs on their web site.
 
 ```
 User-Agent: *
@@ -71,7 +71,7 @@ And finally, in a particularly creative use of robots.txt, Scottish whisky brand
 
 [![](/wp-content/uploads/2010/10/WhyteAndMackayRobots.jpg "WhyteAndMackayRobots")](/wp-content/uploads/2010/10/WhyteAndMackayRobots.jpg "/wp-content/uploads/2010/10/WhyteAndMackayRobots.jpg")
 
-An SEO nod of the hat must go to [Tyler Bell](http://twitter.com/twbell "http://twitter.com/twbell") for spotting the robots.txt file on yelp.com and Malcolm Coles for the [Daily Mail](http://www.malcolmcoles.co.uk/blog/seo-job-mail-robots/ "http://www.malcolmcoles.co.uk/blog/seo-job-mail-robots/") and [Whyte & Mackay](http://www.malcolmcoles.co.uk/blog/whisky-hidden-in-robots-txt-file/ "http://www.malcolmcoles.co.uk/blog/whisky-hidden-in-robots-txt-file/") robots.txt gems.
-Photo Credits: [Don Solo](http://www.flickr.com/photos/donsolo/2385041554/ "http://www.flickr.com/photos/donsolo/2385041554/") on Flickr.
+An SEO nod of the hat must go to [Tyler Bell](https://twitter.com/twbell "https://twitter.com/twbell") for spotting the robots.txt file on yelp.com and Malcolm Coles for the [Daily Mail](https://www.malcolmcoles.co.uk/blog/seo-job-mail-robots/ "https://www.malcolmcoles.co.uk/blog/seo-job-mail-robots/") and [Whyte & Mackay](https://www.malcolmcoles.co.uk/blog/whisky-hidden-in-robots-txt-file/ "https://www.malcolmcoles.co.uk/blog/whisky-hidden-in-robots-txt-file/") robots.txt gems.
+Photo Credits: [Don Solo](https://www.flickr.com/photos/donsolo/2385041554/ "https://www.flickr.com/photos/donsolo/2385041554/") on Flickr.
 
 

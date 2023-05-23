@@ -16,7 +16,7 @@ Where you choose to live is always a trade off between the pros and the cons, th
 
 <!-- TEASER_END -->
 
-[![us_bad_NEW_7](/wp-content/uploads/2013/04/us_bad_NEW_7.png)](http://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment "http://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment")
+[![us_bad_NEW_7](/wp-content/uploads/2013/04/us_bad_NEW_7.png)](https://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment "https://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment")
 
 But who would have thought that the downside to having the most organic mushrooms is that your state has the most amount of dams in need of repair. Apparently, this is the case if you live in Pennsylvania.
 
@@ -28,6 +28,6 @@ A lot of the statistics, from sources including the U.S. Geological Survey, NASA
 
 
 
-Image Credits: [Mother Nature Network](http://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment "http://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment").
+Image Credits: [Mother Nature Network](https://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment "https://www.mnn.com/lifestyle/responsible-living/stories/infographic-united-states-of-the-environment").
 
 

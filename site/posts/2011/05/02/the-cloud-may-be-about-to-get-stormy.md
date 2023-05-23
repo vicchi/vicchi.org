@@ -18,13 +18,13 @@ I'm also, in some cases inadvertently, a reasonably prolific user of Cloud stora
 
 <!-- TEASER_END -->
 
-I don't, yet, store music in The Cloud but we're now starting to see so called music lockers being created for just that purpose. [Amazon](http://techcrunch.com/2011/03/28/amazon-cloud-drive-player/ "http://techcrunch.com/2011/03/28/amazon-cloud-drive-player/") have just started a music locker and [Apple](http://www.macrumors.com/2011/04/22/more-details-on-apples-cloud-based-music-locker/ "http://www.macrumors.com/2011/04/22/more-details-on-apples-cloud-based-music-locker/") are expected to follow soon. This is where the problems start.
+I don't, yet, store music in The Cloud but we're now starting to see so called music lockers being created for just that purpose. [Amazon](https://techcrunch.com/2011/03/28/amazon-cloud-drive-player/ "https://techcrunch.com/2011/03/28/amazon-cloud-drive-player/") have just started a music locker and [Apple](https://www.macrumors.com/2011/04/22/more-details-on-apples-cloud-based-music-locker/ "https://www.macrumors.com/2011/04/22/more-details-on-apples-cloud-based-music-locker/") are expected to follow soon. This is where the problems start.
 
-[![Storm Clouds Friday night](http://farm2.static.flickr.com/1351/1227601183_cb9d379fa3_d.jpg)](http://www.flickr.com/photos/peterjbaer/1227601183/ "Storm Clouds Friday night")
+[![Storm Clouds Friday night](https://farm2.static.flickr.com/1351/1227601183_cb9d379fa3_d.jpg)](https://www.flickr.com/photos/peterjbaer/1227601183/ "Storm Clouds Friday night")
 
 I don't need a license to store the data I currently store in The Cloud. I don't need to seek permission from software companies to store backups of applications I regularly use. *I just store them*. I don't need to seek permission from the manufacturers of the cameras which take the photos I store in The Cloud. *I just store them*. I don't need to seek permission from the companies whose software I use to create slide decks that I store in The Cloud. *I just store them*.
 
-But music is a whole lot more contentious and, if the record labels and other media organisations get their way, I may never end up storing my music in The Cloud. On the face of it, The Cloud is purpose made for The Cloud; upload my music, download it anywhere, stream it to any device. It should come as no surprise that the [record labels don't like this](http://techcrunch.com/2011/04/29/behind-the-scenes-record-labels-demands-from-amazon/ "http://techcrunch.com/2011/04/29/behind-the-scenes-record-labels-demands-from-amazon/").
+But music is a whole lot more contentious and, if the record labels and other media organisations get their way, I may never end up storing my music in The Cloud. On the face of it, The Cloud is purpose made for The Cloud; upload my music, download it anywhere, stream it to any device. It should come as no surprise that the [record labels don't like this](https://techcrunch.com/2011/04/29/behind-the-scenes-record-labels-demands-from-amazon/ "https://techcrunch.com/2011/04/29/behind-the-scenes-record-labels-demands-from-amazon/").
 
 Universal Music want only songs with digital receipts to be able to be uploaded to music lockers. Songs without such receipts would be considered unauthorised, including songs from CDs I own that I've ripped, songs purchased from retailers without such receipts, promotional songs without such receipts.
 
@@ -37,6 +37,6 @@ Amazon's music locker offering is built on the assumption that no additional lic
 Until then, I'll just keep my own music collection safe and secure on resources and devices I own and control. But for The Cloud in general and for music lockers specifically, the cloud seems to be distinctly stormy and threatening right now.
 
 
-Photo Credits: [Peter Baer](http://www.flickr.com/photos/peterjbaer/1227601183/ "http://www.flickr.com/photos/peterjbaer/1227601183/") on Flickr.
+Photo Credits: [Peter Baer](https://www.flickr.com/photos/peterjbaer/1227601183/ "https://www.flickr.com/photos/peterjbaer/1227601183/") on Flickr.
 
 

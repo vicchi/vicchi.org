@@ -12,7 +12,7 @@ geo_place: the British Airways First Lounge, San Francisco International Airport
 geo_lng: -122.3852
 geo_lat: 37.6140
 
-And so, as [Where 2012](http://whereconf.com/where2012 "http://whereconf.com/where2012") draws to a close and the lobby of the Marriott Marquis in San Francisco fills with a slew of geo'd-out delegates waiting to check out, it's time for the traditional post conference retrospective writeup. If you were at Where this year or in previous years you'll probably want to skip ahead to the next paragraph, right now. Where, previously called Where 2.0, is one of the annual maps, geo, location conferences. Though it's very Californian and eye wateringly expensive, it's still the place to go to talk, listen and announce anything related to the nebulous industry we call Geo.
+And so, as [Where 2012](https://whereconf.com/where2012 "https://whereconf.com/where2012") draws to a close and the lobby of the Marriott Marquis in San Francisco fills with a slew of geo'd-out delegates waiting to check out, it's time for the traditional post conference retrospective writeup. If you were at Where this year or in previous years you'll probably want to skip ahead to the next paragraph, right now. Where, previously called Where 2.0, is one of the annual maps, geo, location conferences. Though it's very Californian and eye wateringly expensive, it's still the place to go to talk, listen and announce anything related to the nebulous industry we call Geo.
 
 After skipping Where 2.0 last year, this year I returned as part of the Nokia contingent and found out that some things had changed.
 
@@ -36,7 +36,7 @@ This was most definitely a Nokia event. Not only were we Gold sponsors of the ev
 Meh 2.0 notwithstanding, it was also good to see several Yahoo! alumni for a long overdue catchup. Geo-beers may have been conspicuous by their absence, but geo-cocktails were very much apparent.
 
 Sadly, Yahoo! also provided probably the lowest point of the whole conference. Right slap bang in the middle of proceedings, Yahoo! announced yet another round of layoffs, culling almost 2000 employees. When this happens, the last place you want to be when you're waiting to hear whether you still have a job is at a conference and my heart just went out to my ex-colleagues who had to sit their, with a fixed smile on their face, as they waited to hear news from the Yahoo! mothership down in Sunnyvale.
-[![](/wp-content/uploads/2012/04/IMG_0023-e1333724451201-764x1024.jpg "Where 2012 Session Board")](http://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209 "http://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209")
+[![](/wp-content/uploads/2012/04/IMG_0023-e1333724451201-764x1024.jpg "Where 2012 Session Board")](https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209 "https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209")
 
 
 So, to recap, a mixed bag of events and emotions at this year's Where. Personally and professionally I think it was a great, team aided, success. Hopefully we'll all return next year to find the "wow" at Where is back and to put the "meh" firmly behind us.

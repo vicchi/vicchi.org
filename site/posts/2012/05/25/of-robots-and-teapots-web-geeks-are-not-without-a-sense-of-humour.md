@@ -14,7 +14,7 @@ geo_lat: 51.427051
 
 There's a line from the first Matrix movie, the only really good one out of the trilogy, where Morpheus says earnestly to Neo ... *fate, it seems, is not without a sense of irony*. It's time to add a corollary to this quote, along the lines of *web geeks, it seems, are not without a sense of humour*.
 
-Last year, it was the web geeks who run the web servers for Yelp and Last.fm sticking [Asimov's Three Laws of Robotics](http://en.wikipedia.org/wiki/Three_Laws_of_Robotics "http://en.wikipedia.org/wiki/Three_Laws_of_Robotics") into their [respective site's robots.txt file](/2010/10/18/creative-use-of-robots/ "/2010/10/18/creative-use-of-robots/"). Sadly, it looks like Yelp's robots.txt is now unfunny and businesslike, but Last.fm's subversion of this file is still there.
+Last year, it was the web geeks who run the web servers for Yelp and Last.fm sticking [Asimov's Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics") into their [respective site's robots.txt file](/2010/10/18/creative-use-of-robots/ "/2010/10/18/creative-use-of-robots/"). Sadly, it looks like Yelp's robots.txt is now unfunny and businesslike, but Last.fm's subversion of this file is still there.
 
 <!-- TEASER_END -->
 
@@ -36,7 +36,7 @@ But it seems like the BBC's web geeks also are not without a sense of humour. Ea
 > This code was defined in 1998 as one of the traditional IETF April Fools' jokes, in RFC 2324, Hyper Text Coffee Pot Control Protocol, and is not expected to be implemented by actual HTTP servers. However, known implementations do exist.
 
 
-[no, really](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes "http://en.wikipedia.org/wiki/List_of_HTTP_status_codes"). Take a look at the [BBC's CBeebies site](http://www.bbc.co.uk/cbeebies/418 "http://www.bbc.co.uk/cbeebies/418") if you don't believe me.
+[no, really](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"). Take a look at the [BBC's CBeebies site](https://www.bbc.co.uk/cbeebies/418 "https://www.bbc.co.uk/cbeebies/418") if you don't believe me.
 
 [![](/wp-content/uploads/2012/05/418-1024x749.jpg "418")](/wp-content/uploads/2012/05/418.jpg "/wp-content/uploads/2012/05/418.jpg")
 

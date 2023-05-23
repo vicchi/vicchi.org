@@ -12,13 +12,13 @@ geo_place: the Yahoo! London office
 geo_lng: -0.1292006
 geo_lat: 51.5141985
 
-In the midst of yesterday's I/O event, Google announced the launch of the long rumoured API for their [Latitude](http://www.google.com/intl/en_us/latitude/intro.html "http://www.google.com/intl/en_us/latitude/intro.html") location sharing platform; there's ample coverage and commentary on [ReadWriteWeb](http://www.readwriteweb.com/archives/google_provides_free_location_awareness_to_any_app_with_free_latitude_api.php "http://www.readwriteweb.com/archives/google_provides_free_location_awareness_to_any_app_with_free_latitude_api.php") and on [TechCrunch](http://techcrunch.com/2010/05/19/google-latitude-api/ "http://techcrunch.com/2010/05/19/google-latitude-api/") and that's just fine because that's not what I want to write about.
+In the midst of yesterday's I/O event, Google announced the launch of the long rumoured API for their [Latitude](https://www.google.com/intl/en_us/latitude/intro.html "https://www.google.com/intl/en_us/latitude/intro.html") location sharing platform; there's ample coverage and commentary on [ReadWriteWeb](https://www.readwriteweb.com/archives/google_provides_free_location_awareness_to_any_app_with_free_latitude_api.php "https://www.readwriteweb.com/archives/google_provides_free_location_awareness_to_any_app_with_free_latitude_api.php") and on [TechCrunch](https://techcrunch.com/2010/05/19/google-latitude-api/ "https://techcrunch.com/2010/05/19/google-latitude-api/") and that's just fine because that's not what I want to write about.
 
-When it was launched in early 2009, Latitude was the receipt of some fairly harsh press from the informed tech media and from the [uninformed](http://www.metro.co.uk/news/519982-fears-that-new-google-software-will-spy-on-workers "http://www.metro.co.uk/news/519982-fears-that-new-google-software-will-spy-on-workers") traditional media and I argued for some [latitude in the discussions](/2009/02/08/latitude-media-coverage-needs-more-latitude/ "/2009/02/08/latitude-media-coverage-needs-more-latitude/") on, err, Latitude.
+When it was launched in early 2009, Latitude was the receipt of some fairly harsh press from the informed tech media and from the [uninformed](https://www.metro.co.uk/news/519982-fears-that-new-google-software-will-spy-on-workers "https://www.metro.co.uk/news/519982-fears-that-new-google-software-will-spy-on-workers") traditional media and I argued for some [latitude in the discussions](/2009/02/08/latitude-media-coverage-needs-more-latitude/ "/2009/02/08/latitude-media-coverage-needs-more-latitude/") on, err, Latitude.
 
 <!-- TEASER_END -->
 
-Latitude kept on getting compared to Yahoo's [Fire Eagle](http://fireeagle.yahoo.net "http://fireeagle.yahoo.net") and the main gripes seemed to be:
+Latitude kept on getting compared to Yahoo's [Fire Eagle](https://fireeagle.yahoo.net "https://fireeagle.yahoo.net") and the main gripes seemed to be:
 
 
 1. Latitude is a consumer application built into Google Maps, not a platform
@@ -28,7 +28,7 @@ Latitude kept on getting compared to Yahoo's [Fire Eagle](http://fireeagle.yahoo
 
 So now Latitude has an API and everyone's happy. Right?
 
-[![Unofficial Google Latitude T-Shirt](http://farm4.static.flickr.com/3526/3253226650_73c1d59f42_d.jpg)](http://www.flickr.com/photos/blackbeltjones/3253226650/ "Unofficial Google Latitude T-Shirt")
+[![Unofficial Google Latitude T-Shirt](https://farm4.static.flickr.com/3526/3253226650_73c1d59f42_d.jpg)](https://www.flickr.com/photos/blackbeltjones/3253226650/ "Unofficial Google Latitude T-Shirt")
 
 Wrong. The previous gripes have been done away with and replaced with three more gripes.
 1. Latitude needs to run in the background and so will either drain battery life or won't run in the background on an iPhone at all.
@@ -45,6 +45,6 @@ There's a lot of inconsistency here.
 One of the criticisms that was levelled at Fire Eagle was lack of a definitive consumer application at launch; a not unfair criticism. Latitude's taken the inverse approach, launching with a consumer application and then opening up an API almost a year later.
 
 Time will tell which of these two location sharing platforms will dominate or whether they will be usurped by another unseen contender.
-Photo Credits: [moleitau](http://www.flickr.com/photos/blackbeltjones/3253226650/ "http://www.flickr.com/photos/blackbeltjones/3253226650/") on Flickr.
+Photo Credits: [moleitau](https://www.flickr.com/photos/blackbeltjones/3253226650/ "https://www.flickr.com/photos/blackbeltjones/3253226650/") on Flickr.
 
 

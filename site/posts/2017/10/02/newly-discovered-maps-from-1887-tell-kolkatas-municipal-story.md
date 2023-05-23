@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2wtnmTX)  
+Today's maps found on the interwebs. ![](https://ift.tt/2wtnmTX)  
   
 
 Almost a hundred years before satellite-based mapping made information available to people at their fingertips, a municipal survey done in Kolkata by British surveyors documented not only streets, houses, landmarks and water bodies but also trees, telegraph and telephone posts, urinals  
   
 
-Found at [http://ift.tt/2yjtp1L](http://ift.tt/2yjtp1L "http://ift.tt/2yjtp1L")
+Found at [https://ift.tt/2yjtp1L](https://ift.tt/2yjtp1L "https://ift.tt/2yjtp1L")
 
 
 

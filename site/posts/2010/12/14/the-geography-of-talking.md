@@ -12,7 +12,7 @@ geo_place: the Palomar Kimpton Hotel, Midtown, Atlanta GA
 geo_lng: -84.38742
 geo_lat: 33.778291
 
-Apart from being a damn fine Trance album, German DJ Paul Van Dyk's [The Politics of Dancing](http://en.wikipedia.org/wiki/The_Politics_of_Dancing_(Paul_van_Dyk_album) "http://en.wikipedia.org/wiki/The_Politics_of_Dancing_(Paul_van_Dyk_album)") would definitely make my top 5 list of album titles, if I had one. I love the way the two normally diametrically opposed ideas of politics and dancing are used together to make something new.
+Apart from being a damn fine Trance album, German DJ Paul Van Dyk's [The Politics of Dancing](https://en.wikipedia.org/wiki/The_Politics_of_Dancing_(Paul_van_Dyk_album) "https://en.wikipedia.org/wiki/The_Politics_of_Dancing_(Paul_van_Dyk_album)") would definitely make my top 5 list of album titles, if I had one. I love the way the two normally diametrically opposed ideas of politics and dancing are used together to make something new.
 
 Here's another example which is much more geo related; *the geography of talking*.
 
@@ -28,7 +28,7 @@ Another view of the data is revealed when the concentration of calls made are pl
 
 Sometimes I read arguments against using a map for visualising data, usually prefixed by words to the effect of "just because you can put something on a map". Sometimes those arguments are justified, but sometimes the map remains the best way to view data and to draw insights from that data. Regardless of which point of view you subscribe to, I always like maps that allow you to look at the world in a different way.
 
-You can read the full text of the research article at PLoS one; [Redrawing the Map of Great Britain from a Network of Human Interactions - Ratti, Sobolevsky, Calabrese, Andris, Reades, Martino, Claxton and Strogatz](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0014248 "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0014248").
+You can read the full text of the research article at PLoS one; [Redrawing the Map of Great Britain from a Network of Human Interactions - Ratti, Sobolevsky, Calabrese, Andris, Reades, Martino, Claxton and Strogatz](https://www.plosone.org/article/info:doi/10.1371/journal.pone.0014248 "https://www.plosone.org/article/info:doi/10.1371/journal.pone.0014248").
 
 
 

@@ -16,7 +16,7 @@ While boarding passes on your mobile handset have been around for a while in one
 
 <!-- TEASER_END -->
 
-[![KLM Mobile Boarding Pass](http://farm3.static.flickr.com/2439/3886771618_9e09650fc3_o_d.jpg)](http://www.flickr.com/photos/vicchi/3886771618/ "KLM Mobile Boarding Pass")
+[![KLM Mobile Boarding Pass](https://farm3.static.flickr.com/2439/3886771618_9e09650fc3_o_d.jpg)](https://www.flickr.com/photos/vicchi/3886771618/ "KLM Mobile Boarding Pass")
 
 I fly on British Airways almost every week. While they may be the self proclaimed *World's Favourite Airline*, they're not the best there is. But flying British Airways means I get to fly out of Heathrow's Terminal 5, by far the best terminal at that airport. It means I get to use the BA lounges, thanks to BA's frequent flyer program. It means I get to fly direct to most destinations rather than having to change flights. So I fly BA most of the time.
 
@@ -24,11 +24,11 @@ So I'm a fan of the BA mobile boarding pass. It's quick, simple and like KLM's v
 
 KLM has taken a very low barrier to entry approach; their version works with pretty much any phone capable of either receiving an MMS text message or capable of receiving a URL to the boarding pass which can then be downloaded over the phone's data connection. That's it. If you're flying KLM and have a smart phone you can use KLM's mobile boarding pass. If you have a feature phone, you may still be able to use KLM's mobile boarding pass as basic smartphone functionality gradually gets introduced to the feature phone market.
 
-[![BA Mobile Boarding Pass](http://farm2.static.flickr.com/1123/5149143748_7e2da23524_d.jpg)](http://www.flickr.com/photos/vicchi/5149143748/ "BA Mobile Boarding Pass")
+[![BA Mobile Boarding Pass](https://farm2.static.flickr.com/1123/5149143748_7e2da23524_d.jpg)](https://www.flickr.com/photos/vicchi/5149143748/ "BA Mobile Boarding Pass")
 
 British Airways has taken a somewhat different approach. You can only use the mobile boarding pass on an iPhone or on a Blackberry (though an Android version is promised soon). If you have a handset from another manufacturer or another phone OS then you can't use the service. Even if you have one of the approved handsets the service is still only available to passengers who are members of BA's Executive Club frequent flyer program. If you don't fly that often or don't want the possibility for more junk mail through your mailbox, then you can't use the service.
 
-I'm still a fan of BA's mobile boarding pass, even though it's [only available on short hail flights to Europe](http://www.britishairways.com/travel/mobile-boarding-pass/public/en_gb "http://www.britishairways.com/travel/mobile-boarding-pass/public/en_gb") at the time of writing. BA may state that "*the days of pockets full of paper are nearly over*", but only for a very small percentage of their passengers who have the right phone and who are Executive Club members ... and that seems to be missing the whole point about why you'd actually want and use a mobile boarding pass, which is to reduce the amount of paper you need to carry and offer the service to the widest number of passengers you can.
+I'm still a fan of BA's mobile boarding pass, even though it's [only available on short hail flights to Europe](https://www.britishairways.com/travel/mobile-boarding-pass/public/en_gb "https://www.britishairways.com/travel/mobile-boarding-pass/public/en_gb") at the time of writing. BA may state that "*the days of pockets full of paper are nearly over*", but only for a very small percentage of their passengers who have the right phone and who are Executive Club members ... and that seems to be missing the whole point about why you'd actually want and use a mobile boarding pass, which is to reduce the amount of paper you need to carry and offer the service to the widest number of passengers you can.
 
 **Update: 17/11/10** - the Android version of the BA mobile app just updated itself on my Nexus One and now contains support for mobile boarding passes.
 

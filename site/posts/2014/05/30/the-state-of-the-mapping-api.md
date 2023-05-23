@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-This week the <a href="http://geobusinessshow.com/" target="_blank">GeoBusiness</a> conference took place in London and as far as geo-themed conferences go it was a broad themed and mixed bag of an event. GIS was heavily represented as was the BIM element of this geo-discipline. The collection of raw data was a prevailing theme on the exhibition booths with drones aplenty and LIDAR cars out in the car park of the Business Design Centre. Thankfully the data and web driven part of the industry was also represented and I played my part by giving a talk.
+This week the <a href="https://geobusinessshow.com/" target="_blank">GeoBusiness</a> conference took place in London and as far as geo-themed conferences go it was a broad themed and mixed bag of an event. GIS was heavily represented as was the BIM element of this geo-discipline. The collection of raw data was a prevailing theme on the exhibition booths with drones aplenty and LIDAR cars out in the car park of the Business Design Centre. Thankfully the data and web driven part of the industry was also represented and I played my part by giving a talk.
 
 I decided to talk about the current state of the wide range of web maps APIs we have in our toolkit and with tongue placed slightly in cheek I called the talk The State Of The Mapping API. A personal homage to OSM's State Of The Map conference if you will.
 
@@ -23,7 +23,7 @@ So, hello, I’m Gary and I’m from the Internet. I’m a self-confessed map ad
 
 
 [![Slide03](/wp-content/uploads/2014/05/Slide03.jpg)](/wp-content/uploads/2014/05/Slide03.jpg "/wp-content/uploads/2014/05/Slide03.jpg")
-There’s a lot of URLs in the slides to follow and rather than try to frantically jot them down, [this is the only URL you really need to know about](http://vtny.org/nw "http://vtny.org/nw"). If you go there right now, this link will 404 on you but sometime tomorrow this where my slides and all my talk notes will appear here.
+There’s a lot of URLs in the slides to follow and rather than try to frantically jot them down, [this is the only URL you really need to know about](https://vtny.org/nw "https://vtny.org/nw"). If you go there right now, this link will 404 on you but sometime tomorrow this where my slides and all my talk notes will appear here.
 
 
 [![Slide04](/wp-content/uploads/2014/05/Slide04.jpg)](/wp-content/uploads/2014/05/Slide04.jpg "/wp-content/uploads/2014/05/Slide04.jpg")
@@ -156,7 +156,7 @@ The rest of these, and many others, are still with us.
 
 
 [![Slide26](/wp-content/uploads/2014/05/Slide26.jpg)](/wp-content/uploads/2014/05/Slide26.jpg "/wp-content/uploads/2014/05/Slide26.jpg")
-But time is limited, so I'm going to focus on 5 different maps APIs. [Leaflet](http://leafletjs.com/ "http://leafletjs.com/"), [OpenLayers](http://openlayers.org/ "http://openlayers.org/"), [Modest Maps](http://modestmaps.com/ "http://modestmaps.com/"), [Google Maps](https://developers.google.com/maps/ "https://developers.google.com/maps/"), [D3](http://d3js.org/ "http://d3js.org/") and [Raphaël](http://raphaeljs.com/ "http://raphaeljs.com/"). The one common denominator is that they're Javascript APIs. But you can categorise these maps APIs in many different ways.
+But time is limited, so I'm going to focus on 5 different maps APIs. [Leaflet](https://leafletjs.com/ "https://leafletjs.com/"), [OpenLayers](https://openlayers.org/ "https://openlayers.org/"), [Modest Maps](https://modestmaps.com/ "https://modestmaps.com/"), [Google Maps](https://developers.google.com/maps/ "https://developers.google.com/maps/"), [D3](https://d3js.org/ "https://d3js.org/") and [Raphaël](https://raphaeljs.com/ "https://raphaeljs.com/"). The one common denominator is that they're Javascript APIs. But you can categorise these maps APIs in many different ways.
 
 
 Leaflet, OpenLayers, D3 and Raphael are all open source. While Google is very much proprietary.
@@ -244,32 +244,32 @@ You can find the [live version of this sample here](https://developers.google.co
 
 
 [![Slide41](/wp-content/uploads/2014/05/Slide41.jpg)](/wp-content/uploads/2014/05/Slide41.jpg "/wp-content/uploads/2014/05/Slide41.jpg")
-[OpenLayers](http://openlayers.org/ "http://openlayers.org/")
+[OpenLayers](https://openlayers.org/ "https://openlayers.org/")
 
 
 [![Slide42](/wp-content/uploads/2014/05/Slide42.jpg)](/wp-content/uploads/2014/05/Slide42.jpg "/wp-content/uploads/2014/05/Slide42.jpg")
 A great example of the wide range of proprietary and open map tile styles available can be seen in this OpenLayers powered map comparison, with open tiles from OSM and Stamen Design but even including proprietary styles from Google, ESRI and HERE, though I wonder if the creators read these service’s terms of use which tend to forbid this sort of thing.
 
 
-You can find the [live version of this sample here](http://mc.bbbike.org/mc/ "http://mc.bbbike.org/mc/").
+You can find the [live version of this sample here](https://mc.bbbike.org/mc/ "https://mc.bbbike.org/mc/").
 
 
 [![Slide43](/wp-content/uploads/2014/05/Slide43.jpg)](/wp-content/uploads/2014/05/Slide43.jpg "/wp-content/uploads/2014/05/Slide43.jpg")
-[Leaflet](http://leafletjs.com/ "http://leafletjs.com/")
+[Leaflet](https://leafletjs.com/ "https://leafletjs.com/")
 [![Slide44](/wp-content/uploads/2014/05/Slide44.jpg)](/wp-content/uploads/2014/05/Slide44.jpg "/wp-content/uploads/2014/05/Slide44.jpg")
 Here Leaflet is driving a choropleth map using the US Census Bureau’s data and map tiles from Stamen. You’d be surprised at how few lines of code are needed to produce this map.
 
 
-You can find the [live version of this sample here](http://leafletjs.com/examples/choropleth-example.html "http://leafletjs.com/examples/choropleth-example.html").
+You can find the [live version of this sample here](https://leafletjs.com/examples/choropleth-example.html "https://leafletjs.com/examples/choropleth-example.html").
 
 
 [![Slide45](/wp-content/uploads/2014/05/Slide45.jpg)](/wp-content/uploads/2014/05/Slide45.jpg "/wp-content/uploads/2014/05/Slide45.jpg")
-[Modest Maps](http://modestmaps.com/ "http://modestmaps.com/")
+[Modest Maps](https://modestmaps.com/ "https://modestmaps.com/")
 [![Slide46](/wp-content/uploads/2014/05/Slide46.jpg)](/wp-content/uploads/2014/05/Slide46.jpg "/wp-content/uploads/2014/05/Slide46.jpg")
 This example of Modest Maps is suitably, well, modest. But not every use of a map on the web needs the full blown interactive experience. Sometimes just a map is enough.
 
 
-You can find the [live version of this sample here](http://modestmaps.com/examples/two-maps.html "http://modestmaps.com/examples/two-maps.html").
+You can find the [live version of this sample here](https://modestmaps.com/examples/two-maps.html "https://modestmaps.com/examples/two-maps.html").
 
 
 [![Slide47](/wp-content/uploads/2014/05/Slide47.jpg)](/wp-content/uploads/2014/05/Slide47.jpg "/wp-content/uploads/2014/05/Slide47.jpg")
@@ -277,28 +277,28 @@ Now let's look at the vector map APIs, or to be more accurate the vector APIs th
 
 
 [![Slide48](/wp-content/uploads/2014/05/Slide48.jpg)](/wp-content/uploads/2014/05/Slide48.jpg "/wp-content/uploads/2014/05/Slide48.jpg")
-[Raphaël](http://raphaeljs.com/ "http://raphaeljs.com/")
+[Raphaël](https://raphaeljs.com/ "https://raphaeljs.com/")
 [![Slide49](/wp-content/uploads/2014/05/Slide49.jpg)](/wp-content/uploads/2014/05/Slide49.jpg "/wp-content/uploads/2014/05/Slide49.jpg")
 This example of a Raphaël driven map is much less the style of web map we’re used to and much more of a visualisation of a map. It’s easy to underestimate how challenging producing a map of this sort was just a few years prior. But the combination of being able to draw vector graphics, coupled with open and free vector data sources such as Natural Earth Data makes this a relatively simple task.
 
 
-You can find the [live version of this sample here](http://return-true.com/examples/map-orig.html "http://return-true.com/examples/map-orig.html").
+You can find the [live version of this sample here](https://return-true.com/examples/map-orig.html "https://return-true.com/examples/map-orig.html").
 
 
 [![Slide50](/wp-content/uploads/2014/05/Slide50.jpg)](/wp-content/uploads/2014/05/Slide50.jpg "/wp-content/uploads/2014/05/Slide50.jpg")
-[D3](http://d3js.org/ "http://d3js.org/")
+[D3](https://d3js.org/ "https://d3js.org/")
 [![Slide51](/wp-content/uploads/2014/05/Slide51.jpg)](/wp-content/uploads/2014/05/Slide51.jpg "/wp-content/uploads/2014/05/Slide51.jpg")
 These examples by Jason Davies using D3 illustrates how a web map can be very different from the other slippy map style maps we’ve seen.
 
 
-You can find the [live version of this sample here](http://www.jasondavies.com/maps/voronoi/capitals/ "http://www.jasondavies.com/maps/voronoi/capitals/").
+You can find the [live version of this sample here](https://www.jasondavies.com/maps/voronoi/capitals/ "https://www.jasondavies.com/maps/voronoi/capitals/").
 
 
 [![Slide52](/wp-content/uploads/2014/05/Slide52.jpg)](/wp-content/uploads/2014/05/Slide52.jpg "/wp-content/uploads/2014/05/Slide52.jpg")
 And for the vocal community of users who complain about map tiles being rendered in the web Mercator projection, there’s plenty of other projections to go around. You can loose hours just watching this demo. I speak from experience on this.
 
 
-You can find the [live version of this sample here](http://www.jasondavies.com/maps/transition/ "http://www.jasondavies.com/maps/transition/").
+You can find the [live version of this sample here](https://www.jasondavies.com/maps/transition/ "https://www.jasondavies.com/maps/transition/").
 
 
 [![Slide53](/wp-content/uploads/2014/05/Slide53.jpg)](/wp-content/uploads/2014/05/Slide53.jpg "/wp-content/uploads/2014/05/Slide53.jpg")

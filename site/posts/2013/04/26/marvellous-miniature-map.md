@@ -19,6 +19,6 @@ That's because this marvellous miniature map lives on the cover of a box of matc
 [![japanese-matchbox-label](/wp-content/uploads/2013/04/japanese-matchbox-label.jpg)](/wp-content/uploads/2013/04/japanese-matchbox-label.jpg "/wp-content/uploads/2013/04/japanese-matchbox-label.jpg")
 
 
-Photo Credits: [Jane McDevitt](http://www.flickr.com/photos/maraid/2471278073/ "http://www.flickr.com/photos/maraid/2471278073/") on Flickr.
+Photo Credits: [Jane McDevitt](https://www.flickr.com/photos/maraid/2471278073/ "https://www.flickr.com/photos/maraid/2471278073/") on Flickr.
 
 

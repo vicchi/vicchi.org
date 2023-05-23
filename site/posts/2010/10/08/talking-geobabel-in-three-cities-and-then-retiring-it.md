@@ -18,13 +18,13 @@ But a conference audience is an odd beast; a percentage of which will be "*the u
 
 <!-- TEASER_END -->
 
-But sometimes you can get away with it and so it was with my theme of GeoBabel. Three conferences: the [Society of Cartographers Summer School](http://www.soc.org.uk/manchester10/ "http://www.soc.org.uk/manchester10/"), [The Location Business Summit USA](http://www.thewherebusiness.com/locationbusinesssummitusa/ "http://www.thewherebusiness.com/locationbusinesssummitusa/"), [AGI GeoCommunity 2010](http://www.agi.org.uk/agi-geocommunity/ "http://www.agi.org.uk/agi-geocommunity/"). Three cities: Manchester, San Jose, Stratford-upon-Avon. Three audiences: cartographers, Silicon Valley geo-location business types, UK GIS business types.
+But sometimes you can get away with it and so it was with my theme of GeoBabel. Three conferences: the [Society of Cartographers Summer School](https://www.soc.org.uk/manchester10/ "https://www.soc.org.uk/manchester10/"), [The Location Business Summit USA](https://www.thewherebusiness.com/locationbusinesssummitusa/ "https://www.thewherebusiness.com/locationbusinesssummitusa/"), [AGI GeoCommunity 2010](https://www.agi.org.uk/agi-geocommunity/ "https://www.agi.org.uk/agi-geocommunity/"). Three cities: Manchester, San Jose, Stratford-upon-Avon. Three audiences: cartographers, Silicon Valley geo-location business types, UK GIS business types.
 
 I've [written about GeoBabel before](/2010/04/21/fighting-geobabel-on-two-fronts/ "/2010/04/21/fighting-geobabel-on-two-fronts/"); it's the problem the location industry faces as we build more and more data sets which are fundamentally incompatible with each other. This incompatibility arises either due to differing unique geographic identifiers, where Heathrow Airport, for example, is found in each data set, with differing metadata and a different identifier, or due to different licensing schemes which don't allow data to be co-mingled. We now have more geographic data than before but each data set is locked away in its own silo, either intentionally or through misguided attempts to be open.
 
 
 
-The slide deck, embedded above, is the one I used in San Jose. The ones for [Manchester](http://www.slideshare.net/vicchi/welcome-to-the-world-of-the-geodata-silo "http://www.slideshare.net/vicchi/welcome-to-the-world-of-the-geodata-silo") and for [Stratford-upon-Avon](http://www.slideshare.net/vicchi/of-data-silos-geobabel-other-geo-malaises "http://www.slideshare.net/vicchi/of-data-silos-geobabel-other-geo-malaises") are pretty much identical but are on SlideShare as well.
+The slide deck, embedded above, is the one I used in San Jose. The ones for [Manchester](https://www.slideshare.net/vicchi/welcome-to-the-world-of-the-geodata-silo "https://www.slideshare.net/vicchi/welcome-to-the-world-of-the-geodata-silo") and for [Stratford-upon-Avon](https://www.slideshare.net/vicchi/of-data-silos-geobabel-other-geo-malaises "https://www.slideshare.net/vicchi/of-data-silos-geobabel-other-geo-malaises") are pretty much identical but are on SlideShare as well.
 
 As another way of illustrating the problems of GeoBabel, I came up with what I've termed *The Four Horseman Of The Geopocalypse*. All very fin de siecle but it seemed to be understood and liked by the audience at each talk.
 
@@ -36,11 +36,11 @@ Which segues neatly to the third Horseman, who's not Famine but ***Derivation***
 
 Finally, the fourth Horseman is not Death but ***Co-Mingling***. There is no one single authoritative geographic data set, you need to find the ones which work for you and for your business or use case. That means you need to mingle the data sets and frequently the licenses you have for those data sets explicitly prohibit this.
 
-[![Babel by Cildo Meireles](http://farm4.static.flickr.com/3039/2974382946_13af5503ab_d.jpg)](http://www.flickr.com/photos/nickwebb/2974382946/ "Babel by Cildo Meireles")
+[![Babel by Cildo Meireles](https://farm4.static.flickr.com/3039/2974382946_13af5503ab_d.jpg)](https://www.flickr.com/photos/nickwebb/2974382946/ "Babel by Cildo Meireles")
 
-But now after three outings, it's time to retire GeoBabel, for now at least, just as I [retired my Theory Of Stuff](/2010/05/04/retiring-the-theory-of-stuff-but-first-a-corollary/ "/2010/05/04/retiring-the-theory-of-stuff-but-first-a-corollary/") earlier this year. That means I had to find a new theme to talk about at my next event, the [Geospatial Specialist Group at the British Computer Society](http://geospatial.bcs.org/web/?q=gary-gale "http://geospatial.bcs.org/web/?q=gary-gale"). But that's in my next post.
+But now after three outings, it's time to retire GeoBabel, for now at least, just as I [retired my Theory Of Stuff](/2010/05/04/retiring-the-theory-of-stuff-but-first-a-corollary/ "/2010/05/04/retiring-the-theory-of-stuff-but-first-a-corollary/") earlier this year. That means I had to find a new theme to talk about at my next event, the [Geospatial Specialist Group at the British Computer Society](https://geospatial.bcs.org/web/?q=gary-gale "https://geospatial.bcs.org/web/?q=gary-gale"). But that's in my next post.
 
 
-Photo Credits: [Nick. J. Webb](http://www.flickr.com/photos/nickwebb/2974382946/ "http://www.flickr.com/photos/nickwebb/2974382946/") on Flickr.
+Photo Credits: [Nick. J. Webb](https://www.flickr.com/photos/nickwebb/2974382946/ "https://www.flickr.com/photos/nickwebb/2974382946/") on Flickr.
 
 

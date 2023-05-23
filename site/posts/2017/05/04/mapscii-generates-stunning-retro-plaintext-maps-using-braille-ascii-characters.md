@@ -15,7 +15,7 @@ Today's maps found on the interwebs. ![](/wp-content/uploads/2017/05/497a64e2-2b
 MapSCII turns vectors into text-mode maps using the Braille ASCII character set. You can check out examples at ASCII Cinema, which provides animated embeds comprising of actual text! You can select, copy and paste the ASCII from it while it animates!  
   
 
-Found at [http://ift.tt/2pJpUKM](http://ift.tt/2pJpUKM "http://ift.tt/2pJpUKM")
+Found at [https://ift.tt/2pJpUKM](https://ift.tt/2pJpUKM "https://ift.tt/2pJpUKM")
 
 
 

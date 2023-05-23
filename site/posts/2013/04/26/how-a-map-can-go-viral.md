@@ -12,7 +12,7 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-Back in February of this year, at the height of the madness that was the <a href="/2013/02/06/ooh-that-sounds-rude-mapping-british-innuendo/" target="_blank">Vaguely Rude Places Map</a>, Ed Freyfogle from London's <a href="http://geomobldn.org/post/44291757142/spring-geomob-25th-of-april-at-ucl" target="_blank">#geomob</a> meetup got in touch and asked me to come and tell the story behind the map. This is that story.
+Back in February of this year, at the height of the madness that was the <a href="/2013/02/06/ooh-that-sounds-rude-mapping-british-innuendo/" target="_blank">Vaguely Rude Places Map</a>, Ed Freyfogle from London's <a href="https://geomobldn.org/post/44291757142/spring-geomob-25th-of-april-at-ucl" target="_blank">#geomob</a> meetup got in touch and asked me to come and tell the story behind the map. This is that story.
 
 And so last night, in the Chadwick Lecture Theatre in the basement of London's UCL, after listening to some amazing presentations on building a map of mobile cell tower coverage, of building a seismically powered alternative to GPS and a whole host of other great talks, I took my place on the podium and started where any good story needs to start ... at the beginning.
 
@@ -28,7 +28,7 @@ So, hello, I’m Gary and I’m from the Internet. I’m a self-confessed map ad
 
 There’s a lot of URLs in the slides to follow and rather than try to frantically jot them down, this is the only URL you really need to know about. If you go there right now, this link will 404 on you but sometime tomorrow this where my slides and all my talk notes will appear here.
 
-[http://vtny.org/mo](http://vtny.org/mo "http://vtny.org/mo")
+[https://vtny.org/mo](https://vtny.org/mo "https://vtny.org/mo")
 [![Slide04](/wp-content/uploads/2013/04/Slide04.jpg)](/wp-content/uploads/2013/04/Slide04.jpg "/wp-content/uploads/2013/04/Slide04.jpg")
 
 In today’s global market place when you choose a brand name you normally do some research to make sure that the name you choose doesn’t mean something unfortunate in another language. Most brands succeed at this …

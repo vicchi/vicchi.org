@@ -23,6 +23,6 @@ Maybe it's time to update Maslow's hierarchy to fit in with the times we live in
 [![Maslow's Hierarchy Of Needs (Fixed)](/wp-content/uploads/2013/04/basic-human-need.jpg)](/wp-content/uploads/2013/04/basic-human-need.jpg "/wp-content/uploads/2013/04/basic-human-need.jpg")
 
 
-Image Credits: [Wikipedia](http://en.wikipedia.org/wiki/File:Maslow%27s_Hierarchy_of_Needs.svg "http://en.wikipedia.org/wiki/File:Maslow%27s_Hierarchy_of_Needs.svg") and [Geeks Are Sexy](http://www.geeksaresexy.net/2013/04/19/basic-human-needs-pyramid-fixed-pic/ "http://www.geeksaresexy.net/2013/04/19/basic-human-needs-pyramid-fixed-pic/") (this domain really exists).
+Image Credits: [Wikipedia](https://en.wikipedia.org/wiki/File:Maslow%27s_Hierarchy_of_Needs.svg "https://en.wikipedia.org/wiki/File:Maslow%27s_Hierarchy_of_Needs.svg") and [Geeks Are Sexy](https://www.geeksaresexy.net/2013/04/19/basic-human-needs-pyramid-fixed-pic/ "https://www.geeksaresexy.net/2013/04/19/basic-human-needs-pyramid-fixed-pic/") (this domain really exists).
 
 

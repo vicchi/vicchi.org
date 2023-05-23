@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-I'm taking [a trip to Amsterdam](http://dplr.it/guest/4c857286bd36c23216ec "http://dplr.it/guest/4c857286bd36c23216ec") between July 10th and July 12th to attend [State of the Map 2009](http://www.stateofthemap.org/ "http://www.stateofthemap.org/").
+I'm taking [a trip to Amsterdam](https://dplr.it/guest/4c857286bd36c23216ec "https://dplr.it/guest/4c857286bd36c23216ec") between July 10th and July 12th to attend [State of the Map 2009](https://www.stateofthemap.org/ "https://www.stateofthemap.org/").
 
 
 

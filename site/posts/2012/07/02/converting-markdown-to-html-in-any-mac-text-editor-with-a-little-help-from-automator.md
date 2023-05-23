@@ -19,7 +19,7 @@ There must be a truism somewhere out on the interwebs that goes something like t
 ... and if there isn't a truism to this effect, then I've just written it for the first time.
 
 
-In this particular case, the repetitive task was converting text written using [John Gruber's Markdown](http://daringfireball.net/projects/markdown/ "http://daringfireball.net/projects/markdown/") syntax into HTML. Those of you who know Markdown will be asking the question "*but Markdown is already a text-to-HTML conversion tool, **why** would you want to do this?*". They'd be right too, so an explanation is due.
+In this particular case, the repetitive task was converting text written using [John Gruber's Markdown](https://daringfireball.net/projects/markdown/ "https://daringfireball.net/projects/markdown/") syntax into HTML. Those of you who know Markdown will be asking the question "*but Markdown is already a text-to-HTML conversion tool, **why** would you want to do this?*". They'd be right too, so an explanation is due.
 
 <!-- TEASER_END -->
 
@@ -29,7 +29,7 @@ Each time I update one of my WordPress plugins, I use the updated `readme` file 
 So I looked for a way of being able to convert the Markdown text of one of my plugin's `readme` files in a more selective fashion. I wanted to be able to take a `readme.txt` file in my text editor of choice and convert it from Markdown into the page I was currently editing in WordPress in the browser. A not inconsiderable amount of web surfing later and I had a solution which almost but not quite got me 75% of where I wanted to be. Adding in support for the current version of Mac OS X and adding a small amount of extra functionality got me to 90%. Now granted, 90% isn't 100%, but to my mind 90% is far better than 0% and 0% was the repetitive task of selecting, copying and pasting the sections of the readme into WordPress and manually converting the Markdown syntax into HTML tags. This is not only repetitive, it's error prone and downright tedious.
 
 
-Firstly install Markdown on your Mac. There's a variety of ways of doing this but as I already use [Homebrew](http://mxcl.github.com/homebrew/ "http://mxcl.github.com/homebrew/") to install all manner of command line stuff, I checked to see if Markdown was supported by the `brew` command and went ahead and installed it.
+Firstly install Markdown on your Mac. There's a variety of ways of doing this but as I already use [Homebrew](https://mxcl.github.com/homebrew/ "https://mxcl.github.com/homebrew/") to install all manner of command line stuff, I checked to see if Markdown was supported by the `brew` command and went ahead and installed it.
 
 
 
@@ -37,7 +37,7 @@ Firstly install Markdown on your Mac. There's a variety of ways of doing this bu
 $ brew search markdown
 markdown    multimarkdown   peg-markdown
 $ brew install markdown
-==> Downloading http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip
+==> Downloading https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip
 ######################################################################## 100.0%
 /usr/local/Cellar/markdown/1.0.1: 2 files, 40K, built in 2 seconds
 $ which markdown
@@ -77,5 +77,5 @@ You can also get access to the `Services` menu by Control-clicking on the highli
 
 [![](/wp-content/uploads/2012/07/Automator-9.jpg "Automator 9")](/wp-content/uploads/2012/07/Automator-9.jpg "/wp-content/uploads/2012/07/Automator-9.jpg")
 
-As [Aaron Cope](https://twitter.com/#!/thisisaaronland "https://twitter.com/#!/thisisaaronland") once said, *[The label on the tin reads: "It ain't pretty or classy but it works"](http://www.aaronland.info/weblog/2012/02/14/incentivize/ "http://www.aaronland.info/weblog/2012/02/14/incentivize/")* and for now, that 90% I mentioned earlier is good enough.
+As [Aaron Cope](https://twitter.com/#!/thisisaaronland "https://twitter.com/#!/thisisaaronland") once said, *[The label on the tin reads: "It ain't pretty or classy but it works"](https://www.aaronland.info/weblog/2012/02/14/incentivize/ "https://www.aaronland.info/weblog/2012/02/14/incentivize/")* and for now, that 90% I mentioned earlier is good enough.
 

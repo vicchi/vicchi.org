@@ -50,7 +50,7 @@ One final word of caution though. In order to use this plugin, you have to know 
 Just remember, when you read something that says *just add the following code to your theme's `functions.php`*, ignore this little piece of advice and add it a local customisation file and load that through WP Customizer instead. Your WordPress site will thank you for it someday.
 
 
-To download or install WP Customizer, either search for *WP Customize*r from the WordPress Dashboard or go to plugin’s page on the [official WordPress plugin repository](http://wordpress.org/plugins/wp-customizer/ "http://wordpress.org/plugins/wp-customizer/"). If you want to fork the source code of the plugin, you can find it on the plugin’s GitHub page at [https://github.com/vicchi/wp-customizer](https://github.com/vicchi/wp-customizer "https://github.com/vicchi/wp-customizer").
+To download or install WP Customizer, either search for *WP Customize*r from the WordPress Dashboard or go to plugin’s page on the [official WordPress plugin repository](https://wordpress.org/plugins/wp-customizer/ "https://wordpress.org/plugins/wp-customizer/"). If you want to fork the source code of the plugin, you can find it on the plugin’s GitHub page at [https://github.com/vicchi/wp-customizer](https://github.com/vicchi/wp-customizer "https://github.com/vicchi/wp-customizer").
 
 
 

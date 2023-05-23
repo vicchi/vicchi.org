@@ -12,13 +12,13 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-If you're trying to get out and about in London today you've probably noticed that the Tube is on strike. Again. You could read the <a href="http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/stationstatus.html" target="_blank">list of closed stations</a> that are on Transport for London's website and try and work out quite how, if at all, you're going to get to where you want to be. Or you could look at a map.
+If you're trying to get out and about in London today you've probably noticed that the Tube is on strike. Again. You could read the <a href="https://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/stationstatus.html" target="_blank">list of closed stations</a> that are on Transport for London's website and try and work out quite how, if at all, you're going to get to where you want to be. Or you could look at a map.
 
 This map. Now why didn't TfL think of doing this?
 
-[![tube-strike-map](/wp-content/uploads/2014/02/tube-strike-map.png)](http://www.flickr.com/photos/ianvisits/12285044544/ "http://www.flickr.com/photos/ianvisits/12285044544/")
+[![tube-strike-map](/wp-content/uploads/2014/02/tube-strike-map.png)](https://www.flickr.com/photos/ianvisits/12285044544/ "https://www.flickr.com/photos/ianvisits/12285044544/")
 
 
-Strike map by [Ian Visits](http://www.flickr.com/photos/ianvisits/12285044544/ "http://www.flickr.com/photos/ianvisits/12285044544/") on Flickr.
+Strike map by [Ian Visits](https://www.flickr.com/photos/ianvisits/12285044544/ "https://www.flickr.com/photos/ianvisits/12285044544/") on Flickr.
 
 

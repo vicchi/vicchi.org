@@ -11,9 +11,9 @@ status: published
 
 At the beginning of 2013 Google launched Google Maps Engine Lite, a simpler and easier to use version of their commercial Maps Engine, which was designed as a successor to Google's My Maps feature. In essence, My Maps and GME were web based, simplified GIS tools, allowing a user to create maps with overlays of their own data. Call it GIS for people who don't know about GIS if you will. Maybe GME never got the traction Google hoped for but they have now announced that GME will be shutting down in a year's time. What happens next for GME users and what alternatives are there? Who will benefit from the demise of GME?
 
-There's 3 likely contenders to the throne of the GIS-lite approach of GME; [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline "http://www.esri.com/software/arcgis/arcgisonline"), [CartoDB](http://cartodb.com/ "http://cartodb.com/") and MapBox via their new [Turf](http://turfjs.org/ "http://turfjs.org/") product.
+There's 3 likely contenders to the throne of the GIS-lite approach of GME; [ArcGIS Online](https://www.esri.com/software/arcgis/arcgisonline "https://www.esri.com/software/arcgis/arcgisonline"), [CartoDB](https://cartodb.com/ "https://cartodb.com/") and MapBox via their new [Turf](https://turfjs.org/ "https://turfjs.org/") product.
 
-There’s much irony here, given that GME was originally positioned as a web savvy alternative to traditional GIS platforms. Both Esri and Mapbox will need a significant advertising push and awareness campaign to attract GME emigres. CartoDB on the other hand is positioning itself as the official successor to GME with the launch of [CartoDB for Google Maps Platform](http://cartodb.com/solutions/cartodb-on-google-platform/ "http://cartodb.com/solutions/cartodb-on-google-platform/"), apparently developed in conjunction with Google.
+There’s much irony here, given that GME was originally positioned as a web savvy alternative to traditional GIS platforms. Both Esri and Mapbox will need a significant advertising push and awareness campaign to attract GME emigres. CartoDB on the other hand is positioning itself as the official successor to GME with the launch of [CartoDB for Google Maps Platform](https://cartodb.com/solutions/cartodb-on-google-platform/ "https://cartodb.com/solutions/cartodb-on-google-platform/"), apparently developed in conjunction with Google.
 
 <!-- TEASER_END -->
 
@@ -23,14 +23,14 @@ I don’t think they’ll be any one winner and all of these wannabe successors 
 
 But there other contenders here as well …
 
-There's [iSpatial](http://www.t-sciences.com/product/ispatial-2 "http://www.t-sciences.com/product/ispatial-2"), a Google Maps and Google Earth based product, which may make this attractive for people who want to continue the Google experience and look and feel.
+There's [iSpatial](https://www.t-sciences.com/product/ispatial-2 "https://www.t-sciences.com/product/ispatial-2"), a Google Maps and Google Earth based product, which may make this attractive for people who want to continue the Google experience and look and feel.
 
 The similarly named [eSpatial](https://www.espatial.com/ "https://www.espatial.com/") is another Google Maps powered mapping platform with GME style functionality
 
 
-At one end of the spectrum is [uMap](http://umap.openstreetmap.fr/en/ "http://umap.openstreetmap.fr/en/"), an OSM based layering tool and platform, while pricier options include [Maptitude](http://www.caliper.com/maptovu.htm "http://www.caliper.com/maptovu.htm") and [Mango](https://mangomap.com/ "https://mangomap.com/").
+At one end of the spectrum is [uMap](https://umap.openstreetmap.fr/en/ "https://umap.openstreetmap.fr/en/"), an OSM based layering tool and platform, while pricier options include [Maptitude](https://www.caliper.com/maptovu.htm "https://www.caliper.com/maptovu.htm") and [Mango](https://mangomap.com/ "https://mangomap.com/").
 
-Finally honourable mention should be made of [Geojson.io](http://geojson.io "http://geojson.io"), very much GeoJSON focused as the name suggests, but an easy visualisation tool for GeoJSON data.
+Finally honourable mention should be made of [Geojson.io](https://geojson.io "https://geojson.io"), very much GeoJSON focused as the name suggests, but an easy visualisation tool for GeoJSON data.
 
 Whilst these products may get some customers, they’ve already been competing with GME for users and for business, so I don’t see a massive uptake for these.
 

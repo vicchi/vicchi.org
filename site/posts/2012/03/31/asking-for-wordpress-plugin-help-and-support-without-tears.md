@@ -37,7 +37,7 @@ So if getting asked questions about code I've written isn't a problem for me, th
 *This* is the reason I'm writing this. This is a handy, cut-out-and-keep, guide to the questions I will probably be asking you, if you ask me for help. Put simply, I'll need to know about your WordPress installation, your theme, the plugin that isn't working the way you expected or want it to and what has actually happened.
 
 
-[![](/wp-content/uploads/2012/03/1347412899_56513759c7.jpg "Help Point")](http://www.flickr.com/photos/markhillary/1347412899/ "http://www.flickr.com/photos/markhillary/1347412899/")
+[![](/wp-content/uploads/2012/03/1347412899_56513759c7.jpg "Help Point")](https://www.flickr.com/photos/markhillary/1347412899/ "https://www.flickr.com/photos/markhillary/1347412899/")
 
 
 WordPress is simple, easy to use and extremely powerful. It's also almost infinitely extensible; there's almost 19,000 plugins and 1,500 themes in the official WordPress repositories alone. It's impossible to test every plugin against every other plugin and theme and that means that sometimes things break or don't play well together. So when this does happen, and it does happen, here's the first steps you need to take.
@@ -82,7 +82,7 @@ Finally, there's what's happening that shouldn't, or what should be happening th
 All of this may seem like a lot of work on your part, but trust me, I'll probably end up needing most, if not all, of this information and if it's there upfront, then I'll probably be able to help a lot quicker and we can both get on with the other, interesting and cool stuff, which is probably want we want at the end of the day.
 
 
-Photo Credits: [Mark Hillary](http://www.flickr.com/photos/markhillary/1347412899/ "http://www.flickr.com/photos/markhillary/1347412899/") on Flickr.
+Photo Credits: [Mark Hillary](https://www.flickr.com/photos/markhillary/1347412899/ "https://www.flickr.com/photos/markhillary/1347412899/") on Flickr.
 
 
 

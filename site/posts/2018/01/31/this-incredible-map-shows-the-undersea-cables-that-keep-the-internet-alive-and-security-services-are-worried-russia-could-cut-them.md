@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://static3.businessinsider.com/image/5a3a3edc4aa6b51d008b619a-1885/screen%20shot%202017-12-20%20at%20103632.png)  
+Today's maps found on the interwebs. ![](https://static3.businessinsider.com/image/5a3a3edc4aa6b51d008b619a-1885/screen%20shot%202017-12-20%20at%20103632.png)  
   
 
 It shows the sheer scale of the infrastructure which keeps the internet running. It's built up over decades, mainly as a result of private enterprise rather than coordinated state infrastructure projects, like road or water networks.  
   
 
-Found at [http://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12](http://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12 "http://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12")
+Found at [https://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12](https://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12 "https://www.businessinsider.com/map-shows-extent-of-undersea-internet-cables-that-russians-could-cut-2017-12")
 
 
 

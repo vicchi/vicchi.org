@@ -37,7 +37,7 @@ Firstly, set your biography details up. From the Dashboard, navigate to *Users -
 
 Now add your *Contact Info*. WP Biographia adds fields for Twitter, Facebook, LinkedIn, Google+, Delicious, Flickr, Picasa, Vimeo, YouTube and Reddit to the contact info that WordPress provides out of the box. For each piece of contact information you want displayed in the Biography Box, add the corresponding URL.
 
-***Contact Info Gotcha:*** It's important to note that you need to enter the full URL to your profile for each social media site. For example, for Twitter you'll need to add `http://twitter.com/user`, not just `@user`.
+***Contact Info Gotcha:*** It's important to note that you need to enter the full URL to your profile for each social media site. For example, for Twitter you'll need to add `https://twitter.com/user`, not just `@user`.
 
 Now add your biography text to the *Biographical Info* field under *About Yourself*.
 
@@ -47,7 +47,7 @@ Finally, click on *Update Profile* to save all your changes.
 ### Setting Up Your Author's Picture
 
 
-Next, set up your author picture, or avatar. By default, WordPress uses Gravatars, short for Globally Recognised Avatars, to display author pictures. Head over to the [Gravatar site](http://en.gravatar.com "http://en.gravatar.com"), sign up for an account and upload your author picture.
+Next, set up your author picture, or avatar. By default, WordPress uses Gravatars, short for Globally Recognised Avatars, to display author pictures. Head over to the [Gravatar site](https://en.gravatar.com "https://en.gravatar.com"), sign up for an account and upload your author picture.
 
 ***Avatar Gotcha:*** One important gotcha you need to know is that the link between your user profile on your WordPress blog and your author's picture on the Gravatar site is your email address, so when you sign up you need to ensure you use the same email address as is listed in your user profile on your blog.
 
@@ -65,14 +65,14 @@ Now it's time to make WP Biographia do what you want it to do. From the Dashboar
 This tab has broad settings to control how the WP Biographia Biography Box is displayed and where. You can choose one or all of displaying on your blog's front page, on individual posts, on post archives, on individual pages and in your blog's RSS feed. You can also choose whether to display the Biography Box before or after the content of a post, a page, an archive or the RSS feed. If your blog has custom post types, perhaps provided by your theme, you'll also see the option to control display of the Biography Box here.
 
 [![](/wp-content/uploads/2012/05/screenshot-1.jpg "v3.1 - screenshot-1")](/wp-content/uploads/2012/05/screenshot-1.jpg "/wp-content/uploads/2012/05/screenshot-1.jpg")
-***Display Gotcha:*** If you choose to display the Biography Box on post archives, this will do so for all archive types, be that tag archives, author archives, category archives, date archives or so on. If you want to restrict the display to a particular type of archive, you'll need to [add some conditional tags to your theme's template files](http://codex.wordpress.org/Conditional_Tags "http://codex.wordpress.org/Conditional_Tags").
+***Display Gotcha:*** If you choose to display the Biography Box on post archives, this will do so for all archive types, be that tag archives, author archives, category archives, date archives or so on. If you want to restrict the display to a particular type of archive, you'll need to [add some conditional tags to your theme's template files](https://codex.wordpress.org/Conditional_Tags "https://codex.wordpress.org/Conditional_Tags").
 
 Click on *Save Display Settings* before moving onto the *Style* tab.
 
 ### Basic Settings; The Style Tab
 
 
-This tab controls how the Biography Box is styled, its background colour and what sort of border, if any, is drawn around the Biography Box. You can enter the background colour as an [HTML colour code](http://html-color-codes.info/ "http://html-color-codes.info/") or use the built-in colour picker tool.
+This tab controls how the Biography Box is styled, its background colour and what sort of border, if any, is drawn around the Biography Box. You can enter the background colour as an [HTML colour code](https://html-color-codes.info/ "https://html-color-codes.info/") or use the built-in colour picker tool.
 
 [![](/wp-content/uploads/2012/05/screenshot-7.jpg "v3.1 - screenshot-7")](/wp-content/uploads/2012/05/screenshot-7.jpg "/wp-content/uploads/2012/05/screenshot-7.jpg")
 ***Style Gotcha:*** The Style tab provides only a basic set of styling options. If you want more fine grained control, or if your theme's style is interfering with the way in which the Biography Box looks, you'll need to know how to control this via CSS and how to add extra CSS to your blog. [This article should tell you how to do this](/2012/04/05/hacking-wp-biographias-appearance-with-css/ "/2012/04/05/hacking-wp-biographias-appearance-with-css/").

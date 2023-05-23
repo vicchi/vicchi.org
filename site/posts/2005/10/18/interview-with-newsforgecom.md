@@ -26,11 +26,11 @@ status: published
 
 
 
-**Topic** [Programming](http://programming.itmanagersjournal.com/search.pl?tid=10 "http://programming.itmanagersjournal.com/search.pl?tid=10")
+**Topic** [Programming](https://programming.itmanagersjournal.com/search.pl?tid=10 "https://programming.itmanagersjournal.com/search.pl?tid=10")
 
 
 
-**Story URL**  [http://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216](http://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216 "http://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216")
+**Story URL**  [https://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216](https://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216 "https://programming.itmanagersjournal.com/article.pl?sid=05/10/11/1710216")
 
 
 
@@ -41,7 +41,7 @@ As cross-platform development grows, programmers are turning toward open source 
 
 
 
-Projects and events such as the [Race to Linux](http://trends.newsforge.com/article.pl?sid=05/09/16/204235 "http://trends.newsforge.com/article.pl?sid=05/09/16/204235") highlight the growth of cross-platform development and a particularly strong pickup in development both on and for Linux. In its latest North American Development Survey, [Evans Data](http://www.evansdata.com/n2/index.shtml "http://www.evansdata.com/n2/index.shtml") indicated a growing interest in cross-platform Linux development. According to the research, one in five Visual Studio .Net developers has also written a Linux application. Evans also reported that while only 2.8 percent of respondents developed most of their applications for Linux in 2000, the percentage grew to 8.8 and 8.3 percent of North American developers focused primarily on Linux in the fall 2005 and spring 2005 surveys, respectively.
+Projects and events such as the [Race to Linux](https://trends.newsforge.com/article.pl?sid=05/09/16/204235 "https://trends.newsforge.com/article.pl?sid=05/09/16/204235") highlight the growth of cross-platform development and a particularly strong pickup in development both on and for Linux. In its latest North American Development Survey, [Evans Data](https://www.evansdata.com/n2/index.shtml "https://www.evansdata.com/n2/index.shtml") indicated a growing interest in cross-platform Linux development. According to the research, one in five Visual Studio .Net developers has also written a Linux application. Evans also reported that while only 2.8 percent of respondents developed most of their applications for Linux in 2000, the percentage grew to 8.8 and 8.3 percent of North American developers focused primarily on Linux in the fall 2005 and spring 2005 surveys, respectively.
 
 
 
@@ -57,11 +57,11 @@ Andrews indicated the upswing in cross-platform development will likely result i
 
 
 
-[Interarbor Solutions](http://www.interarbor-solutions.com/home.html "http://www.interarbor-solutions.com/home.html") principal analyst Dana Gardner said there has been a gradual, evolutionary separation of tools and operating system platforms, which have been replaced by frameworks such as [Mono](http://www.mono-project.com/Main_Page "http://www.mono-project.com/Main_Page"). “The developers say, ‘I’ll use this tool associated with this framework, and I don’t have to worry so much about platform.’”
+[Interarbor Solutions](https://www.interarbor-solutions.com/home.html "https://www.interarbor-solutions.com/home.html") principal analyst Dana Gardner said there has been a gradual, evolutionary separation of tools and operating system platforms, which have been replaced by frameworks such as [Mono](https://www.mono-project.com/Main_Page "https://www.mono-project.com/Main_Page"). “The developers say, ‘I’ll use this tool associated with this framework, and I don’t have to worry so much about platform.’”
 
 
 
-[Code Project](http://www.codeproject.com/ "http://www.codeproject.com/") founder Chris Maunder said that as Mono and other cross-platform tools such as [Grasshopper](http://dev.mainsoft.com/ "http://dev.mainsoft.com/") continue to mature, more cross-platform development will result. However, Maunder also indicated more developers are switching to .Net languages such as C#, and having a choice of development platform is likely to continue that trend.
+[Code Project](https://www.codeproject.com/ "https://www.codeproject.com/") founder Chris Maunder said that as Mono and other cross-platform tools such as [Grasshopper](https://dev.mainsoft.com/ "https://dev.mainsoft.com/") continue to mature, more cross-platform development will result. However, Maunder also indicated more developers are switching to .Net languages such as C#, and having a choice of development platform is likely to continue that trend.
 
 
 
@@ -81,7 +81,7 @@ Maunder indicated the cost of some development platforms, such as SQL Server, wa
 
 
 
-Erik Sink, a software developer for source control tool vendor [SourceGear](http://www.sourcegear.com/ "http://www.sourcegear.com/"), said his company started out on “a very Windows-centric path” with its Vault software, but has recently begun developing its tools for Java, Linux, and Macintosh.
+Erik Sink, a software developer for source control tool vendor [SourceGear](https://www.sourcegear.com/ "https://www.sourcegear.com/"), said his company started out on “a very Windows-centric path” with its Vault software, but has recently begun developing its tools for Java, Linux, and Macintosh.
 
 
 
@@ -93,7 +93,7 @@ Erik Sink, a software developer for source control tool vendor [SourceGear](http
 
 
 
-Sink said the cross-platform work was becoming increasingly important with the growing popularity of the other platforms and development communities, such as [Eclipse](http://www.eclipse.org/ "http://www.eclipse.org/"), which prompted the porting of Vault.
+Sink said the cross-platform work was becoming increasingly important with the growing popularity of the other platforms and development communities, such as [Eclipse](https://www.eclipse.org/ "https://www.eclipse.org/"), which prompted the porting of Vault.
 
 
 
@@ -109,7 +109,7 @@ Although he referred to obstacles — mainly the added cost and difficulty of cr
 
 
 
-[FormScape](http://www.formscape.com/index.htm "http://www.formscape.com/index.htm") lead Linux developer Gary Gale sounded a similar cautionary note. Gale said the first thing his company’s developers did when moving 1.5 million lines of Windows code for the company’s Covus document management product for large enterprises to Solaris, AIX, and Linux was to dig out the detailed requirements entrenched in the different platforms.
+[FormScape](https://www.formscape.com/index.htm "https://www.formscape.com/index.htm") lead Linux developer Gary Gale sounded a similar cautionary note. Gale said the first thing his company’s developers did when moving 1.5 million lines of Windows code for the company’s Covus document management product for large enterprises to Solaris, AIX, and Linux was to dig out the detailed requirements entrenched in the different platforms.
 
 
 
@@ -153,7 +153,7 @@ FormScape’s Gale did not foresee the emergence of a dominant platform, but did
 
 
 
-© Copyright 2006 - [OSTG](http://www.ostg.com/ "http://www.ostg.com/"), Inc.
+© Copyright 2006 - [OSTG](https://www.ostg.com/ "https://www.ostg.com/"), Inc.
 
 
 

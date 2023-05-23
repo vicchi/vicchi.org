@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://img.youtube.com/vi/UY9P0QSxlnI/0.jpg)  
+Today's maps found on the interwebs. ![](https://img.youtube.com/vi/UY9P0QSxlnI/0.jpg)  
   
 
 Cottereau: This video shows the borders and populations of each country in Europe, for every year since 400 BC. Vassal states and colonies are not included in the count of a country's population." What a mess! One thing I learned is how sparsely-populated Britain was in the Roman age.  

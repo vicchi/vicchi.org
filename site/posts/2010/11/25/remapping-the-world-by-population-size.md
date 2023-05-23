@@ -12,7 +12,7 @@ geo_place: the Nokia gate5 office in Schönhauser Allee, Berlin
 geo_lng: 13.4108176
 geo_lat: 52.5308072
 
-From the department of cartographical curiosities comes this wonder; a map of the world but with the countries changed so that their population size corresponds to the size of each country. It's a map of the world; but not as we know it and has cropped up in [several places](http://www.buzzfeed.com/awesomer/what-if-the-largest-countries-had-the-biggest-popu "http://www.buzzfeed.com/awesomer/what-if-the-largest-countries-had-the-biggest-popu") online, including Frank Jacob's excellent [Strange Maps](http://bigthink.com/ideas/25109 "http://bigthink.com/ideas/25109") blog.
+From the department of cartographical curiosities comes this wonder; a map of the world but with the countries changed so that their population size corresponds to the size of each country. It's a map of the world; but not as we know it and has cropped up in [several places](https://www.buzzfeed.com/awesomer/what-if-the-largest-countries-had-the-biggest-popu "https://www.buzzfeed.com/awesomer/what-if-the-largest-countries-had-the-biggest-popu") online, including Frank Jacob's excellent [Strange Maps](https://bigthink.com/ideas/25109 "https://bigthink.com/ideas/25109") blog.
 
 [![World Map By Population Size](/wp-content/uploads/2010/11/WorldMapByPopulationSize-1024x576.jpg "World Map By Population Size")](/wp-content/uploads/2010/11/WorldMapByPopulationSize.jpg "/wp-content/uploads/2010/11/WorldMapByPopulationSize.jpg")
 
@@ -20,6 +20,6 @@ In this new world order, the United Kingdom now sits, landlocked, in the middle 
 
 
 
-Photo Credits: [JPALMZ (original source unknown)](http://i.imgur.com/c6Agr.jpg "http://i.imgur.com/c6Agr.jpg").
+Photo Credits: [JPALMZ (original source unknown)](https://i.imgur.com/c6Agr.jpg "https://i.imgur.com/c6Agr.jpg").
 
 

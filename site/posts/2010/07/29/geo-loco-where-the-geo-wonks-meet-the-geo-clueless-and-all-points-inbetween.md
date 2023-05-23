@@ -9,24 +9,24 @@ type: text
 has_math: no
 status: published
 
-Last week I was in San Francisco, ostensibly to meet with fellow Nokians in Mountain View and Palo Alto, the homes of Google and Stanford University respectively. But I was also there to take part in a panel on the topic of "is geo loco a business or a feature?" at the [Geo-Loco](http://geoloco.tv/ "http://geoloco.tv/") conference, chaired by *geo-eminence grise* Marc Prioleau.
+Last week I was in San Francisco, ostensibly to meet with fellow Nokians in Mountain View and Palo Alto, the homes of Google and Stanford University respectively. But I was also there to take part in a panel on the topic of "is geo loco a business or a feature?" at the [Geo-Loco](https://geoloco.tv/ "https://geoloco.tv/") conference, chaired by *geo-eminence grise* Marc Prioleau.
 
-With the explosion of interest in all things geo recently (and for once I think the hyperbole is justified) and thus a large amount of new conferences on the topic, I was somewhat skeptical of how Geo-Loco would pan out. But the presence of [Marc Prioleau](http://twitter.com/mprioleau/ "http://twitter.com/mprioleau/") and other geo-rati such as LikeList's [Tyler Bell](http://twitter.com/twbell/ "http://twitter.com/twbell/"), Urban Mapping's [Ian White](http://twitter.com/urbanmapping/ "http://twitter.com/urbanmapping/"), [Tom Coates](http://twitter.com/tomcoates "http://twitter.com/tomcoates"), the man behind Yahoo's Fire Eagle and Waze's [Di-Ann Eisnor](http://twitter.com/dianneisnor/ "http://twitter.com/dianneisnor/"), to name but a few, swayed me to participate.
+With the explosion of interest in all things geo recently (and for once I think the hyperbole is justified) and thus a large amount of new conferences on the topic, I was somewhat skeptical of how Geo-Loco would pan out. But the presence of [Marc Prioleau](https://twitter.com/mprioleau/ "https://twitter.com/mprioleau/") and other geo-rati such as LikeList's [Tyler Bell](https://twitter.com/twbell/ "https://twitter.com/twbell/"), Urban Mapping's [Ian White](https://twitter.com/urbanmapping/ "https://twitter.com/urbanmapping/"), [Tom Coates](https://twitter.com/tomcoates "https://twitter.com/tomcoates"), the man behind Yahoo's Fire Eagle and Waze's [Di-Ann Eisnor](https://twitter.com/dianneisnor/ "https://twitter.com/dianneisnor/"), to name but a few, swayed me to participate.
 
 I was interested to hear how Fred Wilson of Union Square Ventures would keynote but was sadly disappointed; it was a rambling and somewhat disjointed affair with little structure or insight; the sole exception of which was an interesting technique to quickly mashup your Foursquare check-ins on Google Maps. Thankfully Fred fared much better when interviewed one-on-one later in the day by John Batelle of Federated Media, which produced an engaging discussion on the state of the geo market; some of which I even agreed with.
 
 <!-- TEASER_END -->
 
-[![Geo-Loco Conference 2010](http://farm5.static.flickr.com/4082/4820451850_734cd2fd9d_d.jpg)](http://www.flickr.com/photos/kyeung808/4820451850/ "Geo-Loco Conference 2010")
+[![Geo-Loco Conference 2010](https://farm5.static.flickr.com/4082/4820451850_734cd2fd9d_d.jpg)](https://www.flickr.com/photos/kyeung808/4820451850/ "Geo-Loco Conference 2010")
 
 Proof that Geo-Loco was a fully fledged geoconference was evident in the Twitter back channel which was, by turns, witty, informed, damning, sarcastic, enlightening and downright funny. I may have contributed to this part of the proceedings. A bit. Here's a brief sampler of some of the comments the speakers and panels contributed to, albeit inadvertently.
 
 
-* "[check-ins are the new currency](http://twitter.com/vicchi/status/19113610835 "http://twitter.com/vicchi/status/19113610835")". I have yet to buy a beer with an of my 1744 check-ins. More geo-hyperbole sadly. #geoloco
-* Have decided this conference is "[Geo-Loco, where the Geo-Wonks meet the Geo-Clueless and all points inbetween](http://twitter.com/vicchi/status/19111875818 "http://twitter.com/vicchi/status/19111875818")" #geoloco
-* this conference should be renamed as "[We all invested in @Gowalla but let's talk about @Foursquare Instead](http://twitter.com/joshuanguyen/status/19114810063 "http://twitter.com/joshuanguyen/status/19114810063")" #geoloco
-* "[We live in a world of fomophobia ... fear of missing out](http://twitter.com/vicchi/status/19102570580 "http://twitter.com/vicchi/status/19102570580")" #geoloco
-* "[Is there a problem if I call in sick and then check in somewhere else?](http://twitter.com/vicchi/status/19115240379 "http://twitter.com/vicchi/status/19115240379")" ... oh yes, it's called stupidity #geoloco
+* "[check-ins are the new currency](https://twitter.com/vicchi/status/19113610835 "https://twitter.com/vicchi/status/19113610835")". I have yet to buy a beer with an of my 1744 check-ins. More geo-hyperbole sadly. #geoloco
+* Have decided this conference is "[Geo-Loco, where the Geo-Wonks meet the Geo-Clueless and all points inbetween](https://twitter.com/vicchi/status/19111875818 "https://twitter.com/vicchi/status/19111875818")" #geoloco
+* this conference should be renamed as "[We all invested in @Gowalla but let's talk about @Foursquare Instead](https://twitter.com/joshuanguyen/status/19114810063 "https://twitter.com/joshuanguyen/status/19114810063")" #geoloco
+* "[We live in a world of fomophobia ... fear of missing out](https://twitter.com/vicchi/status/19102570580 "https://twitter.com/vicchi/status/19102570580")" #geoloco
+* "[Is there a problem if I call in sick and then check in somewhere else?](https://twitter.com/vicchi/status/19115240379 "https://twitter.com/vicchi/status/19115240379")" ... oh yes, it's called stupidity #geoloco
 
 
 One of the braver panels was chaired by Phil Hendrix of IMMR who asked the audience and a panel consisting of the Institute for the Future's Michael Liebhold, GigaOm's Liz Gannes, the aforementioned Di-Ann Eisnor, Rackspace's Robert Scoble and Google's Lior Ron (who I'm not sure uttered a single word during the entire panel) to pontificate on the futures of location based services.
@@ -62,6 +62,6 @@ Proximity will become a critical filter for content.
 
 
 Well yes, duuh, but isn't this already happening? Either through our own efforts to obtain relevancy, through constraining search queries to locations or through localised services. The question should really be *"automatic, meaningful, proximity will become a key context for content*" as there's no relevancy obtained by automatically constraining results to a local area when what you're really looking for is information on your next vacation destination.
-Photo Credits: [Ken Yeung](http://www.flickr.com/photos/kyeung808/4820451850/ "http://www.flickr.com/photos/kyeung808/4820451850/") on Flickr.
+Photo Credits: [Ken Yeung](https://www.flickr.com/photos/kyeung808/4820451850/ "https://www.flickr.com/photos/kyeung808/4820451850/") on Flickr.
 Written at the London Heathrow BA Lounge (51.47286, -0.48726) and posted from the Radisson Blu hotel, Berlin (52.519648, 13.40258)
 

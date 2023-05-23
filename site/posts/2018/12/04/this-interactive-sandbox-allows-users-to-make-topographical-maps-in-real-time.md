@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://img.youtube.com/vi/j9JXtTj0mzE/0.jpg)  
+Today's maps found on the interwebs. ![](https://img.youtube.com/vi/j9JXtTj0mzE/0.jpg)  
   
 
 Water moves in predictable ways across undulating landscapes, but it can be hard to appreciate from a human perspective on the ground. It’s much easier to understand when you’re essentially a giant hovering over the land with the ability to move mountains and make rain.  

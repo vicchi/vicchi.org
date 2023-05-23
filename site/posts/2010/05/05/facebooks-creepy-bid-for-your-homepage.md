@@ -30,7 +30,7 @@ This is still not creepy.
 
 But then this morning Facebook told me it wants to be my home page.
 
-[![We've noticed you use Facebook regularly ... That's Creepy](http://farm5.static.flickr.com/4036/4581427359_f295caaecb_d.jpg)](http://www.flickr.com/photos/vicchi/4581427359/ "We've noticed you use Facebook regularly ... That's Creepy")
+[![We've noticed you use Facebook regularly ... That's Creepy](https://farm5.static.flickr.com/4036/4581427359_f295caaecb_d.jpg)](https://www.flickr.com/photos/vicchi/4581427359/ "We've noticed you use Facebook regularly ... That's Creepy")
 
 Like most people I've evolved a filtering mechanism which understands why I'm being asked and which either ignores such pleas or uses the minimal amount of effort and mouse clicks to convey the message "*buzz off, you're not going to be my homepage and don't bug me again*". I'm politely paraphrasing here you understand.
 

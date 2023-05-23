@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Last weekend, myself and the rest of the <a href="http://www.opencagedata.com/" target="_blank">OpenCage</a> team were in Karlsruhe in Germany for the second annual OpenStreetMap <a href="http://www.sotm-eu.org/" target="_blank">State of the Map Europe</a> conference. It was probably one of the best run and most diverse OSM conferences I've been to.
+Last weekend, myself and the rest of the <a href="https://www.opencagedata.com/" target="_blank">OpenCage</a> team were in Karlsruhe in Germany for the second annual OpenStreetMap <a href="https://www.sotm-eu.org/" target="_blank">State of the Map Europe</a> conference. It was probably one of the best run and most diverse OSM conferences I've been to.
 
 The first day of the conference was spent in the lobby, drinking lots of the aforementioned coffee and using lots of the aforementioned wifi, while we made last minute tweaks to the API and the accompanying website. By the end of the afternoon, the API was ready, the website worked and my slide deck was finished.
 

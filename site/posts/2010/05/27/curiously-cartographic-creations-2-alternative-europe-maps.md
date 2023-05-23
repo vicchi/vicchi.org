@@ -16,11 +16,11 @@ In the first of this occasional series, I looked at a curiously familiar but not
 
 First there's how the Swedes see Europe; Britain is characterised by inventing soccer, inventing hooligans and beer (all three of which may be related) amongst others. The other European countries don't fare much better.
 
-[![Europe according to the Swedes](/wp-content/uploads/2010/05/funny-map-europe-swedes-232x300.jpg)](http://markpknowles.com/the-world-according-to/ "Europe according to the Swedes")
+[![Europe according to the Swedes](/wp-content/uploads/2010/05/funny-map-europe-swedes-232x300.jpg)](https://markpknowles.com/the-world-according-to/ "Europe according to the Swedes")
 
 Heading South and slightly East is the self styled Chosen Nation of Hungary. While the descriptions are mostly one or two words, they're not that flattering.  Britain is simply *jobs*, while other member states are characterised as *tourist hordes*, *pizza*, *last minute hotels* and *beer land*.
 
-[![Europe according to the Hungarians](/wp-content/uploads/2010/05/europe_according_to_hungarians-480x360-300x225.jpg)](http://markpknowles.com/the-world-according-to/ "Europe according to the Hungarians")
+[![Europe according to the Hungarians](/wp-content/uploads/2010/05/europe_according_to_hungarians-480x360-300x225.jpg)](https://markpknowles.com/the-world-according-to/ "Europe according to the Hungarians")
 
 
 

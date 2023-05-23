@@ -40,7 +40,7 @@ The shortcode also supports multiple <em>attributes</em> which allow you to cust
 
 <h3>The "user" Attribute</h3>
 
-<p>If the <code>user</code> attribute is omitted, which is the default, the shortcode assumes it's being used within the <a href="http://codex.wordpress.org/The_Loop">WordPress Loop</a> and will display the Biography Box once for the current post's, page's or custom post type's user.</p>
+<p>If the <code>user</code> attribute is omitted, which is the default, the shortcode assumes it's being used within the <a href="https://codex.wordpress.org/The_Loop">WordPress Loop</a> and will display the Biography Box once for the current post's, page's or custom post type's user.</p>
 
 <p>Specifying a user's login name as the <code>user</code> attribute overrides this behaviour and allows multi-user sites to use the plugin to create a <em>contributors</em> page, where you use the shortcode as <code>[wp_scs][wp_biographia user="login-name"][/wp_scs]</code> once for each of your site's user that you want to appear, replacing <code>"login-name"</code> with a valid login name for one of your authors.</p>
 
@@ -58,7 +58,7 @@ The shortcode also supports multiple <em>attributes</em> which allow you to cust
 
 <h3>The "role" Attribute</h3>
 
-<p>Valid only when used in conjunction with the <code>user</code> attribute in <em>wildcard</em> mode, the <code>role</code> attribute allows you to filter the users that have user accounts on your blog according to their <a href="http://codex.wordpress.org/Roles_and_Capabilities">WordPress Role</a>. The <code>role</code> attribute takes one or more comma separated arguments which define the WordPress role(s); at the time of writing, these can be one of:</p>
+<p>Valid only when used in conjunction with the <code>user</code> attribute in <em>wildcard</em> mode, the <code>role</code> attribute allows you to filter the users that have user accounts on your blog according to their <a href="https://codex.wordpress.org/Roles_and_Capabilities">WordPress Role</a>. The <code>role</code> attribute takes one or more comma separated arguments which define the WordPress role(s); at the time of writing, these can be one of:</p>
 
 <ul>
 	<li><code>administrator</code></li>
@@ -89,7 +89,7 @@ The shortcode also supports multiple <em>attributes</em> which allow you to cust
 
 <p>Specifying an invalid role (<code>[wp_scs][wp_biographia user="*" order="foo"][/wp_scs])</code> will result in the default account name sort order being used. Specifying the <code>order</code> attribute without the <code>user</code> attribute in <em>wildcard</em> mode will have no effect.</p>
 
-<p>It's important to note that the in order to successfully sort by <code>first-name</code> or by <code>last-name</code>, the <em>First Name</em> and/or <em>Last Name</em> fields must be populated in each user's Profile; by default, these fields are not populated during the creation of a user's WordPress account. The sorting of the user accounts when the <code>order</code> attribute is specified uses <a href="http://sourcefrog.net/projects/natsort/"><em>natural order string comparison</em></a>, which means than an empty <em>First Name</em> or <em>Last Name</em> will appear <strong>before</strong> a <em>First Name</em> or <em>Last Name</em> which actually contains a value. If your WordPress site doesn't have these name fields populated in your user's Profiles, you may not see the sorting results you expect.</p>
+<p>It's important to note that the in order to successfully sort by <code>first-name</code> or by <code>last-name</code>, the <em>First Name</em> and/or <em>Last Name</em> fields must be populated in each user's Profile; by default, these fields are not populated during the creation of a user's WordPress account. The sorting of the user accounts when the <code>order</code> attribute is specified uses <a href="https://sourcefrog.net/projects/natsort/"><em>natural order string comparison</em></a>, which means than an empty <em>First Name</em> or <em>Last Name</em> will appear <strong>before</strong> a <em>First Name</em> or <em>Last Name</em> which actually contains a value. If your WordPress site doesn't have these name fields populated in your user's Profiles, you may not see the sorting results you expect.</p>
 
 <h3>The "prefix" Attribute</h3>
 

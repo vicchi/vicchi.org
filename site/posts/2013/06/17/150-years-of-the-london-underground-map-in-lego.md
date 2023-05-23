@@ -18,18 +18,18 @@ There was no Victoria or Jubilee lines at all. The Piccadilly line terminated at
 
 <!-- TEASER_END -->
 
-[![south-kensington-lego-tube-map](/wp-content/uploads/2013/06/south-kensington-lego-tube-map.jpg)](http://www.flickr.com/photos/vicchi/9064994507/ "http://www.flickr.com/photos/vicchi/9064994507/")
+[![south-kensington-lego-tube-map](/wp-content/uploads/2013/06/south-kensington-lego-tube-map.jpg)](https://www.flickr.com/photos/vicchi/9064994507/ "https://www.flickr.com/photos/vicchi/9064994507/")
 
 Did I mention the entire map was made of *Lego*?
 
 It's all part of the celebrations marking 150 years of the London Underground network. In addition to the South Kensington map, which shows the tube network circa 1927 and which also explains the closed stations and missing lines, there's another 4 maps scattered across the network, if you know where to look.
 
-[![kings-cross-lego-tube-map](/wp-content/uploads/2013/06/kings-cross-lego-tube-map.jpg)](http://www.flickr.com/photos/harupico/9047317349/ "http://www.flickr.com/photos/harupico/9047317349/")
+[![kings-cross-lego-tube-map](/wp-content/uploads/2013/06/kings-cross-lego-tube-map.jpg)](https://www.flickr.com/photos/harupico/9047317349/ "https://www.flickr.com/photos/harupico/9047317349/")
 
 At Piccadilly Circus there's a map from 1933, the first of Harry Beck's iconic designs. At Green Park there's a 1969 map. At Stratford there's an up-to-date 2013 map. Finally at King's Cross St. Pancras there's a view of how the map might look in 2020, with Crossrail up and running.
 
 
 
-Photo Credits: [picolin](http://www.flickr.com/photos/harupico/9047317349/ "http://www.flickr.com/photos/harupico/9047317349/") and [vicchi](http://www.flickr.com/photos/vicchi/9064994507/ "http://www.flickr.com/photos/vicchi/9064994507/") on Flickr.
+Photo Credits: [picolin](https://www.flickr.com/photos/harupico/9047317349/ "https://www.flickr.com/photos/harupico/9047317349/") and [vicchi](https://www.flickr.com/photos/vicchi/9064994507/ "https://www.flickr.com/photos/vicchi/9064994507/") on Flickr.
 
 

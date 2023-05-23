@@ -24,11 +24,11 @@ Except in the world of mobile data or mobile broadband, where unlimited means, i
 
 <!-- TEASER_END -->
 
-Vodafone, my current UK mobile provider, helpful tells me that I have unlimited data, subject to their [fair use policy](http://help.vodafone.co.uk/system/selfservice.controller?CMD=VIEW_ARTICLE&CONFIGURATION=1000&ARTICLE_ID=874113&PARTITION_ID=1&RELATED_ARTICLE_CLICK=1&RELATED_ARTICLE_NAME=What%20is%20Vodafone's%20fair%20usage%20policy%20for%20data? "http://help.vodafone.co.uk/system/selfservice.controller?CMD=VIEW_ARTICLE&CONFIGURATION=1000&ARTICLE_ID=874113&PARTITION_ID=1&RELATED_ARTICLE_CLICK=1&RELATED_ARTICLE_NAME=What%20is%20Vodafone's%20fair%20usage%20policy%20for%20data?") which promptly redefines unlimited as very much limited indeed and your limit is 5GB per month. That's a *lot* of data. Even being the compulsive photo uploader, web browser, Foursquare and Gowalla check in, Twitter and Facebook poster and checker that I am, I'm hard pressed to go above 500MB per month let alone 5GB.
+Vodafone, my current UK mobile provider, helpful tells me that I have unlimited data, subject to their [fair use policy](https://help.vodafone.co.uk/system/selfservice.controller?CMD=VIEW_ARTICLE&CONFIGURATION=1000&ARTICLE_ID=874113&PARTITION_ID=1&RELATED_ARTICLE_CLICK=1&RELATED_ARTICLE_NAME=What%20is%20Vodafone's%20fair%20usage%20policy%20for%20data? "https://help.vodafone.co.uk/system/selfservice.controller?CMD=VIEW_ARTICLE&CONFIGURATION=1000&ARTICLE_ID=874113&PARTITION_ID=1&RELATED_ARTICLE_CLICK=1&RELATED_ARTICLE_NAME=What%20is%20Vodafone's%20fair%20usage%20policy%20for%20data?") which promptly redefines unlimited as very much limited indeed and your limit is 5GB per month. That's a *lot* of data. Even being the compulsive photo uploader, web browser, Foursquare and Gowalla check in, Twitter and Facebook poster and checker that I am, I'm hard pressed to go above 500MB per month let alone 5GB.
 
 So I was both vastly amused and somewhat shocked when this text arrived on my iPhone on the way home from work last night.
 
-[![Impossibility #1 : Reaching the limits of unlimited.](http://farm4.static.flickr.com/3323/4583704846_615b1e39c4_d.jpg)](http://www.flickr.com/photos/vicchi/4583704846/ "Impossibility #1 : Reaching the limits of unlimited.")
+[![Impossibility #1 : Reaching the limits of unlimited.](https://farm4.static.flickr.com/3323/4583704846_615b1e39c4_d.jpg)](https://www.flickr.com/photos/vicchi/4583704846/ "Impossibility #1 : Reaching the limits of unlimited.")
 
 A quick call to Vodafone luckily cleared this up as being a glitch in their billing systems and I would not, as stated be charged, nor had I gotten anywhere near the 5GB limit of unlimited.
 

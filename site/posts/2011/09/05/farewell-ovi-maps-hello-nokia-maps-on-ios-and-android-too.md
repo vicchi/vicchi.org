@@ -12,9 +12,9 @@ geo_place: theRadisson Blu hotel, Berlin
 geo_lng: 13.40258
 geo_lat: 52.519648
 
-In May of this year, Nokia announced the [retirement of the Ovi brand](http://conversations.nokia.com/2011/05/16/the-evolution-of-nokia-and-ovi/ "http://conversations.nokia.com/2011/05/16/the-evolution-of-nokia-and-ovi/") and the observant map watchers amongst you may have noticed that pointing your browser of choice at [maps.ovi.com](http://maps.ovi.com "http://maps.ovi.com") now automagically redirects you to the new, shiny [maps.nokia.com](http://maps.nokia.com/ "http://maps.nokia.com/").
+In May of this year, Nokia announced the [retirement of the Ovi brand](https://conversations.nokia.com/2011/05/16/the-evolution-of-nokia-and-ovi/ "https://conversations.nokia.com/2011/05/16/the-evolution-of-nokia-and-ovi/") and the observant map watchers amongst you may have noticed that pointing your browser of choice at [maps.ovi.com](https://maps.ovi.com "https://maps.ovi.com") now automagically redirects you to the new, shiny [maps.nokia.com](https://maps.nokia.com/ "https://maps.nokia.com/").
 
-What you may not have noticed is that Nokia maps doesn't just work on your desktop or laptop web browser or on Nokia smartphones, as Electric Pig nicely pointed out, [Nokia has invaded the iPhone](http://www.electricpig.co.uk/2011/09/01/nokia-maps-invades-iphone/ "http://www.electricpig.co.uk/2011/09/01/nokia-maps-invades-iphone/") too. Point your iPhone or iPad at the [Nokia Maps for Mobile Web](http://betalabs.nokia.com/apps/nokia-maps-for-mobile-web "http://betalabs.nokia.com/apps/nokia-maps-for-mobile-web") at [m.maps.nokia.com](http://m.maps.nokia.com/ "http://m.maps.nokia.com/") and you'll see something like this ...
+What you may not have noticed is that Nokia maps doesn't just work on your desktop or laptop web browser or on Nokia smartphones, as Electric Pig nicely pointed out, [Nokia has invaded the iPhone](https://www.electricpig.co.uk/2011/09/01/nokia-maps-invades-iphone/ "https://www.electricpig.co.uk/2011/09/01/nokia-maps-invades-iphone/") too. Point your iPhone or iPad at the [Nokia Maps for Mobile Web](https://betalabs.nokia.com/apps/nokia-maps-for-mobile-web "https://betalabs.nokia.com/apps/nokia-maps-for-mobile-web") at [m.maps.nokia.com](https://m.maps.nokia.com/ "https://m.maps.nokia.com/") and you'll see something like this ...
 
 <!-- TEASER_END -->
 

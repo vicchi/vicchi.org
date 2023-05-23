@@ -9,13 +9,13 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://ift.tt/2tXDX1g)  
+Today's maps found on the interwebs. ![](https://ift.tt/2tXDX1g)  
   
 
 The official London Underground map is an essential part of living in the capital, but several alternatives have been released in a bid to make commuters' lives easier. Published by Transport for London over the years, they are aimed at the entire cross-section of people who use the Tube.  
   
 
-Found at [http://ift.tt/2tXz7RX](http://ift.tt/2tXz7RX "http://ift.tt/2tXz7RX")
+Found at [https://ift.tt/2tXz7RX](https://ift.tt/2tXz7RX "https://ift.tt/2tXz7RX")
 
 
 

@@ -15,7 +15,7 @@ Today's maps found on the interwebs. ![](/wp-content/uploads/2017/02/hobbit-map.
 At The Awl, Victoria Johnson fondly remembers the books of her youth that contained extra material. Like maps. If I ruled the world, or at least a publishing company, all books would contain as much supplementary information as possible. Nonfiction, fiction — doesn’t matter.  
   
 
-Found at [http://ift.tt/2jV6ZtD](http://ift.tt/2jV6ZtD "http://ift.tt/2jV6ZtD")
+Found at [https://ift.tt/2jV6ZtD](https://ift.tt/2jV6ZtD "https://ift.tt/2jV6ZtD")
 
 
 

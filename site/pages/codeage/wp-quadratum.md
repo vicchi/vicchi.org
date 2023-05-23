@@ -15,21 +15,21 @@
 
 <html><body><a href="/wp-content/uploads/2012/04/wp-quadratum-banner.jpg"><img src="/wp-content/uploads/2012/04/wp-quadratum-banner.jpg" alt="" title="WP Quadratum" class="aligncenter size-full wp-image-3245" width="805" height="282"></a>
 <h2>What Is WP Quadratum?</h2>
-WP Quadratum is a <a href="http://wordpress.org">WordPress</a> plugin to display your last <a href="http://foursquare.com">Foursquare</a> checkin as a map widget in the sidebar or embedded in a post or page, fully authenticated via OAuth 2.0.
+WP Quadratum is a <a href="https://wordpress.org">WordPress</a> plugin to display your last <a href="https://foursquare.com">Foursquare</a> checkin as a map widget in the sidebar or embedded in a post or page, fully authenticated via OAuth 2.0.
 <h2>What Does It Do?</h2>
 This plugin allows you to display your last Foursquare checkin as a map widget on the sidebar or embedded via a shortcode in a post or page of your WordPress powered site.
 
 You can configure WP Quadratum to ...
 <ol>
- 	<li>Associate your WordPress powered site with your <a href="https://foursquare.com/">Foursquare</a> account using <a href="http://oauth.net/2/">OAuth 2.0</a>, which keeps your personal information safe and secure.</li>
+ 	<li>Associate your WordPress powered site with your <a href="https://foursquare.com/">Foursquare</a> account using <a href="https://oauth.net/2/">OAuth 2.0</a>, which keeps your personal information safe and secure.</li>
  	<li>Choose which map provider you want your checkin shown on; you can choose from:
 <ol>
- 	<li><a href="http://developer.here.com/javascript_api">HERE Maps</a></li>
+ 	<li><a href="https://developer.here.com/javascript_api">HERE Maps</a></li>
  	<li><a href="https://developers.google.com/maps/documentation/javascript/">Google Maps v3</a></li>
- 	<li><a href="http://msdn.microsoft.com/en-us/library/gg427610.aspx">Bing Maps v7</a></li>
- 	<li><a href="http://www.openstreetmap.org">OpenStreetMap</a> from <a href="http://leafletjs.com/">Leaflet</a></li>
- 	<li><a href="http://www.openstreetmap.org">OpenStreetMap</a> from <a href="http://openlayers.org">OpenLayers</a></li>
- 	<li><a href="">OpenStreetMap</a> from <a href="http://developer.mapquest.com/web/products/open/sdk">MapQuest</a></li>
+ 	<li><a href="https://msdn.microsoft.com/en-us/library/gg427610.aspx">Bing Maps v7</a></li>
+ 	<li><a href="https://www.openstreetmap.org">OpenStreetMap</a> from <a href="https://leafletjs.com/">Leaflet</a></li>
+ 	<li><a href="https://www.openstreetmap.org">OpenStreetMap</a> from <a href="https://openlayers.org">OpenLayers</a></li>
+ 	<li><a href="">OpenStreetMap</a> from <a href="https://developer.mapquest.com/web/products/open/sdk">MapQuest</a></li>
 </ol>
 </li>
  	<li>Add your maps API key(s) for your chosen map provider; HERE, Google, Bing and MapQuest maps all require API keys.</li>
@@ -40,7 +40,7 @@ The <em>strapline</em> text containing the venue name, venue URL and timestamp o
 
 The current version of this plugin allows you to associate a single Foursquare account with your WordPress site; associating multiple Foursquare accounts, one per user account is not currently supported.
 <h2>How Do I Download WP Quadratum?</h2>
-To download or install WP Quadratum on your WordPress powered site, either search for <em>WP Quadratum</em> from the WordPress Dashboard or go to plugin’s page on the official <a href="http://wordpress.org/extend/plugins/wp-quadratum/">WordPress plugin repository</a>.
+To download or install WP Quadratum on your WordPress powered site, either search for <em>WP Quadratum</em> from the WordPress Dashboard or go to plugin’s page on the official <a href="https://wordpress.org/extend/plugins/wp-quadratum/">WordPress plugin repository</a>.
 
 If you want to fork the source code of the plugin, you can find it on the plugin’s GitHub page at <a href="https://github.com/vicchi/wp-quadratum">https://github.com/vicchi/wp-quadratum</a>.
 <h2>What's New?</h2>
@@ -62,7 +62,7 @@ WP Quadratum v1.3.1 was released 09/22/13.
  	<li>Configure your Foursquare credentials; from the Dashboard, navigate to the <em>Settings / WP Quadratum</em> page or click on the <em>"Settings"</em> link from the Plugins page on the Dashboard.</li>
  	<li>To display your Foursquare checkins, WP Quadratum needs to be authorised to access your Foursquare account information; this is a simple, safe and secure 3 step process. WP Quadratum never sees your account login information and cannot store any personally identifiable information.
 <ol>
- 	<li>Register your WordPress site as a Foursquare application on the <a href="https://foursquare.com/developers/register">Foursquare App Registration</a> page. If you're not currently logged into your Foursquare account, you'll need to login with the Foursquare account whose checkins you want WP Quadratum to display. The <em>Your app name</em> field is a label you want to use to identify this connection to your Foursquare account. The <em>Download / welcome page url</em> is the URL of your Wordpress site. The <em>Redirect URI</em> will be provided for you and will be along the lines of <code>http://www.yoursite.com/wp-content/plugins/wp-quadratum/includes/wp-quadratum-callback.php</code> (this is just an example, <em>don't use this URL</em>). <em>Push API Notifications</em> should be set to <em>Disable pushes to this app</em>. All other fields can be left at their default values. Once you have successfully registered your site, you'll be provided with two keys, the <em>Client ID</em> and the <em>Client Secret</em>.</li>
+ 	<li>Register your WordPress site as a Foursquare application on the <a href="https://foursquare.com/developers/register">Foursquare App Registration</a> page. If you're not currently logged into your Foursquare account, you'll need to login with the Foursquare account whose checkins you want WP Quadratum to display. The <em>Your app name</em> field is a label you want to use to identify this connection to your Foursquare account. The <em>Download / welcome page url</em> is the URL of your Wordpress site. The <em>Redirect URI</em> will be provided for you and will be along the lines of <code>https://www.yoursite.com/wp-content/plugins/wp-quadratum/includes/wp-quadratum-callback.php</code> (this is just an example, <em>don't use this URL</em>). <em>Push API Notifications</em> should be set to <em>Disable pushes to this app</em>. All other fields can be left at their default values. Once you have successfully registered your site, you'll be provided with two keys, the <em>Client ID</em> and the <em>Client Secret</em>.</li>
  	<li>Copy and paste the supplied <em>Client ID</em> and <em>Client Secret</em> into the respective WP Quadratum setting fields. Click on the <em>"Save Changes"</em> button to preserve them.</li>
  	<li>You should now be authorised and ready to go; click on the <em>Connect to Foursquare</em> button.</li>
 </ol>
@@ -134,15 +134,15 @@ WP Quadratum v1.3.1 was released 09/22/13.
 <a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-19.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-19.png" alt="v1.3.1-screenshot-19" class="aligncenter size-large wp-image-4271" width="729" height="278"></a>
 <h2><a id="faq"></a>Frequently Asked Questions</h2>
 <h3>How do I get help or support for this plugin?</h3>
-In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="http://wordpress.org/support/plugin/wp-quadratum">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="http://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
+In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="https://wordpress.org/support/plugin/wp-quadratum">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="https://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
 <h3>Is there a web site for this plugin?</h3>
-Absolutely, it's the page you're reading,  the <a href="/pages/codeage/wp-quadratum/">WP Quadratum home page</a> which always contains the latest information. There's also the official <a href="http://wordpress.org/extend/plugins/wp-quadratum/">WordPress plugin repository page</a> and the <a href="http://vicchi.github.com/wp-quadratum/">source for the plugin is on GitHub</a> as well.
+Absolutely, it's the page you're reading,  the <a href="/pages/codeage/wp-quadratum/">WP Quadratum home page</a> which always contains the latest information. There's also the official <a href="https://wordpress.org/extend/plugins/wp-quadratum/">WordPress plugin repository page</a> and the <a href="https://vicchi.github.com/wp-quadratum/">source for the plugin is on GitHub</a> as well.
 <h3>I have multiple authors on my site; can I have a widget for each author's Foursquare account?</h3>
 In the current version, no. In the current version, you can link a single Foursquare account with your WordPress site (multi-site or network sites may work, assuming each site is for a single user but I haven't tested this). The plugin is currently designed to support a WordPress site which is used for a personal blog (in other words, exactly the way my site is set up). Future versions of the plugin <em>may</em> support this if people ask for this feature (assuming anyone apart from myself actually <em>uses</em> it!).
 <h3>Can I change the format of the strapline that appears under the checkin map?</h3>
 Yes. The <code>wp_quadratum_strapline</code> filter is for just this purpose. The filter is passed the default strapline as well as the URL to the Foursquare venue checked in at, the name of the venue and the date and time of the checkin as a UNIX timestamp. See the <em><a href="#filters">Filter Support And Usage</a></em> section for more information.
 <h3>I want to amend/hack/augment this plugin; can I do the same?</h3>
-Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt">http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</a> for the full license terms.
+Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt">https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</a> for the full license terms.
 <h3>Where does the name WP Quadratum come from?</h3>
 WP Quadratum is named after both the Latin words <em>quattor</em>, meaning <strong>four</strong> and <em>quadratum</em>, meaning <strong>square</strong>.
 <h2><a id="shortcode"></a>Shortcode Support And Usage</h2>
@@ -175,7 +175,7 @@ The <code>[wp_scs][wpq_map][/wp_scs]</code> shortcode is an alias for the <code>
 <h3>[wp_scs][wp_quadratum_locality][/wp_scs]</h3>
 Adding this shortcode to the content of a post or page, expands the shortcode and replaces it with information about your last Foursquare checkin. The information to be displayed is selected by the shortcode's <code>type</code> attribute, which allows you to select the venue name, address, region, postal code, coordinates, timezone or timezone offset.
 
-By default, the <code>[wp_scs][wp_quadratum_locality][/wp_scs]</code> shortcode and the <code>[wp_scs][wpq_locality][/wp_scs]</code> alias are disabled. This is because not all Foursquare venues contain the full scope of locality elements that the shortcode supports (the minimum requirements for a Foursquare venue are name, category and coordinates). To backfill any missing venue elements, WP Quadratum uses a <em>reverse geocoding</em> service from <a href="http://www.factual.com/">Factual</a> to supply the missing information.
+By default, the <code>[wp_scs][wp_quadratum_locality][/wp_scs]</code> shortcode and the <code>[wp_scs][wpq_locality][/wp_scs]</code> alias are disabled. This is because not all Foursquare venues contain the full scope of locality elements that the shortcode supports (the minimum requirements for a Foursquare venue are name, category and coordinates). To backfill any missing venue elements, WP Quadratum uses a <em>reverse geocoding</em> service from <a href="https://www.factual.com/">Factual</a> to supply the missing information.
 
 To enable the <code>[wp_scs][wp_quadratum_locality][/wp_scs]</code> shortcode, from the Dashboard navigate to <em>Settings / WP Quadratum</em> and click on the <em>Shortcodes</em> tab. Select the <em>Enable Locality Shortcode Usage</em> checkbox and the <em>Factual OAuth Settings</em> meta-box will appear. You'll then need to sign up for a <a href="https://www.factual.com/api-keys/request">Factual API key</a> after which you'll be given an <em>OAuth Key</em> and <em>OAuth Secret</em>. Copy and paste these into the <em>Factual OAuth</em> text fields and click on <em>Save Shortcode Settings</em>. You'll now be able to use the <code>[wp_scs][wp_quadratum_locality][/wp_scs]</code> shortcode or its alias.
 <h4>The "type" Attribute</h4>

@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-There used to be a time when, if you were driving on a motorway or dual carriageway, you looked in your rear view mirror and you would see, approaching rapidly, very rapidly, a [Bedford Astramax](http://members.lycos.nl/goodoldengland/bedford.html "http://members.lycos.nl/goodoldengland/bedford.html") van. You would be safe to make at least one of the following assumptions about this van.
+There used to be a time when, if you were driving on a motorway or dual carriageway, you looked in your rear view mirror and you would see, approaching rapidly, very rapidly, a [Bedford Astramax](https://members.lycos.nl/goodoldengland/bedford.html "https://members.lycos.nl/goodoldengland/bedford.html") van. You would be safe to make at least one of the following assumptions about this van.
 
 
 * It would be white.
@@ -20,7 +20,7 @@ There used to be a time when, if you were driving on a motorway or dual carriage
 
 <!-- TEASER_END -->
 
-I'm not the first person to comment on the fact that the Astramax was in fact the [world's fastest production vehicle](http://portal.telegraph.co.uk/motoring/main.jhtml?xml=/motoring/1998/12/26/emfvaux26.xml "http://portal.telegraph.co.uk/motoring/main.jhtml?xml=/motoring/1998/12/26/emfvaux26.xml").
+I'm not the first person to comment on the fact that the Astramax was in fact the [world's fastest production vehicle](https://portal.telegraph.co.uk/motoring/main.jhtml?xml=/motoring/1998/12/26/emfvaux26.xml "https://portal.telegraph.co.uk/motoring/main.jhtml?xml=/motoring/1998/12/26/emfvaux26.xml").
 
 You don't see that many Astramax's on the road these days and even less of them in your rear view mirror. This is because they have been forced into near extinction by their successor; the British Gas van.
 

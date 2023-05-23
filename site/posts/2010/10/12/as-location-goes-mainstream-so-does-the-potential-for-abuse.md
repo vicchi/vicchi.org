@@ -18,7 +18,7 @@ Long before we put up a network of over 20 satellites a less accurate version of
 
 <!-- TEASER_END -->
 
-[![No matter where you go, there you are - Buckaroo Bonzai](http://farm1.static.flickr.com/209/493343628_98052395a0_d.jpg)](http://www.flickr.com/photos/st_a_sh/493343628/ "No matter where you go, there you are - Buckaroo Bonzai")
+[![No matter where you go, there you are - Buckaroo Bonzai](https://farm1.static.flickr.com/209/493343628_98052395a0_d.jpg)](https://www.flickr.com/photos/st_a_sh/493343628/ "No matter where you go, there you are - Buckaroo Bonzai")
 
 The process of wifi geolocation, sometimes called Wifi Positioning System or WPS, is sometimes combined with GPS, known as Assisted GPS or A-GPS, and sometimes provides geolocation facilities for devices which don't have onboard GPS. WPS is what allowed the first iPhones and the iPad, both of which lack GPS, to position themselves relatively accurately and WPS also forms part of the W3C Geolocation system which allows web browsers to get a location fix. WPS isn't as accurate as GPS but most of the time it's good enough. Both SkyHook Wireless and Google maintain WPS databases, which allow you to geolocate based on the publicly accessible unique address (the MAC address) that every wifi access point broadcasts, regardless of whether the access point is open, closed or encrypted. This isn't a flaw or a vulnerability, it's how your laptop or mobile phone seeks out and connects to a wifi network.
 
@@ -26,7 +26,7 @@ Again this is nothing new. But the crucial part is that either implicitly or exp
 
 But what is new is that by going "*mainstream*", location sharing is now also ripe for abuse.
 
-One indication of this abuse is the recent news that [free apps on the Android platform are secretly sharing A-GPS location](http://www.bbc.co.uk/news/technology-11443111 "http://www.bbc.co.uk/news/technology-11443111") without the user being aware of it. One could argue that when installing the app this is listed as one of the capabilities ...
+One indication of this abuse is the recent news that [free apps on the Android platform are secretly sharing A-GPS location](https://www.bbc.co.uk/news/technology-11443111 "https://www.bbc.co.uk/news/technology-11443111") without the user being aware of it. One could argue that when installing the app this is listed as one of the capabilities ...
 
 
 
@@ -39,11 +39,11 @@ One indication of this abuse is the recent news that [free apps on the Android p
 [![](/wp-content/uploads/2010/10/uf007802.gif "\"EULA\"")](/wp-content/uploads/2010/10/uf007802.gif "/wp-content/uploads/2010/10/uf007802.gif")
 
 
-Another indication is the recent [proof of concept](http://www.samy.pl/mapxss/ "http://www.samy.pl/mapxss/") that allows a malicious web page to exploit a user being logged into their wifi access point's web based administration console, grab the MAC address of the access point and utilise a third-party WPS web service to geo-locate the user. Admittedly this is a proof of concept; it requires a very specific set of circumstances to be in place in order to work ... a vulnerable wifi router, visiting a malicious site with the exploit installed, being logged in as an administrator on the wifi access point's console at the time of visiting the malicious site.
+Another indication is the recent [proof of concept](https://www.samy.pl/mapxss/ "https://www.samy.pl/mapxss/") that allows a malicious web page to exploit a user being logged into their wifi access point's web based administration console, grab the MAC address of the access point and utilise a third-party WPS web service to geo-locate the user. Admittedly this is a proof of concept; it requires a very specific set of circumstances to be in place in order to work ... a vulnerable wifi router, visiting a malicious site with the exploit installed, being logged in as an administrator on the wifi access point's console at the time of visiting the malicious site.
 
 But we should all be warned. As location goes mainstream and becomes ubiquitous, so does the attention of those who would abuse and exploit this.
 
-As a footnote, the inspiration for this post came from [Paul Clarke](http://twitter.com/paul_clarke "http://twitter.com/paul_clarke"), who [spotted the geolocation exploit proof of concept](http://paulclarke.com/honestlyreal/2010/10/where-in-the-world-are-you/ "http://paulclarke.com/honestlyreal/2010/10/where-in-the-world-are-you/"). In addition to taking a [damn fine photograph](http://www.flickr.com/photos/paul_clarke/sets/72157624926808787/ "http://www.flickr.com/photos/paul_clarke/sets/72157624926808787/"), Paul also writes equally as well. If you don't read his blog, you should.
-Photo Credits: [Stefan Andrej Shambora](http://www.flickr.com/photos/st_a_sh/493343628/ "http://www.flickr.com/photos/st_a_sh/493343628/") on Flickr.
+As a footnote, the inspiration for this post came from [Paul Clarke](https://twitter.com/paul_clarke "https://twitter.com/paul_clarke"), who [spotted the geolocation exploit proof of concept](https://paulclarke.com/honestlyreal/2010/10/where-in-the-world-are-you/ "https://paulclarke.com/honestlyreal/2010/10/where-in-the-world-are-you/"). In addition to taking a [damn fine photograph](https://www.flickr.com/photos/paul_clarke/sets/72157624926808787/ "https://www.flickr.com/photos/paul_clarke/sets/72157624926808787/"), Paul also writes equally as well. If you don't read his blog, you should.
+Photo Credits: [Stefan Andrej Shambora](https://www.flickr.com/photos/st_a_sh/493343628/ "https://www.flickr.com/photos/st_a_sh/493343628/") on Flickr.
 
 

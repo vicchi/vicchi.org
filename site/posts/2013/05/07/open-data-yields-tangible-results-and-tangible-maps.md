@@ -14,11 +14,11 @@ geo_lat: 51.427051
 
 In January of this year I made a hopeful prediction that <a href="/2013/01/01/2013-the-year-of-the-tangible-map-and-return-of-the-map-as-art/" target="_blank">2013 would be the year of the tangible map</a>. 
 
-This hope was prompted by [the maps I saw](/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/ "/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/") at one of London's geomob meetups in November of 2012, where I saw and, importantly for a tangible map, touched Anna Butler's [London wall map](http://www.wellingtonstravel.com/wall-map-london/ "http://www.wellingtonstravel.com/wall-map-london/") and a prototype of David Overton's [SplashMap](http://www.kickstarter.com/projects/1521486951/splashmaps "http://www.kickstarter.com/projects/1521486951/splashmaps").
+This hope was prompted by [the maps I saw](/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/ "/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/") at one of London's geomob meetups in November of 2012, where I saw and, importantly for a tangible map, touched Anna Butler's [London wall map](https://www.wellingtonstravel.com/wall-map-london/ "https://www.wellingtonstravel.com/wall-map-london/") and a prototype of David Overton's [SplashMap](https://www.kickstarter.com/projects/1521486951/splashmaps "https://www.kickstarter.com/projects/1521486951/splashmaps").
 
 The hopeful prediction was made as a result of literally getting my hands on one of Anna's London maps and it's a treasured possession, though still sadly needing a suitable frame before it can take pride of place on a wall at home.
 
-But what of [SplashMaps](http://www.splashmaps.net/ "http://www.splashmaps.net/")? In November 2012 the project was on Kickstarter and I was one of the investors in this most tangible of maps. In December 2012 Splashmaps met their funding targets and went into production and today, through the letterbox came my own, tangible, foldable, scrunchable and almost indestructible SplashMap of my local neighbourhood.
+But what of [SplashMaps](https://www.splashmaps.net/ "https://www.splashmaps.net/")? In November 2012 the project was on Kickstarter and I was one of the investors in this most tangible of maps. In December 2012 Splashmaps met their funding targets and went into production and today, through the letterbox came my own, tangible, foldable, scrunchable and almost indestructible SplashMap of my local neighbourhood.
 
 <!-- TEASER_END -->
 

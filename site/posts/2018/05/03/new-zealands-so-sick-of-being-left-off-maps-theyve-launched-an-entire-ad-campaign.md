@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](http://i.vimeocdn.com/video/697912293_640.jpg)  
+Today's maps found on the interwebs. ![](https://i.vimeocdn.com/video/697912293_640.jpg)  
   
 
 New Zealand is continually omitted from maps of the world. Seriously, there's an entire Reddit thread highlighting examples of the country being completely wiped from global existence.   

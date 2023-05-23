@@ -30,7 +30,7 @@ Copy the Remote Desktop exe and dll to another directory and enable Windows 98 c
 
 Finally, you'll need to allow incoming SSH connections from the internet through your firewall; to do this you should open port 22.
 
-Now on your XP machine at work, install [Cygwin](http://www.cygwin.com "Cygwin Home Page") with SSH and fire up a bash shell and do the following:-
+Now on your XP machine at work, install [Cygwin](https://www.cygwin.com "Cygwin Home Page") with SSH and fire up a bash shell and do the following:-
 
 
 

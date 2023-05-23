@@ -12,7 +12,7 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-Over the weekend I made [another map](http://maps.geotastic.org/checkins/ "http://maps.geotastic.org/checkins/"). While I don't think for one moment this one will be as wildly popular as my [last map](http://maps.geotastic.org/rude/ "http://maps.geotastic.org/rude/") was, this one is just as satisfying and a whole lot more personal.
+Over the weekend I made [another map](https://maps.geotastic.org/checkins/ "https://maps.geotastic.org/checkins/"). While I don't think for one moment this one will be as wildly popular as my [last map](https://maps.geotastic.org/rude/ "https://maps.geotastic.org/rude/") was, this one is just as satisfying and a whole lot more personal.
 
 
 At 8.01 PM on the 11th. of October 2009 I checked into [Sushi Tomi](https://foursquare.com/v/sushi-tomi/48750fc1f964a5200f511fe3 "https://foursquare.com/v/sushi-tomi/48750fc1f964a5200f511fe3") in Mountain View, California. This was my very first Foursquare check-in. Since then I've checked-in on this particular location based service a further 12,394 times. Each check-in has been at a place I've visited. As this is a location based service, each check-in comes with a longitude and latitude.
@@ -23,9 +23,9 @@ This sounded to me like an ideal candidate for a *map*. But how to go about maki
 
 [![Checkins - Global](/wp-content/uploads/2013/02/Checkins-Global-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-Global.jpg "/wp-content/uploads/2013/02/Checkins-Global.jpg")
 
-I could have written some code to use the Foursquare API, but I've been running an instance of [Aaron Cope](http://aaronland.info/ "http://aaronland.info/")'s [privatesquare](https://github.com/straup/privatesquare "https://github.com/straup/privatesquare") for a couple of years now, which meant every check-in I've ever made, give or take the last 6 hours or so, is sitting comfortably in a MySQL database.
+I could have written some code to use the Foursquare API, but I've been running an instance of [Aaron Cope](https://aaronland.info/ "https://aaronland.info/")'s [privatesquare](https://github.com/straup/privatesquare "https://github.com/straup/privatesquare") for a couple of years now, which meant every check-in I've ever made, give or take the last 6 hours or so, is sitting comfortably in a MySQL database.
 
-So I wrote some code to go through the database, extract each checkin and make a list of each place I'd checked into, the place's coordinates, the place's name and how many times I'd checked into that place. Armed with this information, I could then spit this out in GeoJSON format, which made making a map no more complicated than some mapping API JavaScript, in this case the Leaflet API. OK. There was some slight complication. I need to do some cleverness to make each checkin a CircleMarker, where the radius of the circle was proportional to the number of check-ins. Thankfully Mike Bostock's [D3](http://d3js.org/ "http://d3js.org/") library does this with ease.
+So I wrote some code to go through the database, extract each checkin and make a list of each place I'd checked into, the place's coordinates, the place's name and how many times I'd checked into that place. Armed with this information, I could then spit this out in GeoJSON format, which made making a map no more complicated than some mapping API JavaScript, in this case the Leaflet API. OK. There was some slight complication. I need to do some cleverness to make each checkin a CircleMarker, where the radius of the circle was proportional to the number of check-ins. Thankfully Mike Bostock's [D3](https://d3js.org/ "https://d3js.org/") library does this with ease.
 
 It's not the most classy of visualisations. But I do like that the map shows me the global picture of where I've been over the last 4 or so years. As you zoom into the map, it's fascinating to see the patterns of my movements in areas I seem to go to on a regular basis, such as the San Francisco Bay Area ...
 

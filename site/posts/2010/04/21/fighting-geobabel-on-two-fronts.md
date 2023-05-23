@@ -12,15 +12,15 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-The well known, highly opinionated and occasionally [error prone](/2010/04/18/geo-chicken-and-egg-the-problem-with-press-releases/ "/2010/04/18/geo-chicken-and-egg-the-problem-with-press-releases/") [Tech Crunch](http://techcrunch.com/ "http://techcrunch.com/") seems to think there's a [location war](http://www.google.co.uk/search?hl=en&source=hp&q=location+war+site%3Atechcrunch.com&meta=&aq=f&aqi=&aql=&oq=&gs_rfai= "http://www.google.co.uk/search?hl=en&source=hp&q=location+war+site%3Atechcrunch.com&meta=&aq=f&aqi=&aql=&oq=&gs_rfai=") going on.
+The well known, highly opinionated and occasionally [error prone](/2010/04/18/geo-chicken-and-egg-the-problem-with-press-releases/ "/2010/04/18/geo-chicken-and-egg-the-problem-with-press-releases/") [Tech Crunch](https://techcrunch.com/ "https://techcrunch.com/") seems to think there's a [location war](https://www.google.co.uk/search?hl=en&source=hp&q=location+war+site%3Atechcrunch.com&meta=&aq=f&aqi=&aql=&oq=&gs_rfai= "https://www.google.co.uk/search?hl=en&source=hp&q=location+war+site%3Atechcrunch.com&meta=&aq=f&aqi=&aql=&oq=&gs_rfai=") going on.
 
-A search for the keywords location and war on the site yields strident post titles including [Just In Time For The Location Wars, Twitter Turns on Geolocation On Its Website](http://techcrunch.com/2010/03/09/twitter-location-website/ "http://techcrunch.com/2010/03/09/twitter-location-website/"), [Location Isn't A War Between Two Sides, It's A Gold Rush For Everyone](http://techcrunch.com/2010/03/19/location-gold-rush/ "http://techcrunch.com/2010/03/19/location-gold-rush/"), [What Did The Location War Look Like At SXSW? Like This](http://techcrunch.com/2010/03/25/location-war-visualization/ "http://techcrunch.com/2010/03/25/location-war-visualization/") and [Google Escalates The Location War With Google Places](http://techcrunch.com/2010/04/20/google-places/ "http://techcrunch.com/2010/04/20/google-places/").
+A search for the keywords location and war on the site yields strident post titles including [Just In Time For The Location Wars, Twitter Turns on Geolocation On Its Website](https://techcrunch.com/2010/03/09/twitter-location-website/ "https://techcrunch.com/2010/03/09/twitter-location-website/"), [Location Isn't A War Between Two Sides, It's A Gold Rush For Everyone](https://techcrunch.com/2010/03/19/location-gold-rush/ "https://techcrunch.com/2010/03/19/location-gold-rush/"), [What Did The Location War Look Like At SXSW? Like This](https://techcrunch.com/2010/03/25/location-war-visualization/ "https://techcrunch.com/2010/03/25/location-war-visualization/") and [Google Escalates The Location War With Google Places](https://techcrunch.com/2010/04/20/google-places/ "https://techcrunch.com/2010/04/20/google-places/").
 
 And Tech Crunch are right, there is a location war going on, but it's not the war that Michael Arrington and crew are thinking of; this war is much more insidious. It's the war against GeoBabel and it's being fought right now on two fronts.
 
 <!-- TEASER_END -->
 
-[![Babel by Cildo Meireles](http://farm4.static.flickr.com/3039/2974382946_13af5503ab_d.jpg)](http://www.flickr.com/photos/nickwebb/2974382946/ "Babel by Cildo Meireles")
+[![Babel by Cildo Meireles](https://farm4.static.flickr.com/3039/2974382946_13af5503ab_d.jpg)](https://www.flickr.com/photos/nickwebb/2974382946/ "Babel by Cildo Meireles")
 
 Front number one is *your place is not my place*. You may think we're talking about the same place, the same POI, the same location, the same city or neighbourhood but we're not. You're fluent in Gowalla, I'm fluent in Foursquare and the rest of the internet is fluent in Geonames, OpenStreetMap and WOEIDs, each with their own subjective view of *where*. GeoBabel.
 
@@ -32,6 +32,6 @@ Until we solve this GeoBabel in the making, the location war will be lost withou
 
 
 
-Photo Credits: [Nick. J. Webb](http://www.flickr.com/photos/nickwebb/2974382946/ "http://www.flickr.com/photos/nickwebb/2974382946/") on Flickr.
+Photo Credits: [Nick. J. Webb](https://www.flickr.com/photos/nickwebb/2974382946/ "https://www.flickr.com/photos/nickwebb/2974382946/") on Flickr.
 
 

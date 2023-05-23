@@ -23,13 +23,13 @@ $ svn cp trunk tags/3.0
 $ svn ci -m 'Tagging v3.0'
 ```
 
-... and after much coding, rewriting, testing and documenting, [v3.0 of WP Biographia](http://wordpress.org/extend/plugins/wp-biographia/ "http://wordpress.org/extend/plugins/wp-biographia/") has finally made it off of the starting blocks.
+... and after much coding, rewriting, testing and documenting, [v3.0 of WP Biographia](https://wordpress.org/extend/plugins/wp-biographia/ "https://wordpress.org/extend/plugins/wp-biographia/") has finally made it off of the starting blocks.
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/04/4976494944_29f8defb4a.jpg "Off The Starting Blocks ...")](http://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/ "http://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/")
+[![](/wp-content/uploads/2012/04/4976494944_29f8defb4a.jpg "Off The Starting Blocks ...")](https://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/ "https://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/")
 
-As per usual, you can read the change log [here](http://wordpress.org/extend/plugins/wp-biographia/changelog/ "http://wordpress.org/extend/plugins/wp-biographia/changelog/"), grab the source [here](https://github.com/vicchi/wp-biographia "https://github.com/vicchi/wp-biographia"), or download it [here](/pages/codeage/wp-biographia/ "/pages/codeage/wp-biographia/").
+As per usual, you can read the change log [here](https://wordpress.org/extend/plugins/wp-biographia/changelog/ "https://wordpress.org/extend/plugins/wp-biographia/changelog/"), grab the source [here](https://github.com/vicchi/wp-biographia "https://github.com/vicchi/wp-biographia"), or download it [here](/pages/codeage/wp-biographia/ "/pages/codeage/wp-biographia/").
 
 But what I really want to say, right here, is what you'll find in the *Acknowledgements* side bar after you've installed the latest version.
 
@@ -38,6 +38,6 @@ But what I really want to say, right here, is what you'll find in the *Acknowled
 > The fact that you're reading this wouldn't have been possible without the help, bug fixing, beta testing, gentle prodding and overall general warmth and continued support of [Travis Smith](https://twitter.com/#!/wp_smith "https://twitter.com/#!/wp_smith") and [Bruce Munson](https://twitter.com/#!/webendev "https://twitter.com/#!/webendev"). Travis and Bruce ... you're awesome. Thank you.
 
 
-Photo Credits: [tableatny](http://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/ "http://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/") on Flickr.
+Photo Credits: [tableatny](https://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/ "https://www.flickr.com/photos/53370644@N06/4976494944/in/photostream/") on Flickr.
 
 

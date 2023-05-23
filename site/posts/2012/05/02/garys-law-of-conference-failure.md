@@ -25,9 +25,9 @@ Of course, a live demo can go wrong and did go wrong, which prompted me to say
 > [Never work with children, animals, sweet soul music or live code demos. You have been warned](https://twitter.com/#!/vicchi/statuses/74396100425031680 "https://twitter.com/#!/vicchi/statuses/74396100425031680")
 
 
-Although I'm sure someone might have said [something similar](http://www.imdb.com/name/nm0001211/bio "http://www.imdb.com/name/nm0001211/bio") before. That was last year's WhereCamp EU. This year's WhereCamp EU, thanks to Messrs Iliffe and Sollazzo, seemed to have elevated that random Tweet to a law. A law which happened again at WhereCamp EU in Berlin. More than once. And then again at Mark's PhD presentation.
+Although I'm sure someone might have said [something similar](https://www.imdb.com/name/nm0001211/bio "https://www.imdb.com/name/nm0001211/bio") before. That was last year's WhereCamp EU. This year's WhereCamp EU, thanks to Messrs Iliffe and Sollazzo, seemed to have elevated that random Tweet to a law. A law which happened again at WhereCamp EU in Berlin. More than once. And then again at Mark's PhD presentation.
 
 So it's official. Gary's law of conference failures is now codified as ***never work with children, animals, sweet soul music or live demos***. And before you ask, I've learnt the hard way, never, ever, to do a live demo, because what can go wrong, *will* go wrong.
-Photo Credits: [Uncle Zirky](http://failblog.org/2011/10/14/epic-fail-photos-updating-your-computer-fail/ "http://failblog.org/2011/10/14/epic-fail-photos-updating-your-computer-fail/") on FailBlog.
+Photo Credits: [Uncle Zirky](https://failblog.org/2011/10/14/epic-fail-photos-updating-your-computer-fail/ "https://failblog.org/2011/10/14/epic-fail-photos-updating-your-computer-fail/") on FailBlog.
 
 

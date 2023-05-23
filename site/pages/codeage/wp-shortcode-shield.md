@@ -15,9 +15,9 @@
 
 <html><body><a href="/wp-content/uploads/2012/04/wp-shortcode-shield-banner.jpg"><img src="/wp-content/uploads/2012/04/wp-shortcode-shield-banner.jpg" alt="" title="WP Shortcode Shield" class="aligncenter size-full wp-image-3267" width="805" height="282"></a>
 <h2>What Is WP Shortcode Shield?</h2>
-WP Shortcode Shield is a <a href="http://wordpress.org" target="_blank" rel="noopener">WordPress</a> plugin to allow posts and pages to easily document WordPress shortcodes without the shortcode being expanded.
+WP Shortcode Shield is a <a href="https://wordpress.org" target="_blank" rel="noopener">WordPress</a> plugin to allow posts and pages to easily document WordPress shortcodes without the shortcode being expanded.
 <h2>What Does It Do?</h2>
-This plugin allows you to refer to a WordPress shortcode within the content of posts and pages without that shortcode being automagically expanded by WordPress. The plugin takes advantage of the fact that the <a href="http://codex.wordpress.org/Shortcode_API">WordPress ShortCode API</a> does not support nested shortcodes to allow this plugin's shortcode to wrap the shortcode being documented.
+This plugin allows you to refer to a WordPress shortcode within the content of posts and pages without that shortcode being automagically expanded by WordPress. The plugin takes advantage of the fact that the <a href="https://codex.wordpress.org/Shortcode_API">WordPress ShortCode API</a> does not support nested shortcodes to allow this plugin's shortcode to wrap the shortcode being documented.
 <blockquote>The shortcode parser uses a single pass on the post content. This means that if the <code>$content</code> parameter of a shortcode handler contains another shortcode, it won't be parsed</blockquote>
 The plugin supports both the self closing <code>[wp_scs][shortcode][/wp_scs]</code> and enclosing <code>[wp_scs][shortcode]content[/shortcode][/wp_scs]</code> forms and supports a short form name of the shortcode, <code>[wp_scs][wp_scs][/wp_scs]</code> as well as the more verbose <code>[wp_scs][wp_shortcode_shield][/wp_scs]</code> form. For the sake of brevity, the remainder of this documentation will use the <code>[wp_scs][wp_scs][/wp_scs]</code> short form name.
 
@@ -41,14 +41,14 @@ If you are using the enclosing form of the shortcode, you can either supply the 
 
 ... will display the same results, namely <em>[wp_scs][another-shortcode-name][/wp_scs]</em>.
 
-Finally a note of caution, you cannot mix the enclosing and self closing form of the plugin's shortcode within the same post or page; this is not a limitation of the plugin, but the way in which WordPress implements the <a href="http://codex.wordpress.org/Shortcode_API">ShortCode API</a> ...
+Finally a note of caution, you cannot mix the enclosing and self closing form of the plugin's shortcode within the same post or page; this is not a limitation of the plugin, but the way in which WordPress implements the <a href="https://codex.wordpress.org/Shortcode_API">ShortCode API</a> ...
 <blockquote>The parser does not handle mixing of enclosing and non-enclosing forms of the same shortcode as you would want it to. For example, if you have:
 
 <code>[wp_scs][myshortcode example='non-enclosing' /][/wp_scs] non-enclosed content [wp_scs][myshortcode] enclosed content[/wp_scs][wp_scs][/myshortcode][/wp_scs]</code>
 
 Instead of being treated as two shortcodes separated by the text "non-enclosed content", the parser treats this as a single shortcode enclosing "non-enclosed content [wp_scs][myshortcode][/wp_scs]enclosed content".</blockquote>
 <h2>How Do I Download WP Shortcode Shield?</h2>
-To download or install WP Shortcode Shield on your WordPress powered site, either search for <em>WP Shortcode Shield</em> from the WordPress Dashboard or go to plugin's page on the official <a href="http://wordpress.org/extend/plugins/wp-shortcode-shield/" target="_blank" rel="noopener">WordPress plugin repository</a>.
+To download or install WP Shortcode Shield on your WordPress powered site, either search for <em>WP Shortcode Shield</em> from the WordPress Dashboard or go to plugin's page on the official <a href="https://wordpress.org/extend/plugins/wp-shortcode-shield/" target="_blank" rel="noopener">WordPress plugin repository</a>.
 
 If you want to fork the source code of the plugin, you can find it on the plugin's GitHub page at <a href="https://github.com/vicchi/wp-shortcode-shield" target="_blank" rel="noopener">https://github.com/vicchi/wp-shortcode-shield</a>.
 <h2>What's New?</h2>
@@ -82,11 +82,11 @@ WP Shortcode Shield v1.1 was released 11/11/12.
 <a href="/wp-content/uploads/2012/04/screenshot-22.jpg"><img src="/wp-content/uploads/2012/04/screenshot-22.jpg" alt="" title="screenshot-2" class="aligncenter size-full wp-image-2509" width="689" height="491"></a>
 <h2><a name="faq"></a>Frequently Asked Questions</h2>
 <h3>How do I get help or support for this plugin?</h3>
-In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="http://wordpress.org/support/plugin/wp-shortcode-shield">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="http://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
+In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="https://wordpress.org/support/plugin/wp-shortcode-shield">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="https://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.
 <h3>Is there a web site for this plugin?</h3>
-Absolutely. Go to the <a href="/pages/codeage/wp-shortcode-shield/">WP Shortcode Shield home page</a> for the latest information. There's also the official <a href="http://wordpress.org/extend/plugins/wp-shortcode-shield/">WordPress plugin repository page</a> and the <a href="http://vicchi.github.com/wp-shortcode-shield/">source for the plugin is on GitHub</a> as well.
+Absolutely. Go to the <a href="/pages/codeage/wp-shortcode-shield/">WP Shortcode Shield home page</a> for the latest information. There's also the official <a href="https://wordpress.org/extend/plugins/wp-shortcode-shield/">WordPress plugin repository page</a> and the <a href="https://vicchi.github.com/wp-shortcode-shield/">source for the plugin is on GitHub</a> as well.
 <h3>I want to amend/hack/augment this plugin; can I do this?</h3>
-Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt">http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</a> for the full license terms.
+Totally; this plugin is licensed under the GNU General Public License v2 (GPLV2). See <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt">https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</a> for the full license terms.
 <h2><a name="changelog"></a>What's Changed?</h2>
 <h3>v1.1.0 - 2012.11.11</h3>
 <ul>

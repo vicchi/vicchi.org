@@ -12,7 +12,7 @@ geo_place: the Yahoo! London office
 geo_lng: -0.1292006
 geo_lat: 51.5141985
 
-I recently contributed an article to the [OpenGeoData](http://opengeodata.org/ "http://opengeodata.org/"), the blog and podcast on open maps, data and OpenStreetMap, a snippet of which is below.
+I recently contributed an article to the [OpenGeoData](https://opengeodata.org/ "https://opengeodata.org/"), the blog and podcast on open maps, data and OpenStreetMap, a snippet of which is below.
 
 
 
@@ -25,12 +25,12 @@ I recently contributed an article to the [OpenGeoData](http://opengeodata.org/ "
 > 
 > Jump onto Eddy's sofa for a moment and fast forward to a possible 2015.
 > 
-> After the [location wars](http://www.google.co.uk/search?hl=en&source=hp&q=location+war+site:techcrunch.com "http://www.google.co.uk/search?hl=en&source=hp&q=location+war+site:techcrunch.com") of 2010, the problems of mutually incompatible geographic identifiers have been solved with the formation of the Global Places Register. Founded by a fledgling startup on the outskirts of Bangalore, the GPR offered an open and free way for individuals and corporations to add their town, their business, their POI. All places added became part of the Global Places Translator, allowing [Yahoo's WOEIDs](http://developer.yahoo.com/geo/geoplanet/guide/concepts.html "http://developer.yahoo.com/geo/geoplanet/guide/concepts.html") to be transformed into [OpenStreetMap Ways](http://wiki.openstreetmap.org/wiki/Way "http://wiki.openstreetmap.org/wiki/Way"), into long/lat centroids, into [GeoNames](http://www.geonames.org/ "http://www.geonames.org/") ids or even, for the nostalgic, [Eastings and Northings](http://en.wikipedia.org/wiki/Easting_and_northing "http://en.wikipedia.org/wiki/Easting_and_northing").
+> After the [location wars](https://www.google.co.uk/search?hl=en&source=hp&q=location+war+site:techcrunch.com "https://www.google.co.uk/search?hl=en&source=hp&q=location+war+site:techcrunch.com") of 2010, the problems of mutually incompatible geographic identifiers have been solved with the formation of the Global Places Register. Founded by a fledgling startup on the outskirts of Bangalore, the GPR offered an open and free way for individuals and corporations to add their town, their business, their POI. All places added became part of the Global Places Translator, allowing [Yahoo's WOEIDs](https://developer.yahoo.com/geo/geoplanet/guide/concepts.html "https://developer.yahoo.com/geo/geoplanet/guide/concepts.html") to be transformed into [OpenStreetMap Ways](https://wiki.openstreetmap.org/wiki/Way "https://wiki.openstreetmap.org/wiki/Way"), into long/lat centroids, into [GeoNames](https://www.geonames.org/ "https://www.geonames.org/") ids or even, for the nostalgic, [Eastings and Northings](https://en.wikipedia.org/wiki/Easting_and_northing "https://en.wikipedia.org/wiki/Easting_and_northing").
 
 
-[![Sofa im Regen](http://farm1.static.flickr.com/155/386564914_a2a7a84abb_d.jpg)](http://www.flickr.com/photos/helge_kroeger/386564914/ "Sofa im Regen")
+[![Sofa im Regen](https://farm1.static.flickr.com/155/386564914_a2a7a84abb_d.jpg)](https://www.flickr.com/photos/helge_kroeger/386564914/ "Sofa im Regen")
 
-... the [rest of the article is on the OpenGeoData blog](http://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob "http://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob").
-Photo Credits: [Hell-G](http://www.flickr.com/photos/helge_kroeger/386564914/ "http://www.flickr.com/photos/helge_kroeger/386564914/") on Flickr.
+... the [rest of the article is on the OpenGeoData blog](https://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob "https://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob").
+Photo Credits: [Hell-G](https://www.flickr.com/photos/helge_kroeger/386564914/ "https://www.flickr.com/photos/helge_kroeger/386564914/") on Flickr.
 
 

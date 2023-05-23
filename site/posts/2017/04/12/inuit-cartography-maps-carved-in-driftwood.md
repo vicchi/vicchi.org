@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-![](http://ift.tt/2oOWoCy)  
+![](https://ift.tt/2oOWoCy)  
   
 
 Today's maps found on the interwebs.  
@@ -18,5 +18,5 @@ Today's maps found on the interwebs.
 The Inuit carve portable, waterproof, floating maps out of driftwood for use in navigating the littoral. From The Decolonial Atlas, an antidote to all the other ones: Kurdistan in Kurdish, Lakota Territory, Agricultural Maps.  
   
 
-Found at [http://ift.tt/2p7dcUR](http://ift.tt/2p7dcUR "http://ift.tt/2p7dcUR")
+Found at [https://ift.tt/2p7dcUR](https://ift.tt/2p7dcUR "https://ift.tt/2p7dcUR")
 

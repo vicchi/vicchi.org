@@ -12,7 +12,7 @@ geo_place: the Yahoo! London office
 geo_lng: -0.1292006
 geo_lat: 51.5141985
 
-Way, way back in the deep dark past, Autumn 2009 to be precise, myself and [several](http://knowwhereconsulting.co.uk/geobabble-football-blinded-by-the-light/ "http://knowwhereconsulting.co.uk/geobabble-football-blinded-by-the-light/") [other](http://www.cloudsourced.com/2010/05/18/2015-today-my-agi-foresight-stud/ "http://www.cloudsourced.com/2010/05/18/2015-today-my-agi-foresight-stud/") people with an opinion on matters geo were asked to contribute a paper towards the [Association for Geographic Information's](http://www.agi.org.uk/ "http://www.agi.org.uk/") [2015 Foresight Study](http://www.agi.org.uk/foresight/ "http://www.agi.org.uk/foresight/").
+Way, way back in the deep dark past, Autumn 2009 to be precise, myself and [several](https://knowwhereconsulting.co.uk/geobabble-football-blinded-by-the-light/ "https://knowwhereconsulting.co.uk/geobabble-football-blinded-by-the-light/") [other](https://www.cloudsourced.com/2010/05/18/2015-today-my-agi-foresight-stud/ "https://www.cloudsourced.com/2010/05/18/2015-today-my-agi-foresight-stud/") people with an opinion on matters geo were asked to contribute a paper towards the [Association for Geographic Information's](https://www.agi.org.uk/ "https://www.agi.org.uk/") [2015 Foresight Study](https://www.agi.org.uk/foresight/ "https://www.agi.org.uk/foresight/").
 
 
 
@@ -26,7 +26,7 @@ Way, way back in the deep dark past, Autumn 2009 to be precise, myself and [seve
 
 Which is a nice way of saying that we were asked to look forward 5 years hence and try and predict how the UK geospatial industry would change. I had two issues with this.
 
-[![Crystal Ball](http://farm4.static.flickr.com/3478/3998273279_5f9e21721b_d.jpg)](http://www.flickr.com/photos/pasukaru76/3998273279/ "Crystal Ball")
+[![Crystal Ball](https://farm4.static.flickr.com/3478/3998273279_5f9e21721b_d.jpg)](https://www.flickr.com/photos/pasukaru76/3998273279/ "Crystal Ball")
 
 Firstly, we don't have a terribly good track record for predicting how the future of a given technology will turn out ...
 
@@ -40,11 +40,11 @@ Firstly, we don't have a terribly good track record for predicting how the futur
 
 Secondly, I have a slight issue with the phrase *geospatial industry* which, to my mind at least, conjures up images of people dealing with maps and not the geo industry as a whole, although to be fair, I'm not precisely sure *what* the geo industry actually covers but it's more than just maps.
 
-[![Pin the Mustache on '70s Burt Reynolds - Instructions](http://farm4.static.flickr.com/3558/3466207133_6c7c9f90d3_d.jpg)](http://www.flickr.com/photos/archiemcpheeonline/3466207133/ "Pin the Mustache on '70s Burt Reynolds - Instructions")
+[![Pin the Mustache on '70s Burt Reynolds - Instructions](https://farm4.static.flickr.com/3558/3466207133_6c7c9f90d3_d.jpg)](https://www.flickr.com/photos/archiemcpheeonline/3466207133/ "Pin the Mustache on '70s Burt Reynolds - Instructions")
 
 So rather than not participating I chose to conveniently ignore the spatial specialisation an instead, attempt to play pin the tail on the (geo)donkey instead with the following paper submission:
 
-[AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit](http://www.scribd.com/doc/31868256/AGI-Foresight-Study-Teaching-Human-Geography-to-the-Internet-Gary-Gale-Scribd-Edit "View AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit on Scribd") 
-Photo Credits: [pasukaru76](http://www.flickr.com/photos/pasukaru76/3998273279/ "http://www.flickr.com/photos/pasukaru76/3998273279/") and [archiemcphee](http://www.flickr.com/photos/archiemcpheeonline/3466207133/ "http://www.flickr.com/photos/archiemcpheeonline/3466207133/") on Flickr.
+[AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit](https://www.scribd.com/doc/31868256/AGI-Foresight-Study-Teaching-Human-Geography-to-the-Internet-Gary-Gale-Scribd-Edit "View AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit on Scribd") 
+Photo Credits: [pasukaru76](https://www.flickr.com/photos/pasukaru76/3998273279/ "https://www.flickr.com/photos/pasukaru76/3998273279/") and [archiemcphee](https://www.flickr.com/photos/archiemcpheeonline/3466207133/ "https://www.flickr.com/photos/archiemcpheeonline/3466207133/") on Flickr.
 
 

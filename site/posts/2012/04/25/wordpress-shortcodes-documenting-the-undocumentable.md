@@ -12,7 +12,7 @@ geo_place: the Hilton Berlin Hotel, Berlin
 geo_lng: 13.3926
 geo_lat: 52.51191
 
-WordPress [shortcodes](http://en.support.wordpress.com/shortcodes/ "http://en.support.wordpress.com/shortcodes/"). A great idea. Small snippets of text with a special meaning, enclosed in left and right angle brackets. Put one of these in a WordPress post or page and WordPress automagically expands the shortcode and replaces it with the thing that the shortcode does.
+WordPress [shortcodes](https://en.support.wordpress.com/shortcodes/ "https://en.support.wordpress.com/shortcodes/"). A great idea. Small snippets of text with a special meaning, enclosed in left and right angle brackets. Put one of these in a WordPress post or page and WordPress automagically expands the shortcode and replaces it with the thing that the shortcode does.
 
 WordPress has a built-in set of shortcodes and many plugins add to this repertoire, adding one or more of their own shortcodes. But here's the problem. Shortcodes are meant to be expanded and in 99.999% of cases, that's just what you want to do. But what happens if you're one of those 0.001%; you've written a plugin that adds a shortcode and you want to document it. You can't just write the shortcode in a post as WordPress will go ahead and expand it for you.
 
@@ -20,9 +20,9 @@ You could take the time and effort to replace the `[` and `]` characters which s
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/04/2570514012_e00ca63340_b.jpg "WordPress Schwag ...")](http://www.flickr.com/photos/whiteafrican/2570514012/in/faves-vicchi/ "http://www.flickr.com/photos/whiteafrican/2570514012/in/faves-vicchi/")
+[![](/wp-content/uploads/2012/04/2570514012_e00ca63340_b.jpg "WordPress Schwag ...")](https://www.flickr.com/photos/whiteafrican/2570514012/in/faves-vicchi/ "https://www.flickr.com/photos/whiteafrican/2570514012/in/faves-vicchi/")
 
-But then I noticed a crucial phrase in the documentation for the [WordPress Shortcode API](http://codex.wordpress.org/Shortcode_API "http://codex.wordpress.org/Shortcode_API") ...
+But then I noticed a crucial phrase in the documentation for the [WordPress Shortcode API](https://codex.wordpress.org/Shortcode_API "https://codex.wordpress.org/Shortcode_API") ...
 
 
 
@@ -35,9 +35,9 @@ But then I noticed a crucial phrase in the documentation for the [WordPress Shor
 
 So, despite the irony inherent in writing a plugin to stop the shortcode from another plugin working, I hacked together [WP Shortcode Shield](/pages/codeage/wp-shortcode-shield/ "/pages/codeage/wp-shortcode-shield/"). As far as plugins go, it doesn't really do much, it just defines two shortcodes, one called `[wp_scs][wp_scs][/wp_scs]` and a slightly more long-winded one called `[wp_scs][wp_shortcode_shield][/wp_scs]` which allows me to wrap references to other shortcodes in a post without WordPress doing what it's supposed to do, but which I don't want it to do.
 
-Which means I can write this post ... without having to worry about WordPress shortcodes. Of course, this *feature* of the WordPress shortcode API may well be *fixed* at some point, in which case WP Shortcode Shield will promptly stop working, but for now, it does the job. As with all of the other plugins for WordPress I've written, it's sitting in the [WordPress Plugin Repository](http://wordpress.org/extend/plugins/wp-shortcode-shield/ "http://wordpress.org/extend/plugins/wp-shortcode-shield/") right now, as well as living on [GitHub](http://vicchi.github.com/wp-shortcode-shield "http://vicchi.github.com/wp-shortcode-shield").
+Which means I can write this post ... without having to worry about WordPress shortcodes. Of course, this *feature* of the WordPress shortcode API may well be *fixed* at some point, in which case WP Shortcode Shield will promptly stop working, but for now, it does the job. As with all of the other plugins for WordPress I've written, it's sitting in the [WordPress Plugin Repository](https://wordpress.org/extend/plugins/wp-shortcode-shield/ "https://wordpress.org/extend/plugins/wp-shortcode-shield/") right now, as well as living on [GitHub](https://vicchi.github.com/wp-shortcode-shield "https://vicchi.github.com/wp-shortcode-shield").
 
-Photo Credits: [Erik Hersman](http://www.flickr.com/photos/foxgrrl/3974595767/ "http://www.flickr.com/photos/foxgrrl/3974595767/") on Flickr.
+Photo Credits: [Erik Hersman](https://www.flickr.com/photos/foxgrrl/3974595767/ "https://www.flickr.com/photos/foxgrrl/3974595767/") on Flickr.
 
 
 

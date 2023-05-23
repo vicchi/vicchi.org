@@ -22,24 +22,24 @@ Yahoo! to join Nokia](/2010/05/31/locating-the-next-role-the-yahoo-years "/2010/
 > 
 
 
-That's still true but the recent news of the closure, or [shutting down](http://www.centernetworks.com/yahoo-delicious-closure "http://www.centernetworks.com/yahoo-delicious-closure"), or [selling off of Delicious](http://www.noodlepie.com/2010/12/not-so-delicious-anymore.html "http://www.noodlepie.com/2010/12/not-so-delicious-anymore.html") has been one of those significant events that makes you sit up and take notice. In this case, it's made me take notice of just how much I rely on the vague and nebulous technology we call *the Cloud*.
+That's still true but the recent news of the closure, or [shutting down](https://www.centernetworks.com/yahoo-delicious-closure "https://www.centernetworks.com/yahoo-delicious-closure"), or [selling off of Delicious](https://www.noodlepie.com/2010/12/not-so-delicious-anymore.html "https://www.noodlepie.com/2010/12/not-so-delicious-anymore.html") has been one of those significant events that makes you sit up and take notice. In this case, it's made me take notice of just how much I rely on the vague and nebulous technology we call *the Cloud*.
 
 <!-- TEASER_END -->
 
 
-[![Delicious](http://farm5.static.flickr.com/4049/4599383063_1229234b68_d.jpg "Delicious")](http://www.flickr.com/photos/shaneblog/4599383063/ "http://www.flickr.com/photos/shaneblog/4599383063/")
+[![Delicious](https://farm5.static.flickr.com/4049/4599383063_1229234b68_d.jpg "Delicious")](https://www.flickr.com/photos/shaneblog/4599383063/ "https://www.flickr.com/photos/shaneblog/4599383063/")
 So before going any further, it's probably worth stating my own, totally subjective, view of what the Cloud is. It turns out that it's actually a fairly simplistic definition. The Cloud is any form of remotely access storage where we put content, with the addition that there's frequently a service and/or an API built on top of that storage. More importantly, it's all of this content we produce and store in the Cloud that the fate of Delicious has shone a spotlight on. A quick, off the top of my head, list of Cloud based content looks something like this ...
 
 
 * Emails at vicchi.org, hosted on my ISPs IMAP server *... Cloud based*
 * Blog posts at [www.vicchi.org]( ""), which hosts this post that you're reading right now *... Cloud based*
-* Photos, hosted on [Flickr](http://www.flickr.com/photos/vicchi "http://www.flickr.com/photos/vicchi") *... Cloud based*
+* Photos, hosted on [Flickr](https://www.flickr.com/photos/vicchi "https://www.flickr.com/photos/vicchi") *... Cloud based*
 * Shared files, hosted on [Dropbox](https://www.dropbox.com/ "https://www.dropbox.com/") *... Cloud based*
-* Tweets and status updates, hosted on [Twitter](http://twitter.com/vicchi "http://twitter.com/vicchi") and [Facebook](https://www.facebook.com/vicchi "https://www.facebook.com/vicchi") *... Cloud based*
-* Slide decks, hosted on [Slideshare](http://www.slideshare.net/vicchi "http://www.slideshare.net/vicchi") *... Cloud based*
-* Professional profile, hosted on [LinkedIn](http://uk.linkedin.com/in/garygale "http://uk.linkedin.com/in/garygale") *... Cloud based*
-* Short URLs, hosted on [vtny.org](http://vtny.org/ "http://vtny.org/") *... Cloud based*
-* Bookmarks, hosted on [Delicious](http://www.delicious.com/vicchi "http://www.delicious.com/vicchi") *... Cloud based*
+* Tweets and status updates, hosted on [Twitter](https://twitter.com/vicchi "https://twitter.com/vicchi") and [Facebook](https://www.facebook.com/vicchi "https://www.facebook.com/vicchi") *... Cloud based*
+* Slide decks, hosted on [Slideshare](https://www.slideshare.net/vicchi "https://www.slideshare.net/vicchi") *... Cloud based*
+* Professional profile, hosted on [LinkedIn](https://uk.linkedin.com/in/garygale "https://uk.linkedin.com/in/garygale") *... Cloud based*
+* Short URLs, hosted on [vtny.org](https://vtny.org/ "https://vtny.org/") *... Cloud based*
+* Bookmarks, hosted on [Delicious](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi") *... Cloud based*
 
 
 The future of Delicious has made me think long and hard and ask three questions. How much of this content is easily exported or stored elsewhere? How irreplaceable is this content? How at risk is the service hosting the content?
@@ -53,19 +53,19 @@ The future of Delicious has made me think long and hard and ask three questions.
 * *My slide decks?* Not at high risk. The master source of the decks is my laptop, which is regularly backed up.
 * *My LinkedIn profile?* Medium risk. While LinkedIn allows me to export my contacts as far as I can tell there's no way to export my profile and recommendations.
 * *My short URLs?* Low risk. I own the vtny.org domain and the short URLs it generates are controlled entirely by me.
-* *My bookmarks?* High risk. Even if Delicious is farmed out to another owner, [confidence in the service](http://www.centernetworks.com/yahoo-delicious-closure "http://www.centernetworks.com/yahoo-delicious-closure") has been severely dented but at least I can easily export all of my data.
+* *My bookmarks?* High risk. Even if Delicious is farmed out to another owner, [confidence in the service](https://www.centernetworks.com/yahoo-delicious-closure "https://www.centernetworks.com/yahoo-delicious-closure") has been severely dented but at least I can easily export all of my data.
 
 
 A quick look at the list above gives me ample cause for concern. There's a lot of content I rely upon that is hosted on Cloud services over which I have little or no control and which often offer no means of exporting that data easily, if at all. But it gets worse ...
 
 
-[![Flickr](http://farm2.static.flickr.com/1342/4600023680_1f50fb1593_d.jpg "Flickr")](http://www.flickr.com/photos/shaneblog/4600023680/ "http://www.flickr.com/photos/shaneblog/4600023680/")
-There's a massive amount of reliance and interdependence on each of these services. My blog relies on other Cloud services, for example almost every one of my blog posts is illustrated either with an embedded slide deck from Slideshare, with an embedded photo from Flickr or both. This post is a classic example of that. My other web site, at [www.garygale.com](http://www.garygale.com/ "http://www.garygale.com/"), is dynamic and is almost entirely reliant on my Delicious bookmarks for providing links to my content hosted in other Cloud services.
+[![Flickr](https://farm2.static.flickr.com/1342/4600023680_1f50fb1593_d.jpg "Flickr")](https://www.flickr.com/photos/shaneblog/4600023680/ "https://www.flickr.com/photos/shaneblog/4600023680/")
+There's a massive amount of reliance and interdependence on each of these services. My blog relies on other Cloud services, for example almost every one of my blog posts is illustrated either with an embedded slide deck from Slideshare, with an embedded photo from Flickr or both. This post is a classic example of that. My other web site, at [www.garygale.com](https://www.garygale.com/ "https://www.garygale.com/"), is dynamic and is almost entirely reliant on my Delicious bookmarks for providing links to my content hosted in other Cloud services.
 
 
 The delicious irony here (pun fully intended) is that while the internet and the web are massively decentralised, they've been used to create a whole set of centralised and silo'd Cloud services, a large number of which my web presences rely upon. In the case of Delicious, I'll stick with the service for now, until its future becomes less murky but as with my short URLs, hosting my own set of bookmarks will probably be on the agenda for early in 2011, along with the resulting disruption and work this will cause in integrating this new service into my web sites. But at least I'll be owning and controlling my own Cloud services.
 
 
-Photo Credits: [Shaneblog](http://www.flickr.com/photos/shaneblog/4600023680 "http://www.flickr.com/photos/shaneblog/4600023680") on Flickr.
+Photo Credits: [Shaneblog](https://www.flickr.com/photos/shaneblog/4600023680 "https://www.flickr.com/photos/shaneblog/4600023680") on Flickr.
 
 

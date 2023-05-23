@@ -40,19 +40,19 @@
 
 <h3><a name="faq1"></a>How do I get help or support for this plugin?</h3>
 
-<p>In short, very easily. But before you read any further, take a look at <a href="/pages/codeage/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="http://wordpress.org/support/plugin/wp-biographia">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="http://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.</p>
+<p>In short, very easily. But before you read any further, take a look at <a href="/pages/codeage/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="https://wordpress.org/support/plugin/wp-biographia">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="https://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.</p>
 
 <h3><a name="faq2"></a>Is there a web site for this plugin?</h3>
 
-<p>Absolutely, it's the page you're reading, the <a href="/pages/codeage/wp-biographia/" target="_blank">WP Biographia home page</a> which always contains the latest information. There's also the official <a href="http://wordpress.org/extend/plugins/wp-biographia/" target="_blank">WordPress plugin repository page</a> and the <a href="http://vicchi.github.com/wp-biographia/" target="_blank">source for the plugin is on GitHub</a> as well.</p>
+<p>Absolutely, it's the page you're reading, the <a href="/pages/codeage/wp-biographia/" target="_blank">WP Biographia home page</a> which always contains the latest information. There's also the official <a href="https://wordpress.org/extend/plugins/wp-biographia/" target="_blank">WordPress plugin repository page</a> and the <a href="https://vicchi.github.com/wp-biographia/" target="_blank">source for the plugin is on GitHub</a> as well.</p>
 
 <h3><a name="faq3"></a>I've configured WP Biographia to display the author's image but it's not working; what's happening here?</h3>
 
-<p>User profile pictures, or avatars, are part of the WordPress core but enabling them isn't done at the level of the user profile, instead it's part of the way in which comments are configured. If you enable the display of the post user’s image, make sure avatar support is turned on; from the Dashboard, navigate to <em>Settings / Discussion</em> and ensure that <em>Show Avatars</em> is enabled. WordPress uses the email address that is part of your user's profile to look up the right avatar image from <a href="http://gravatar.com/">gravatar.com</a>, so you need to ensure that you're using the same email address on your site as well as for your avatar.</p>
+<p>User profile pictures, or avatars, are part of the WordPress core but enabling them isn't done at the level of the user profile, instead it's part of the way in which comments are configured. If you enable the display of the post user’s image, make sure avatar support is turned on; from the Dashboard, navigate to <em>Settings / Discussion</em> and ensure that <em>Show Avatars</em> is enabled. WordPress uses the email address that is part of your user's profile to look up the right avatar image from <a href="https://gravatar.com/">gravatar.com</a>, so you need to ensure that you're using the same email address on your site as well as for your avatar.</p>
 
 <h3><a name="faq4"></a>I want to upload my author's images, host them on my web server and not use Gravatars; how do I do this?</h3>
 
-<p>WP Biographia uses the <code>get_avatar</code> <a href="http://codex.wordpress.org/Pluggable_Functions">pluggable function</a> to output the user's avatar image. Theoretically, any plugin that supports locally hosted avatar images and which overrides the default WordPress implementation of <code>get_avatar</code> should be able to be used. In practice, whether this approach will work for you or not depends on the combination of the theme you're using and the interactions that the other plugins that you're using has with the WordPress core and with your theme. The <a href="http://wordpress.org/extend/plugins/simple-local-avatars/">Simple Local Avatars</a> plugin plugs <code>get_avatar</code> and cooperates nicely with WP Biographia, at least in my local testing environment; your mileage may vary.</p>
+<p>WP Biographia uses the <code>get_avatar</code> <a href="https://codex.wordpress.org/Pluggable_Functions">pluggable function</a> to output the user's avatar image. Theoretically, any plugin that supports locally hosted avatar images and which overrides the default WordPress implementation of <code>get_avatar</code> should be able to be used. In practice, whether this approach will work for you or not depends on the combination of the theme you're using and the interactions that the other plugins that you're using has with the WordPress core and with your theme. The <a href="https://wordpress.org/extend/plugins/simple-local-avatars/">Simple Local Avatars</a> plugin plugs <code>get_avatar</code> and cooperates nicely with WP Biographia, at least in my local testing environment; your mileage may vary.</p>
 
 <h3><a name="faq5"></a>I've configured WP Biographia to show my website/Twitter/Facebook/etc links but I don't see them in the Biography Box; where do I define these links?</h3>
 
@@ -78,7 +78,7 @@
 remove_filter('pre_user_description', 'wp_filter_kses');
 [/php]
 
-<p>But as <a href="http://wordpress.org/support/profile/munman">WebEndev</a> helpfully pointed out on the <a href="http://wordpress.org/support/topic/plugin-wp-biographia-biographical-info-formatting-issue-avatar-exclude-posts?replies=7#post-2562773">WordPress forums</a>, this allows <em>all</em> HTML to be added to the Biography Info section of a user's profile, which may be going <em>too</em> far. The following code, in your theme's <code>functions.php</code>, will allow line breaks to be honoured but filter out any HTML tags and attributes which are not allowed by the <code>$allowedposttags</code> WordPress global.</p>
+<p>But as <a href="https://wordpress.org/support/profile/munman">WebEndev</a> helpfully pointed out on the <a href="https://wordpress.org/support/topic/plugin-wp-biographia-biographical-info-formatting-issue-avatar-exclude-posts?replies=7#post-2562773">WordPress forums</a>, this allows <em>all</em> HTML to be added to the Biography Info section of a user's profile, which may be going <em>too</em> far. The following code, in your theme's <code>functions.php</code>, will allow line breaks to be honoured but filter out any HTML tags and attributes which are not allowed by the <code>$allowedposttags</code> WordPress global.</p>
 
 [php]
 remove_filter('pre_user_description', 'wp_filter_kses');
@@ -147,7 +147,7 @@ function content_only_pattern($pattern) {
 
 <h3><a name="faq16"></a>The "More Posts" link in the Biography Box links to my site's landing page and not an author's archive page; what's happening?</h3>
 
-<p>If you're using an SEO plugin, this might be optimising out the <em>More Posts</em> link. Specifically, <a href="http://wordpress.org/extend/plugins/wordpress-seo/">Yoast's WordPress SEO</a> plugin has this side effect as this plugin allows you to enable/disable author archive pages. Thankfully, the SEO plugin has a setting called <em>Disable Author Archives</em> that, if disabled, allows WP Biographia to successfully link to an author's archive page.</p>
+<p>If you're using an SEO plugin, this might be optimising out the <em>More Posts</em> link. Specifically, <a href="https://wordpress.org/extend/plugins/wordpress-seo/">Yoast's WordPress SEO</a> plugin has this side effect as this plugin allows you to enable/disable author archive pages. Thankfully, the SEO plugin has a setting called <em>Disable Author Archives</em> that, if disabled, allows WP Biographia to successfully link to an author's archive page.</p>
 
 <h3><a name="faq17"></a>The Biography Box is showing up in places it shouldn't; such as the footer or within widgets in the sidebar; why is this happening and how can I stop this?</h3>
 
@@ -174,14 +174,14 @@ function content_only_pattern($pattern) {
 
 <h3><a name="faq19"></a>WP Biographia isn't available in my language; can I submit a translation?</h3>
 
-<p>WordPress and this plugin use the gettext tools to support internationalisation. The source file containing each string that needs to be translated ships with the plugin in <code>wp-biographia/lang/src/wp-biographia.po</code>. See the <a href="http://codex.wordpress.org/I18n_for_WordPress_Developers">I18n for WordPress Developers</a> page for more information or get in touch for help and hand-holding.</p>
+<p>WordPress and this plugin use the gettext tools to support internationalisation. The source file containing each string that needs to be translated ships with the plugin in <code>wp-biographia/lang/src/wp-biographia.po</code>. See the <a href="https://codex.wordpress.org/I18n_for_WordPress_Developers">I18n for WordPress Developers</a> page for more information or get in touch for help and hand-holding.</p>
 
 <h3><a name="faq20"></a>This plugin looks very much like the WP About Author; what's the connection?</h3>
 
-<p>Version 1 of WP Biographia was inspired by and based on the <a href="http://wordpress.org/extend/plugins/wp-about-author/">WP About Author</a> plugin by <a href="http://www.jonbishop.com/">Jon Bishop</a>. Thanks and kudos must go to Jon for writing a well structured, working WordPress plugin released under a software license that enables other plugins such as this one to be written or derived in the first place. Jon's written <a href="http://profiles.wordpress.org/users/JonBishop/">other WordPress plugins</a> as well; you should take a look.</p>
+<p>Version 1 of WP Biographia was inspired by and based on the <a href="https://wordpress.org/extend/plugins/wp-about-author/">WP About Author</a> plugin by <a href="https://www.jonbishop.com/">Jon Bishop</a>. Thanks and kudos must go to Jon for writing a well structured, working WordPress plugin released under a software license that enables other plugins such as this one to be written or derived in the first place. Jon's written <a href="https://profiles.wordpress.org/users/JonBishop/">other WordPress plugins</a> as well; you should take a look.</p>
 
 <h3><a name="faq21"></a>I want to amend/hack/augment this plugin; can I do the same?</h3>
-<p>Totally; like the original plugin by Jon, this plugin is licensed under the GNU General Public License v2 (GPLV2). See http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt for the full license terms.</p>
+<p>Totally; like the original plugin by Jon, this plugin is licensed under the GNU General Public License v2 (GPLV2). See https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt for the full license terms.</p>
 
 <h3><a name="faq22"></a>Where does the name WP Biographia come from?</h3>
 <p>WP Biographia is named after the etymology of the modern English word biography. The word first appeared in the 1680s, probably from the latin biographia which itself derived from the Greek bio, meaning "life" and graphia, meaning "record" or "account" which derived from graphein, "to write".</p></body></html>

@@ -9,9 +9,9 @@ type: text
 has_math: no
 status: published
 
-First there was the [paperless office](http://en.wikipedia.org/wiki/Paperless_office "http://en.wikipedia.org/wiki/Paperless_office") which was going to free us from the drudgery of sheets of paper. That was first mooted as an idea in 1975 and my desk is still covered in the stuff. Hmm.
+First there was the [paperless office](https://en.wikipedia.org/wiki/Paperless_office "https://en.wikipedia.org/wiki/Paperless_office") which was going to free us from the drudgery of sheets of paper. That was first mooted as an idea in 1975 and my desk is still covered in the stuff. Hmm.
 
-Then there was [wifi](http://en.wikipedia.org/wiki/Wifi "http://en.wikipedia.org/wiki/Wifi") which was going to liberate us from wires and turn us all into wireless [road warriors](http://www.answers.com/topic/road-warriors "http://www.answers.com/topic/road-warriors"). A quick rummage through the contents of the laptop bag I carry with me each day does tend to disprove that idea somewhat.
+Then there was [wifi](https://en.wikipedia.org/wiki/Wifi "https://en.wikipedia.org/wiki/Wifi") which was going to liberate us from wires and turn us all into wireless [road warriors](https://www.answers.com/topic/road-warriors "https://www.answers.com/topic/road-warriors"). A quick rummage through the contents of the laptop bag I carry with me each day does tend to disprove that idea somewhat.
 
 <!-- TEASER_END -->
 
@@ -41,7 +41,7 @@ Then there's a variety of cables and stuff; a Dell power brick and Microsoft Whe
 
 Ah yes, my phone, that's also a piece of kit I lug around but which was taking these photos rather than appearing in them. It's a Razr for Motorola, the company which suffers from *occasional vowel loss syndrome*, which is why its other phones are called things like the Rokr and the Slivr. I think it's supposed to be hip, or groovy or something.
 
-That's a lot of kit to carry; I guess that's why we're still at the stage where it looks like we need an [artic](http://en.wikipedia.org/wiki/Artic "http://en.wikipedia.org/wiki/Artic") to carry everything, rather than being fully fledged road warriors.
+That's a lot of kit to carry; I guess that's why we're still at the stage where it looks like we need an [artic](https://en.wikipedia.org/wiki/Artic "https://en.wikipedia.org/wiki/Artic") to carry everything, rather than being fully fledged road warriors.
 
 
 
