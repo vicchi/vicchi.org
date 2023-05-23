@@ -12,7 +12,7 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-excerpt: And now for something completely different; a post which has only the most tenuous of a link to maps. Instead and because it's Friday, this post concentrates on my second favourite obsession after maps. That can only be the dark brown, almost black, water of life we know as coffee.
+And now for something completely different; a post which has only the most tenuous of a link to maps. Instead and because it's Friday, this post concentrates on my second favourite obsession after maps. That can only be the dark brown, almost black, water of life we know as coffee.
 
 As a direct follow on from Thierry Gregorius' helpful guide to work out what [the tools you use to make maps say about you](/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/ "/2013/03/13/are-you-a-map-maker-a-map-builder-a-map-scripter-or-a-map-creator/"), I offer up, courtesy of the [Doghouse Diaries](https://thedoghousediaries.com/5053 "https://thedoghousediaries.com/5053"), another helpful guide. This time it's what your coffee says about you.
 

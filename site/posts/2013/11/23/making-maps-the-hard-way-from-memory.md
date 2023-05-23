@@ -12,7 +12,7 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-excerpt: In his book A Zebra Is The Piano Of The Animal Kingdom, Jarod Kintz wrote "when you're a cartographer, having to make maps sort of comes with the territory". He's right. When your business is making maps you should be able to do just that. But what if you're not a cartographer? What if you had to draw a map of the country you live in? From memory? What would that map look like?
+In his book A Zebra Is The Piano Of The Animal Kingdom, Jarod Kintz wrote "when you're a cartographer, having to make maps sort of comes with the territory". He's right. When your business is making maps you should be able to do just that. But what if you're not a cartographer? What if you had to draw a map of the country you live in? From memory? What would that map look like?
 
 Maybe something like this perhaps? The shape of the United Kingdom and Ireland is vaguely right, though Cornwall and all of the Scottish islands bar the Shetlands seem to be lacking. Then again, the Isle Of Wight is on holiday off the North Coast of Wales. The Channel Islands have evicted the Isle Of Man, which is off sulking in the North Sea, probably annoying cross Channel ferries into the bargain. Also "*Woo! Geography*".
 

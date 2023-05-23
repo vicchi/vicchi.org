@@ -12,7 +12,7 @@ geo_place: the Royal Geographical Society
 geo_lng: -0.17476
 geo_lat: 51.50127
 
-excerpt: On the way through South Kensington Tube station this morning, I spied a new Underground map. That's nothing new, the Underground map seems to be changing frequently these days. But this map was very noticeably different.
+On the way through South Kensington Tube station this morning, I spied a new Underground map. That's nothing new, the Underground map seems to be changing frequently these days. But this map was very noticeably different.
 
 There was no Victoria or Jubilee lines at all. The Piccadilly line terminated at Hammersmith and Finsbury Park and had stations that have been closed for years; Brompton Road, Down Street and York Road. The Central Line stopped at Liverpool Street.
 

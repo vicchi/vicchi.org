@@ -9,11 +9,11 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](https://ift.tt/eA8V8J)  
-  
+Today's maps found on the interwebs.
 
 They’re fantastical, fierce and sometimes even frightening, and talking about them will capture the attention of just about any crowd. So says Chet Van Duzer of something that used to regularly adorn maps during the Middle Ages and Renaissance: sea monsters.  
-  
+
+![](https://canadiangeographic.ca/wp-content/uploads/2022/02/e006581135-pos-1024x574.png)  
 
 Found at [https://ift.tt/2xRp1aq](https://ift.tt/2xRp1aq "https://ift.tt/2xRp1aq")
 

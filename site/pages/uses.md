@@ -34,7 +34,7 @@ time daily workhorse ever since.
 * [QGIS](https://qgis.org/en/site/)
 * [DBeaver Community](https://dbeaver.io/)
 * [Slack](https://slack.com/intl/en-gb)
-* [Jellyfin Media Player](https://jellyfin.org/downloads)
+* [Jellyfin Media Player](https://jellyfin.org/downloads/)
 * [Insomnia](https://insomnia.rest/)
 * [VSCode](https://code.visualstudio.com/)
 * [1Password](https://1password.com/)

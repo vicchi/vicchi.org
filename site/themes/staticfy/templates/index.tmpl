@@ -3,7 +3,6 @@
 
 {% block content %}
 <div class="pt-12 prose dark:prose-invert hover:prose-a:text-blue-500 max-w-full">
-    <p>This is page {{ current_page }}</p>
     {% if current_page == 0 %}
     {% include "includes/right-now.tmpl" %}
     {% endif %}

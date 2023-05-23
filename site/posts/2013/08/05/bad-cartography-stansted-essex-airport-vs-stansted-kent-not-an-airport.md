@@ -12,7 +12,7 @@ geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
 
-excerpt: If there's one thing that stands out more than a map that says "you are here", it's a map that says "you are here" and seems to get the map wrong.
+If there's one thing that stands out more than a map that says "you are here", it's a map that says "you are here" and seems to get the map wrong.
 
 It has to be said, short haul European flights are a bit on the boring side. Once you've read the day's newspaper, had a drink and a snack and read a few chapters of a book there's not much else to do. Most airlines that hop between European destinations don't have inflight wifi yet and there's no inflight entertainment to be had, except to watch your progress towards your destination on the map that appears on the screen over your head.
 

@@ -12,7 +12,7 @@ geo_place: the Royal Geographical Society, London
 geo_lng: -0.17544
 geo_lat: 51.50113
 
-excerpt: Old maps can be valuable. Old maps that show key parts of history, such as "<strong>I got here first</strong>", are valuable. Old maps that seem to show that someone else got there first are extremely valuable and can verge on priceless. The prospect of large amounts of money and potential fame can make faking a map that says "<strong>you didn't get there first, someone else did</strong>" a very attractive proposition. But if you're going to fake a map, there's right ways to do it and there's wrong ways to do it.
+Old maps can be valuable. Old maps that show key parts of history, such as "<strong>I got here first</strong>", are valuable. Old maps that seem to show that someone else got there first are extremely valuable and can verge on priceless. The prospect of large amounts of money and potential fame can make faking a map that says "<strong>you didn't get there first, someone else did</strong>" a very attractive proposition. But if you're going to fake a map, there's right ways to do it and there's wrong ways to do it.
 
 It seems that maps that show that Columbus didn't get to the Americas first hold a particular fascination for map faking. Back in June of this year I wrote about the [debunking of the map of Vinland](/2013/06/04/less-a-map-of-vinland-more-a-map-of-fakeland/ "/2013/06/04/less-a-map-of-vinland-more-a-map-of-fakeland/") which purported to show that a Norse expedition, led by Leif Ericson, got to Newfoundland in the 11th Century.
 

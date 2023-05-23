@@ -12,7 +12,7 @@ geo_place: Workshop Coffee, Clerkenwell, London
 geo_lng: -0.10245
 geo_lat: 51.52244
 
-excerpt: Oh look. It's another reworking of Harry Beck's London Underground map. <a href="https://cartonerd.blogspot.co.uk/2013/09/the-underground-map-of-insert-here.html" target="_blank">Ken Field probably won't like it</a>. This one is Doctor Who related. All the usual suspects are present. Each line representing one of the Doctors? Yes. Stations representing monsters and adversaries? Yes. Vague notions of interchanges between the lines? Oh yes.
+Oh look. It's another reworking of Harry Beck's London Underground map. <a href="https://cartonerd.blogspot.co.uk/2013/09/the-underground-map-of-insert-here.html" target="_blank">Ken Field probably won't like it</a>. This one is Doctor Who related. All the usual suspects are present. Each line representing one of the Doctors? Yes. Stations representing monsters and adversaries? Yes. Vague notions of interchanges between the lines? Oh yes.
 
 Now I'll freely admit I've been more than guilty of writing about re-workings of this particular map, [at least 12 times](/tags/tube/ "/tags/tube/"). Doctor Who has been on, then off, then back on our TV screens for 50 years; longer than I've been around, but only by 2 years. 
 
