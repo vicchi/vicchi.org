@@ -7,6 +7,7 @@ services:
     command:
       - --cpu-mode=curve
       - --cpu-util=15-20
+  
   site:
     image: sebp/lighttpd
     networks:
