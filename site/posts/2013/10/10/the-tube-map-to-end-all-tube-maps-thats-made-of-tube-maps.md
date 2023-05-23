@@ -20,11 +20,11 @@ But then you dig deeper and discover that this isn't just another Tube map rewor
 
 <!-- TEASER_END -->
 
-[![tube-map-pastiche](/wp-content/uploads/2013/10/tube-map-pastiche-1024x737.png)](https://carto.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=79f937917c5d475a87e580c6eccd1937 "https://carto.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=79f937917c5d475a87e580c6eccd1937")
+[![tube-map-pastiche](/wp-content/uploads/2013/10/tube-map-pastiche.png)](https://carto.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=79f937917c5d475a87e580c6eccd1937 "https://carto.maps.arcgis.com/apps/StorytellingTextLegend/index.html?appid=79f937917c5d475a87e580c6eccd1937")
 
 Thus [Maxwell Robert's curvy Tube map rework](https://www.bbc.co.uk/news/uk-england-essex-19546145 "https://www.bbc.co.uk/news/uk-england-essex-19546145") sits on a station in Edgware's place called Curvy and on a line called Reworked, while the early [pre-Beck era map](https://downloads.esri.com/MappingCenter2007/webMaps/kf/tubeoftube/1863.png "https://downloads.esri.com/MappingCenter2007/webMaps/kf/tubeoftube/1863.png") sits where Ealing Broadway should be and at the interchange of the Metaphor and Official lines.
 
-[![tube-map-pastiche-detail](/wp-content/uploads/2013/10/tube-map-pastiche-detail-1024x738.png)](/wp-content/uploads/2013/10/tube-map-pastiche-detail.png "/wp-content/uploads/2013/10/tube-map-pastiche-detail.png")
+[![tube-map-pastiche-detail](/wp-content/uploads/2013/10/tube-map-pastiche-detail.png)](/wp-content/uploads/2013/10/tube-map-pastiche-detail.png "/wp-content/uploads/2013/10/tube-map-pastiche-detail.png")
 
 This is verging dangerously close to genius in my book and Esri's [Ken Field](https://twitter.com/kennethfield "https://twitter.com/kennethfield") deserves some form of award for taking the time and effort to put this together. My one minor and extremely subjective niggle is that the explanatory text in the sidebar says *click the stations to go to further details*. My first exploratory foray into this map, clicking on the station names, yielded multiple popup dialog boxes saying *No information available*. Luckily [Barry Rowlingson](https://twitter.com/geospacedman "https://twitter.com/geospacedman") helpfully pointed out that what I should have been clicking on was the station interchange circles and the little offset lugs from each line and not the name itself.
 

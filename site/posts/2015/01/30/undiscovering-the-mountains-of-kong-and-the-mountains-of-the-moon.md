@@ -17,7 +17,7 @@ Quick, take a look at this map. There's something wrong with it. It's a map of t
 
 Running along the border between Upper Guinea and Soudan is the Mountains of Kong. If the name of this mountain range doesn't seem familiar, then maybe the next map will help. Dating from 1805, this map by John Cary shows the Mountains of Kong marching eastwards from the western coast of Africa and linking up with the eastern Mountains of the Moon.
 
-[![1805_cary](/wp-content/uploads/2015/01/1805_cary-1024x918.jpg)](/wp-content/uploads/2015/01/1805_cary.jpg "/wp-content/uploads/2015/01/1805_cary.jpg")
+[![1805_cary](/wp-content/uploads/2015/01/1805_cary.jpg)](/wp-content/uploads/2015/01/1805_cary.jpg "/wp-content/uploads/2015/01/1805_cary.jpg")
 
 There's two major problems with these maps. Neither the Mountains of Kong or the Mountains of the Moon actually *exist*.
 
@@ -27,7 +27,7 @@ The Mountains of the Moon were first reported around 50 AD by Diogenes, a Greek 
 
 In the 1800's Africa was still mainly unexplored, which explains the *unknown parts* label on Cary's map and both the Mountains of Kong and The Mountains of the Moon were still believed to be very much in existence. Subsequent maps of the area continued to show them and through the course of several expeditions, the resultant maps not only continued to show the Kong range, but it actually increased in height and in length, eventually linking up with the equally fictitious Mountains of the Moon
 
-[![1813_pinkerton](/wp-content/uploads/2015/01/1813_pinkerton-1024x754.jpg)](/wp-content/uploads/2015/01/1813_pinkerton.jpg "/wp-content/uploads/2015/01/1813_pinkerton.jpg")
+[![1813_pinkerton](/wp-content/uploads/2015/01/1813_pinkerton.jpg)](/wp-content/uploads/2015/01/1813_pinkerton.jpg "/wp-content/uploads/2015/01/1813_pinkerton.jpg")
 
 Despite no-one actually seeing this massive, continent spanning mountain range, belief in the Mountains of Kong continued for almost a century. Finally Louis Binger, a French explorer who spent two years from 1887 charting the path of the River Niger was able to prove that the mountain range simply didn't exist. Cartographer quickly took the hint and both mountain ranges vanished from subsequent maps of the area and of Africa ... almost.
 

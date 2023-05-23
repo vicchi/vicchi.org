@@ -24,7 +24,7 @@ First in this occasional series is the Tourist Tube Map. It's the iconic, Harry 
 
 Some of those stations don't look like they're in the right place ... and can you really get free admission to the Elephant and Castle?
 
-[![Tourist Tube Map](/wp-content/uploads/2010/05/mapbig-300x282.gif)](https://www.b3ta.com/board/7965418 "Tourist Tube Map")
+[![Tourist Tube Map](/wp-content/uploads/2010/05/mapbig.gif)](https://www.b3ta.com/board/7965418 "Tourist Tube Map")
 
 
 

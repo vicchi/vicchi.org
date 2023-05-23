@@ -17,7 +17,7 @@ But back to this blog for a moment. Like a lot of people I started out with a st
 
 <!-- TEASER_END -->
 
-[![vicchi.org - Screen Grab](/wp-content/uploads/2011/12/vicchi.org_-1024x705.png)](/wp-content/uploads/2011/12/vicchi.org_.png "vicchi.org - Screen Grab")
+[![vicchi.org - Screen Grab](/wp-content/uploads/2011/12/vicchi.org_.png)](/wp-content/uploads/2011/12/vicchi.org_.png "vicchi.org - Screen Grab")
 
 Enter the notion of [WordPress *child themes*](https://codex.wordpress.org/Child_Themes "https://codex.wordpress.org/Child_Themes"). These allow you to take an existing WordPress theme and build on top of that theme but without actually modifying or adding to the original theme. You start with just inheriting from the parent theme's CSS and then you can add, adapt and otherwise hack as much or as little of the parent's templates and PHP functions as you need. As you're not actually touching the parent theme at all, any updates to that theme are automagically passed onto the child theme, so the need to keep a hacked theme in line with the original simply goes away.
 
@@ -29,7 +29,7 @@ One web presence down, one to go. Next it was time to give my personal vanity pa
 
 But in keeping with the clean and spare layout of my blog, I'd been intrigued by the less-is-more approach that about.me had taken. But despite having [my own page on about.me's site](https://about.me/vicchi "https://about.me/vicchi") I wanted to host my own under my garygale.com domain.
 
-[![garygale.com - Screen Grab](/wp-content/uploads/2011/12/garygale.com_-1024x729.png)](/wp-content/uploads/2011/12/garygale.com_.png "garygale.com - Screen Grab")
+[![garygale.com - Screen Grab](/wp-content/uploads/2011/12/garygale.com_.png)](/wp-content/uploads/2011/12/garygale.com_.png "garygale.com - Screen Grab")
 
 A random browse through GitHub yielded [The Personal Page](https://github.com/weightshift/The-Personal-Page "https://github.com/weightshift/The-Personal-Page"), a clean, lightweight home page design that appealed to me. One GitHub fork later, plus a [photo of me](https://www.flickr.com/photos/kyeung808/4820451850/in/photosof-vicchi/ "https://www.flickr.com/photos/kyeung808/4820451850/in/photosof-vicchi/") taken at last year's Geo-Loco conference in San Francisco that I didn't look too appalling in and the new, Personal Page'd version was up and running. Really, it took all of about half an hour and that's including testing and finding a [social media icon set](https://webtreats.mysitemyway.com/154-matte-black-social-media-icons/ "https://webtreats.mysitemyway.com/154-matte-black-social-media-icons/") that integrated nicely with the look and feel of the site. Of course, [the web site's code](https://github.com/vicchi/garygale.com "https://github.com/vicchi/garygale.com") is also up on GitHub for the aforementioned hacking around.
 

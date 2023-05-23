@@ -45,7 +45,7 @@ Did I mention that the old Yahoo! Geo Technologies blog, after years of being do
 
 And now it seems that another of Yahoo's geo products has finally done to the deadpool as FireEagle finally stops sharing people's locations and Tom Coates, who I remember discussing what would become FireEagle over coffee back when we both worked at Yahoo, was in a sanguine mood on Twitter.
 
-[![Tom Coates - FireEagle](/wp-content/uploads/2013/02/Tom-Coates-FireEagle-1024x711.jpg)](https://twitter.com/tomcoates/status/303600519199473665 "https://twitter.com/tomcoates/status/303600519199473665")
+[![Tom Coates - FireEagle](/wp-content/uploads/2013/02/Tom-Coates-FireEagle.jpg)](https://twitter.com/tomcoates/status/303600519199473665 "https://twitter.com/tomcoates/status/303600519199473665")
 
 The fate of FireEagle has long been been in the balance since it was [mentioned](https://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/# "https://allthingsd.com/20101216/following-layoffs-yahoo-cuts-products-mybloglog-delicious-yahoo-buzz/#") as one of the products due to be sunsetted or merged with another product in 2010. The merging never happened and now FireEagle is no more.
 

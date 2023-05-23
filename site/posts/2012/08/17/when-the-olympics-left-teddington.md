@@ -29,7 +29,7 @@ And then the Games finished, but they left something behind. A Teddington Olympi
 
 It turned out that Mo Farah, only the seventh man in history to win the 5,000 and 10,000 meter races in the same Olympic Games, used to work at [Sweatshop](https://sweatshop.co.uk/ "https://sweatshop.co.uk/"), a local business in Teddington founded by British athlete and founder of the London Marathon, Chris Brasher. In honour of Mo's success, his management company sponsored the Royal Mail to paint a postbox gold. This is not the first of Mo's Golden Postboxes, the first is over in Isleworth, but it's certainly proved popular with the local population and makes a lasting, though for how long no-one knows, legacy of when the Olympics came to and left Teddington.
 
-[![](/wp-content/uploads/2012/08/IMG_0388-e1345188736770-764x1024.jpg "Mo Farah's Golden Postbox")](/wp-content/uploads/2012/08/IMG_0388.jpg "/wp-content/uploads/2012/08/IMG_0388.jpg")
+[![](/wp-content/uploads/2012/08/IMG_0388-e1345188736770.jpg "Mo Farah's Golden Postbox")](/wp-content/uploads/2012/08/IMG_0388.jpg "/wp-content/uploads/2012/08/IMG_0388.jpg")
 
 Normal maps and geo related postings will resume soon.
 

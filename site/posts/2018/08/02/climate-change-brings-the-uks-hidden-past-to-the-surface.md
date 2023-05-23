@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/07/7-Vale-of-Glamorgan-villa-6-July-2018-RCAHMW-800x534.jpg)  
+Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/07/7-Vale-of-Glamorgan-villa-6-July-2018-RCAHMW.jpg)  
   
 
 In southern Wales’ Vale of Glamorgan, archaeologists flying over a prehistoric settlement they had previously studied got a surprise: the ghostly outline of a Roman villa on the ground inside the older settlement’s boundaries.  

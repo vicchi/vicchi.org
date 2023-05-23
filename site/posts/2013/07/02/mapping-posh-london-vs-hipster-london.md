@@ -18,11 +18,11 @@ It turns out Yelp has done just that, producing a heat map of my home city of al
 
 <!-- TEASER_END -->
 
-[![london-yelp-map-posh](/wp-content/uploads/2013/07/london-yelp-map-posh-1024x760.png)](/wp-content/uploads/2013/07/london-yelp-map-posh.png "/wp-content/uploads/2013/07/london-yelp-map-posh.png")
+[![london-yelp-map-posh](/wp-content/uploads/2013/07/london-yelp-map-posh.png)](/wp-content/uploads/2013/07/london-yelp-map-posh.png "/wp-content/uploads/2013/07/london-yelp-map-posh.png")
 
 The same applies for the term [*hipster*](https://www.yelp.com/wordmap/london/hipster "https://www.yelp.com/wordmap/london/hipster"). I'd immediately associate the area around Hoxton and Old Street (AKA Silicon Roundabout) with all things hipsterish. As it turns out, so do Yelp's reviewers.
 
-[![london-yelp-map-hipster](/wp-content/uploads/2013/07/london-yelp-map-hipster-1024x760.png)](/wp-content/uploads/2013/07/london-yelp-map-hipster.png "/wp-content/uploads/2013/07/london-yelp-map-hipster.png")
+[![london-yelp-map-hipster](/wp-content/uploads/2013/07/london-yelp-map-hipster.png)](/wp-content/uploads/2013/07/london-yelp-map-hipster.png "/wp-content/uploads/2013/07/london-yelp-map-hipster.png")
 
 All of which is oddly comforting. Maybe my mental map of a city isn't so personal and subjective after all.
 

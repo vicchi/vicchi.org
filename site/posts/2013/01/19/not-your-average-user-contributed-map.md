@@ -18,19 +18,19 @@ But this isn't your average user contributed or crowd sourced map. It's not one 
 
 <!-- TEASER_END -->
 
-[![London CheckIns](/wp-content/uploads/2013/01/London-CheckIns-1024x408.jpg)](/wp-content/uploads/2013/01/London-CheckIns.jpg "/wp-content/uploads/2013/01/London-CheckIns.jpg")
+[![London CheckIns](/wp-content/uploads/2013/01/London-CheckIns.jpg)](/wp-content/uploads/2013/01/London-CheckIns.jpg "/wp-content/uploads/2013/01/London-CheckIns.jpg")
 
 Most of my contributions are in the centre of the map and towards the South West corner. I've also contributed to this map in other places and it looks like this.
 
-[![Berlin CheckIns](/wp-content/uploads/2013/01/Berlin-CheckIns-1024x408.jpg)](/wp-content/uploads/2013/01/Berlin-CheckIns.jpg "/wp-content/uploads/2013/01/Berlin-CheckIns.jpg")
+[![Berlin CheckIns](/wp-content/uploads/2013/01/Berlin-CheckIns.jpg)](/wp-content/uploads/2013/01/Berlin-CheckIns.jpg "/wp-content/uploads/2013/01/Berlin-CheckIns.jpg")
 
 Here most of my contributions are in the centre with a few towards the North West corner. Maybe the maps will make a little more sense if I turn on an underlying labelled layer.
 
-[![London Map](/wp-content/uploads/2013/01/London-Map-1024x408.jpg)](/wp-content/uploads/2013/01/London-Map.jpg "/wp-content/uploads/2013/01/London-Map.jpg")
+[![London Map](/wp-content/uploads/2013/01/London-Map.jpg)](/wp-content/uploads/2013/01/London-Map.jpg "/wp-content/uploads/2013/01/London-Map.jpg")
 
 This is the map of the last three months on [Foursquare in London](https://foursquare.com/infographics/500million?city=London "https://foursquare.com/infographics/500million?city=London").
 
-[![Berlin Map](/wp-content/uploads/2013/01/Berlin-Map-1024x408.jpg)](/wp-content/uploads/2013/01/Berlin-Map.jpg "/wp-content/uploads/2013/01/Berlin-Map.jpg")
+[![Berlin Map](/wp-content/uploads/2013/01/Berlin-Map.jpg)](/wp-content/uploads/2013/01/Berlin-Map.jpg "/wp-content/uploads/2013/01/Berlin-Map.jpg")
 
 And this is the map of the last three months on [Foursquare in Berlin](https://foursquare.com/infographics/500million?city=Berlin "https://foursquare.com/infographics/500million?city=Berlin").
 
@@ -38,7 +38,7 @@ Each dot is a check in and every time I've checked in, which is almost every day
 
 It's fascinating to see how the world looks when [viewed by check ins alone](https://foursquare.com/infographics/500million "https://foursquare.com/infographics/500million"), with the UK, Europe and North America's coastlines standing out like a night-time satellite image when there's no cloud cover.
 
-[![World CheckIns](/wp-content/uploads/2013/01/World-CheckIns-1024x697.jpg)](/wp-content/uploads/2013/01/World-CheckIns.jpg "/wp-content/uploads/2013/01/World-CheckIns.jpg")
+[![World CheckIns](/wp-content/uploads/2013/01/World-CheckIns.jpg)](/wp-content/uploads/2013/01/World-CheckIns.jpg "/wp-content/uploads/2013/01/World-CheckIns.jpg")
 
 It's definitely not your average user contributed map but it's a map I helped make in a small way and will continue to do so; though I know of [one person](https://twitter.com/drgeodoom "https://twitter.com/drgeodoom") who probably disagrees with me.
 

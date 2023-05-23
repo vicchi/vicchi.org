@@ -22,11 +22,11 @@ But what of [SplashMaps](https://www.splashmaps.net/ "https://www.splashmaps.net
 
 <!-- TEASER_END -->
 
-[![IMG_1190](/wp-content/uploads/2013/05/IMG_1190-1024x764.jpg)](/wp-content/uploads/2013/05/IMG_1190.jpg "/wp-content/uploads/2013/05/IMG_1190.jpg")
+[![IMG_1190](/wp-content/uploads/2013/05/IMG_1190.jpg)](/wp-content/uploads/2013/05/IMG_1190.jpg "/wp-content/uploads/2013/05/IMG_1190.jpg")
 
 Now all if this could be taken to be simply my crowing with delight over maps. But there's a deeper context to all of these tangible maps. Both the London Wall Map and SplashMaps have come about due to one single thing ... *open data*. The case has often been made, though equally as often misunderstood, that open data is an economic stimulus. As many people ask why should we give something away for free as ask for data to opened up to the public.
 
-[![IMG_1189](/wp-content/uploads/2013/05/IMG_1189-1024x764.jpg)](/wp-content/uploads/2013/05/IMG_1189.jpg "/wp-content/uploads/2013/05/IMG_1189.jpg")
+[![IMG_1189](/wp-content/uploads/2013/05/IMG_1189.jpg)](/wp-content/uploads/2013/05/IMG_1189.jpg "/wp-content/uploads/2013/05/IMG_1189.jpg")
 
 Both of these maps wouldn't have been financially possible without access to open data; the pre-open data era licensing costs and restrictions alone would have put paid to any startup opportunities an aspiring entrepreneur came up with. But in these maps, the proof of what open data can do has become very real, indeed very tangible.
 

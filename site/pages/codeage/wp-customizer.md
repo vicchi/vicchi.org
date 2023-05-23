@@ -60,17 +60,17 @@ WP Customizer v1.0.0 was released 04/06/13.
  	<li><a href="#contextual-help">Settings and Options: Functions Tab with Contextual Help</a></li>
 </ol>
 <h3><a name="functions-tab"></a>Settings and Options: Functions Tab</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-1.jpg"><img src="/wp-content/uploads/2013/06/screenshot-1-1024x559.jpg" alt="screenshot-1" class="aligncenter size-large wp-image-3958" width="980" height="534"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-1.jpg"><img src="/wp-content/uploads/2013/06/screenshot-1.jpg" alt="screenshot-1" class="aligncenter size-large wp-image-3958" width="980" height="534"></a>
 <h3><a name="scripts-tab"></a>Settings and Options: Scripts Tab</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-2.jpg"><img src="/wp-content/uploads/2013/06/screenshot-2-1024x559.jpg" alt="screenshot-2" class="aligncenter size-large wp-image-3959" width="980" height="534"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-2.jpg"><img src="/wp-content/uploads/2013/06/screenshot-2.jpg" alt="screenshot-2" class="aligncenter size-large wp-image-3959" width="980" height="534"></a>
 <h3><a name="css-tab"></a>Settings and Options: CSS Tab</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-3.jpg"><img src="/wp-content/uploads/2013/06/screenshot-3-1024x559.jpg" alt="screenshot-3" class="aligncenter size-large wp-image-3960" width="980" height="534"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-3.jpg"><img src="/wp-content/uploads/2013/06/screenshot-3.jpg" alt="screenshot-3" class="aligncenter size-large wp-image-3960" width="980" height="534"></a>
 <h3><a name="colophon-tab"></a>Settings and Options: Colophon Tab</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-4.jpg"><img src="/wp-content/uploads/2013/06/screenshot-4-1024x814.jpg" alt="screenshot-4" class="aligncenter size-large wp-image-3961" width="980" height="779"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-4.jpg"><img src="/wp-content/uploads/2013/06/screenshot-4.jpg" alt="screenshot-4" class="aligncenter size-large wp-image-3961" width="980" height="779"></a>
 <h3><a name="debug-tab"></a>Settings and Options: Debug Tab</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-5.jpg"><img src="/wp-content/uploads/2013/06/screenshot-5-1024x765.jpg" alt="screenshot-5" class="aligncenter size-large wp-image-3962" width="980" height="732"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-5.jpg"><img src="/wp-content/uploads/2013/06/screenshot-5.jpg" alt="screenshot-5" class="aligncenter size-large wp-image-3962" width="980" height="732"></a>
 <h3><a name="contextual-help"></a>Settings and Options: Functions Tab with Contextual Help</h3>
-<a href="/wp-content/uploads/2013/06/screenshot-6.jpg"><img src="/wp-content/uploads/2013/06/screenshot-6-1024x679.jpg" alt="screenshot-6" class="aligncenter size-large wp-image-3963" width="980" height="649"></a>
+<a href="/wp-content/uploads/2013/06/screenshot-6.jpg"><img src="/wp-content/uploads/2013/06/screenshot-6.jpg" alt="screenshot-6" class="aligncenter size-large wp-image-3963" width="980" height="649"></a>
 <h2><a name="faq"></a>Frequently Asked Questions</h2>
 <ol>
  	<li><a href="#faq1">Why should I use this plugin?</a></li>

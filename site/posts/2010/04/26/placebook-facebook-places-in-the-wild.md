@@ -14,11 +14,11 @@ geo_lat: 51.427051
 
 After much teasing and tantalising, one of the long rumoured Facebook location features is out in the wild in the form of place community pages. They vary in scale from [a hamlet in Spain](https://www.facebook.com/pages/Llonin/108139035874549?v=wiki "https://www.facebook.com/pages/Llonin/108139035874549?v=wiki") ...
 
-[![](/wp-content/uploads/2010/04/Llonin-300x191.jpg "Llonin")](/wp-content/uploads/2010/04/Llonin.jpg "/wp-content/uploads/2010/04/Llonin.jpg")
+[![](/wp-content/uploads/2010/04/Llonin.jpg "Llonin")](/wp-content/uploads/2010/04/Llonin.jpg "/wp-content/uploads/2010/04/Llonin.jpg")
 
 ... through to [New York City](https://www.facebook.com/pages/New-York-City/34228614792 "https://www.facebook.com/pages/New-York-City/34228614792").
 
-[![](/wp-content/uploads/2010/04/New-York-300x191.jpg "New York")](/wp-content/uploads/2010/04/New-York.jpg "/wp-content/uploads/2010/04/New-York.jpg")
+[![](/wp-content/uploads/2010/04/New-York.jpg "New York")](/wp-content/uploads/2010/04/New-York.jpg "/wp-content/uploads/2010/04/New-York.jpg")
 
 It's clever though not particularly sophisticated at this stage; a simple exposure of Wikia's underlying geo metadata and it probably took very little effort to implement. Facebook appear to treat places as people, hence the exhortation to *connect* with the place.
 

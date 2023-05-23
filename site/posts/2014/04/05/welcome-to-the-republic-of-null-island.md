@@ -27,7 +27,7 @@ The website for the [Republic of Null Island](https://www.nullisland.com/ "https
 
 <!-- TEASER_END -->
 
-[![null-island](/wp-content/uploads/2014/04/null-island-1024x788.png)](/wp-content/uploads/2014/04/null-island.png "/wp-content/uploads/2014/04/null-island.png")
+[![null-island](/wp-content/uploads/2014/04/null-island.png)](/wp-content/uploads/2014/04/null-island.png "/wp-content/uploads/2014/04/null-island.png")
 
 It's totally fictitious and is designed as a gentle poke in the ribs for people who don't check the return value from their geocoder and end up putting a pin on a web map in the middle of the ocean. As Natural Earth's [release notes](https://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/ "https://www.naturalearthdata.com/blog/natural-earth-version-1-3-release-notes/") mention ...
 
@@ -40,15 +40,15 @@ It's totally fictitious and is designed as a gentle poke in the ribs for people 
 
 Look carefully enough, especially on web sites that handle large amounts of data from third parties and which helpfully supply a map for some additional context, such as property sites, who should really know better and Null Island may just appear before your eyes.
 
-[![the-link](/wp-content/uploads/2014/04/the-link-1024x788.png)](/wp-content/uploads/2014/04/the-link.png "/wp-content/uploads/2014/04/the-link.png")
+[![the-link](/wp-content/uploads/2014/04/the-link.png)](/wp-content/uploads/2014/04/the-link.png "/wp-content/uploads/2014/04/the-link.png")
 
 Take Whathouse.com for example, who have a [3 bedroom property near Enfield](https://whathouse.com/home/properties/6815801/sales#tabs/map "https://whathouse.com/home/properties/6815801/sales#tabs/map") in North East London for sale, yours for just £995,000. Whathouse helpfully provide a map tab on their property listings to that if you're not familiar with where the N9 postal district of London is, you can find out.
 
-[![the-link-map](/wp-content/uploads/2014/04/the-link-map-1024x788.png)](/wp-content/uploads/2014/04/the-link-map.png "/wp-content/uploads/2014/04/the-link-map.png")
+[![the-link-map](/wp-content/uploads/2014/04/the-link-map.png)](/wp-content/uploads/2014/04/the-link-map.png "/wp-content/uploads/2014/04/the-link-map.png")
 
 This is in London, the capital of the United Kingdom, which as far as I know hasn't suffered massive continental drift to end up in the middle of the ocean.
 
-[![the-link-map-zoomed](/wp-content/uploads/2014/04/the-link-map-zoomed-1024x788.png)](/wp-content/uploads/2014/04/the-link-map-zoomed.png "/wp-content/uploads/2014/04/the-link-map-zoomed.png")
+[![the-link-map-zoomed](/wp-content/uploads/2014/04/the-link-map-zoomed.png)](/wp-content/uploads/2014/04/the-link-map-zoomed.png "/wp-content/uploads/2014/04/the-link-map-zoomed.png")
 
 Zoom the map out and you can see why this unique property seems to be alone in the middle of the ocean; it's really on Null Island. Either that or someone hasn't been checking their geocoding results properly. A bad geocoding result is almost probably definitely the reason for this little geographic faux pas, but a part of me likes to think that Null Island really does exist and you really can spend close to a million pounds securing a 3 bedroom apartment on one of geography's most tongue in cheek places.
 

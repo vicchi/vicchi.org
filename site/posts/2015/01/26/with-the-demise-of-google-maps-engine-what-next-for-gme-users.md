@@ -17,7 +17,7 @@ There’s much irony here, given that GME was originally positioned as a web sav
 
 <!-- TEASER_END -->
 
-[![cartodb](/wp-content/uploads/2015/01/cartodb-1024x603.png)](/wp-content/uploads/2015/01/cartodb.png "/wp-content/uploads/2015/01/cartodb.png")
+[![cartodb](/wp-content/uploads/2015/01/cartodb.png)](/wp-content/uploads/2015/01/cartodb.png "/wp-content/uploads/2015/01/cartodb.png")
 
 I don’t think they’ll be any one winner and all of these wannabe successors to GME will likely benefit though CartoDB's official seal of Google approval will tip the balance in their favour.
 

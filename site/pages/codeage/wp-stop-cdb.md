@@ -42,7 +42,7 @@ This plugin adds a ribbon graphic to the top right hand corner of your WordPress
  	<li><a name="screenshots" a=""></a><a href="#screen-shot">Sample Screen Shot</a></li>
 </ul>
 <h3><a name="screen-shot"></a>Sample Screen Shot</h3>
-<a href="/wp-content/uploads/2012/06/screenshot-1.jpg"><img src="/wp-content/uploads/2012/06/screenshot-1-1024x739.jpg" alt="" title="screenshot-1" class="aligncenter size-large wp-image-2776" width="640" height="461"></a>
+<a href="/wp-content/uploads/2012/06/screenshot-1.jpg"><img src="/wp-content/uploads/2012/06/screenshot-1.jpg" alt="" title="screenshot-1" class="aligncenter size-large wp-image-2776" width="640" height="461"></a>
 <h2><a name="faq"></a>Frequently Asked Questions</h2>
 <h3>How do I get help or support for this plugin?</h3>
 In short, very easily. But before you read any further, take a look at <a href="/2012/03/31/asking-for-wordpress-plugin-help-and-support-without-tears/">Asking For WordPress Plugin Help And Support Without Tears</a> before firing off a question. In order of preference, you can ask a question on the <a href="https://wordpress.org/tags/wp-stop-cdb?forum_id=10">WordPress support forum</a>; this is by far the best way so that other users can follow the conversation. You can ask me a question on Twitter; I'm <a href="https://twitter.com/vicchi">@vicchi</a>. Or you can drop me an email instead. I can't promise to answer your question but I do promise to answer and do my best to help.

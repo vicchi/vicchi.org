@@ -22,7 +22,7 @@ If maps and globals are more your thing, the aptly named [Maps and Globes](https
 
 Tumblr also seems to be populated by blogs about *people* ... doing ... *stuff*. Think [Stormtroopers Doing Things](https://stormtroopersdoingthingss.tumblr.com/ "https://stormtroopersdoingthingss.tumblr.com/") if you will. So it's probably a logical extension to this that there's now [Men Pointing At Maps](https://menpointingatmaps.tumblr.com/ "https://menpointingatmaps.tumblr.com/"). No, really.
 
-[![men-pointing-at-maps](/wp-content/uploads/2013/10/men-pointing-at-maps-1024x740.png)](https://menpointingatmaps.tumblr.com/ "https://menpointingatmaps.tumblr.com/")
+[![men-pointing-at-maps](/wp-content/uploads/2013/10/men-pointing-at-maps.png)](https://menpointingatmaps.tumblr.com/ "https://menpointingatmaps.tumblr.com/")
 
 All of which is good for showing just how many carto-nerds and map-geeks there are out there on today's Interwebs. But it does beg a question. Where are the women pointing at maps? Surely maps and pointing aren't a purely patriachal occupation. Someone should start a rival about women pointing at maps. Someone probably will ...
 

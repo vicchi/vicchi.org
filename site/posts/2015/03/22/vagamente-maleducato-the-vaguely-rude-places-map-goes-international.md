@@ -13,13 +13,13 @@ When I first made the [Vaguely Rude Places Map](https://maps.geotastic.org/vague
 
 <!-- TEASER_END -->
 
-[![vaguely-rude-redux](/wp-content/uploads/2015/03/vaguely-rude-redux-1024x617.png)](/wp-content/uploads/2015/03/vaguely-rude-redux.png "/wp-content/uploads/2015/03/vaguely-rude-redux.png")
+[![vaguely-rude-redux](/wp-content/uploads/2015/03/vaguely-rude-redux.png)](/wp-content/uploads/2015/03/vaguely-rude-redux.png "/wp-content/uploads/2015/03/vaguely-rude-redux.png")
 
 But two years is a long time in geo-technology and the original map just feels ... tired. So I decided it was time for a face lift and while I was at it, to incorporate the [Italian](https://maps.cortesi.com/volgari/ "https://maps.cortesi.com/volgari/") version of the map that [Simone Cortesi](https://github.com/cortesimone/vaguely-rude-places "https://github.com/cortesimone/vaguely-rude-places") forked from the original one. Apparently places can be rude in languages besides (British) English.
 
 So I reforked Simone's Italian version and updated the Rude Places map based on Bryan McBride's excellent [Bootleaf](https://github.com/bmcbride/bootleaf "https://github.com/bmcbride/bootleaf"). The resultant reworking of the map is now up and live and looks a whole lot slicker than the original did. Thanks to Bryan's code, it's now browsable and searchable and you can flick between the original set of English places and their Italian counterparts with a single click of the mouse or tap of the screen.
 
-[![simone-cortesi-map](/wp-content/uploads/2015/03/simone-cortesi-map-1024x564.png)](/wp-content/uploads/2015/03/simone-cortesi-map.png "/wp-content/uploads/2015/03/simone-cortesi-map.png")
+[![simone-cortesi-map](/wp-content/uploads/2015/03/simone-cortesi-map.png)](/wp-content/uploads/2015/03/simone-cortesi-map.png "/wp-content/uploads/2015/03/simone-cortesi-map.png")
 
 I've mentioned this before but sincere thanks and credit is due to the following people for helping make the map, both deliberately and inadvertently.
 

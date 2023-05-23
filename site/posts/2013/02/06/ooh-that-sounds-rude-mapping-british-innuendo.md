@@ -18,7 +18,7 @@ Focus on that trait of innuendo for a moment. Could you possibly combine the Bri
 
 <!-- TEASER_END -->
 
-[![Rude Places Map](/wp-content/uploads/2013/02/Rude-Places-Map-1024x714.jpg)](https://maps.geotastic.org/rude/ "https://maps.geotastic.org/rude/")
+[![Rude Places Map](/wp-content/uploads/2013/02/Rude-Places-Map.jpg)](https://maps.geotastic.org/rude/ "https://maps.geotastic.org/rude/")
 
 Maybe it's part of bring British, but an airport whose code is [BUM](https://www.world-airport-codes.com/united-states/butler-1139.html "https://www.world-airport-codes.com/united-states/butler-1139.html") is just ... funny.
 

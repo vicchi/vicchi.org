@@ -29,7 +29,7 @@ Regular visitors to the uncharted backwaters of the unfashionable end of the Int
 
 But then I tried viewing my blog on my new [Windows Phone 7 handset](https://www.flickr.com/photos/vicchi/5470758996/ "https://www.flickr.com/photos/vicchi/5470758996/") and WPTouch doesn't work its magic.
 
-[![](/wp-content/uploads/2011/02/WP7-Before-224x300.jpg "WP7 Before")](/wp-content/uploads/2011/02/WP7-Before.jpg "/wp-content/uploads/2011/02/WP7-Before.jpg")
+[![](/wp-content/uploads/2011/02/WP7-Before.jpg "WP7 Before")](/wp-content/uploads/2011/02/WP7-Before.jpg "/wp-content/uploads/2011/02/WP7-Before.jpg")
 
 It turns out that there's a clue to the solution in the name; WPTouch was designed to serve up the mobile view of a WordPress blog for the iPhone and the iPod Touch. Support was then added for Android and Blackberry handsets, but not for Windows Phone 7. Luckily, the plugin supports custom user-agent strings so adding support for Windows Phone 7 should be trivial. Well maybe not that trivial. A quick web search shows that there's [at least 10 variants](https://www.elucidsoft.com/blog/2010/11/19/windows-phone-7-user-agents/ "https://www.elucidsoft.com/blog/2010/11/19/windows-phone-7-user-agents/") of the Windows Phone 7 user-agent.
 
@@ -37,7 +37,7 @@ But rather than list them all explicitly, simply adding "*iemobile*", the lowest
 
 Armed with all this information, my blog now support Windows Phone 7 with ease, plus adding *"nokia, symbian*" as additional custom user-agent strings means that my Nokia N8 can also view the mobile version of my blog.
 
-[![](/wp-content/uploads/2011/02/WP7-After1-224x300.jpg "WP7 After")](/wp-content/uploads/2011/02/WP7-After1.jpg "/wp-content/uploads/2011/02/WP7-After1.jpg")
+[![](/wp-content/uploads/2011/02/WP7-After1.jpg "WP7 After")](/wp-content/uploads/2011/02/WP7-After1.jpg "/wp-content/uploads/2011/02/WP7-After1.jpg")
 
 As a final footnote, if you're wondering why I've used photos of Windows Phone 7 rather than screenshots, it's because along with multi-tasking and copy-and-paste, Windows Phone 7 doesn't currently support taking screen shots. Yet. But then again, the original version of the iPhone lacked a lot of this functionality too, which did nothing to dent the uptake of that handset. Multi-tasking and copy-and-paste is promised in the next upcoming WP 7 OS update, hopefully with screenshot taking as well.
 

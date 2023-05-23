@@ -16,7 +16,7 @@ The rather geotastic [James Cheshire](https://twitter.com/spatialanalysis "https
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/09/London-Surnames-1024x740.jpg "London Surnames")](https://names.mappinglondon.co.uk/ "https://names.mappinglondon.co.uk/")
+[![](/wp-content/uploads/2012/09/London-Surnames.jpg "London Surnames")](https://names.mappinglondon.co.uk/ "https://names.mappinglondon.co.uk/")
 
 As James says in his [accompanying blog post](https://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/ "https://spatialanalysis.co.uk/2011/01/mapping-londons-surnames/") ...
 

@@ -16,7 +16,7 @@ According to the Internet Systems Consortium there's somewhere [over 900 million
 
 <!-- TEASER_END -->
 
-[![worldmap_16to9_1600x900](/wp-content/uploads/2013/03/worldmap_16to9_1600x900-1024x576.png)](https://internetcensus2012.bitbucket.org/images.html "https://internetcensus2012.bitbucket.org/images.html")
+[![worldmap_16to9_1600x900](/wp-content/uploads/2013/03/worldmap_16to9_1600x900.png)](https://internetcensus2012.bitbucket.org/images.html "https://internetcensus2012.bitbucket.org/images.html")
 
 Almost anything is possible, but the devil's in the details. Firstly you'd need to find all those internet connected things which respond to an ICMP Ping request, which is a technical way of asking something on the internet *are you there?* That's a really big amount of things to ask this question of and that would take a lot of time for just one computer to do. 
 

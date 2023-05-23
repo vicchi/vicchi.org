@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/07/MS-mappers-hero_3119-800x533.jpg)  
+Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/07/MS-mappers-hero_3119.jpg)  
   
 
 When does drawing a digital line on a satellite map cross an ethereal threshold into the centuries-old practice of licensed land surveying? This is the existential question now before a Mississippi state court.  

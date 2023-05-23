@@ -18,7 +18,7 @@ A prime example of this law is mining data from [Encyclopedia Metallum](https://
 
 <!-- TEASER_END -->
 
-[![Heavy Metal Bands, Per Country, Per Capita](/wp-content/uploads/2013/04/P5Yfz-1024x466.png)](/wp-content/uploads/2013/04/P5Yfz.png "/wp-content/uploads/2013/04/P5Yfz.png")
+[![Heavy Metal Bands, Per Country, Per Capita](/wp-content/uploads/2013/04/P5Yfz.png)](/wp-content/uploads/2013/04/P5Yfz.png "/wp-content/uploads/2013/04/P5Yfz.png")
 
 While I'm not the biggest fan of heavy rock, the [resulting map](https://www.gislounge.com/map-of-heavy-metal-bands-by-country-per-capita/ "https://www.gislounge.com/map-of-heavy-metal-bands-by-country-per-capita/") does, err, rock.
 

@@ -18,7 +18,7 @@ After skipping Where 2.0 last year, this year I returned as part of the Nokia co
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/04/IMG_0028-e1333724161661-764x1024.jpg "Where 2012 Badge")](/wp-content/uploads/2012/04/IMG_0028-e1333724161661.jpg "/wp-content/uploads/2012/04/IMG_0028-e1333724161661.jpg")
+[![](/wp-content/uploads/2012/04/IMG_0028-e1333724161661.jpg "Where 2012 Badge")](/wp-content/uploads/2012/04/IMG_0028-e1333724161661.jpg "/wp-content/uploads/2012/04/IMG_0028-e1333724161661.jpg")
 
 
 Firstly, Where 2.0 was no more. O'Reilly have rebranded the conference as simply Where, with the strapline of the business of location. The conference had also moved from its traditional San Jose venue, via the soul desert that is the Santa Clara Convention centre last year, to a new home at the Marriott Marquis slap bang in the middle of downtown San Francisco.
@@ -36,7 +36,7 @@ This was most definitely a Nokia event. Not only were we Gold sponsors of the ev
 Meh 2.0 notwithstanding, it was also good to see several Yahoo! alumni for a long overdue catchup. Geo-beers may have been conspicuous by their absence, but geo-cocktails were very much apparent.
 
 Sadly, Yahoo! also provided probably the lowest point of the whole conference. Right slap bang in the middle of proceedings, Yahoo! announced yet another round of layoffs, culling almost 2000 employees. When this happens, the last place you want to be when you're waiting to hear whether you still have a job is at a conference and my heart just went out to my ex-colleagues who had to sit their, with a fixed smile on their face, as they waited to hear news from the Yahoo! mothership down in Sunnyvale.
-[![](/wp-content/uploads/2012/04/IMG_0023-e1333724451201-764x1024.jpg "Where 2012 Session Board")](https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209 "https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209")
+[![](/wp-content/uploads/2012/04/IMG_0023-e1333724451201.jpg "Where 2012 Session Board")](https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209 "https://www.flickr.com/photos/vicchi/6899554150/in/set-72157629740551209")
 
 
 So, to recap, a mixed bag of events and emotions at this year's Where. Personally and professionally I think it was a great, team aided, success. Hopefully we'll all return next year to find the "wow" at Where is back and to put the "meh" firmly behind us.

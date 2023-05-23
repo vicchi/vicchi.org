@@ -19,15 +19,15 @@ Honour was satisfied. I put across my point and finance got a date for when the 
 
 Which brings me to a great example of why the map will never be finished and that started taking place in December of last year when then Tongan volcano on the island of Hunga Tonga woke up. This is what Hunga Tonga looks like today on Google Maps.
 
-[![hunga-tonga](/wp-content/uploads/2015/03/hunga-tonga-1024x650.png)](/wp-content/uploads/2015/03/hunga-tonga.png "/wp-content/uploads/2015/03/hunga-tonga.png")
+[![hunga-tonga](/wp-content/uploads/2015/03/hunga-tonga.png)](/wp-content/uploads/2015/03/hunga-tonga.png "/wp-content/uploads/2015/03/hunga-tonga.png")
 
 Hunga Tonga is comprised of two islands and this map is pretty accurate up to July of 2014, as this Pléiades satellite image shows.
 
-[![r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2](/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2-1024x1024.jpg)](/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2.jpg "/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2.jpg")
+[![r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2](/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2.jpg)](/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2.jpg "/wp-content/uploads/2015/03/r35409_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20140207-2.jpg")
 
 But in December, the map started to change and it's continued to change rapidly and dramatically as you can see from this follow up image taken two months ago. The eruption of the volcano has not only stripped all the vegetation off of the islands but the left hand island has sprouted a whole new section of land with a clearly smoking crater, filled with a sulphurous lake. All in all, Hunga Tonga has added another 500m of new land, reaching up to 250m above sea level.
 
-[![r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2](/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2-1024x1024.jpg)](/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2.jpg "/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2.jpg")
+[![r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2](/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2.jpg)](/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2.jpg "/wp-content/uploads/2015/03/r35411_39_satellite_image_pleiades_hunga-tonga-hunga-haapai_tonga_20150119-2.jpg")
 
 Spectacular though this is, none of this is surprising as Tonga sits on the infamous [ring of fire](https://en.wikipedia.org/wiki/Ring_of_Fire "https://en.wikipedia.org/wiki/Ring_of_Fire"), where tectonic plates are being dragged beneath each other, making a ring like zone which is home to around 90% of the world's earthquakes and around 75% of the world's active and dormant volcanoes.
 

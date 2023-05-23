@@ -25,11 +25,11 @@ That last use case may seem overly paranoid, but as [Chris Heilmann](https://twi
 
 Working for Yahoo! and working with people such as Chris, who understands how the web and the net work, has taught me a massive amount over the last 4 or so years. So in this case the answer is glaringly obvious once you stop to think about it, the major source of who's linking to who is ... a search engine.
 
-[![Google Reader](/wp-content/uploads/2010/03/Google-Reader-300x221.jpg "Google Reader")](/wp-content/uploads/2010/03/Google-Reader.jpg "/wp-content/uploads/2010/03/Google-Reader.jpg")
+[![Google Reader](/wp-content/uploads/2010/03/Google-Reader.jpg "Google Reader")](/wp-content/uploads/2010/03/Google-Reader.jpg "/wp-content/uploads/2010/03/Google-Reader.jpg")
 
 So now not only do I know who's visiting my sites but also who's linked to them, by using [Google's Blog Search](https://blogsearch.google.com/blogsearch?hl=en&scoring=d&q=link:/&ie=ISO-8859-1&num=10 "https://blogsearch.google.com/blogsearch?hl=en&scoring=d&q=link:/&ie=ISO-8859-1&num=10") and synching that through [Google Reader](https://www.google.com/reader/ "https://www.google.com/reader/") to [NetNewsWire](https://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/ "https://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/"), my RSS reader on my laptop. The moment someone links to me and that gets picked up by Google's spider, I get an alert. Of course, this doesn't cover all eventualities but it's always a good thing to have more than one source of information, especially when that comes for free.
 
-[![NetNewsWire](/wp-content/uploads/2010/03/NetNewsWire-300x234.jpg "NetNewsWire")](/wp-content/uploads/2010/03/NetNewsWire.jpg "/wp-content/uploads/2010/03/NetNewsWire.jpg")
+[![NetNewsWire](/wp-content/uploads/2010/03/NetNewsWire.jpg "NetNewsWire")](/wp-content/uploads/2010/03/NetNewsWire.jpg "/wp-content/uploads/2010/03/NetNewsWire.jpg")
 
 
 Written at home (51.427051, -0.333344) and posted from the Yahoo! London office (51.5141985, -0.1292006)

@@ -19,7 +19,7 @@ Luckily and to paraphrase the mantra of there's an app for that, there's also a 
 
 <!-- TEASER_END -->
 
-[![beer-map](/wp-content/uploads/2013/07/beer-map-1024x724.png)](https://www.feorag.com/2013/07/the_essential_map_of_europe_an.html "https://www.feorag.com/2013/07/the_essential_map_of_europe_an.html")
+[![beer-map](/wp-content/uploads/2013/07/beer-map.png)](https://www.feorag.com/2013/07/the_essential_map_of_europe_an.html "https://www.feorag.com/2013/07/the_essential_map_of_europe_an.html")
 
 A tip of the hat and a cheers on [Untappd](https://untappd.com/user/vicchi "https://untappd.com/user/vicchi") is due to [Sitaram Shashri](https://twitter.com/seetu "https://twitter.com/seetu") for sending yet another mapping gem my way.
 

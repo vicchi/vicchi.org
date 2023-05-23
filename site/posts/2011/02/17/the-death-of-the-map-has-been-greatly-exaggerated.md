@@ -20,7 +20,7 @@ Hypercities have produced a series of maps "*for traveling back in time to explo
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2011/02/Hypercities-Egypt-1024x494.jpg "Hypercities Egypt")](/wp-content/uploads/2011/02/Hypercities-Egypt.jpg "/wp-content/uploads/2011/02/Hypercities-Egypt.jpg")
+[![](/wp-content/uploads/2011/02/Hypercities-Egypt.jpg "Hypercities Egypt")](/wp-content/uploads/2011/02/Hypercities-Egypt.jpg "/wp-content/uploads/2011/02/Hypercities-Egypt.jpg")
 
 There has been much debate over social media's role in the recent changes in Tunisia, Egypt and other Middle Eastern states; I don't want to get into a debate over how much significance social media and the Internet has played in these events. But almost all wildly differing viewpoints in the debate agree on one thing; that this is a new development and that we've never seen this sort of thing before. So I was much amused to read that before Twitter, before Facebook, before social media, the Internet played another role in a revolution.
 

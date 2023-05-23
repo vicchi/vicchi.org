@@ -20,11 +20,11 @@ Regular readers of this blog may have worked out that out of all the maps there 
 
 <!-- TEASER_END -->
 
-[![1938 Tube Map](/wp-content/uploads/2011/03/1938Map-300x203.jpg)](/wp-content/uploads/2011/03/1938Map.jpg "1938 Tube Map")
+[![1938 Tube Map](/wp-content/uploads/2011/03/1938Map.jpg)](/wp-content/uploads/2011/03/1938Map.jpg "1938 Tube Map")
 
 The lines marked under contruction are part of what was called the [New Works Programme](https://en.wikipedia.org/wiki/New_Works_Programme "https://en.wikipedia.org/wiki/New_Works_Programme") and some of them that are shown on the map did get built. The eastern and western Central Line extensions were completed, though only as far as West Ruislip in the east and not to Denham as planned. The extension of the Bakerloo line from Baker Street to Stanmore was also built and now forms part of today's Jubilee Line. But the [Northern Heights Plan](https://www.abandonedstations.org.uk/Northern_Heights_1.html "https://www.abandonedstations.org.uk/Northern_Heights_1.html"), the criss cross of lines branching off from the Northern Line never reached completion. The extension north of Edgware, the link between Edgware and Mill Hill East to Finchley and the extension to Alexandra Palace from Finsbury Park via Highgate were all finally dropped in 1954.
 
-[![2004 Tube Map](/wp-content/uploads/2011/03/2004Map-300x240.png)](/wp-content/uploads/2011/03/2004Map.png "2004 Tube Map")
+[![2004 Tube Map](/wp-content/uploads/2011/03/2004Map.png)](/wp-content/uploads/2011/03/2004Map.png "2004 Tube Map")
 
 There's a strange parallel between 1939's Tube map and one produced by Transport For London in 2004, showing how the map would look in 2016. A scaled down version of Crossrail is currently being tunneled underneath central London, but there's no sign yet of the Cross River Transit linking Brixton and Peckham with Camden, nor is there any sign of the West London Transit linking Shepherds Bush with Uxbridge via Ealing Broadway. Heathrow Terminal 5 on the Piccadilly Line was built and now links to Paddington but as part of the Heathrow Express and not Crossrail and there's no sign of the Metropolitan Line linking Watford and Watford Junction.
 

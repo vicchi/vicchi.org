@@ -18,17 +18,17 @@ Then this morning, (ex Yahoo!) [Cathy Ma](https://twitter.com/cathyma "https://t
 <!-- TEASER_END -->
 
 
-[![gary gale Persona](/wp-content/uploads/2009/08/gary-gale-Persona-300x94.jpg "gary gale Persona")](/wp-content/uploads/2009/08/gary-gale-Persona.jpg "/wp-content/uploads/2009/08/gary-gale-Persona.jpg")
+[![gary gale Persona](/wp-content/uploads/2009/08/gary-gale-Persona.jpg "gary gale Persona")](/wp-content/uploads/2009/08/gary-gale-Persona.jpg "/wp-content/uploads/2009/08/gary-gale-Persona.jpg")
 
 
 
 Anything but the most cursory of glances quickly showed that something was wrong. If this is how the internet sees me, where does sports, fashion and medicine come from? So I tried again, this time under my usual net nickname, vicchi. Some more chugging and analysing later and I had a second characterization of the online me.
 
-[![vicchi Persona](/wp-content/uploads/2009/08/vicchi-Persona-300x94.jpg "vicchi Persona")](/wp-content/uploads/2009/08/vicchi-Persona.jpg "/wp-content/uploads/2009/08/vicchi-Persona.jpg")
+[![vicchi Persona](/wp-content/uploads/2009/08/vicchi-Persona.jpg "vicchi Persona")](/wp-content/uploads/2009/08/vicchi-Persona.jpg "/wp-content/uploads/2009/08/vicchi-Persona.jpg")
 
 It's different but it's still not right, sports are still there but now they've been joined by military, aggression and illegal. So I reran both characterizations and this time looked at what was going on and I went through the full spectrum from WTF to OMG.
 
-[![3158864420_cca98b531a_o](/wp-content/uploads/2009/08/3158864420_cca98b531a_o-300x193.jpg "3158864420_cca98b531a_o")](https://www.flickr.com/photos/7855449@N02/3158864420/ "https://www.flickr.com/photos/7855449@N02/3158864420/")The characterizer was looking at a selection of web references to Gary Gale and to vicchi, but it wasn't just me, it was any reference that could be found, which means that my supposed characterization is a mashup of all the possible Gary Gale's and vicchi's.
+[![3158864420_cca98b531a_o](/wp-content/uploads/2009/08/3158864420_cca98b531a_o.jpg "3158864420_cca98b531a_o")](https://www.flickr.com/photos/7855449@N02/3158864420/ "https://www.flickr.com/photos/7855449@N02/3158864420/")The characterizer was looking at a selection of web references to Gary Gale and to vicchi, but it wasn't just me, it was any reference that could be found, which means that my supposed characterization is a mashup of all the possible Gary Gale's and vicchi's.
 
 Sadly, this relegates the Personas project to merely an intriguing but ultimately flawed experiment, because unless you have a really unique name, online there's going to be more than one of you.
 

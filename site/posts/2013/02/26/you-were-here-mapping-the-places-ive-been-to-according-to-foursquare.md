@@ -21,7 +21,7 @@ This sounded to me like an ideal candidate for a *map*. But how to go about maki
 
 <!-- TEASER_END -->
 
-[![Checkins - Global](/wp-content/uploads/2013/02/Checkins-Global-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-Global.jpg "/wp-content/uploads/2013/02/Checkins-Global.jpg")
+[![Checkins - Global](/wp-content/uploads/2013/02/Checkins-Global.jpg)](/wp-content/uploads/2013/02/Checkins-Global.jpg "/wp-content/uploads/2013/02/Checkins-Global.jpg")
 
 I could have written some code to use the Foursquare API, but I've been running an instance of [Aaron Cope](https://aaronland.info/ "https://aaronland.info/")'s [privatesquare](https://github.com/straup/privatesquare "https://github.com/straup/privatesquare") for a couple of years now, which meant every check-in I've ever made, give or take the last 6 hours or so, is sitting comfortably in a MySQL database.
 
@@ -29,19 +29,19 @@ So I wrote some code to go through the database, extract each checkin and make a
 
 It's not the most classy of visualisations. But I do like that the map shows me the global picture of where I've been over the last 4 or so years. As you zoom into the map, it's fascinating to see the patterns of my movements in areas I seem to go to on a regular basis, such as the San Francisco Bay Area ...
 
-[![Checkins - Bay Area](/wp-content/uploads/2013/02/Checkins-Bay-Area-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-Bay-Area.jpg "/wp-content/uploads/2013/02/Checkins-Bay-Area.jpg")
+[![Checkins - Bay Area](/wp-content/uploads/2013/02/Checkins-Bay-Area.jpg)](/wp-content/uploads/2013/02/Checkins-Bay-Area.jpg "/wp-content/uploads/2013/02/Checkins-Bay-Area.jpg")
 
 ... or Berlin ...
 
-[![Checkins - Berlin](/wp-content/uploads/2013/02/Checkins-Berlin-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-Berlin.jpg "/wp-content/uploads/2013/02/Checkins-Berlin.jpg")
+[![Checkins - Berlin](/wp-content/uploads/2013/02/Checkins-Berlin.jpg)](/wp-content/uploads/2013/02/Checkins-Berlin.jpg "/wp-content/uploads/2013/02/Checkins-Berlin.jpg")
 
 ... or even Dar Es Salaam ...
 
-[![Checkins - Dar Es Salaam](/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam.jpg "/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam.jpg")
+[![Checkins - Dar Es Salaam](/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam.jpg)](/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam.jpg "/wp-content/uploads/2013/02/Checkins-Dar-Es-Salaam.jpg")
 
 ... as well as my journeys around my home country.
 
-[![Checkins - UK](/wp-content/uploads/2013/02/Checkins-UK-1024x741.jpg)](/wp-content/uploads/2013/02/Checkins-UK.jpg "/wp-content/uploads/2013/02/Checkins-UK.jpg")
+[![Checkins - UK](/wp-content/uploads/2013/02/Checkins-UK.jpg)](/wp-content/uploads/2013/02/Checkins-UK.jpg "/wp-content/uploads/2013/02/Checkins-UK.jpg")
 
 But there's still a lot of things that the map doesn't do.
 

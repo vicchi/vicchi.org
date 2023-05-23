@@ -22,7 +22,7 @@ The week started in Chicago, the Windy City, which lived up to its name, being c
 
 Then I was at home for just under a day. Cold, clear skies and a typical suburban London street scene, surrounded by Victorian era terraced cottages.
 
-[![](/wp-content/uploads/2012/12/IMG_0663-e1354360518247-764x1024.jpg "London Suburbia")](/wp-content/uploads/2012/12/IMG_0663.jpg "/wp-content/uploads/2012/12/IMG_0663.jpg")
+[![](/wp-content/uploads/2012/12/IMG_0663-e1354360518247.jpg "London Suburbia")](/wp-content/uploads/2012/12/IMG_0663.jpg "/wp-content/uploads/2012/12/IMG_0663.jpg")
 
 Then I was under a blazing sun in the capital of Tanzania. The contrast between an American city, a British city and a Tanzanian one couldn't have been more marked.
 

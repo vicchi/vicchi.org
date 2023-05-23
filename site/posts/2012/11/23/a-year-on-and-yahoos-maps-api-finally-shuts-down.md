@@ -37,7 +37,7 @@ I'll always have a soft spot for the Yahoo! API; it was the first mapping API I 
 
 This does mean that the next release of Mapstraction will no longer support the Yahoo! Maps API, though it will support Nokia Maps and Here Maps. My signed copy of Charles Freedman's Yahoo! Maps Mashups will also continue to remain on my office bookshelf as a memento.
 
-[![](/wp-content/uploads/2012/11/IMG_0655-e1353671759245-764x1024.jpg "IMG_0655")](/wp-content/uploads/2012/11/IMG_0655.jpg "/wp-content/uploads/2012/11/IMG_0655.jpg")
+[![](/wp-content/uploads/2012/11/IMG_0655-e1353671759245.jpg "IMG_0655")](/wp-content/uploads/2012/11/IMG_0655.jpg "/wp-content/uploads/2012/11/IMG_0655.jpg")
 
 
 

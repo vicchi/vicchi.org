@@ -20,7 +20,7 @@ So what does this have to do with OpenStreetMap? Bear with me ... there are para
 
 <!-- TEASER_END -->
 
-[![OpenStreetMap Book Cover](/wp-content/uploads/2011/04/english1-cover-large-228x300.png)](https://www.openstreetmap.info/img/english1-cover-large.png "OpenStreetMap Book Cover")
+[![OpenStreetMap Book Cover](/wp-content/uploads/2011/04/english1-cover-large.png)](https://www.openstreetmap.info/img/english1-cover-large.png "OpenStreetMap Book Cover")
 
 OpenStreetMap is easy to use, graphical (on the [website](https://www.openstreetmap.org/ "https://www.openstreetmap.org/")), comes with multiple discussion and [documentation](https://wiki.openstreetmap.org/wiki/Main_Page "https://wiki.openstreetmap.org/wiki/Main_Page") sites and well supported [mailing lists](https://wiki.openstreetmap.org/wiki/Mailing_List "https://wiki.openstreetmap.org/wiki/Mailing_List"); you can always find the answer to your question. But sometimes you don't know what the question is. Sometimes you just want to read a *book*.
 

@@ -27,7 +27,7 @@ WordPress doesn't yet support a way for site specific customizations to be made 
 
 <!-- TEASER_END -->
 
-[![screenshot-1](/wp-content/uploads/2013/06/screenshot-1-1024x559.jpg)](/wp-content/uploads/2013/06/screenshot-1.jpg "/wp-content/uploads/2013/06/screenshot-1.jpg")
+[![screenshot-1](/wp-content/uploads/2013/06/screenshot-1.jpg)](/wp-content/uploads/2013/06/screenshot-1.jpg "/wp-content/uploads/2013/06/screenshot-1.jpg")
 There's another, not entirely altruistic, reason behind this plugin. One of the most common support requests I get for [WP Biographia](/pages/codeage/wp-biographia/ "/pages/codeage/wp-biographia/") is to help with clashes between someone's theme's CSS and the plugin's CSS. Once that's been resolved, the next question is almost always *how do I load this custom CSS*? The answer is now straightforward. Put your CSS file in a directory in the root of your WordPress installation, install WP Customizer, tell it to load custom CSS files and where to find them and you're done. No editing of `functions.php`. No learning now to hook into the `wp_enqueue_scripts` action, no learning how to call `wp_register_style` and `wp_enqueue_style`. It should all just work.
 
 
@@ -43,7 +43,7 @@ But you can just as easily create your own directory structure, put together in 
 ... you're limited only by the limitations of your file system and the way of organising things that make sense to you.
 
 
-[![screenshot-5](/wp-content/uploads/2013/06/screenshot-5-1024x765.jpg)](/wp-content/uploads/2013/06/screenshot-5.jpg "/wp-content/uploads/2013/06/screenshot-5.jpg")
+[![screenshot-5](/wp-content/uploads/2013/06/screenshot-5.jpg)](/wp-content/uploads/2013/06/screenshot-5.jpg "/wp-content/uploads/2013/06/screenshot-5.jpg")
 One final word of caution though. In order to use this plugin, you have to know how to write the code that lives in the customisation files themselves. That means knowing how to write PHP functions to exercise the WordPress API. How to write JavaScript and jQuery that works with WordPress. How to write CSS. This plugin can't help you with that. But there's ample tutorials and information out there on the interwebs to help you.
 
 

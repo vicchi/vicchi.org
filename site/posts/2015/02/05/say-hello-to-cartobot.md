@@ -15,7 +15,7 @@ None is this is true. Sorry CartoBot, it's just not. Cartobot is a [Twitterbot](
 
 <!-- TEASER_END -->
 
-[![cartobot](/wp-content/uploads/2015/02/cartobot-1024x641.png)](/wp-content/uploads/2015/02/cartobot.png "/wp-content/uploads/2015/02/cartobot.png")
+[![cartobot](/wp-content/uploads/2015/02/cartobot.png)](/wp-content/uploads/2015/02/cartobot.png "/wp-content/uploads/2015/02/cartobot.png")
 
 Why does CartoBot do this? Because I'd always wanted to write a Twitterbot and making one that Tweeted about maps and cartography seemed fitting. I'd also wanted to experiment with Node and this turned out to be a good excuse doing just that.
 

@@ -24,11 +24,11 @@ From examining the magnetic patterns in rock, scientists have calculated that th
 
 On a shorter timescale, you might need these next maps a bit sooner. You don't need to be a scientist to know that our planet is slowly but surely warming and the polar ice caps aren't as big as they were. But what would the map of the world look like if all the polar ice melted? In Europe a lot of familiar cities would go the way of Atlantis; London, Venice, Amsterdam and Copenhagen would all vanish slowly under the rising seas.
 
-[![europe-melted](/wp-content/uploads/2013/11/europe-melted-1024x830.png)](/wp-content/uploads/2013/11/europe-melted.png "/wp-content/uploads/2013/11/europe-melted.png")
+[![europe-melted](/wp-content/uploads/2013/11/europe-melted.png)](/wp-content/uploads/2013/11/europe-melted.png "/wp-content/uploads/2013/11/europe-melted.png")
 
 While on the other side of the Atlantic Ocean, most of the Eastern Seaboard of the United States, including Boston, New York, Washington, D.C, Miami and New Orleans would also be no more.
 
-[![north-america-melted](/wp-content/uploads/2013/11/north-america-melted-1024x830.png)](/wp-content/uploads/2013/11/north-america-melted.png "/wp-content/uploads/2013/11/north-america-melted.png")
+[![north-america-melted](/wp-content/uploads/2013/11/north-america-melted.png)](/wp-content/uploads/2013/11/north-america-melted.png "/wp-content/uploads/2013/11/north-america-melted.png")
 
 Whatever your views on the topic of climate change, these National Geographic maps are a sobering and grimly fascinating view of what might and probably will be.
 

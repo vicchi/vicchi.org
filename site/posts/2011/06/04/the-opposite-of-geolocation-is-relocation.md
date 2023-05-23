@@ -22,7 +22,7 @@ And May 27th. 2011? That was the day that the last of the remaining members of m
 
 <!-- TEASER_END -->
 
-[![Sad Yahoo! Smiley](/wp-content/uploads/2011/06/sad-yahoo-150x122.jpg)](/wp-content/uploads/2011/06/sad-yahoo-150x122.jpg "Sad Yahoo! Smiley")
+[![Sad Yahoo! Smiley](/wp-content/uploads/2011/06/sad-yahoo.jpg)](/wp-content/uploads/2011/06/sad-yahoo.jpg "Sad Yahoo! Smiley")
 
 I joined Yahoo! in 2006 as Engineering Manager for Geo Location Targeting, also known as GLT (and not standing for Gay, Lesbian and Transgender, a mistake once made by someone at a conference with hilarious consequences), a group formed from the acquisition of WhereOnEarth.com a year earlier in 2005. As the name suggests, GLT was formed to use WhereOnEarth's technology to build Panama, Yahoo's geotargeting ad platform, a task which the technology was well suited to and a task at which the team succeeded.
 

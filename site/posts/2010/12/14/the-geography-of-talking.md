@@ -20,11 +20,11 @@ A group of researchers have redrawn the map of Great Britain using human interac
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2010/12/journal.pone_.0014248.g001-259x300.png "journal.pone.0014248.g001")](/wp-content/uploads/2010/12/journal.pone_.0014248.g001.png "/wp-content/uploads/2010/12/journal.pone_.0014248.g001.png")
+[![](/wp-content/uploads/2010/12/journal.pone_.0014248.g001.png "journal.pone.0014248.g001")](/wp-content/uploads/2010/12/journal.pone_.0014248.g001.png "/wp-content/uploads/2010/12/journal.pone_.0014248.g001.png")
 
 Another view of the data is revealed when the concentration of calls made are plotted against the UK Government's regional boundaries, which apart from any other insights, shows just how many people live in London and its environs and how much of a chatterbox we all are.
 
-[![](/wp-content/uploads/2010/12/journal.pone_.0014248.g003-175x300.png "journal.pone.0014248.g003")](/wp-content/uploads/2010/12/journal.pone_.0014248.g003.png "/wp-content/uploads/2010/12/journal.pone_.0014248.g003.png")
+[![](/wp-content/uploads/2010/12/journal.pone_.0014248.g003.png "journal.pone.0014248.g003")](/wp-content/uploads/2010/12/journal.pone_.0014248.g003.png "/wp-content/uploads/2010/12/journal.pone_.0014248.g003.png")
 
 Sometimes I read arguments against using a map for visualising data, usually prefixed by words to the effect of "just because you can put something on a map". Sometimes those arguments are justified, but sometimes the map remains the best way to view data and to draw insights from that data. Regardless of which point of view you subscribe to, I always like maps that allow you to look at the world in a different way.
 

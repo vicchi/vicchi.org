@@ -24,7 +24,7 @@ In 2004's [Going Postal](https://en.wikipedia.org/wiki/Going_Postal "https://en.
 
 Today's analog of the clacks is the interwebs and in the clack towers you can see a hazy version of our web servers. It seems aptly fitting that there's an [unofficial way of keeping Terry Pratchett's name alive](https://www.gnuterrypratchett.com/ "https://www.gnuterrypratchett.com/") by adding the `X-Clacks-Overhead` HTTP header to any content that a web server sends out into the interwebs at large. You'll never see these headers in a web browser, they're hidden from view, but they're there nonetheless. The fact that the routing instructions of G, N and U also mirrors the Free Software Foundation's [GNU project](https://www.gnu.org/ "https://www.gnu.org/") may or may not be entirely intentional.
 
-[![http-headers](/wp-content/uploads/2015/03/http-headers-1024x543.png)](/wp-content/uploads/2015/03/http-headers.png "/wp-content/uploads/2015/03/http-headers.png")
+[![http-headers](/wp-content/uploads/2015/03/http-headers.png)](/wp-content/uploads/2015/03/http-headers.png "/wp-content/uploads/2015/03/http-headers.png")
 
 If you're so technically minded, you'll find that this site as well as [my maps site](https://maps.geotastic.org/ "https://maps.geotastic.org/") are doing their little bit to make sure that Terry's name is still spoken, going up and down the line.
 

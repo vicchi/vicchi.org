@@ -18,11 +18,11 @@ I grew up in the suburbs of London. For as long as I can remember, every week da
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/10/London-A-Z-765x1024.jpg "London A-Z")](/wp-content/uploads/2012/10/London-A-Z.jpg "/wp-content/uploads/2012/10/London-A-Z.jpg")
+[![](/wp-content/uploads/2012/10/London-A-Z.jpg "London A-Z")](/wp-content/uploads/2012/10/London-A-Z.jpg "/wp-content/uploads/2012/10/London-A-Z.jpg")
 
 But what was even more wondrous was that this book of street maps had another map on it. The back cover showed a map of railways which ran under the ground, in tunnels. If trains were amazing and wonderful to me then, trains which ran ***under the ground in tunnels*** were a complete revelation to me. This other map, of the trains in tunnels, looked something like this.
 
-[![](/wp-content/uploads/2012/10/London-A-Z-Tube-Map-e1349445588618-1024x765.jpg "London A-Z Tube Map")](/wp-content/uploads/2012/10/London-A-Z-Tube-Map.jpg "/wp-content/uploads/2012/10/London-A-Z-Tube-Map.jpg")
+[![](/wp-content/uploads/2012/10/London-A-Z-Tube-Map-e1349445588618.jpg "London A-Z Tube Map")](/wp-content/uploads/2012/10/London-A-Z-Tube-Map.jpg "/wp-content/uploads/2012/10/London-A-Z-Tube-Map.jpg")
 
 I didn't know about [Harry Beck](https://en.wikipedia.org/wiki/Harry_Beck "https://en.wikipedia.org/wiki/Harry_Beck") or the history of the London Underground Tube map. All I knew was that this was something almost other-wordly. I fell in love with that map when I was around 7 years of age and I've not fallen out of love with it yet (as [posts on this blog](/tags/underground/ "/tags/underground/") probably show).
 

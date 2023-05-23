@@ -44,7 +44,7 @@ This geographic blunder was further reinforced by Antonia Vázquez de Espinosa, 
 
 The notion of California as an island was thus firmly cemented in the minds of the day's cartographers, featuring in the first general atlas of the world that was published in England between 1626 and 1627. Even European cartographers finally gave up in their portrayal of California as a peninsula and by 1650 all maps of note showed the Island.
 
-[![sy409bk9698_05_0001_medium](/wp-content/uploads/2013/10/sy409bk9698_05_0001_medium-1024x897.jpg)](https://purl.stanford.edu/sy409bk9698 "https://purl.stanford.edu/sy409bk9698")
+[![sy409bk9698_05_0001_medium](/wp-content/uploads/2013/10/sy409bk9698_05_0001_medium.jpg)](https://purl.stanford.edu/sy409bk9698 "https://purl.stanford.edu/sy409bk9698")
 
 And so it remained until 1705 when a Jesuit missionary, [Father Eusebio Kino](https://californiamapsociety.org/historic/kino.php "https://californiamapsociety.org/historic/kino.php"), made a report of his journeys, with an accompanying map, that showed that California really *was* attached to the rest of the North American continent. Even then, it took until 1746 when another Jesuit, Fernando Consag, tried and failed to sail around the non-existant island, to put an end to the Island of California.
 

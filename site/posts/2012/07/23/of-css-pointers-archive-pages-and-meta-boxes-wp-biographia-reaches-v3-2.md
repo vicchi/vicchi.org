@@ -23,7 +23,7 @@ But sometimes this isn't enough to fix formatting issues, especially if the plug
 
 WordPress v3.3 added support for Pointers; helpful little pop-ups in the WordPress admin screens that display useful information. WP Biographia now supports these and when you install or upgrade you'll see a what's new popup, plus a guided tour of the plugin's settings tabs.
 
-[![](/wp-content/uploads/2012/07/Whats-New-1024x728.jpg "What's New?")](/wp-content/uploads/2012/07/Whats-New.jpg "/wp-content/uploads/2012/07/Whats-New.jpg")
+[![](/wp-content/uploads/2012/07/Whats-New.jpg "What's New?")](/wp-content/uploads/2012/07/Whats-New.jpg "/wp-content/uploads/2012/07/Whats-New.jpg")
 
 Another frequently requested feature was the ability to break down the display of the Biography Box on archive pages from an all or nothing basis to one where you can select which one of the author, category, date or tag archives you want the Biography Box to appear on. WP Biographia v3.2 now supports this ability.
 

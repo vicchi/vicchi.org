@@ -24,7 +24,7 @@ So taking what I'd learnt about WordPress plugins during the course of producing
 
 Several months later, after wrestling with getting a plugin to authenticate with Foursquare via OAuth 2 and learning how to write not only a WordPress plugin but also a WordPress widget, WP Quadratum appeared on the sidebar on my blog. It's over there right now, towards the top right of your browser screen, unless your reading this on a mobile device, in which case you'll just have to take my word for it for now.
 
-[![](/wp-content/uploads/2012/04/screenshot-61-1024x496.jpg "WP Quadratum Screenshot")](/wp-content/uploads/2012/04/screenshot-61.jpg "/wp-content/uploads/2012/04/screenshot-61.jpg")
+[![](/wp-content/uploads/2012/04/screenshot-61.jpg "WP Quadratum Screenshot")](/wp-content/uploads/2012/04/screenshot-61.jpg "/wp-content/uploads/2012/04/screenshot-61.jpg")
 
 Now Nokia allows free and unauthenticated use of the JavaScript Maps API, but only up to a certain number of transactions over a lifetime. So I also built in support for supplying Nokia's Location API credentials as well. But then I stopped. Why build custom support for authentication and credentials into a plugin, only to probably have to copy-and-paste the code into another plugin I write that will use the same Maps API? So I digressed again and wrote another plugin, [WP Nokia Auth](/pages/codeage/wp-nokia-auth/ "/pages/codeage/wp-nokia-auth/"), that handles the Nokia credentials for me, and then made WP Quadratum play nicely with WP Nokia Auth, if it's installed, active and configured.
 

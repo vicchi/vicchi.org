@@ -14,7 +14,7 @@ geo_lat: 52.53105
 
 In a way it was [Tom Woolway](https://twitter.com/tomwoolway/ "https://twitter.com/tomwoolway/")'s fault, although fault's too strong a word; let's just say he seeded the thought. You might have noticed, or even cared that I put a rudimentary geotag in the footer of my posts. Tom noticed and was kind enough to Tweet about this.
 
-[![Tom Woolway Tweet](/wp-content/uploads/2010/10/TomWoolwayTweet-300x223.jpg "Tom Woolway Tweet")](https://twitter.com/tomwoolway/status/22637627489 "https://twitter.com/tomwoolway/status/22637627489")
+[![Tom Woolway Tweet](/wp-content/uploads/2010/10/TomWoolwayTweet.jpg "Tom Woolway Tweet")](https://twitter.com/tomwoolway/status/22637627489 "https://twitter.com/tomwoolway/status/22637627489")
 
 Some people have assumed that there's a whiz-bang WordPress plugin that automagically does this for me but the truth is a lot more pedestrian than that. It's a simple bit of HTML and CSS that looks like this in each post:
 

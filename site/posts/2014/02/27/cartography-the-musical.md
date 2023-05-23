@@ -24,7 +24,7 @@ The probably apocryphal backstory is that the A-Z's founder, Phyllis Pearsall go
 
 But regardless of the accuracy of the legend around Phyllis Pearsal, it's a great story, especially for those of us who used the A-Z each and every day around London. But is it a musical story? Neil Marcus, Diane Samuels and Gwyneth Herbert seem to think so and they're the team behind [The A-Z Of Mrs. P](https://southwarkplayhouse.co.uk/index.php/the-large/the-a-z-of-mrs-p/ "https://southwarkplayhouse.co.uk/index.php/the-large/the-a-z-of-mrs-p/"), a musical about London's iconic street atlas and its founder that's currently playing at the Southwark Playhouse. Reviews have been mixed, but anything that throws some attention on the A-Z is welcome in my book, even if it is a musical.
 
-[![A-ZofMrsP](/wp-content/uploads/2014/02/A-ZofMrsP-515x1024.jpg)](https://www.sublackwell.co.uk/2013/12/21/the-a-z-of-mrs-p/ "https://www.sublackwell.co.uk/2013/12/21/the-a-z-of-mrs-p/")
+[![A-ZofMrsP](/wp-content/uploads/2014/02/A-ZofMrsP.jpg)](https://www.sublackwell.co.uk/2013/12/21/the-a-z-of-mrs-p/ "https://www.sublackwell.co.uk/2013/12/21/the-a-z-of-mrs-p/")
 
 You may have noticed that at the foot of each post I always try to provide source and attribution for photos or images that I use. I think I'm going to have to expand this to include the inspiration for each post. In this particular case, credit is due to Alison. If it's not a sign of true love when your wife texts you to tell you about something map related she's seen, then I don't know what is. I guess you don't spend nearly 15 years being married to a self professed map nerd without knowing a good map related story when you see one.
 

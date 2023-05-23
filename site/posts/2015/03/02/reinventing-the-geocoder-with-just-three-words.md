@@ -45,7 +45,7 @@ That’s how you might do it, but in 2013 Chris Sheldrick and co-founder Jack Wa
 
 *Then I got it*.
 
-[![w3w-barcelona](/wp-content/uploads/2015/03/w3w-barcelona-1024x615.png)](/wp-content/uploads/2015/03/w3w-barcelona.png "/wp-content/uploads/2015/03/w3w-barcelona.png")
+[![w3w-barcelona](/wp-content/uploads/2015/03/w3w-barcelona.png)](/wp-content/uploads/2015/03/w3w-barcelona.png "/wp-content/uploads/2015/03/w3w-barcelona.png")
 
 What we don’t need is another set of global location references that make it easy for geocoders to do their work. What we don’t need is another attempt to impose postal codes or consistent addressing schemes on the world, whether the world wants it or not.
 

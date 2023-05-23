@@ -31,7 +31,7 @@ When I wrote about OpenStreetMap; Using and Enhancing the Free Map of the World,
 
 The same can be said of Instant Google Map Maker Starter. The e-book edition I've just finished reading doesn't appear to have the physical weight and depth of the OSM tome, but that's only to be expected of a book that clearly sets out to be a *starter*.
 
-[![Instant Google Map Maker Starter](/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter-1024x984.png)](/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter.png "/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter.png")
+[![Instant Google Map Maker Starter](/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter.png)](/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter.png "/wp-content/uploads/2013/04/Instant-Google-Map-Maker-Starter.png")
 
 As a starter, the book describes itself on the cover as *short, fast, focused* and on all these counts it succeeds admirably. Making, creating and editing a digital map is now massively easier than it was 5 years ago, but it's still not simplicity itself.
 

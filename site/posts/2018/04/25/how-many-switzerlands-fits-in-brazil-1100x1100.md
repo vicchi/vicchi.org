@@ -1,5 +1,5 @@
 title: How many Switzerlands fits in Brazil [1100x1100]
-slug: how-many-switzerlands-fits-in-brazil-1100x1100
+slug: how-many-switzerlands-fits-in-brazil
 date: 2018-04-25 13:16:34
 tags: ifttt,map,maps,pocket
 category: 

@@ -26,7 +26,7 @@ Mapstraction allowed you to use the mapping APIs from Google, Yahoo, Bing, Cloud
 
 There's a demo of some of the major features of both Mapstraction and the Ovi Maps API over at [maps.vicchi.org](https://maps.vicchi.org/ "https://maps.vicchi.org/") and, in the spirit of social coding, the source for that is on [github](https://github.com/vicchi/maps-api-demos "https://github.com/vicchi/maps-api-demos") as well.
 
-[![](/wp-content/uploads/2011/07/maps.vicchi.org_-1024x756.jpg "maps.vicchi.org")](https://maps.vicchi.org/mxn-home-and-work.php "maps.vicchi.org")
+[![](/wp-content/uploads/2011/07/maps.vicchi.org_.jpg "maps.vicchi.org")](https://maps.vicchi.org/mxn-home-and-work.php "maps.vicchi.org")
 
 I'm not suggesting for one moment that if the current geo day job falls through I can happily pick up a replacement role coding JavaScript, or coding anything for that matter, but it's oddly reassuring that I still have the vague ability to continue the profession of coding software that earnt me a living for almost 25 years.
 

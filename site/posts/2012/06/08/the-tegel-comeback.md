@@ -31,11 +31,11 @@ Amen to that sentiment and, coincidentally, the postponement of Tegel's closure 
 
 I also managed to get a very Tegel specific souvenir on this trip, from April's [Pro Race TXL](https://pro.race-txl.com/ "https://pro.race-txl.com/"), a speed walking relay race, with suitcases, around the airport. I kid you not. This is Berlin after all, where quirkiness is almost mandatory. In a nice twist on the *I Heart* style of tee-shirt, this is an I Hex TXL tee-shirt.
 
-[![](/wp-content/uploads/2012/06/I-Hex-TXL-1024x527.jpg "I Hex TXL")](/wp-content/uploads/2012/06/I-Hex-TXL.jpg "/wp-content/uploads/2012/06/I-Hex-TXL.jpg")
+[![](/wp-content/uploads/2012/06/I-Hex-TXL.jpg "I Hex TXL")](/wp-content/uploads/2012/06/I-Hex-TXL.jpg "/wp-content/uploads/2012/06/I-Hex-TXL.jpg")
 
 Which makes sense if you've ever been to Tegel and if you haven't, a satellite view of the terminal will explain the hexagonal connection.
 
-[![](/wp-content/uploads/2012/06/Tegel-1024x728.jpg "Tegel")](/wp-content/uploads/2012/06/Tegel.jpg "/wp-content/uploads/2012/06/Tegel.jpg")
+[![](/wp-content/uploads/2012/06/Tegel.jpg "Tegel")](/wp-content/uploads/2012/06/Tegel.jpg "/wp-content/uploads/2012/06/Tegel.jpg")
 
 So whilst Tegel's demise has merely been postponed, it's good that the airport still lives and breathes, for now at least and as I wait for my flight home I can almost believe Pro Race TXL's hyperbole laden pronouncement that it's
 

@@ -18,7 +18,7 @@ You might have noticed but I'm a reasonably big Twitter user. Actually, I should
 
 For Tweets at home, the geotag rolls up to the London Borough of Richmond-upon-Thames, although I had to check this as I was pretty sure the Borough didn't have that shape; I was wrong on that count.
 
-[![](/wp-content/uploads/2010/12/Twitter-Neigbourhoods-1024x765.jpg "Twitter Neigbourhoods")](/wp-content/uploads/2010/12/Twitter-Neigbourhoods.jpg "/wp-content/uploads/2010/12/Twitter-Neigbourhoods.jpg")
+[![](/wp-content/uploads/2010/12/Twitter-Neigbourhoods.jpg "Twitter Neigbourhoods")](/wp-content/uploads/2010/12/Twitter-Neigbourhoods.jpg "/wp-content/uploads/2010/12/Twitter-Neigbourhoods.jpg")
 
 In Berlin, the geotag rolls up to the Bezirke or borough, as shown in the example below, Tweeted from Berlin's Tegel airport. The vector of Reinickendorf can clearly be seen.
 

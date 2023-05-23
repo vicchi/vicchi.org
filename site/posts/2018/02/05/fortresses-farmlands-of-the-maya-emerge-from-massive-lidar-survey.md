@@ -9,7 +9,7 @@ type: text
 has_math: no
 status: published
 
-Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/02/01-lidar-maya-800x450.jpg)  
+Today's maps found on the interwebs. ![](https://cdn.arstechnica.net/wp-content/uploads/2018/02/01-lidar-maya.jpg)  
   
 
 A recent aerial survey revealed thousands of ancient Maya structures previously hidden beneath the dense Guatemalan jungle, including houses, irrigation canals, fortifications, and even a pyramid.  

@@ -18,7 +18,7 @@ If you go to Google Maps right now, you'll still see the current incarnation of 
 
 <!-- TEASER_END -->
 
-[![Google Maps](/wp-content/uploads/2013/05/Google-Maps-1024x721.png)](/wp-content/uploads/2013/05/Google-Maps.png "/wp-content/uploads/2013/05/Google-Maps.png")
+[![Google Maps](/wp-content/uploads/2013/05/Google-Maps.png)](/wp-content/uploads/2013/05/Google-Maps.png "/wp-content/uploads/2013/05/Google-Maps.png")
 
 The key to unlocking the new preview is held in a cookie called `NID`. If you change the cookie's value from one impenetrable string of characters to another, equally impenetrable string of characters, the preview will automagically get unlocked. There's several ways to modify a cookie; as I use Chrome on a daily basis I used the [Edit This Cookie](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en "https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en") extension, but there's other ways to do this depending on your browser of choice. Once you've found the `NID` cookie, change its value to ...
 
@@ -26,7 +26,7 @@ The key to unlocking the new preview is held in a cookie called `NID`. If you ch
 
 ... and reload the page. Hey presto. Welcome to the new Google Maps.
 
-[![Google Maps Preview](/wp-content/uploads/2013/05/Google-Maps-Preview-1024x721.png)](/wp-content/uploads/2013/05/Google-Maps-Preview.png "/wp-content/uploads/2013/05/Google-Maps-Preview.png")
+[![Google Maps Preview](/wp-content/uploads/2013/05/Google-Maps-Preview.png)](/wp-content/uploads/2013/05/Google-Maps-Preview.png "/wp-content/uploads/2013/05/Google-Maps-Preview.png")
 One final word of warning; this is a hack. It's likely to change or go away at any time. If you're a Chrome user, it also seems to wreak havoc with Chrome's omnibox searches as well. Your mileage, as they say, may vary.
 
 

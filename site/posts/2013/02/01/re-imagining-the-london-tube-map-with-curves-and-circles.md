@@ -16,7 +16,7 @@ Another day, another map and another [#mapgasm](/tags/mapgasm/ "/tags/mapgasm/")
 
 Continuing my fascination with the map of the London Underground, which I may have posted about before, Max has been wondering what the Tube Map would look like if it was all [curved](https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html "https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html").
 
-[![577152141_b243e4c33f_o](/wp-content/uploads/2013/02/577152141_b243e4c33f_o-1024x628.jpg)](https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html "https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html")
+[![577152141_b243e4c33f_o](/wp-content/uploads/2013/02/577152141_b243e4c33f_o.jpg)](https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html "https://london-underground.blogspot.co.uk/2007/06/curvy-tube-map.html")
 
 Or maybe, just maybe what it would be like if the Tube Map was [circular](https://london-underground.blogspot.co.uk/2013/01/tube-map-in-circles.html "https://london-underground.blogspot.co.uk/2013/01/tube-map-in-circles.html"), in the most literal of fashions.
 

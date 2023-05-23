@@ -28,25 +28,25 @@ This isn't the first time I've covered this topic. The first time was for a post
 
 I'd been looking for a good source of geographic vector data that I could use to easily overlay polygons on a map and came across a rich source of free vector and raster map data from [Natural Earth](https://www.naturalearthdata.com/ "https://www.naturalearthdata.com/"). But instead of overlaying that data on top of a standard slippy map using a JavaScript maps API to tap into a tile server's bitmap tiles, I soon wondered whether I could actually *make* a map from the vector data. It turned out I could and decided to revisit the structure of the group of islands I live on one more time and try to visualise the difference between Great Britain, the United Kingdom and the British Isles. The end result, punningly entitled the [Great British Map](https://maps.geotastic.org/great-british-map/ "https://maps.geotastic.org/great-british-map/"), looks something like this ...
 
-[![Great British Map](/wp-content/uploads/2013/02/Great-British-Map-1024x737.jpg)](/wp-content/uploads/2013/02/Great-British-Map.jpg "/wp-content/uploads/2013/02/Great-British-Map.jpg")
+[![Great British Map](/wp-content/uploads/2013/02/Great-British-Map.jpg)](/wp-content/uploads/2013/02/Great-British-Map.jpg "/wp-content/uploads/2013/02/Great-British-Map.jpg")
 
 When the page first loads you'll see the coastlines of Britain, Ireland and towards the bottom, the Channel Islands. There's then five ways of looking at this particular map.
 
 There's the group of geographic islands that's termed the British Isles; these show up in purplish-grey and if you're observant, the Channel Islands vanish as they're not part of this island group.
 
-[![Great British Map - Great Britain](/wp-content/uploads/2013/02/Great-British-Map-Great-Britain-1024x737.jpg)](/wp-content/uploads/2013/02/Great-British-Map-Great-Britain.jpg "/wp-content/uploads/2013/02/Great-British-Map-Great-Britain.jpg")
+[![Great British Map - Great Britain](/wp-content/uploads/2013/02/Great-British-Map-Great-Britain.jpg)](/wp-content/uploads/2013/02/Great-British-Map-Great-Britain.jpg "/wp-content/uploads/2013/02/Great-British-Map-Great-Britain.jpg")
 
 Then there's the individual geographic islands of Great Britain, Ireland, the Isle Of Man and The Channel Islands; these show up in green.
 
-[![Great British Map - United Kingdom](/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom-1024x737.jpg)](/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom.jpg "/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom.jpg")
+[![Great British Map - United Kingdom](/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom.jpg)](/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom.jpg "/wp-content/uploads/2013/02/Great-British-Map-United-Kingdom.jpg")
 
 There's two sovereign states, The United Kingdom of Great Britain And Northern Island and the Republic Of Ireland; these show up in red.
 
-[![Great British Map - England](/wp-content/uploads/2013/02/Great-British-Map-England-1024x737.jpg)](/wp-content/uploads/2013/02/Great-British-Map-England.jpg "/wp-content/uploads/2013/02/Great-British-Map-England.jpg")
+[![Great British Map - England](/wp-content/uploads/2013/02/Great-British-Map-England.jpg)](/wp-content/uploads/2013/02/Great-British-Map-England.jpg "/wp-content/uploads/2013/02/Great-British-Map-England.jpg")
 
 Next comes the administrative countries which make up the United Kingdom; England, Scotland, Wales and Northern Ireland. These show up in yellow.
 
-[![Great British Map - Crown Dependencies](/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies-1024x737.jpg)](/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies.jpg "/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies.jpg")
+[![Great British Map - Crown Dependencies](/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies.jpg)](/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies.jpg "/wp-content/uploads/2013/02/Great-British-Map-Crown-Dependencies.jpg")
 
 Finally, there's the Crown Dependencies, the self governing possessions of the British Crown; the Isle of Man and the Channel Islands are these and they show up as purple.
 

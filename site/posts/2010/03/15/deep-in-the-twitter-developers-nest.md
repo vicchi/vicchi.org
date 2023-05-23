@@ -18,7 +18,7 @@ The last week has been crammed with planning for and finally realising the first
 
 <!-- TEASER_END -->
 
-[![Twitter Developer Nest](/wp-content/uploads/2010/03/DevNestLogo-300x300.jpg "Twitter Developer Nest")](/wp-content/uploads/2010/03/DevNestLogo-300x300.jpg "/wp-content/uploads/2010/03/DevNestLogo-300x300.jpg")
+[![Twitter Developer Nest](/wp-content/uploads/2010/03/DevNestLogo.jpg "Twitter Developer Nest")](/wp-content/uploads/2010/03/DevNestLogo.jpg "/wp-content/uploads/2010/03/DevNestLogo.jpg")
 
 Then in November 2009 Twitter [announced their use of WOEIDs](https://groups.google.com/group/twitter-api-announce/browse_thread/thread/f6608c09902976c6?hl=en "https://groups.google.com/group/twitter-api-announce/browse_thread/thread/f6608c09902976c6?hl=en"), the language neutral geographic identifiers that underpin Placemaker and the other Yahoo! Geo Technologies platforms, in their new Trends API. Naturally all of the Geo group at Yahoo! were excited, verging on ecstatic, at this. But getting our respective schedules in synch with each other wasn’t the easiest of things and 2009 came to a close without getting a firm date in the diary.
 

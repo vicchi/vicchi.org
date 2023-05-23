@@ -18,7 +18,7 @@ As a direct follow on from Thierry Gregorius' helpful guide to work out what [th
 
 <!-- TEASER_END -->
 
-[![doghouse-coffee](/wp-content/uploads/2013/07/doghouse-coffee-717x1024.png)](/wp-content/uploads/2013/07/doghouse-coffee.png "/wp-content/uploads/2013/07/doghouse-coffee.png")
+[![doghouse-coffee](/wp-content/uploads/2013/07/doghouse-coffee.png)](/wp-content/uploads/2013/07/doghouse-coffee.png "/wp-content/uploads/2013/07/doghouse-coffee.png")
 
 Personally, I think there's another personality type that's missing from this valuable piece of sociological insight. The explanation goes *You love maps as much as you love coffee. You're searching for the perfect espresso to complement the production of your next map masterpiece*. But I'm still unsure whether it needs to be filed under *Long Black* or *Quadruple Espresso*.
 

@@ -18,7 +18,7 @@ What I actually did was take the South West Trains suburban line into London Wat
 
 <!-- TEASER_END -->
 
-[![london-u-bahn](/wp-content/uploads/2013/10/london-u-bahn-1024x702.png)](/wp-content/uploads/2013/10/london-u-bahn.png "/wp-content/uploads/2013/10/london-u-bahn.png")
+[![london-u-bahn](/wp-content/uploads/2013/10/london-u-bahn.png)](/wp-content/uploads/2013/10/london-u-bahn.png "/wp-content/uploads/2013/10/london-u-bahn.png")
 
 This is the London Underground map, but not as we know it. [Horst Prillinger](https://www.aardvark.at/ "https://www.aardvark.at/") has taken all the station names and translated them, sometimes literally, sometimes using the underlying etymology of the name. As Horst says in his [accompanying blog post](https://homepage.univie.ac.at/horst.prillinger/metro/m/londonundergroundmapgerman.html "https://homepage.univie.ac.at/horst.prillinger/metro/m/londonundergroundmapgerman.html"), back in 2004 when this first surfaced ...
 

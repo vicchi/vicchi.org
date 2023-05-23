@@ -20,13 +20,13 @@ As Yahoo! continues to undergo change under the leadership of Marissa Meyer, the
 
 <!-- TEASER_END -->
 
-[![YDN](/wp-content/uploads/2013/02/YDN-1024x731.jpg)](/wp-content/uploads/2013/02/YDN.jpg "/wp-content/uploads/2013/02/YDN.jpg")
+[![YDN](/wp-content/uploads/2013/02/YDN.jpg)](/wp-content/uploads/2013/02/YDN.jpg "/wp-content/uploads/2013/02/YDN.jpg")
 
 But the digital mole that is the WOEID data has resurfaced, and versions 7.4 through 7.10 of GeoPlanet Data can now be found on the [Internet Archive](https://archive.org/search.php?query=geoplanet "https://archive.org/search.php?query=geoplanet").
 
 But Yahoo! has taken down the downloads, so *how* can this happen? That's where the [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/ "https://creativecommons.org/licenses/by/3.0/us/") license comes into play. The Creative Commons Attribution 3.0 license, to give CC BY 3.0 its full name, gives anyone the right to share the data, in other words to copy, to distribute or to transmit the data, providing users of the data attribute it back to Yahoo! Once issued under such a license, it can't be revoked; you may choose to issue a new version under a different license scheme or stop issuing new versions entirely, but the earlier versions remain under the original license.
 
-[![Internet Archive](/wp-content/uploads/2013/02/Internet-Archive-1024x731.jpg)](/wp-content/uploads/2013/02/Internet-Archive.jpg "/wp-content/uploads/2013/02/Internet-Archive.jpg")
+[![Internet Archive](/wp-content/uploads/2013/02/Internet-Archive.jpg)](/wp-content/uploads/2013/02/Internet-Archive.jpg "/wp-content/uploads/2013/02/Internet-Archive.jpg")
 
 I've always had a soft spot for the WOEID and for the [GeoPlanet API](https://developer.yahoo.com/geo/geoplanet/ "https://developer.yahoo.com/geo/geoplanet/") and data download. Maybe this new availability of the data set will stimulate new usage of WOEIDs. Who knows, the data may even be forked and added to?
 

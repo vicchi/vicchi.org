@@ -16,7 +16,7 @@ It's been a while since I've written <a href="/2013/12/30/farewell-ovi-nokia-and
 
 Firstly if you've been paying attention, you'll have noticed that my blogging and tweeting frequencies have dropped right off. Put it this way, [someone's](https://twitter.com/twbell "https://twitter.com/twbell") been paying attention.
 
-[![you-tweeted](/wp-content/uploads/2014/11/you-tweeted-1024x375.png)](https://twitter.com/twbell/status/502109396399173632 "https://twitter.com/twbell/status/502109396399173632")
+[![you-tweeted](/wp-content/uploads/2014/11/you-tweeted.png)](https://twitter.com/twbell/status/502109396399173632 "https://twitter.com/twbell/status/502109396399173632")
 
 Emerging from the embrace of the large corporate mapping organisation that used to be Ovi Maps, dallied briefly with the name Nokia Maps and ended up calling itself HERE Maps, I found myself in the complete antithesis of a corporate. I joined [Ed](https://twitter.com/freyfogle "https://twitter.com/freyfogle") and Javier at [Lokku](https://lokku.com "https://lokku.com"), in the trendy part of London known as Clerkenwell, with possibly the best job title I've ever had; I was Lokku's *Geotechnologist in Residence*. I've known Ed and Javier for a good number of years and have watched them grow [Nestoria](https://nestoria.com/ "https://nestoria.com/") and reinvigorate and rejuvenate London's [#geomob](https://geomobldn.org/ "https://geomobldn.org/") meetup. I knew this was going to be a very different experience.
 
@@ -40,7 +40,7 @@ My stint at Lokku ended in July of this year and overnight I transformed myself 
 
 So for now, I've swapped getting on a plane to Berlin on a weekly basis and taking the train and Tube to Clerkenwell on a daily basis and instead joined the daily diaspora out of London and down the Southampton, where the Ministry of Maps makes its home.
 
-[![occulus](/wp-content/uploads/2014/11/occulus-e1415291673240-768x1024.jpg)](/wp-content/uploads/2014/11/occulus-e1415291673240.jpg "/wp-content/uploads/2014/11/occulus-e1415291673240.jpg")
+[![occulus](/wp-content/uploads/2014/11/occulus-e1415291673240.jpg)](/wp-content/uploads/2014/11/occulus-e1415291673240.jpg "/wp-content/uploads/2014/11/occulus-e1415291673240.jpg")
 I've spent the last 4 months working out best how to bring the Ordnance Survey's maps to the internet and the internet to the OS. Much is happening and I've found myself an amazing team of geotechnologists and cartographers. As soon as there's something to show for our endeavours, you'll probably read about it here first.
 
 "*Who knows where 2014 will take me?*" It's been one heck of a ride and a whole lot of fun and hard work combined. Now let's see what happens in 2015 ...

@@ -12,7 +12,7 @@ status: published
 Twitter can expand your horizons or just make wasting time a pleasure; here's a good example thanks to [@SianySianySiany](https://twitter.com/SianySianySiany "https://twitter.com/SianySianySiany") - the [Album Cover](https://www.sianyland.com/%24blog/2009/02/26/my_album_cover "https://www.sianyland.com/%24blog/2009/02/26/my_album_cover") meme.
 
 
-[![Album Cover Art?](/wp-content/uploads/2009/02/questionable-230x300.jpg "Album Cover Art?")](/wp-content/uploads/2009/02/questionable.jpg "/wp-content/uploads/2009/02/questionable.jpg")
+[![Album Cover Art?](/wp-content/uploads/2009/02/questionable.jpg "Album Cover Art?")](/wp-content/uploads/2009/02/questionable.jpg "/wp-content/uploads/2009/02/questionable.jpg")
 
 
 

@@ -16,7 +16,7 @@ Apropos of nothing in particular, this is the first of an occasional [series of 
 
 First up is a map of Berlin. In English. So now I can say to myself so *that's* what Prenzlauer Berg, Tiergarten and Kreuzberg mean; in a literal translation so of way.
 
-[![](/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o-1024x772.jpg "Nu Berlin")](/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o.jpg "/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o.jpg")
+[![](/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o.jpg "Nu Berlin")](/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o.jpg "/wp-content/uploads/2012/09/324623_10151009149832032_1395820183_o.jpg")
 
 
 Map Credits: [Willy Karma](https://www.facebook.com/willykarma "https://www.facebook.com/willykarma") on Facebook, via [Emmanuel Decitre](https://www.facebook.com/edecitre "https://www.facebook.com/edecitre").

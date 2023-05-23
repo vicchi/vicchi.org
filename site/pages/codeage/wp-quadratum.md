@@ -95,37 +95,37 @@ WP Quadratum v1.3.1 was released 09/22/13.
  	<li><a href="#widget-sample-2">Sample Widget: Bing v7, OpenLayers and MapQuest Open maps</a></li>
 </ol>
 <h3><a id="install"></a>Installed Plugins: Authentication prompt shown after activating plugin for the first time</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-1.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-1-1024x117.png" alt="v1.3.1-screenshot-1" class="aligncenter size-large wp-image-4253" width="980" height="111"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-1.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-1.png" alt="v1.3.1-screenshot-1" class="aligncenter size-large wp-image-4253" width="980" height="111"></a>
 <h3><a id="foursquare-empty"></a>Settings and Options: Foursquare Tab; No Client ID or Client Secret entered or saved</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-2.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-2-1024x758.png" alt="v1.3.1-screenshot-2" class="aligncenter size-large wp-image-4254" width="980" height="725"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-2.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-2.png" alt="v1.3.1-screenshot-2" class="aligncenter size-large wp-image-4254" width="980" height="725"></a>
 <h3><a id="foursquare-saved"></a>Settings and Options: Foursquare Tab; Client ID and Client Secret saved</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-3.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-3-1024x580.png" alt="v1.3.1-screenshot-3" class="aligncenter size-large wp-image-4255" width="980" height="555"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-3.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-3.png" alt="v1.3.1-screenshot-3" class="aligncenter size-large wp-image-4255" width="980" height="555"></a>
 <h3><a id="foursquare-auth"></a>Foursquare Authentication: Allow or deny plugin access to your Foursquare account</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-4.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-4-1024x320.png" alt="v1.3.1-screenshot-4" class="aligncenter size-large wp-image-4256" width="980" height="306"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-4.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-4.png" alt="v1.3.1-screenshot-4" class="aligncenter size-large wp-image-4256" width="980" height="306"></a>
 <h3><a id="foursquare-complete"></a>Settings and Options: Foursquare Tab; Successfully authenticated with Foursquare</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-5.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-5-1024x542.png" alt="v1.3.1-screenshot-5" class="aligncenter size-large wp-image-4257" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-5.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-5.png" alt="v1.3.1-screenshot-5" class="aligncenter size-large wp-image-4257" width="980" height="518"></a>
 <h3><a id="here-settings"></a>Settings and Options: Maps Tab; HERE Maps configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-6.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-6-1024x542.png" alt="v1.3.1-screenshot-6" class="aligncenter size-large wp-image-4258" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-6.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-6.png" alt="v1.3.1-screenshot-6" class="aligncenter size-large wp-image-4258" width="980" height="518"></a>
 <h3><a id="google-settings"></a>Settings and Options: Maps Tab; Google Maps v3 configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-7.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-7-1024x542.png" alt="v1.3.1-screenshot-7" class="aligncenter size-large wp-image-4259" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-7.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-7.png" alt="v1.3.1-screenshot-7" class="aligncenter size-large wp-image-4259" width="980" height="518"></a>
 <h3><a id="leaflet-settings"></a>Settings and Options: Maps Tab; Leaflet Maps configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-8.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-8-1024x542.png" alt="v1.3.1-screenshot-8" class="aligncenter size-large wp-image-4260" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-8.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-8.png" alt="v1.3.1-screenshot-8" class="aligncenter size-large wp-image-4260" width="980" height="518"></a>
 <h3><a id="bing-settings"></a>Settings and Options: Maps Tab; Bing Maps v7 configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-9.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-9-1024x542.png" alt="v1.3.1-screenshot-9" class="aligncenter size-large wp-image-4261" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-9.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-9.png" alt="v1.3.1-screenshot-9" class="aligncenter size-large wp-image-4261" width="980" height="518"></a>
 <h3><a id="openlayers-settings"></a>Settings and Options: Maps Tab; OpenLayers Maps configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-10.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-10-1024x542.png" alt="v1.3.1-screenshot-10" class="aligncenter size-large wp-image-4262" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-10.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-10.png" alt="v1.3.1-screenshot-10" class="aligncenter size-large wp-image-4262" width="980" height="518"></a>
 <h3><a id="mapquest-settings"></a>Settings and Options: Maps Tab; MapQuest Open Maps configuration</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-11.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-11-1024x542.png" alt="v1.3.1-screenshot-11" class="aligncenter size-large wp-image-4263" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-11.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-11.png" alt="v1.3.1-screenshot-11" class="aligncenter size-large wp-image-4263" width="980" height="518"></a>
 <h3><a id="shortcode-default"></a>Settings and Options: Shortcode Tab; [wp_scs][wp_quadratum][/wp_scs] shortcode enabled</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-12.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-12-1024x542.png" alt="v1.3.1-screenshot-12" class="aligncenter size-large wp-image-4264" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-12.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-12.png" alt="v1.3.1-screenshot-12" class="aligncenter size-large wp-image-4264" width="980" height="518"></a>
 <h3><a id="shortcode-empty"></a>Settings and Options: Shortcode Tab; [wp_scs][wp_quadratum_locality][/wp_scs] shortcode enabled, no Factual OAuth Key or Secret entered or saved</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-13.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-13-1024x542.png" alt="v1.3.1-screenshot-13" class="aligncenter size-large wp-image-4265" width="980" height="518"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-13.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-13.png" alt="v1.3.1-screenshot-13" class="aligncenter size-large wp-image-4265" width="980" height="518"></a>
 <h3><a id="shortcode-auth"></a>Settings and Options: Shortcode Tab; [wp_scs][wp_quadratum_locality][/wp_scs] shortcode enabled, no Factual OAuth Key or Secret saved</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-14.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-14-1024x652.png" alt="v1.3.1-screenshot-14" class="aligncenter size-large wp-image-4266" width="980" height="623"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-14.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-14.png" alt="v1.3.1-screenshot-14" class="aligncenter size-large wp-image-4266" width="980" height="623"></a>
 <h3><a id="defaults"></a>Settings and Options: Defaults Tab</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-15.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-15-1024x652.png" alt="v1.3.1-screenshot-15" class="aligncenter size-large wp-image-4267" width="980" height="623"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-15.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-15.png" alt="v1.3.1-screenshot-15" class="aligncenter size-large wp-image-4267" width="980" height="623"></a>
 <h3><a id="colophon"></a>Settings and Options: Colophon Tab</h3>
-<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-16.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-16-1024x652.png" alt="v1.3.1-screenshot-16" class="aligncenter size-large wp-image-4268" width="980" height="623"></a>
+<a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-16.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-16.png" alt="v1.3.1-screenshot-16" class="aligncenter size-large wp-image-4268" width="980" height="623"></a>
 <h3><a id="widget"></a>Appearance: Widgets; Sample widget settings</h3>
 <a href="/wp-content/uploads/2013/11/v1.3.1-screenshot-17.png"><img src="/wp-content/uploads/2013/11/v1.3.1-screenshot-17.png" alt="v1.3.1-screenshot-17" class="aligncenter size-large wp-image-4269" width="298" height="474"></a>
 <h3><a id="widget-sample-1"></a>Sample Widget: Google v3, HERE and Leaflet maps</h3>

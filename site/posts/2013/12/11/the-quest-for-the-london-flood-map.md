@@ -18,7 +18,7 @@ Some background context is probably in order. On December 5th. the UK's Met Offi
 
 <!-- TEASER_END -->
 
-[![3WxNK](/wp-content/uploads/2013/12/3WxNK-1024x704.png)](https://ow.ly/i/3WxNK/original "https://ow.ly/i/3WxNK/original")
+[![3WxNK](/wp-content/uploads/2013/12/3WxNK.png)](https://ow.ly/i/3WxNK/original "https://ow.ly/i/3WxNK/original")
 
 But back to that map. It's a nice overlay of flood levels on the Docklands area of London based on satellite imagery. The cartography is simple and pleasing; light blue for the River Thames and Bow Creek, darker blue for the banks of the rivers and a washed out aquamarine for areas that would be flooded. But it's a static image. I can't pan and scroll it. The [Tweet](https://twitter.com/EnvAgency/status/408941460743278592 "https://twitter.com/EnvAgency/status/408941460743278592") from the Environment Agency and the image itself contained no context as to where it came from or how it was made. So I browsed over to the Environment Agency's website in search of enlightenment.
 

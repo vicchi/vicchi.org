@@ -11,7 +11,7 @@ status: published
 
 Today's maps found on the interwebs. 
 
-![](https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/050-056c026d-1c66-4d42-9fae-a8e96df290c5-1020x1935.jpg?fit=1&resize=620%2C4000&ssl=1)  
+![](https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/050-056c026d-1c66-4d42-9fae-a8e96df290c5.jpg?fit=1&resize=620%2C4000&ssl=1)  
   
 
 The Medieval Fantasy City Generator; fill in a few options and press go, and voila! I have no idea how plausible these are, but they're MUCH better than anything I ever came up with as a Dungeon Master.  

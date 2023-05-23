@@ -28,13 +28,13 @@ On December 8th, 2012, [David Overton's](https://twitter.com/dbyhundred "https:/
 
 The other map that is both 100% tangible and 100% art is the awesomely talented [Anna Butler's](https://twitter.com/TravelMapmaker "https://twitter.com/TravelMapmaker") [Grand Map Of London](https://www.wellingtonstravel.com/wall-map-london/ "https://www.wellingtonstravel.com/wall-map-london/"). A modern day map of the UK's capital city, digital in origin, lovingly hand drawn in the style of the 1800s and printed, yes, printed on canvas. It's a map worthy of the phrase "*the map as art*" and when I first saw one and handled one in [late November of 2012](/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/ "/2012/11/23/of-w3g-agi-and-other-geographical-acronyms/") I wanted one, right there and then.
 
-[![Grand Map Of London](/wp-content/uploads/2013/01/IMG_0807-1024x764.jpg)](/wp-content/uploads/2013/01/IMG_0807.jpg "/wp-content/uploads/2013/01/IMG_0807.jpg")
+[![Grand Map Of London](/wp-content/uploads/2013/01/IMG_0807.jpg)](/wp-content/uploads/2013/01/IMG_0807.jpg "/wp-content/uploads/2013/01/IMG_0807.jpg")
 
 And then, on Saturday, December 29th 2012, [Mark Iliffe](https://twitter.com/markiliffe "https://twitter.com/markiliffe") and I met Anna for a coffee in the Espresso Bar of the British Library on London's Euston Road and out of the blue, Anna handed over a long cardboard tube containing my own, my very own, Grand Map Of London. People nearby looked on, slightly non-plussed as I crowed like a happy baby, promptly unrolled the map over the table and just looked and touched. The next half an hour or so pretty much vanished as I pored over and luxuriated in the map, lost in the details and revelling in the map under my hands. Truly this is a tangible map which is itself art.
 
 I've often said, half in truth, half in jest, that I'd love a big, as big as I can get, map of London on my wall, probably one of Stamen's Watercolor maps. But Anna's Grand Map Of London will be getting a suitable frame and sitting on my wall, just as soon as my local framing shop opens after the New Year break.
 
-[![Grand Map Of London](/wp-content/uploads/2013/01/IMG_0808-1024x764.jpg)](/wp-content/uploads/2013/01/IMG_0808.jpg "/wp-content/uploads/2013/01/IMG_0808.jpg")
+[![Grand Map Of London](/wp-content/uploads/2013/01/IMG_0808.jpg)](/wp-content/uploads/2013/01/IMG_0808.jpg "/wp-content/uploads/2013/01/IMG_0808.jpg")
 
 Two maps to wrap up 2012. Both tangible, both digital in origin, both made for looking, touching and feeling. One clever, innovative and utterly practical and one a map you can keep coming back to and which reveals more artistic cleverness each time you look at it.
 

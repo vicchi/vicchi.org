@@ -18,13 +18,13 @@ I turned to my tried and trusted data set for things like this; a data set I der
 
 <!-- TEASER_END -->
 
-[![Google Maps Engine](/wp-content/uploads/2013/03/Google-Maps-Engine-1024x744.jpg)](/wp-content/uploads/2013/03/Google-Maps-Engine.jpg "/wp-content/uploads/2013/03/Google-Maps-Engine.jpg")
+[![Google Maps Engine](/wp-content/uploads/2013/03/Google-Maps-Engine.jpg)](/wp-content/uploads/2013/03/Google-Maps-Engine.jpg "/wp-content/uploads/2013/03/Google-Maps-Engine.jpg")
 
 Reading up on Map Engine Lite, I noted that I could only upload a maximum of 100 data points into a layer on the map, which wasn't a problem as my data set is localised to London and contains only 10 pieces of information, one for each photo I'd taken. Once I'd uploaded the data I could style the colours of the push pins and the background style of the map. It looks pretty good, even if you are limited to 100 points per layer and it's for strictly personal and non commercial use only.
 
 But I was sure I'd seen this sort of thing before and I had, in the form of [Stamen's Dotspotting](https://dotspotting.org/ "https://dotspotting.org/"). I already had an account with Dotspotting and, even though I'd forgotten about it, I'd previously made a map from my London Elephants data set.
 
-[![DotSpotting](/wp-content/uploads/2013/03/DotSpotting-1024x744.jpg)](/wp-content/uploads/2013/03/DotSpotting.jpg "/wp-content/uploads/2013/03/DotSpotting.jpg")
+[![DotSpotting](/wp-content/uploads/2013/03/DotSpotting.jpg)](/wp-content/uploads/2013/03/DotSpotting.jpg "/wp-content/uploads/2013/03/DotSpotting.jpg")
 
 The parallels are many. Both Map Engine and Dotspotting allow you to upload data in CSV format. Both services try to work out coordinates from the data, if there's no lat/long coordinates already. Both services allow you to style the resultant map.
 

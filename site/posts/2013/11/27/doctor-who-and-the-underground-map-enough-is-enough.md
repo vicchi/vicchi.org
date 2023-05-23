@@ -18,7 +18,7 @@ Now I'll freely admit I've been more than guilty of writing about re-workings of
 
 <!-- TEASER_END -->
 
-[![dr-who-map](/wp-content/uploads/2013/11/dr-who-map-1024x738.png)](https://www.crispian.net/DoctorWho/DrWhoTubeMap.html "https://www.crispian.net/DoctorWho/DrWhoTubeMap.html")
+[![dr-who-map](/wp-content/uploads/2013/11/dr-who-map.png)](https://www.crispian.net/DoctorWho/DrWhoTubeMap.html "https://www.crispian.net/DoctorWho/DrWhoTubeMap.html")
 
 But I'll also freely admit that Ken has a valid point. The tube map rework has been done to death. This is not to denigrate the amount of work that's been put into such a map. Far from it. This is an obvious labour of love and many hours have been put in to make the map not only what it shows but how it shows it.
 

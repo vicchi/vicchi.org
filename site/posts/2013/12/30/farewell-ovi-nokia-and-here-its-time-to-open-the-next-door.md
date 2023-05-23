@@ -22,7 +22,7 @@ In addition to mobile data connectivity, apps and GPS, one of the things that de
 
 <!-- TEASER_END -->
 
-[![IMG_1559](/wp-content/uploads/2013/12/IMG_1559-1024x764.jpg)](/wp-content/uploads/2013/12/IMG_1559.jpg "/wp-content/uploads/2013/12/IMG_1559.jpg")
+[![IMG_1559](/wp-content/uploads/2013/12/IMG_1559.jpg)](/wp-content/uploads/2013/12/IMG_1559.jpg "/wp-content/uploads/2013/12/IMG_1559.jpg")
 
 I spent the first 18 months of my time with Nokia commuting weekly from London to Berlin, where the company's maps division was based. The pros of this weekly commute of almost 600 miles each way was rapid progression through British Airway's frequent flyer program, getting to know the city of Berlin really well and developing deep and lasting friendships with my team, who were behind the Ovi Places Registry, but more about them in a moment. The cons were living out of hotels on a weekly basis and the strain it placed on my family back in London.
 

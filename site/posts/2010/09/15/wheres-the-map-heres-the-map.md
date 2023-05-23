@@ -22,11 +22,11 @@ But there are times when the map is *precisely* the interface you want to use, e
 
 Firstly there's [Vacant NYC](https://vacantnyc.crowdmap.com/ "https://vacantnyc.crowdmap.com/"), a crowd-sourced data set of vacant buildings, lots and condominiums in New York. The underlying data set is rich and complex but a simple, map based visualization, provides an immediate view onto the data, as can be seen from the screen-shot below.
 
-[![Vacant NYC](/wp-content/uploads/2010/09/VacantNYC-300x230.jpg "Vacant NYC")](https://vacantnyc.crowdmap.com/ "https://vacantnyc.crowdmap.com/")
+[![Vacant NYC](/wp-content/uploads/2010/09/VacantNYC.jpg "Vacant NYC")](https://vacantnyc.crowdmap.com/ "https://vacantnyc.crowdmap.com/")
 
 Closer to home, there's the [London Murder Map](https://www.murdermap.co.uk/murder-map.asp "https://www.murdermap.co.uk/murder-map.asp"), which whilst potentially ghoulish, again effectively shows how, and more importantly where, people have lost their lives in the UK's capital. As with the New York example, the data set is rich, as shown by the colour coded key above the map, but the map takes centre stage and yields an immediate overview of London, with the option to dig down deeper into the data and into the map.
 
-[![London Murder Map](/wp-content/uploads/2010/09/LondonMurderMap-300x267.jpg "London Murder Map")](https://www.murdermap.co.uk/murder-map.asp "https://www.murdermap.co.uk/murder-map.asp")
+[![London Murder Map](/wp-content/uploads/2010/09/LondonMurderMap.jpg "London Murder Map")](https://www.murdermap.co.uk/murder-map.asp "https://www.murdermap.co.uk/murder-map.asp")
 
 In 2010, the map may be strangely absent from a lot of today's location based and themed services but it's good to see that the map is very much alive, well and serving a purpose.
 

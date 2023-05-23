@@ -18,7 +18,7 @@ But something else has changed. Switching the other TV set we have on, the one t
 
 <!-- TEASER_END -->
 
-[![](/wp-content/uploads/2012/04/IMG_0057-1024x764.jpg "Look. No Analogue")](/wp-content/uploads/2012/04/IMG_0057.jpg "/wp-content/uploads/2012/04/IMG_0057.jpg")
+[![](/wp-content/uploads/2012/04/IMG_0057.jpg "Look. No Analogue")](/wp-content/uploads/2012/04/IMG_0057.jpg "/wp-content/uploads/2012/04/IMG_0057.jpg")
 
 ... nothing. Because sometime yesterday the Crystal Palace transmitter finally switched off their analogue TV signal for London. It's digital all the way from now on, whether it's via cable, via satellite or via the digital terrestrial service that Crystal Palace is still broadcasting.
 
@@ -28,11 +28,11 @@ Something else changed as well. With the analogue switch off, a precursor to tod
 
 Thankfully our other TV set is capable of receiving the digital terrestrial service and a quick retune later, sound and vision is restored.
 
-[![](/wp-content/uploads/2012/04/IMG_0060-1024x764.jpg "IMG_0060")](/wp-content/uploads/2012/04/IMG_0060.jpg "/wp-content/uploads/2012/04/IMG_0060.jpg")
+[![](/wp-content/uploads/2012/04/IMG_0060.jpg "IMG_0060")](/wp-content/uploads/2012/04/IMG_0060.jpg "/wp-content/uploads/2012/04/IMG_0060.jpg")
 
 We may be a solely digital household now and Ceefax and Oracle are consigned to being just another page on Wikipedia but at least we can now watch prime time on both TV sets, over the air and over cable ...
 
-[![](/wp-content/uploads/2012/04/IMG_0061-1024x764.jpg "IMG_0061")](/wp-content/uploads/2012/04/IMG_0061.jpg "/wp-content/uploads/2012/04/IMG_0061.jpg")
+[![](/wp-content/uploads/2012/04/IMG_0061.jpg "IMG_0061")](/wp-content/uploads/2012/04/IMG_0061.jpg "/wp-content/uploads/2012/04/IMG_0061.jpg")
 
 ... which at the time I'm writing this means watching Tracy Emin discussing the London 2012 Olympics on The One Show. I guess they call this progress, but I'd willingly swap Tracy for Ceefax any day.
 

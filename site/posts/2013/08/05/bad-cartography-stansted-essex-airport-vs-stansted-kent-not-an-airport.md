@@ -20,7 +20,7 @@ So it was with this map, which was snapped on a flight a few days ago from Rome'
 
 <!-- TEASER_END -->
 
-[![stansted](/wp-content/uploads/2013/08/stansted-1024x764.jpg)](/wp-content/uploads/2013/08/stansted.jpg "/wp-content/uploads/2013/08/stansted.jpg")
+[![stansted](/wp-content/uploads/2013/08/stansted.jpg)](/wp-content/uploads/2013/08/stansted.jpg "/wp-content/uploads/2013/08/stansted.jpg")
 
 London has three major airports, of which Heathrow is the only one that's anywhere near Central London. The other two, Gatwick and Stansted, are out in the so called [Home Counties](https://en.wikipedia.org/wiki/Home_counties "https://en.wikipedia.org/wiki/Home_counties"), in Sussex and in Essex respectively. But that's not what the inflight map seems to show. Or does it? The map seems to show that we were flying directly over Stansted but that somehow London's third airport had mysteriously been moved from the north east of London to south of the River Thames, somewhere south of Gravesend.
 

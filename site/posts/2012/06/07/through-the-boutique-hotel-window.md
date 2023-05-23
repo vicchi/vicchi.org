@@ -16,11 +16,11 @@ There are many things I've learnt through staying in hotels in Berlin. Firstly a
 
 <!-- TEASER_END -->
 
-![](/wp-content/uploads/2012/06/IMG_0196-e1339048322859-764x1024.jpg "IMG_0196")
+![](/wp-content/uploads/2012/06/IMG_0196-e1339048322859.jpg "IMG_0196")
 
 This week I'm staying in the [Arcotel Velvet](https://www.arcotelhotels.com/en/velvet_hotel_berlin/ "https://www.arcotelhotels.com/en/velvet_hotel_berlin/"), a self proclaimed boutique hotel. Interesting interior design? Check. Floor to ceiling panoramic windows? Check. Wall-less bathroom? Thankfully not.
 
-![](/wp-content/uploads/2012/06/IMG_0197-e1339048381860-764x1024.jpg "IMG_0197")
+![](/wp-content/uploads/2012/06/IMG_0197-e1339048381860.jpg "IMG_0197")
 
 But it does have a balcony with a view of the Fernsehturm and the Berliner Dom, which looks rather fine in the early dawn. I still miss my family though.
 

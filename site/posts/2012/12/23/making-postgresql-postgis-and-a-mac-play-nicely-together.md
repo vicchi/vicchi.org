@@ -34,7 +34,7 @@ Which brings me to the starting point of the journey and the reason for this pos
 
 When I normally need to install UNIX-y command line and server tools I turn to [Homebrew](https://mxcl.github.com/homebrew/ "https://mxcl.github.com/homebrew/"), the tool set that *"installs the stuff you need that Apple didn't"*. Homebrew supports installing both PostgreSQL and PostGIS but a bit of background research showed that installing these on Lion and on Mountain Lion could be problematic. A bit of further research soon turned up [Postgres.app](https://postgresapp.com/ "https://postgresapp.com/"), which claims to be *"the easiest way to run PostgreSQL on the Mac"*. Postgres.app is a single shot installer which wraps PostgreSQL and PostGIS into an easy to install and run self contained environment.
 
-[![Postgres.app](/wp-content/uploads/2012/12/Postgres.app_-1024x525.jpg)](https://postgresapp.com/ "https://postgresapp.com/")
+[![Postgres.app](/wp-content/uploads/2012/12/Postgres.app_.jpg)](https://postgresapp.com/ "https://postgresapp.com/")
 
 I'm a big fan of this approach to a software development environment. All of the stuff I've put up on GitHub and on WordPress.org has been written using [MAMP](https://mamp.info/en/index.html "https://mamp.info/en/index.html"), the single shot installer which wraps up Apache, MySQL and PHP on the Mac so Postgres.app gave instant appeal to me. So, download, install, start.
 
@@ -283,7 +283,7 @@ kern.maxproc=2048
 
 ```
 
-![TileMill - Tanzania](/wp-content/uploads/2012/12/TileMill-Tanzania-1024x609.jpg)
+![TileMill - Tanzania](/wp-content/uploads/2012/12/TileMill-Tanzania.jpg)
 
 I now have a working PostgreSQL and PostGIS install, with a map loaded, which TileMill can access. Now all I need to do is learn Carto and actually make the map I originally set out to do ... another learning journey has started.
 

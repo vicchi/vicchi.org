@@ -14,7 +14,7 @@ geo_lat: 51.5141985
 
 Odd map of the London Underground? [Check](/2010/05/13/curiously-cartographic-creations-1-the-tourist-tube-map/ "/2010/05/13/curiously-cartographic-creations-1-the-tourist-tube-map/"). Maps of how Swedes and Hungarians see Europe? [Check](/2010/05/27/curiously-cartographic-creations-2-alternative-europe-maps/ "/2010/05/27/curiously-cartographic-creations-2-alternative-europe-maps/"). Ah ... but what about how our neighbours across the Atlantic see the world? You know, the country that has a [special relationship](https://en.wikipedia.org/wiki/Special_Relationship "https://en.wikipedia.org/wiki/Special_Relationship") with the United Kingdom? I have just the very thing for you. Let's start with a nice simplified version of the world.
 
-[![The World according to America](/wp-content/uploads/2010/05/world-300x240.gif)](https://markpknowles.com/the-world-according-to/ "The World according to America")
+[![The World according to America](/wp-content/uploads/2010/05/world.gif)](https://markpknowles.com/the-world-according-to/ "The World according to America")
 
 He may no longer be Mr. President but apparently George. W. Bush had a curious grasp of the world's geography.
 
@@ -22,7 +22,7 @@ He may no longer be Mr. President but apparently George. W. Bush had a curious g
 
 Keeping with the theme of President of the United States, this highly colourful view of the world comes from the mind of a Mr. Reagan. Allegedly.
 
-[![The World According to Ronald Reagan](/wp-content/uploads/2010/05/800px-reagan-digitised-poster.JPG-300x212.jpg)](https://strangemaps.wordpress.com/ "The World According to Ronald Reagan")
+[![The World According to Ronald Reagan](/wp-content/uploads/2010/05/800px-reagan-digitised-poster.JPG.jpg)](https://strangemaps.wordpress.com/ "The World According to Ronald Reagan")
 
 
 Photo Credits: [irobot00](https://www.flickr.com/photos/63463131@N00/298202156/ "https://www.flickr.com/photos/63463131@N00/298202156/") on Flickr.

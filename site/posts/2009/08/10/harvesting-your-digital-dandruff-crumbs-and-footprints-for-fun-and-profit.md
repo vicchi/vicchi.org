@@ -33,11 +33,11 @@ Some people take an active role in managing their digital footprint and try to e
 ### Not Your Average Star Trek Reference
 
 
-[![garygale.com Screen Grab](/wp-content/uploads/2009/08/garygale.com-150x150.jpg)](/wp-content/uploads/2009/08/garygale.com.jpg "/wp-content/uploads/2009/08/garygale.com.jpg")
+[![garygale.com Screen Grab](/wp-content/uploads/2009/08/garygale.com.jpg)](/wp-content/uploads/2009/08/garygale.com.jpg "/wp-content/uploads/2009/08/garygale.com.jpg")
 
 My site at [garygale.com](https://www.garygale.com/ "https://www.garygale.com/") pulls together a subset of my digital footprint into one place, drawing on my [blog](/ "/"), my [social bookmarks on Delicious](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi"), articles I've written, photos from Flickr and [presentation decks from talks I've given](https://www.slideshare.net/vicchi "https://www.slideshare.net/vicchi"). [Inspired by an article](https://www.wait-till-i.com/2009/06/03/how-i-built-icantcouk-source-code/ "https://www.wait-till-i.com/2009/06/03/how-i-built-icantcouk-source-code/") written by the Yahoo! Developer Network's [Christian Heilman](https://twitter.com/codepo8 "https://twitter.com/codepo8"), garygale.com uses PHP and [YQL](https://developer.yahoo.com/yql/ "https://developer.yahoo.com/yql/") to dynamically pull in the latest version of all my content so my site is always up to date
 
-[![Spock.com Screen Grab](/wp-content/uploads/2009/08/Spock.com-150x150.jpg)](/wp-content/uploads/2009/08/Spock.com.jpg "/wp-content/uploads/2009/08/Spock.com.jpg")
+[![Spock.com Screen Grab](/wp-content/uploads/2009/08/Spock.com.jpg)](/wp-content/uploads/2009/08/Spock.com.jpg "/wp-content/uploads/2009/08/Spock.com.jpg")
 
 Now compare and contrast this information with that [available on Spock.com](https://www.spock.com/q/?name_query=gary%20gale&location_query=United%20Kingdom&gender=m "https://www.spock.com/q/?name_query=gary%20gale&location_query=United%20Kingdom&gender=m"), *"the first search engine for finding people on the web"*. It's not as complete as my version, nor formatted as coherently but the key facets of my digital footprint are there. If I wanted to I could add to this digital portrait, supplying tags, biographic information, pictures, quotes and so on.
 

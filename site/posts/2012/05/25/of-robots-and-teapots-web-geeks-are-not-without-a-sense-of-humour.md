@@ -38,7 +38,7 @@ But it seems like the BBC's web geeks also are not without a sense of humour. Ea
 
 [no, really](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"). Take a look at the [BBC's CBeebies site](https://www.bbc.co.uk/cbeebies/418 "https://www.bbc.co.uk/cbeebies/418") if you don't believe me.
 
-[![](/wp-content/uploads/2012/05/418-1024x749.jpg "418")](/wp-content/uploads/2012/05/418.jpg "/wp-content/uploads/2012/05/418.jpg")
+[![](/wp-content/uploads/2012/05/418.jpg "418")](/wp-content/uploads/2012/05/418.jpg "/wp-content/uploads/2012/05/418.jpg")
 
 The page even returns a `HTTP 418` status.
 
