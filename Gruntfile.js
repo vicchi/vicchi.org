@@ -13,6 +13,28 @@ module.exports = function (grunt) {
                         dest: 'site/themes/staticfy/assets/images'
                     }
                 ]
+            },
+            leaflet: {
+                files: [
+                    {
+                        expand: true,
+                        cwd: 'node_modules/leaflet/dist',
+                        src: ['leaflet.css'],
+                        dest: 'site/themes/staticfy/assets/css'
+                    },
+                    {
+                        expand: true,
+                        cwd: 'node_modules/leaflet/dist',
+                        src: ['leaflet.js', 'leaflet.js.map'],
+                        dest: 'site/themes/staticfy/assets/js'
+                    },
+                    {
+                        expand: true,
+                        cwd: 'node_modules/leaflet/dist',
+                        src: ['*.png'],
+                        dest: 'site/themes/staticfy/assets/images'
+                    }
+                ]
             }
         },
         postcss: {
@@ -41,7 +63,11 @@ module.exports = function (grunt) {
             },
             serve: {
                 cwd: './site',
-                command: 'nikola serve'
+                command: 'nikola serve -p 8001'
+            }
+            deploy: {
+                cwd: './site',
+                command: 'nikola deploy'
             }
         },
         watch: {
@@ -65,6 +91,6 @@ module.exports = function (grunt) {
     grunt.registerTask('default', ['watch']);
     grunt.registerTask('build', ['copy', 'postcss:theme', 'shell:build']);
     grunt.registerTask('clean', ['shell:clean']);
-    grunt.registerTask('serve', ['shell:serve']);
+    grunt.registerTask('serve', ['build', 'shell:serve']);
     grunt.registerTask('rebuild', ['shell:clean', 'build']);
 };

@@ -1,8 +1,20 @@
 {% extends 'base.tmpl' %}
 
+{% block headscripts %}
+  <link href="/assets/css/leaflet.css" rel="stylesheet" />
+{% endblock headscripts%}
+
 {% block content %}
+{% if post.meta('geo_place') %}
+<div class="w-fill pt-4" id="map-wrapper" data-geo-lng="{{ post.meta('geo_lng') }}" data-geo-lat="{{ post.meta('geo_lat') }}" data-geo-place="{{ post.meta('geo_place') }}">
+  <div class="max-f-full h-48" id="map"></div>
+  <p class="text-sm text-gray-500 dark:text-gray-100 text-center pb-8">
+   Geotagged at {{ post.meta('geo_place') }} ({{ post.meta('geo_lat') }},{{ post.meta('geo_lng') }})
+  </p>
+</div>
+{% endif %}
 <article class="h-entry">
-  <h2 class="p-name text-xl md:text-2xl font-black leading-tight dark:text-gray-200 pt-12">{{ post.title() }}</h2>
+  <h2 class="p-name text-xl md:text-2xl font-black leading-tight dark:text-gray-200 pt-4">{{ post.title() }}</h2>
   <span class="p-author h-card hidden">{{ blog_title }}</span>
   <div class="mt-2 mb-6 text-sm">
     <time class="dt-published" datetime="{{ date }}">{{ post.formatted_date(date_format)|e }}</time>
@@ -14,3 +26,8 @@
 </article>
 {% include "includes/author.tmpl" %}
 {% endblock content %}
+{% block postscripts %}
+<script type="module" src="/assets/js/leaflet.js"></script>
+{% endblock postscripts%}
+{% block loadscripts %}
+{% endblock loadscripts%}

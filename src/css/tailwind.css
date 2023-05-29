@@ -55,3 +55,15 @@ h1 > a.header-anchor {
 h2 > a.header-anchor {
   font-weight: 700;
 }
+
+.push-pin {
+    filter: invert(63%) sepia(9%) saturate(6599%) hue-rotate(219deg) brightness(97%) contrast(105%);
+}
+
+.leaflet-control-attribution {
+        @apply text-purple-500 !important;
+}
+
+.leaflet-control-attribution > a {
+        @apply text-purple-500 !important;
+}

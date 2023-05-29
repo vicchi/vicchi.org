@@ -368,7 +368,7 @@ METADATA_FORMAT = "Pelican"
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
 # The setting is ignored when creating pages.
-# NEW_POST_DATE_PATH = False
+NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
 # Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
@@ -979,7 +979,8 @@ INDEX_TEASERS = True
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
+# INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
+INDEX_READ_MORE_LINK = ''
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
@@ -1459,7 +1460,16 @@ GLOBAL_CONTEXT = {
         'emoji': 'coffee',
         'content': 'Cleaning and stitching open data sets together'
     },
-    'bio': "I'm Gary ... a Husband, Father, CTO at Kamma, geotechnologist, map geek, coffee addict, Sci-fi fan, UNIX and Mac user"
+    'bio': "I'm Gary ... a Husband, Father, CTO at Kamma, geotechnologist, map geek, coffee addict, Sci-fi fan, UNIX and Mac user",
+    'now': {
+        'name': 'Loading',
+        'artist': 'Loading',
+        'image': 'https://status.vicchi.org/static/heroicons/24/solid/musical-note.svg',
+        'count': 0,
+        'tracks': 8,
+        'artists': 8,
+        'releases': 8
+    }
 }
 
 # Add functions here and they will be called with template

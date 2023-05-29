@@ -24,14 +24,9 @@
     <link href="/assets/css/tailwind.css" rel="stylesheet" />
     <link type="application/atom+xml" rel="alternate" title="{{ blog_author }}'s Atom Feed" href="/feeds/feed.atom">
     <link type="application/rss+xml" rel="alternate" title="{{ blog_author }}'s RSS Feed" href="/feeds/rss.xml">
-    <script>
-      const isDarkMode = () => localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches);
-      if (isDarkMode()) {
-        document.documentElement.classList.add('dark')
-      } else {
-        document.documentElement.classList.remove('dark')
-      }
-    </script>
+    <link rel="me" href="https://www.vicchi.org" />
+    <link rel="me" href="https://www.garygale.com" />
+    {% block headscripts %}{% endblock headscripts%}
   </head>
   <body class="dark:text-white bg-white dark:bg-gray-900 font-sans text-gray-800">
     <div class="min-h-screen flex flex-col">
@@ -45,34 +40,8 @@
         {% include "includes/footer.tmpl" with context %}
       {% endblock footer %}
     </div>
-    <script>
-      document.getElementById("toggleDarkMode").addEventListener("click", function() {
-        if (isDarkMode()) {
-          localStorage.theme = 'light'
-          document.documentElement.classList.remove('dark')
-        } else {
-          localStorage.theme = 'dark'
-          document.documentElement.classList.add('dark')
-        }
-      });
-      (function() {
-        const pagination = document.getElementById('pagination');
-        if (pagination) {
-          pagination.addEventListener('change', (event) => {
-            console.log('change fired');
-            const page = parseInt(event.target.value)
-            console.log('value = ' + event.target.value);
-            if (page === 0) {
-              window.location.href = '/'
-            } else {
-              window.location.href = `/page/${
-                event.target.value
-              }/`
-            }
-          })
-        }
-      })();
-    </script>
+    {% block postscripts %}{% endblock postscripts%}
+    <script type="module" src="/assets/js/site.js"></script>
     {% block loadscripts %}{% endblock loadscripts%}
   </body>
 </html>
