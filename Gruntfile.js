@@ -64,7 +64,7 @@ module.exports = function (grunt) {
             serve: {
                 cwd: './site',
                 command: 'nikola serve -p 8001'
-            }
+            },
             deploy: {
                 cwd: './site',
                 command: 'nikola deploy'
@@ -93,4 +93,5 @@ module.exports = function (grunt) {
     grunt.registerTask('clean', ['shell:clean']);
     grunt.registerTask('serve', ['build', 'shell:serve']);
     grunt.registerTask('rebuild', ['shell:clean', 'build']);
+    grunt.registerTask('deploy', ['build', 'shell:deploy']);
 };

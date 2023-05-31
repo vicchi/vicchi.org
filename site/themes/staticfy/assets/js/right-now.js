@@ -9,9 +9,21 @@ vicchi.now = (function () {
             var resp = await fetch(`${STATUS_API_URL}/static/statuslog.json`);
             const status = await resp.json();
 
-            resp = await fetch(`${STATUS_API_URL}/v1/weather`);
-            const weather = await resp.json();
+            resp = await fetch(`${STATUS_API_URL}/v1/checkin`);
+            const data = await resp.json();
+            const weather = data['weather'];
+            const checkin = data['checkin'];
 
+            var place;
+            if (checkin['location']['city']) {
+                place = `In ${checkin['location']['city']}`;
+            }
+            else if (checkin['location']['state']) {
+                place = `In ${checkin['location']['city']}`;
+            }
+            else {
+                place = 'At home'
+            }
             var statuses = [];
             var elem = document.createElement('p');
             elem.setAttribute('class', 'mb-0');
@@ -20,7 +32,7 @@ vicchi.now = (function () {
 
             elem = document.createElement('p');
             elem.setAttribute('class', 'mb-0');
-            elem.innerHTML = `<img class="inline mt-0 mb-0 w-6 h-6" src="${weather['icon']}" ></img> It's currently ${weather['temp']}&deg;C and ${weather['descr']}`;
+            elem.innerHTML = `<img class="inline mt-0 mb-0 w-6 h-6" src="${weather['icon']}" ></img> ${place} it's currently ${weather['temp']}&deg;C and ${weather['descr']}`;
             statuses.push(elem)
 
             status['status'].forEach((status) => {
@@ -30,7 +42,42 @@ vicchi.now = (function () {
                 statuses.push(elem);
             });
             div.replaceChildren(...statuses);
+
+            var mapdiv = document.getElementById('checkin-map');
+            if (mapdiv !== null) {
+                const lng = checkin['location']['lng'];
+                const lat = checkin['location']['lat'];
+                const place = checkin['name'];
+                const timestamp = checkin['timestamp'];
+                const icon_url = checkin['icon'];
+
+                var point = L.latLng([lat, lng]);
+                var map = L.map('checkin-map', {
+                    zoomControl: false,
+                    doubleClickZoom: false,
+                    dragging: false,
+                    scrollWheelZoom: false
+                }).setView(point, 13);
+                var tiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                    subdomains: 'abcd',
+                    maxZoom: 20
+                }).addTo(map);
+                var scale = L.control.scale().addTo(map);
+                var icon = L.icon({
+                    iconUrl: icon_url,
+                    iconSize: [24, 24],
+                    className: 'push-pin'
+                });
+                var marker = L.marker(point, {icon: icon}).addTo(map);
+
+                var span = document.getElementById('checkin-place');
+                span.innerHTML = `${place}`;
+                span = document.getElementById('checkin-date');
+                span.innerHTML = `${timestamp}`;
+            }
         }
+
     };
 
     var musicnow = async function () {

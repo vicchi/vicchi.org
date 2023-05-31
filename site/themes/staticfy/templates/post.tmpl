@@ -7,7 +7,7 @@
 {% block content %}
 {% if post.meta('geo_place') %}
 <div class="w-fill pt-4" id="map-wrapper" data-geo-lng="{{ post.meta('geo_lng') }}" data-geo-lat="{{ post.meta('geo_lat') }}" data-geo-place="{{ post.meta('geo_place') }}">
-  <div class="max-f-full h-48" id="map"></div>
+  <div class="max-w-full h-48" id="map"></div>
   <p class="text-sm text-gray-500 dark:text-gray-100 text-center pb-8">
    Geotagged at {{ post.meta('geo_place') }} ({{ post.meta('geo_lat') }},{{ post.meta('geo_lng') }})
   </p>

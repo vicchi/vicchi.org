@@ -1,5 +1,9 @@
 {% extends 'base.tmpl' %}
 
+{% block headscripts %}
+  <link href="/assets/css/leaflet.css" rel="stylesheet" />
+{% endblock headscripts%}
+
 {% block content %}
 <div class="pt-12 prose dark:prose-invert hover:prose-a:text-blue-500 max-w-full">
     {% include "includes/right-now.tmpl" %}
@@ -11,6 +15,12 @@
         <p class="my-2">
             <span class="icon-inline mr-1">{{ 'world_map'|emojify }}</span>
             Hybrid working between home in South West London and the office in Central London
+        </p>
+    </div>
+    <div class="w-fill pt-4" id="checkin-wrapper">
+        <div class="max-w-full h-48" id="checkin-map"></div>
+        <p class="text-sm text-gray-500 dark:text-gray-100 text-center">
+            Last checked in at <span id="checkin-place"></span> on <span id="checkin-date"></span>
         </p>
     </div>
 
@@ -99,7 +109,11 @@
         <a href="https://nownownow.com/about">you should make one too</a>.
     </p>
 </div>
-{% endblock %}
+{% endblock content %}
+
+{% block postscripts %}
+<script type="module" src="/assets/js/leaflet.js"></script>
+{% endblock postscripts%}
 
 {% block loadscripts %}
 <script type="module" src="/assets/js/right-now.js"></script>
