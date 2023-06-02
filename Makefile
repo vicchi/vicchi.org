@@ -19,18 +19,15 @@ $(foreach var,$(ENVVARS),$(eval $(shell echo export $(var)="$($(var))")))
 
 .DEFAULT_GOAL := help
 
-# VERSION := $(shell cat ./VERSION)
-# COMMIT_HASH := $(shell git log -1 --pretty=format:"sha-%h")
-# ECR_REPO_ROOT := refdata
-
-# SEARCH_INDICES := refdata-${REFDATA_VERSION}-search-${MEILISEARCH_VERSION}
-# SEARCH_BUCKET := s3://kamma-data/reference-data-$(subst .,-,${REFDATA_VERSION})/search
-
-# BUILD_FLAGS ?= 
-
-SERVE_PORT := 8001
 ASSETS_DIR := site/themes/staticfy/assets
 
+ifeq (${ENVIRONMENT}, production)
+NIKOLA_CONFIG := conf.py
+THEME_CONFIG := config.js
+else
+NIKOLA_CONFIG := conf-local.py
+THEME_CONFIG := local.js
+endif
 
 .PHONY: help
 help: ## Show this help message
@@ -52,6 +49,7 @@ theme-images: src/images/* node_modules/leaflet/dist/images/*.png
 .PHONY: theme-scripts
 theme-scripts: node_modules/leaflet/dist/leaflet.js*
 	cp $? $(ASSETS_DIR)/js/
+	cp src/js/${THEME_CONFIG} $(ASSETS_DIR)/js/config.js
 
 .PHONY: theme-styles
 theme-styles: node_modules/leaflet/dist/*.css
@@ -68,7 +66,7 @@ clean: ## Clean everything
 
 .PHONY: site
 site:	## Build the site content
-	(cd site && nikola build)
+	(cd site && nikola build --conf=${NIKOLA_CONFIG})
 
 BUILD_TARGETS := theme site
 
@@ -77,7 +75,7 @@ build: $(BUILD_TARGETS) ## Build everything
 
 .PHONY: serve
 serve: build ## Build and locally serve the site
-	(cd site && nikola serve -p $(SERVE_PORT))
+	(cd site && nikola serve -p ${NIKOLA_PORT} --conf=${NIKOLA_CONFIG})
 
 .PHONY: deploy
 deploy: build	## Deploy to production

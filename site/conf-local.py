@@ -38,10 +38,10 @@ BLOG_AUTHOR = "Gary Gale"  # (translatable)
 BLOG_TITLE = "Gary Gale"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://www.vicchi.org/"
+SITE_URL = "http://hopper.vicchi.xyz:8001/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "https://www.vicchi.org/"
+BASE_URL = "http://hopper.vicchi.xyz:8001/"
 BLOG_EMAIL = "gary@vicchi.org"
 BLOG_DESCRIPTION = "Maps, Geospatial and Occasionally Technology, but Mostly Maps"  # (translatable)
 
