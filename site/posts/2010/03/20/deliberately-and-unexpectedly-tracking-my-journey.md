@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Park Inn, Nottingham
+geo_lng: -1.153335
+geo_lat: 52.970538
 
 I've been tracking my journey and in doing so inadvertently uncovered a sea change in the way in which we view the whole thorny issue of location tracking.
 
@@ -57,6 +60,7 @@ The value proposition of Google Latitude has always been in getting the consumer
 In the space of a year and with a different face, location tracking has gone from being Big Brother to being one of the hottest pieces of social networking with people at the recent SXSW in Austin TX actively complaining about check-in fatigue because there's so many of these services ([Foursquare![](https://i.ixnp.com/images/v6.23/t.gif)](https://foursquare.com/ "https://foursquare.com/"), [Gowalla![](https://i.ixnp.com/images/v6.23/t.gif)](https://gowalla.com/ "https://gowalla.com/"), [Loopt![](https://i.ixnp.com/images/v6.23/t.gif)](https://loopt.com/ "https://loopt.com/"), [Whrrl![](https://i.ixnp.com/images/v6.23/t.gif)](https://whrrl.com/ "https://whrrl.com/"), [Brightkite![](https://i.ixnp.com/images/v6.23/t.gif)](https://brightkite.com/ "https://brightkite.com/"), [Burbn![](https://i.ixnp.com/images/v6.23/t.gif)](https://burbn.com/ "https://burbn.com/"),[MyTown![](https://i.ixnp.com/images/v6.23/t.gif)](https://booyah.com/ "https://booyah.com/"), [CauseWorld![](https://i.ixnp.com/images/v6.23/t.gif)](https://causeworld.com/ "https://causeworld.com/"), [Hot Potato![](https://i.ixnp.com/images/v6.23/t.gif)](https://hotpotato.com/ "https://hotpotato.com/"), [Plancast](https://plancast.com/ "https://plancast.com/")) to choose from and trying to check into them all can take anything up to 10 minutes.
 
 If all of this talk on location tracking sounds interesting and you're in San Jose CA the week after next at O'Reilly's Where 2.0 locationfest can I strongly recommend that you check out the founder of mapme.at, fellow Brit [John McKerrell](https://twitter.com/mcknut "https://twitter.com/mcknut")'s session on [Why I Track My Location and You Should Too](https://en.oreilly.com/where2010/public/schedule/detail/11144 "https://en.oreilly.com/where2010/public/schedule/detail/11144"). As long as it doesn't clash with [my Where 2.0 session](https://en.oreilly.com/where2010/public/schedule/detail/13234 "https://en.oreilly.com/where2010/public/schedule/detail/13234") of course!
+
 Photo Credit: [moleitau](https://www.flickr.com/photos/blackbeltjones/3253226650/ "https://www.flickr.com/photos/blackbeltjones/3253226650/") on Flickr.
-Written at the Park Inn, Nottingham (52.970538, -1.153335) and posted from home (51.427051, -0.333344)
+
 
