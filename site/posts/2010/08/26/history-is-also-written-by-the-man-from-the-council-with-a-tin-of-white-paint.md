@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: the Nokia gate5 office in Berlin
+geo_lng: 13.38521
+geo_lat: 52.53105
 
 "*History is written by the victors*". So goes the saying attributed to Winston Churchill sometime during his reign as British Prime Minister. I'd like to offer up a corollary to that saying, which is "*History is also written by the man from the council with a tin of white paint*".
 
@@ -27,5 +30,4 @@ The Borough of Twickenham wasn't the only thing to vanish overnight in 1965, so 
 
 
 Photo Credits: [Gary Gale](https://www.flickr.com/photos/vicchi/4604163424/ "https://www.flickr.com/photos/vicchi/4604163424/") and [In Tea We Trust](https://www.flickr.com/photos/inteawetrust/3076255425/ "https://www.flickr.com/photos/inteawetrust/3076255425/") on Flickr.
-Written at the Radisson Blu hotel, Berlin (52.519648, 13.40258) and posted from the Nokia gate5 office in Berlin (52.53105, 13.38521)
 

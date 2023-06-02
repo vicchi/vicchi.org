@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 At the beginning of 2013 Google launched Google Maps Engine Lite, a simpler and easier to use version of their commercial Maps Engine, which was designed as a successor to Google's My Maps feature. In essence, My Maps and GME were web based, simplified GIS tools, allowing a user to create maps with overlays of their own data. Call it GIS for people who don't know about GIS if you will. Maybe GME never got the traction Google hoped for but they have now announced that GME will be shutting down in a year's time. What happens next for GME users and what alternatives are there? Who will benefit from the demise of GME?
 

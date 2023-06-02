@@ -8,8 +8,11 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Yahoo! London office
+geo_lng: -0.1292006
+geo_lat: 51.5141985
 
-This is a post about location (for a change); but it doesn't have to be about location as it's all about mistaking a vital element for the end game itself. I should explain.
+ This is a post about location (for a change); but it doesn't have to be about location as it's all about mistaking a vital element for the end game itself. I should explain.
 
 I recently got contacted by a gentleman in the US who was looking to register a lot of domain names, in a manner which recalled the rush to buy domain names in order to make a profit as the dot com boom rushed headlong to become the dot bomb bust and which resulted in the unlovely pass-time of domain squatting.
 
@@ -33,6 +36,7 @@ Let me count the number of ways that this reasoning holds a degree of water, how
 [![Disagreement](https://farm4.static.flickr.com/3441/3386360374_fc5162b25e_d.jpg)](https://www.flickr.com/photos/hypercatalecta/3386360374/ "Disagreement")
 
 However, let me also count the number of ways in which we differ significantly on the importance of the keywords "*geo*", "*lbs*" and "*lbms*" in domain names.
+
 * For the purposes of branding and marketing, a good domain name is still an essential facet of a company's digital engagement strategy. We're seeing a similar rush towards securing the *right* name on social networks such as Facebook and Twitter as we saw in the glory days of the .com boom, though by no means to the same degree and by no means as blindly headlong.
 * But for the purposes of informing the type of information a user is looking for location is a key context and not the end game in itself, indeed I'd be happy to see the LBS and LBMS acronyms go away as they focus attention far more on the technology and far less on the context, experience and results that a user craves.
 * A significant percentage of online users equate the browsers icon on their desktop with *the internet* (hence the longevity of Internet Explorer 6 as a dominant browser). In the same vein, their prime source of searching for information is frequently a search engine, which is typically their browser's home page.
@@ -44,6 +48,5 @@ However, let me also count the number of ways in which we differ significantly o
 So while the location industry may have embraced the terms *geo*, *location based service*, *location based mobile service* and their acronyms, these are vague and not well known outside of the industry, which is the target demographic. I can't see a need for use of the domain name system in this way.
 
 Location is a key context that informs the user and helps to provide relevance, it's not the end game both in function or in the names and terms that describe it. I think Ed Parsons, Google's Geotechnologist summed it up rather neatly when he recently described [location as equivalent to DNS](https://twitter.com/edparsons/status/8627348197 "https://twitter.com/edparsons/status/8627348197") ... "*normal people use it every day but they (don't have to understand it) or see it's value*" and I find the comparison to DNS particularly apt in this circumstance.
-Photo Credits: [hypercatalecta](https://www.flickr.com/photos/hypercatalecta/3386360374/ "https://www.flickr.com/photos/hypercatalecta/3386360374/") and [Werner Kunz](https://www.flickr.com/photos/werkunz/4439418835/ "https://www.flickr.com/photos/werkunz/4439418835/") on Flickr.
-Written at home (51.427051, -0.333344) and posted from the Yahoo! London office (51.5141985, -0.1292006)
 
+Photo Credits: [hypercatalecta](https://www.flickr.com/photos/hypercatalecta/3386360374/ "https://www.flickr.com/photos/hypercatalecta/3386360374/") and [Werner Kunz](https://www.flickr.com/photos/werkunz/4439418835/ "https://www.flickr.com/photos/werkunz/4439418835/") on Flickr.

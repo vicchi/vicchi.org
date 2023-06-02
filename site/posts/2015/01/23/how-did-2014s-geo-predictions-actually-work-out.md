@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 In January of 2014, Atanas Entchev from GeoHipster asked me to make [some predictions](https://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/ "https://geohipster.com/2013/12/31/what-will-be-hot-in-geo-in-2014-predictions-from-the-geohipster-crowd/") about where the maps, location and geo industry would go during the course of the year. That year has now passed, so I think it's time to revisit those predictions and see how inaccurate my crystal ball gazing really was.
 

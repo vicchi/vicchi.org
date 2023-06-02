@@ -17,7 +17,7 @@ But this wasn't quite enough for me; my main Mac is an iBook and that means I ac
 
 Maybe write is too strong a word; I found the script I needed almost verbatim on the [MacFixIt forums](https://www.macfixitforums.com/php/showflat.php?Board=tiger&Number=730956 "https://www.macfixitforums.com/php/showflat.php?Board=tiger&Number=730956"). All I needed to do was modify it to my own ends.
 
-Firstly I needed Apple's Script Editor, which lives in **/Applications/AppleScript**; then I was able to enter the following script.
+Firstly I needed Apple's Script Editor, which lives in `/Applications/AppleScript`; then I was able to enter the following script.
 
 
 
@@ -27,9 +27,9 @@ open location "smb://user:password@server/share"
 end tell
 ```
 
-A few words of explanation. Firstly the names have been changed to protect the innocent so I'm not using a real user name, server name or share name and I'm most definately *not* using a real password. Secondly the network volume I'm connecting to is on a machine running Fedora Core and which is made available to the network using Samba, hence the **smb:** part of the URI.
+A few words of explanation. Firstly the names have been changed to protect the innocent so I'm not using a real user name, server name or share name and I'm most definately *not* using a real password. Secondly the network volume I'm connecting to is on a machine running Fedora Core and which is made available to the network using Samba, hence the `smb:` part of the URI.
 
-I then saved the script somewhere meaningful; I keep a directory called **Scripts** which unsurprisingly contains scripts so that seemed as good a place as any. I also made sure that when saving the script I saved it as an application and not a script to prevent me being prompted whether I wanted the script to run each time I ran it, as well as ensuring that the *Run Only*, *Startup Screen* and *Stay Open* check boxes were deselected.
+I then saved the script somewhere meaningful; I keep a directory called `Scripts` which unsurprisingly contains scripts so that seemed as good a place as any. I also made sure that when saving the script I saved it as an application and not a script to prevent me being prompted whether I wanted the script to run each time I ran it, as well as ensuring that the *Run Only*, *Startup Screen* and *Stay Open* check boxes were deselected.
 
 Then it was a simple matter to run the script either from a Finder window or via Spotlight and my network volume mounted and was available.
 

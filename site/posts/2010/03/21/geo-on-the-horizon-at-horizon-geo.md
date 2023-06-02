@@ -71,6 +71,7 @@ The high point of the session was a recommendation to read [Paul Ohm's Broken Pr
 The final *can clouds be authoritative* session started aptly withe a quote from Wikipedia and paired Muki Haklay from University College London against Glen Hart from the Ordnance Survey. Whilst the pairing may have been unintentional, following a strong proponent of the crowd sourced OpenStreetMap with a pointed, if tongue in cheek, talk from the OS made comparisons difficult to avoid. Stephen Feldman's [write up of the day](https://giscussions.blogspot.com/2010/03/few-bhps-on-horizon.html "https://giscussions.blogspot.com/2010/03/few-bhps-on-horizon.html") has more insight on this final session and is well worth a read.
 
 Acronym of the day goes to BHP, which left the audience looking perplexed until it was revealed as a Bloody Hard Problem. Days like this are essential to draw academia away from a pure research perspective and to get representatives of commercial organisations and academia talking on common ground ... that in itself is a BHP which Horizon goes a long way towards solving.
+
 Photo Credits: [basiijonez](https://www.flickr.com/photos/basil_j/4430594002/ "https://www.flickr.com/photos/basil_j/4430594002/"), [ians](https://www.flickr.com/photos/ian-s/2152798588/ "https://www.flickr.com/photos/ian-s/2152798588/") and [Martin Whitmore](https://www.flickr.com/photos/rustychainsaw/4185729548/ "https://www.flickr.com/photos/rustychainsaw/4185729548/") on Flickr.
 
 

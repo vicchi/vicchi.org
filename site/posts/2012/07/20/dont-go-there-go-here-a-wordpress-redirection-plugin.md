@@ -8,6 +8,10 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
+
 
 Despite having written 5 plugins for WordPress I've only just scratched the surface of what it's possible to make WordPress do. So when I want to make WordPress do something that I'm not sure a) how to do and b) whether it's even possible or not, I turn to a search engine. More often than not I get an answer. Often that answer seems to start along the lines of
 

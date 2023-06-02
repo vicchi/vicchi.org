@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 This week the <a href="https://geobusinessshow.com/" target="_blank">GeoBusiness</a> conference took place in London and as far as geo-themed conferences go it was a broad themed and mixed bag of an event. GIS was heavily represented as was the BIM element of this geo-discipline. The collection of raw data was a prevailing theme on the exhibition booths with drones aplenty and LIDAR cars out in the car park of the Business Design Centre. Thankfully the data and web driven part of the industry was also represented and I played my part by giving a talk.
 

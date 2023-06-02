@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: British Airways Lounge, Heathrow
+geo_lng: -0.48726
+geo_lat: 51.47286
 
 Last week I was in San Francisco, ostensibly to meet with fellow Nokians in Mountain View and Palo Alto, the homes of Google and Stanford University respectively. But I was also there to take part in a panel on the topic of "is geo loco a business or a feature?" at the [Geo-Loco](https://geoloco.tv/ "https://geoloco.tv/") conference, chaired by *geo-eminence grise* Marc Prioleau.
 
@@ -62,6 +65,6 @@ Proximity will become a critical filter for content.
 
 
 Well yes, duuh, but isn't this already happening? Either through our own efforts to obtain relevancy, through constraining search queries to locations or through localised services. The question should really be *"automatic, meaningful, proximity will become a key context for content*" as there's no relevancy obtained by automatically constraining results to a local area when what you're really looking for is information on your next vacation destination.
+
 Photo Credits: [Ken Yeung](https://www.flickr.com/photos/kyeung808/4820451850/ "https://www.flickr.com/photos/kyeung808/4820451850/") on Flickr.
-Written at the London Heathrow BA Lounge (51.47286, -0.48726) and posted from the Radisson Blu hotel, Berlin (52.519648, 13.40258)
 

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 So farewell Sir Terry Pratchett. Since I first read [The Colour Of Magic](https://en.wikipedia.org/wiki/The_Colour_of_Magic "https://en.wikipedia.org/wiki/The_Colour_of_Magic") in 1983 you made me smile, you made me laugh out loud and above all, you always made me think.
 

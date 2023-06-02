@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Somewhere around 1510 what is now known as the [Lenox Globe](https://en.wikipedia.org/wiki/Hunt-Lenox_Globe "https://en.wikipedia.org/wiki/Hunt-Lenox_Globe") was made. Apart from being either the second or third oldest globe in existence, the Lenox Globe is infamous for the first appearance of the Latin Phrase *HIC SVNT DRACONES*, which is today loosely translated as *here be dragons*. This is probably not a reference to the precise location of dragons, but is thought to be a reference to the Kingdom of Dragoian in Sumatra which was noted by Marco Polo during his travels. Nowadays the phrase is commonly taken to mean "here is stuff we don't know about or which hasn't happened yet".
 

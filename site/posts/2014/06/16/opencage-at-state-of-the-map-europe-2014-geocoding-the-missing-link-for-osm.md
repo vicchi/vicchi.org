@@ -15,30 +15,7 @@ The first day of the conference was spent in the lobby, drinking lots of the afo
 
 Of all which meant I could enjoy the second day of the conference and actually listen to the talks until 4.30 in the afternoon when I took to the stage and gave this talk, which was filmed and put up on YouTube.
 
-
-
-.embed-container {
- position: relative;
- padding-bottom: 56.25%;
- height: 0;
- overflow: hidden;
- max-width: 100%;
- height: auto;
-}
-.embed-container iframe, .embed-container object, .embed-container embed {
- position: absolute;
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
- }
-
-
-
-
-
-
-
+<!-- TEASER_END -->
 
 If you prefer to read an account of the talk and the launch of the OpenCage Geocoder, you'll find my slides and commentary below.
 

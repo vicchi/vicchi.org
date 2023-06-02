@@ -31,6 +31,7 @@ I recently contributed an article to the [OpenGeoData](https://opengeodata.org/ 
 [![Sofa im Regen](https://farm1.static.flickr.com/155/386564914_a2a7a84abb_d.jpg)](https://www.flickr.com/photos/helge_kroeger/386564914/ "Sofa im Regen")
 
 ... the [rest of the article is on the OpenGeoData blog](https://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob "https://opengeodata.org/eddys-sofa-and-the-nightmare-of-a-single-glob").
+
 Photo Credits: [Hell-G](https://www.flickr.com/photos/helge_kroeger/386564914/ "https://www.flickr.com/photos/helge_kroeger/386564914/") on Flickr.
 
 

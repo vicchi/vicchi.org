@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Last month, in response to the news that Uber had acquired LBS platform provider deCarta, Marc Prioleau penned an article asking [is this the start of a mapping war](https://prioleauadv.com/archives/598 "https://prioleauadv.com/archives/598")?
 

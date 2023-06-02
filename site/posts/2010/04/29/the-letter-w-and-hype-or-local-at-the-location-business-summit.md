@@ -38,6 +38,7 @@ The ***when*** is the [gnarly problem of temporality](/2010/03/17/phi-lambda-and
 Then finally there's the ***what***; a reference to a place in intrinsically bound to it's granularity. References to London from outside of the United Kingdom are frequently aimed at the non specific London bounded by the M25 orbital motorway. Zoom in and London becomes Greater London, and then the London Boroughs and finally the City of London and neighbouring City of Westminster.
 
 The strong reaction to these twin memes makes me think that we'll be seeing these topics continue to raise their heads until we're able to find work arounds or solutions.
+
 Photo Credits: [Nad](https://www.flickr.com/photos/nad/386051891/ "https://www.flickr.com/photos/nad/386051891/") on Flickr.
 
 

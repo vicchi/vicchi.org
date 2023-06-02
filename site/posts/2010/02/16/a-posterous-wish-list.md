@@ -8,7 +8,9 @@ description:
 type: text
 has_math: no
 status: published
-
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 
 I've been using [Posterous](https://posterous.com/ "https://posterous.com/") for a while now, a quick trawl back through the archives shows the first post I wrote via the service was in [August 2009](/2009/08/27/rush-hour-cozy-ness/ "/2009/08/27/rush-hour-cozy-ness/"), and I've been using it ever since.
@@ -32,15 +34,6 @@ Attach a photo to a (rich text) mail, centre it, post it and the photo is displa
 Posterous provides URL shortening via the post.ly service, which doesn't allow per account click tracking or other reporting such as that which [bit.ly](https://bit.ly/ "https://bit.ly/") provides. Not that URL shortening by either is ideal and we should really be using [canonical links](https://revcanonical.appspot.com/ "https://revcanonical.appspot.com/") via rev="canonical".
 
 [![](https://posterous.com/getfile/files.posterous.com/vicchi/hvEyZAT6DuXwJpju21ZzE2KrxwP8y36GyljwbAg083NZkvX6j0hCNElhb6F5/Manage.jpg.scaled.500.jpg)](https://posterous.com/getfile/files.posterous.com/vicchi/egxbS1lE9OvdfmJ7qdlLQQEC8ROwTtos2UUkcZnk7cczTanEogRcQaRhwRcV/Manage.jpg.scaled.1000.jpg "https://posterous.com/getfile/files.posterous.com/vicchi/egxbS1lE9OvdfmJ7qdlLQQEC8ROwTtos2UUkcZnk7cczTanEogRcQaRhwRcV/Manage.jpg.scaled.1000.jpg")
+
 And then there's autopost itself; it's an all or nothing feature. So please, turn it off by default if I edit a post in Posterous I do not want to auto(re)post it, thus creating a duplicate blog post on my WordPress post and let me select on a per post basis whether I want to autopost or not.
 All of the above needs to be tempered with the fact that Posterous is i) free, ii) incredibly responsive, iii) free and iv) free ... it could just be so much better if these minor niggles went away.
-
-
-Written and posted from home (51.427051, -0.333344)
-
-
-[Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/a-posterous-wish-list "https://vicchi.posterous.com/a-posterous-wish-list")
-
-
-
-

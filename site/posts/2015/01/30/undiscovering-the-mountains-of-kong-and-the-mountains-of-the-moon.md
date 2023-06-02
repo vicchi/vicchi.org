@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Quick, take a look at this map. There's something wrong with it. It's a map of the coast of West Africa dating from 1839. Compared with modern maps, a few things have changed. Senegambia was the French controlled Senegal and the British controlled Gambia, Soudan is today's Sudan and Upper Guinea is part of today's Guinea. But that's not what's wrong with this map. Take a closer look. 
 

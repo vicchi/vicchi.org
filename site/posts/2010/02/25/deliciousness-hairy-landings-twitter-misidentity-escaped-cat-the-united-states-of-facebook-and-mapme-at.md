@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 The latest batch of social bookmarks from my [Delicious stream](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi"):
 
@@ -17,9 +20,3 @@ The latest batch of social bookmarks from my [Delicious stream](https://www.deli
 * Geek Joke of the Week: [My cat is escaped](https://geekandpoke.typepad.com/geekandpoke/2010/02/the-geek-joke-of-the-week.html "https://geekandpoke.typepad.com/geekandpoke/2010/02/the-geek-joke-of-the-week.html").
 * Pacifica, Stayathomia, Socalistan ... Facebook [social network connections](https://www.mcwetboy.net/maproom/2010/02/mapping_faceboo.php "https://www.mcwetboy.net/maproom/2010/02/mapping_faceboo.php") mapped.
 * [John McKerrell](https://twitter.com/mcknut "https://twitter.com/mcknut")'s rather wonderful [mapme.at](https://mapme.at/ "https://mapme.at/") gets [place based locating](https://blog.mapme.at/2010/02/19/place-based-locating/ "https://blog.mapme.at/2010/02/19/place-based-locating/").
-
-
-Written and posted from home (51.427051, -0.333344)
-
-
-

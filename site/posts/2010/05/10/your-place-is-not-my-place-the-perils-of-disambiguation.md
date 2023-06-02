@@ -55,6 +55,7 @@ Oh dear. The "*London, United Kingdom*" still shows up but because I've put a sp
 *Your place is not my place.*
 
 To be fair, I'm not singling wefollow.com out for attack here; this is just one of many examples of sites who try to use geographic lookup but end up making life difficult for their users (*but which London do I pick?*) and for themselves (*now, how many users in London in the UK do we have?*). I'd happily offer to help them; if only I could find any contact information anywhere on the site ...
+
 Photo Credits: [foilman](https://www.flickr.com/photos/foilman/2803261256/ "https://www.flickr.com/photos/foilman/2803261256/") on Flickr.
 
 

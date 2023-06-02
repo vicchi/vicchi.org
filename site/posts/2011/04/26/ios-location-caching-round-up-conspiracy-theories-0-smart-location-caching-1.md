@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: the Nokia gate5 office in Schönhauser Allee, Berlin
+geo_lng: 13.4108176
+geo_lat: 52.5308072
 
 More a [meta](https://en.wikipedia.org/wiki/Meta "https://en.wikipedia.org/wiki/Meta") post, or what [Kuro5hin](https://www.kuro5hin.org/section/mlp "https://www.kuro5hin.org/section/mlp") would have called MLP (meaningless link propagation), this post started out as a comment to one of my [previous](/2011/04/21/ios-location-tracking-gross-invasion-of-privacy-or-media-sensationalism/ "/2011/04/21/ios-location-tracking-gross-invasion-of-privacy-or-media-sensationalism/") [posts](/2011/04/23/locations-ick-factor-first-ios-and-now-android/ "/2011/04/23/locations-ick-factor-first-ios-and-now-android/") on the iOS location caching controversy but soon expanded way beyond a comment into a full blown post.
 
@@ -74,6 +77,5 @@ Of course, this information still has personal value and should really be secure
 
 
 Photo Credits: [Álvaro Ibáñez](https://www.flickr.com/photos/alvy/77598074/ "https://www.flickr.com/photos/alvy/77598074/") and [Tom Jervis](https://www.flickr.com/photos/89775718@N00/409123718/ "https://www.flickr.com/photos/89775718@N00/409123718/") on Flickr.
-Written at home (51.427051, -0.333344) and posted from the Nokia gate5 office in Schönhauser Allee, Berlin (52.5308072, 13.4108176)
 
 

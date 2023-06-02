@@ -34,6 +34,7 @@ If you generalise software out to the slightly more generic terms ofservice or p
 [![Korean unisex toilet?](https://farm1.static.flickr.com/39/83732757_866609a35c_d.jpg)](https://www.flickr.com/photos/wili/83732757/ "Korean unisex toilet?")
 
 This is especially interesting when you look at the success (to date at least) of ventures in the social space, such as Facebook, Twitter and Foursquare. What else are these is not an online way of saying "look at me, here I am, this is what I'm doing" and in doing so generating a vast sea of highly localised and personalised data into the bargain?
+
 Photo Credits: [wili\_hybrid](https://www.flickr.com/photos/wili/83732757/ "https://www.flickr.com/photos/wili/83732757/") on Flickr.
 
 

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 
 Once again, this is not the post I set out to write. The one I set out to write was called "In Search of Location's Sweet Spot" and it's sitting in draft and not yet posted. That's because before I can submit that post I need to write this one as a warm up act.
@@ -18,6 +21,7 @@ Just like [Anne Elk (Miss)](https://en.wikipedia.org/wiki/Anne_Elk's_Theory_on_
 <!-- TEASER_END -->
 
 On the far left hand side we have the *stuff* bucket. Whilst *stuff* may sound vague, it's entirely intentional. *Stuff* is defined as a collection or set of items, things or matter. Though I was focussing primarily on location data and location based mobile services, this applies equally well to other businesses and markets. It could be stock, inventory, left handed widgets or a plethora of other things.
+
 On the far right hand side we have *people* bucket. The exact number of people doesn't matter, for small businesses the number will probably be small and for large businesses the number will be, err, larger. These people are your customers, your audience. Hopefully they have money as well.
 And then in the middle we have the *secret sauce* bucket. Again, it doesn't matter what this ***is*** but it's very important to look at what the secret sauce actually ***does***.
 
@@ -28,10 +32,5 @@ And then in the middle we have the *secret sauce* bucket. Again, it doesn't matt
 
 
 In order for your business to succeed, you need to have all three of these buckets in place. Have people and secret sauce but no stuff? Fail. Have stuff and secret sauce but no people? Fail. You get the idea.
+
 Take a look at every business that is succeeding, especially those that are online and where the stuff bucket contains data, and you'll see that they have all three buckets in place. Take a look at those businesses which have failed or are failing, especially those that are online, and you either see one bucket missing or there's just not enough of it.
-Written and posted from home (51.427051, -0.333344)
-[Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/the-theory-of-stuff "https://vicchi.posterous.com/the-theory-of-stuff")
-
-
-
-

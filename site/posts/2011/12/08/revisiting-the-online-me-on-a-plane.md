@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Virgin America flight VX837, between Chicago O'Hare and San Francisco International airports, roundabout overhead Maryville, MO
+geo_lng:-94.873
+geo_lat: 40.347
 
 Although I fly a lot these days, I don't fly on internal routes in the US that much and so flying Virgin America, which has onboard wifi, is still something that brings out the childish geek in me. In [homage to a certain Mr. Aaron Cope](https://www.aaronland.info/weblog/2011/04/02/status/#mw2011 "https://www.aaronland.info/weblog/2011/04/02/status/#mw2011"), once again I am *in the sky* as I write this and starting to think that maybe I will only write blog posts from airplanes from now on.
 

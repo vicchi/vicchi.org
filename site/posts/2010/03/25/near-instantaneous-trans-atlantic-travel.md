@@ -9,8 +9,9 @@ type: text
 has_math: no
 status: published
 geo_place:  Yahoo! campus, Sunnyvale, California
-geo_lng: -0.1287317
-geo_lat: 51.5143913
+geo_lat: 37.41454057942429
+geo_lng: -122.02433008921975
+
 
 I've been tracking my journeys again and in doing so appear to have discovered the secret of near instantaneous trans Atlantic travel. Apart from the sporadic bad GPS locks, watch as I travel from home to the Yahoo! campus in Sunnyvale California and manage to travel from Heathrow to San Francisco in a blink of an eye.
 

@@ -52,6 +52,7 @@ So to Heisenberg's [Uncertainty Principle](https://www.bbc.co.uk/dna/h2g2/A40863
 [Atlas Obscura](https://atlasobscura.com/ "https://atlasobscura.com/") - Curious and Wonderful Travel Destinations, A Compendium of the World's Wonders, Curiosities and Esoterica - Not strictly maps related but an online atlas of the weird and wonderful that's around the world. Punch in your home city or area and be amazed.
 
 Know of any more that should be in my (not dead yet) RSS feed? The comments would be a good place to let me know, you know.
+
 Photo Credits: [pixn8tr](https://www.flickr.com/photos/jentastic/2004653333/ "https://www.flickr.com/photos/jentastic/2004653333/") and [Justin Masterson](https://www.flickr.com/photos/justinmasterson/2369112275/ "https://www.flickr.com/photos/justinmasterson/2369112275/") on Flickr.
 
 

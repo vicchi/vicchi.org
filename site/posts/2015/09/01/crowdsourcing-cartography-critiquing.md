@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Even if you're not a cartographer, when you first see a map there's almost always a gut feel for whether you like a map or whether you don't. Critiquing a map is a deeply subjective thing. You may not know why you like a map but you can tell whether the map's cartography works or it doesn't work, for you at least.
 

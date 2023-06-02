@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 I [recently wrote](/2010/02/12/location-is-a-key-context-but-most-people-dont-know-this/ "/2010/02/12/location-is-a-key-context-but-most-people-dont-know-this/") about [echoecho](https://echoecho.me/ "https://echoecho.me/"), an SMS based location sharing service and rather dismissed it as another PlayTxt or DodgeBall, both of which are now shuttered, and argued that EchoEcho fails my [Theory of Stuff](/2010/02/01/the-theory-of-stuff/ "/2010/02/01/the-theory-of-stuff/").
 
@@ -37,5 +40,4 @@ All of the above has shown that there's a need for at least one caveat to the Th
 But there is definitely something clever going on under the hood, a bi-directional open API location sharing service. It's that platform that echoecho is built on top of and it's that platform that I'm going to be watching very closely indeed to see what comes out of Purpose Wireless. And of course I'll be looking to apply the Theory of Stuff to that offering.
 
 Photo credits: [katachthonios](https://www.flickr.com/photos/hades/3500036416/ "https://www.flickr.com/photos/hades/3500036416/") and [sayzey](https://www.flickr.com/photos/sayzey/1352131037/ "https://www.flickr.com/photos/sayzey/1352131037/") on Flickr.
-Written and posted from home (51.427051, -0.333344)
 

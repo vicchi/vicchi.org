@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Yahoo! London office
+geo_lng: -0.1292006
+geo_lat: 51.5141985
 
 I've never run or hosted my own search engine. I've run and hosted web servers, mail servers, proxy servers and caching servers (I'm even contemplating running my own URL shortener), but never a search engine. There was a time when I ran an enterprise instance of Alta Vista back when I coded for a living and was part of the team building [Factiva.com](https://factiva.com "https://factiva.com"), but that doesn't count.
 
@@ -28,7 +31,3 @@ Sadly, it looks like despite the ease of blogging that Posterous offers, there i
 And with profuse apologies for the overuse of alliteration in this post.
 
 Photo Credit: [I Bought a Mac](https://www.flickr.com/photos/iboughtamac/3008771832/ "https://www.flickr.com/photos/iboughtamac/3008771832/") on Flickr.
-Written at home (51.427051, -0.333344) and posted from the Yahoo! London office (51.5141985, -0.1292006)
-
-
-

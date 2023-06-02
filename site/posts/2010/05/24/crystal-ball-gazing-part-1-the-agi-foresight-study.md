@@ -45,6 +45,7 @@ Secondly, I have a slight issue with the phrase *geospatial industry* which, to 
 So rather than not participating I chose to conveniently ignore the spatial specialisation an instead, attempt to play pin the tail on the (geo)donkey instead with the following paper submission:
 
 [AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit](https://www.scribd.com/doc/31868256/AGI-Foresight-Study-Teaching-Human-Geography-to-the-Internet-Gary-Gale-Scribd-Edit "View AGI Foresight Study - Teaching Human Geography to the Internet (Gary Gale) Scribd Edit on Scribd") 
+
 Photo Credits: [pasukaru76](https://www.flickr.com/photos/pasukaru76/3998273279/ "https://www.flickr.com/photos/pasukaru76/3998273279/") and [archiemcphee](https://www.flickr.com/photos/archiemcpheeonline/3466207133/ "https://www.flickr.com/photos/archiemcpheeonline/3466207133/") on Flickr.
 
 

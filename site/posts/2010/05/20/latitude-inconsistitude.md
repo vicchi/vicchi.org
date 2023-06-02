@@ -45,6 +45,7 @@ There's a lot of inconsistency here.
 One of the criticisms that was levelled at Fire Eagle was lack of a definitive consumer application at launch; a not unfair criticism. Latitude's taken the inverse approach, launching with a consumer application and then opening up an API almost a year later.
 
 Time will tell which of these two location sharing platforms will dominate or whether they will be usurped by another unseen contender.
+
 Photo Credits: [moleitau](https://www.flickr.com/photos/blackbeltjones/3253226650/ "https://www.flickr.com/photos/blackbeltjones/3253226650/") on Flickr.
 
 

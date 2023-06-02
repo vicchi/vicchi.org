@@ -34,6 +34,7 @@ The ***when*** is the [gnarly problem of temporality](/2010/03/17/phi-lambda-and
 Then finally there's the ***what*** and again, this manifests in two ways. Firstly we need to recognise that places aren't only spelt differently but they're said differently and "New Or***le***ans" and "***Noor***lans" are one and the same place. Secondly a reference to a place in intrinsically bound to it's granularity. References to London from outside of the United Kingdom are frequently aimed at the non specific London bounded by the M25 orbital motorway. Zoom in and London becomes Greater London, and then the London Boroughs.
 
 We're so close to completing the ***where*** of geo, we've only just touched on the ***when*** and the ***what*** remains uncharted territory. And that last pun was fully intentional.
+
 Photo Credits: The [Norman. B. Leventhal Map Center](https://www.flickr.com/photos/normanbleventhalmapcenter/2674855383/ "https://www.flickr.com/photos/normanbleventhalmapcenter/2674855383/"), [wokka](https://www.flickr.com/photos/wokka/270124789/ "https://www.flickr.com/photos/wokka/270124789/") and [Thurrock Phil](https://www.flickr.com/photos/phils_photos/2312562929/ "https://www.flickr.com/photos/phils_photos/2312562929/") on Flickr.
 
 

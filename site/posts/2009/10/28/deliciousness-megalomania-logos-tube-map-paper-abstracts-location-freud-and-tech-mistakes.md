@@ -10,6 +10,7 @@ has_math: no
 status: published
 
 It's been a while but odd, weird and even occasionally interesting stuff continues to fall down the back of the internet and gets captured in [Delicious](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi") along the way. Here's the pick of the last few weeks.
+
 * Today I was caught red handed trying to [blow up the world](https://img12.yfrog.com/i/89gpd.jpg/ "https://img12.yfrog.com/i/89gpd.jpg/") ... *mwah hah hah hah*.
 * A well known Irish budget airline found that its blue and yellow "*harp*" logo had suffered an, unasked for, [logo makeover](https://www.b3tards.com/u/976e0482d5f7b8a53847/nothing-for-nothing.jpg "https://www.b3tards.com/u/976e0482d5f7b8a53847/nothing-for-nothing.jpg").
 * The London Underground Tube map regains the River Thames and gets a [version for tourists](https://i538.photobucket.com/albums/ff347/neris_k/LUmapcopy.jpg "https://i538.photobucket.com/albums/ff347/neris_k/LUmapcopy.jpg").

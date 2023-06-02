@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Yahoo! London office
+geo_lng: -0.1292006
+geo_lat: 51.5141985
 
 Hyperlinks in the form of web links are the lifeblood of today's internet and world wide web. Examination of your web server's log files, either directly via tools such as [Webalizer](https://www.mrunix.net/webalizer/ "https://www.mrunix.net/webalizer/") or indirectly via analytics services such as [Yahoo's](https://web.analytics.yahoo.com/ "https://web.analytics.yahoo.com/") or [Google's](https://www.google.com/analytics "https://www.google.com/analytics") can show you who's visiting your web site or blogs.
 
@@ -30,7 +33,3 @@ Working for Yahoo! and working with people such as Chris, who understands how th
 So now not only do I know who's visiting my sites but also who's linked to them, by using [Google's Blog Search](https://blogsearch.google.com/blogsearch?hl=en&scoring=d&q=link:/&ie=ISO-8859-1&num=10 "https://blogsearch.google.com/blogsearch?hl=en&scoring=d&q=link:/&ie=ISO-8859-1&num=10") and synching that through [Google Reader](https://www.google.com/reader/ "https://www.google.com/reader/") to [NetNewsWire](https://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/ "https://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/"), my RSS reader on my laptop. The moment someone links to me and that gets picked up by Google's spider, I get an alert. Of course, this doesn't cover all eventualities but it's always a good thing to have more than one source of information, especially when that comes for free.
 
 [![NetNewsWire](/wp-content/uploads/2010/03/NetNewsWire.jpg "NetNewsWire")](/wp-content/uploads/2010/03/NetNewsWire.jpg "/wp-content/uploads/2010/03/NetNewsWire.jpg")
-
-
-Written at home (51.427051, -0.333344) and posted from the Yahoo! London office (51.5141985, -0.1292006)
-

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Today's [social bookmarking deliciousness](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi"), from down the back of the internet.
 
@@ -21,7 +24,3 @@ Today's [social bookmarking deliciousness](https://www.delicious.com/vicchi "htt
 * What's happens in Vegas stays in Vegas; but [sometimes it stays on FourSquare](https://statusthis.com/2010/02/what-happens-on-foursquare/ "https://statusthis.com/2010/02/what-happens-on-foursquare/") as well.
 * Photo of the year so far; the Space Shuttle Endeavour, [caught in silhouette](https://www.nasa.gov/multimedia/imagegallery/image_feature_1592.html "https://www.nasa.gov/multimedia/imagegallery/image_feature_1592.html") from the International Space Station. That phrase alone sounds like it's been lifted wholesale from an Arthur. C. Clarke novel.
 * ˙[uʍop ǝpısdn](https://www.sevenwires.com/play/UpsideDownLetters.html "https://www.sevenwires.com/play/UpsideDownLetters.html") ǝdʎʇ oʇ pǝǝu noʎ 'sǝɯıʇǝɯos ʇsnɾ 'sǝɯıʇǝɯos
-
-
-Written and posted from home (51.427051, -0.333344)
-

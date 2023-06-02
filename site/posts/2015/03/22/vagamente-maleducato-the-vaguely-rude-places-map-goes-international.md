@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 When I first made the [Vaguely Rude Places Map](https://maps.geotastic.org/vaguely-rude-places/index.html "https://maps.geotastic.org/vaguely-rude-places/index.html") in February of 2013 I had no idea what was going to happen. Since then it's gone [viral](/2013/02/06/ooh-that-sounds-rude-mapping-british-innuendo/ "/2013/02/06/ooh-that-sounds-rude-mapping-british-innuendo/") multiple times, been the subject of [three](/2013/04/26/how-a-map-can-go-viral/ "/2013/04/26/how-a-map-can-go-viral/") [conference](/2013/09/07/i-am-not-at-state-of-the-map-2013/ "/2013/09/07/i-am-not-at-state-of-the-map-2013/") [talks](https://geomobldn.org/post/75798786317/what-happened-when-geomob-went-to-bangalore "https://geomobldn.org/post/75798786317/what-happened-when-geomob-went-to-bangalore"), talked about on two radio stations, been covered in loads of [newspapers](/2013/02/11/the-internet-seems-to-like-the-combination-of-maps-and-innuendo/ "/2013/02/11/the-internet-seems-to-like-the-combination-of-maps-and-innuendo/") and viewed millions of times. I still find it wryly amusing that the most successful map I've made to date has had nothing to do with my day job.
 

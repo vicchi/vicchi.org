@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 In 2014 I made some GeoHipster [predictions](/2014/01/04/gazing-into-the-geo-crystal-ball-for-2014/ "/2014/01/04/gazing-into-the-geo-crystal-ball-for-2014/") for the then coming year for the geo industry. As far as crystal ball gazing is concerned I didn't think [I did too badly](/2015/01/23/how-did-2014s-geo-predictions-actually-work-out/ "/2015/01/23/how-did-2014s-geo-predictions-actually-work-out/"), though some people disagreed. This year GeoHipster has done it again and I've made some more predictions. The [whole list of predictions is online](https://geohipster.com/2014/12/27/will-hot-geo-2015-predictions-geohipster-crowd/ "https://geohipster.com/2014/12/27/will-hot-geo-2015-predictions-geohipster-crowd/") and it's well worth reading.
 

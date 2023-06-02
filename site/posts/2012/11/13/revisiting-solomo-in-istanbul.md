@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: ICMA SoLoMo in Istanbul, Turkey
+geo_lng: 29.00989
+geo_lat: 41.06402
 
 If any industry sector is uniquely poised to benefit from the triumvirate of social, local and mobile, it's the classified listings industry. The [last time I spoke about whether do embrace SoLoMo or just embrace social, local and mobile](/2012/06/12/solomo-or-just-social-local-and-mobile/ "/2012/06/12/solomo-or-just-social-local-and-mobile/") I cautioned against the *tick in the box* approach and against adopting new technologies just because you're exhorted to.
 
@@ -49,9 +52,7 @@ I'm still equally strongly of the belief that SoLoMo, even if it does have a man
 As usual, the slides from my talk, which will be just a tad familiar to anyone who read my [last SoLoMo post](/2012/06/12/solomo-or-just-social-local-and-mobile/ "/2012/06/12/solomo-or-just-social-local-and-mobile/"), are below and my deck notes follow after the break.
 
 
-
-[scribd id=113080713 key=key-1tr8s6lysr71tcss8g53 mode=scroll]
-
+<iframe class="scribd_iframe_embed" title="Social, Local and Mobile? Definitely.SoLoMo? Maybe Not." src="https://www.scribd.com/embeds/113080713/content?start_page=1&view_mode=scroll&access_key=key-1tr8s6lysr71tcss8g53" tabindex="0" data-auto-height="true" data-aspect-ratio="1.3323485967503692" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View Social, Local and Mobile? Definitely.SoLoMo? Maybe Not. on Scribd" href="https://www.scribd.com/document/113080713/Social-Local-and-Mobile-Definitely-SoLoMo-Maybe-Not#from_embed"  style="text-decoration: underline;">Social, Local and Mobile? D...</a> by <a title="View GaryGale's profile on Scribd" href="https://www.scribd.com/user/27998789/GaryGale#from_embed"  style="text-decoration: underline;">GaryGale</a></p>
 
 **Slide 2**
 So, hello, I’m Gary and I’m from the Internet. I’m a self-confessed map addict, a geo-technologist and a geographer. I’m Director of Web & Community for Nokia’s Location and Commerce group. Prior to Nokia I led Yahoo’s Geotechnologies group in the United Kingdom. I’m a founder of the Location Forum, a co-founder of WhereCamp EU, I sit on the Council for the AGI, the UK’s Association for Geographic Information, I’m the chair of the W3G conference and I’m also a Fellow of the Royal Geographical Society.

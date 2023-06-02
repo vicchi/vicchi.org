@@ -24,10 +24,4 @@ Until you squeeze it ...
 
 ![09-06-06_1613.jpg](/wp-content/uploads/2006/06/09-06-06_1613.jpg)
 
-How can something so wrong be so compelling? This [video clip](https://www.youtube.com/watch?v=zoQKQqN28IQ "https://www.youtube.com/watch?v=zoQKQqN28IQ")  demonstrates better than words ever can.Merci bien Roland!
-
-
-
-
-
-
+How can something so wrong be so compelling? This [video clip](https://www.youtube.com/watch?v=zoQKQqN28IQ "https://www.youtube.com/watch?v=zoQKQqN28IQ")  demonstrates better than words ever can. Merci bien Roland!

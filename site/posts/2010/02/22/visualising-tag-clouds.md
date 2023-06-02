@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 If you haven't played with [Wordle](https://www.wordle.net/ "https://www.wordle.net/") yet, I strongly suggest you point your browser of choice there right now and see what gorgeous visualisations of tags it comes up with. This is my [delicious](https://www.delicious.com/vicchi "https://www.delicious.com/vicchi") tag cloud ...
 
@@ -22,8 +25,3 @@ If you haven't played with [Wordle](https://www.wordle.net/ "https://www.wordle.
 [![Playing with tag clouds: https://www.ygeoblog.com/](https://farm5.static.flickr.com/4014/4378413051_3924eb3e6b.jpg)](https://www.flickr.com/photos/vicchi/4378413051/ "Playing with tag clouds: https://www.ygeoblog.com/")
 
 All of which were produced using the default settings, with no tweaking, shows just how varied my personal approach to tagging is and how strongly tied to usage my tags are.
-
-Written and posted from home (51.427051, -0.333344)
-
-
-

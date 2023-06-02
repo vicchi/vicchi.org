@@ -17,10 +17,15 @@ But this year in Stratford-upon-Avon something brave, intriguing and altogether 
 <!-- TEASER_END -->
 
 ![](https://posterous.com/getfile/files.posterous.com/vicchi/zl4wqcQc6MhrAgQM7LdXfADClSL3AuXm3gNtifnaE3qa6RVU1IrorG1Gd76i/the-agi09-geocommunity-logo.gif)
+
 ***AGI GeoCommunity '09 - 'Realising the Value of Place'***
+
 *September 23rd - 24th 2009, Holiday Inn, Stratford-upon-Avon, UK*
+
 True, the big names and the big players of the overall geo community are well represented; Yahoo!, Google, Microsoft, ESRI, Pitney Bowes MapInfo, Ordnance Survey and I'm fortunate enough to be representing [Yahoo! Geo Technologies](https://www.ygeoblog.com/ "https://www.ygeoblog.com/") on the second day but take a closer look. [John McKerrell](https://twitter.com/mcknut "https://twitter.com/mcknut") of [mapme.at](https://mapme.at/ "https://mapme.at/") is speaking, so's [Andy Allan](https://twitter.com/gravitystorm "https://twitter.com/gravitystorm") on [OpenCycleMap](https://opencyclemap.org/ "https://opencyclemap.org/"), [Tom Taylor](https://twitter.com/tomtaylor "https://twitter.com/tomtaylor") is talking about neighbourhood [boundaries](https://bit.ly/3BUmL "https://bit.ly/3BUmL") and [Terry Jones](https://twitter.com/terrycojones "https://twitter.com/terrycojones") will be making us all location aware by using [FluidDB](https://fluidinfo.com/ "https://fluidinfo.com/"), plus keynotes from [Andrew Turner](https://twitter.com/ajturner "https://twitter.com/ajturner") and from [Peter Batty](https://bit.ly/NVxdf "https://bit.ly/NVxdf").
+
 This is a staggering and diverse cross section of the entire geo-community and [Steven Feldman](https://twitter.com/StevenFeldman/ "https://twitter.com/StevenFeldman/"), this year's conference chair and [Chris Osborne](https://twitter.com/osbornec/ "https://twitter.com/osbornec/"), from London's [#geomob](https://bit.ly/wBOEs "https://bit.ly/wBOEs"), is behind the geoweb track of sessions, deserve recognition for being able to bring this all together; you can find out more at [Steven's](https://bit.ly/1O0HLN "https://bit.ly/1O0HLN") and  [Chris's](https://bit.ly/jgrRN "https://bit.ly/jgrRN") respective blogs.
+
 It's going to be a geo-tastic conference and I'm looking forward to seeing the usual geo-suspects as well as meeting new friends and colleagues; see you all there.
 
 

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 CartoBot is a small robot who lives in the office in my loft. He accidentally achieved consciousness when his charging cable was accidentally plugged into a Raspberry PI and he started to look for information. His only source was my library of books on maps and so CartoBot became obsessed with them. He now spends his days sitting on my home wifi connection and scouring the web for maps and mapping related stuff, which he Tweets about through his very own [Twitter account](https://twitter.com/cartobot "https://twitter.com/cartobot").
 

@@ -44,6 +44,7 @@ Don't attempt to argue with me that my house isn't in the neighbourhood I mentio
 Jump red traffic lights on the way to the airport. Even more so, don't jump red traffic lights and when I point out that you've jumped a red traffic light, stop the cab in the middle of the road, reverse into the oncoming traffic and try to argue that the light really wasn't red when you jumped it. The presence of other driver gesticulating violently through their rolled down windows with the elbows jammed onto the car horn might also be considered a contextual clue.
 
 Turn right on a no right turn junction because "you know a short cut". Even more so, don't turn right on a no right turn junction, jumping a red traffic light into the bargain and in doing so cut across the path of three lanes of fast moving traffic which misses colliding with the passenger side of the car by a fraction of a millimeter. I'm liable to get irate under these circumstances.
+
 Photo Credits: [pixelthing](https://www.flickr.com/photos/pixelthing/4632820240/ "https://www.flickr.com/photos/pixelthing/4632820240/") on Flickr.
 
 

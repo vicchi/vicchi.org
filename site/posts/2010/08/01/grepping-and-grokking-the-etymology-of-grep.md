@@ -38,6 +38,7 @@ A bit of background research yields even more versions of how grep got its name.
 That's 8 differing and conflicting definitions.
 
 And the point of all of this etymological meandering? Well, today's internet community prides itself in being the ultimate source of information in today's society. Yet I find it deliciously ironic that we can pretty much agree on the origins of place names dating from Roman and from Saxon times but can't agree on the origin of a UNIX command that was created on March 3rd. 1973. The irony becomes even deeper when you consider that UNIX systems formed the backbone of the origins of today's internet and World Wide Web and that a substantial proportion of the servers on the net today still run UNIX, and thus still run the grep command.
+
 Photo Credits: [Danny Howard](https://www.flickr.com/photos/dannyman/9442491/ "https://www.flickr.com/photos/dannyman/9442491/") on Flickr.
 
 

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 For a pleasant change, the guts of this talk didn't metamorphose oddly during the writing. Instead, it geolocated. This was originally planned to be my keynote talk at Social-Loco in San Francisco last month. But I wasn't able to make it to the Bay Area as planned for reasons too complex to go into here. Suffice to say, the slide deck languished unloved on my laptops hard drive, taking up 30 odd MB of storage and not really going anywhere.
 
@@ -15,7 +18,7 @@ Then I got an email from Stuart Mitchell at [Geodigital](https://geodigital.biz/
 
 <!-- TEASER_END -->
 
-[scribd id=100297709 key=key-15vmdecagp3xopiyihgt mode=list]
+<iframe class="scribd_iframe_embed" title="AGI Northern 2012 - Gary Gale" src="https://www.scribd.com/embeds/100297709/content?start_page=1&view_mode=scroll&access_key=key-15vmdecagp3xopiyihgt" tabindex="0" data-auto-height="true" data-aspect-ratio="1.3323485967503692" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View AGI Northern 2012 - Gary Gale on Scribd" href="https://www.scribd.com/document/100297709/AGI-Northern-2012-Gary-Gale#from_embed"  style="text-decoration: underline;">AGI Northern 2012 - Gary Gale</a> by <a title="View GaryGale's profile on Scribd" href="https://www.scribd.com/user/27998789/GaryGale#from_embed"  style="text-decoration: underline;">GaryGale</a></p>
 
 
 **Slide 2**

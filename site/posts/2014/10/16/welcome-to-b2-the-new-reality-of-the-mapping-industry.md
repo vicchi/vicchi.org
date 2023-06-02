@@ -18,6 +18,8 @@ Held in the hidden conference centre that nestles unassumingly under the Charter
 
 The starting point for the talk I have was an article called [Today's Mapping Industry Really Does Need To Please All People, All The Time](https://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html "https://www.gpsbusinessnews.com/Today-s-Mapping-Industry-Really-Does-Need-To-Please-All-People-All-Of-The-Time_a5041.html"), which I'd written for GPS Business News in September. As there was an article length limit, I couldn't go into the detail I think this topic merited, but a conference talk is a different beast. This is what that article morphed into. This is B2\*.
 
+<!-- TEASER_END -->
+
 
 [![Gary Gale - Welcome to B2*.001](/wp-content/uploads/2014/10/Gary-Gale-Welcome-to-B2.001.png)](/wp-content/uploads/2014/10/Gary-Gale-Welcome-to-B2.001.png "/wp-content/uploads/2014/10/Gary-Gale-Welcome-to-B2.001.png")
 

@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 "And here we are, half past two in the morning. I can't get no sleep"
 
@@ -18,8 +21,3 @@ A slight mangling of the lyrics to the Faithless classic, [Insomnia](https://en.
 This is what happens when I wake up and thoughts for my [next location talk](https://www.mashupevent.com/location-event "https://www.mashupevent.com/location-event") starts fizzing in my mind, unbidden. Sometimes the only solution is to get up, set them down on paper and head back to bed.
 
 "I'm wide awake in my kitchen, it's black and I'm lonely, oh, if I could only get some sleep, creaky noises make my skin creep, I need to get some sleep, I can't get no sleep ..."
-
-
-
-Written and posted from home (51.427051, -0.333344)
-

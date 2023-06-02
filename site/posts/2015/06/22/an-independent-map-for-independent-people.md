@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 Imagine for a moment you're in the city you live in; you know it like the back of your hand and yet you know there's shops, businesses or services nearby that you haven't yet come across. Or maybe you're in an unfamiliar city and you want to explore and stay away from the same old global brands that you see everywhere, in every city and on every street.
 

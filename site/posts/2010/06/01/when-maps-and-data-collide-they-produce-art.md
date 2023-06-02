@@ -31,6 +31,7 @@ It's instead an image from the Geotagger's World Atlas but it's still unintentio
 
 
 I could look and stare at the all the images in [Eric's Flickr](https://www.flickr.com/photos/walkingsf/sets/72157623971287575/ "https://www.flickr.com/photos/walkingsf/sets/72157623971287575/") set for hours. Correction, I ***have*** stared at the images for hours.
+
 Photo Credits: [Eric Fischer](https://www.flickr.com/photos/walkingsf/4621770253/ "https://www.flickr.com/photos/walkingsf/4621770253/") on Flickr.
 
 

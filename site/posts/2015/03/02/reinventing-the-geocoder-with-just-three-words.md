@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 When I was a lot younger than I am now I learned the address of where I was growing up. More about that in a moment. First I want to mention what I *didn't* learn. 
 

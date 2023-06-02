@@ -34,6 +34,7 @@ As both Chris and I found out, organising the [WhereCamp EU](https://wherecamp.e
 I hope this isn't the last we hear of Geomob; it's been a major contributor to the Geo community in London and has, indeed, been a blast. It also gave me my very first Geo themed [public speaking engagement](https://www.slideshare.net/vicchi/geomob-fire-eagle "https://www.slideshare.net/vicchi/geomob-fire-eagle") and for that I'll always be both profoundly grateful and profoundly embarrased at my first stumbling efforts.
 
 If you're thinking of taking up the role of Geomob organiser, I encourage you to do so; it's a battering, weary, exhausting and sometimes thankless task in the run up to a meetup. Then you see the audience waiting expectantly , watch the speakers, listen to the Q&A session and before you know it the evening's over in a rush; you won't regret it.
+
 Photo Credits: [Roman Kirillov](https://www.flickr.com/photos/sigizmund/3237654976/ "https://www.flickr.com/photos/sigizmund/3237654976/") on Flickr.
 
 

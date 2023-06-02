@@ -28,6 +28,7 @@ Coming down the escalators at Waterloo and want to know whether to head for the 
 Want to see just how close the gap is between Leicester Square and Covent Garden on the Piccadilly Line really is? Now you can.
 
 Of course, this doesn't solve every problem ...
+
 1. If you're on the escalators at Waterloo how do you get 3G data coverage to view this mashup on your phone as Transport for London still haven't manage to achieve cellular coverage underground, unlike Amsterdam, Berlin and other cities?
 2. The site will probably be the target of a tutting campaign from the Health and Safely police insisting that such a visualisation will cause people to run for the train and of course, they might trip and hurt themselves.
 3. If you're at the top of the escalator and the train is in the station, now, right this very minute now, how do you get down to the platforms quickly?

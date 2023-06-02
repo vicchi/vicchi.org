@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 The geo industry has always been a fairly vaguely and nebulously defined industry and it takes a brave conference organiser to try and cover everything that's geo related in a single conference. But that's what [GeoBusiness](https://geobusinessshow.com/ "https://geobusinessshow.com/") tries to do and it almost succeeds. This year's conference agenda and trade booth sideshow managed to cover the whole lifecycle of all things geo, from dodging drones, centimetre accurate GPS devices and LIDAR cars outside the Business Design Centre in London, through use of geo-data, with far too much BIM for my personal tastes, through mapping and cartography and ending up with crowd sourcing mapping data and using maps for emergency responses.
 

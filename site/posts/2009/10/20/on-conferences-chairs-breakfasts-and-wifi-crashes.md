@@ -31,6 +31,8 @@ People in the tech community with far more reach and standing than me have writt
 When are conference organisers going to get the message? Internet connectivity, it doesn't have to be wifi, indeed it's probably better if it isn't wifi, is essential at conferences these days, tech conferences or otherwise. And if it's a tech conference you need at least two IP addresses per delegate, minimum to cope with their laptops, iPhones, BlackBerrys and so on.
 Until conference organisers make conference venues understand this and start voting with their wallets, this sorry tale will keep on replaying itself.
 Photo credit: [Leia on Flickr](https://www.flickr.com/photos/leia/62251296/ "https://www.flickr.com/photos/leia/62251296/").
+
+
 [Posted via email](https://posterous.com "https://posterous.com") from [Gary's Posterous](https://vicchi.posterous.com/on-conferences-chairs-breakfasts-and-wifi-cra "https://vicchi.posterous.com/on-conferences-chairs-breakfasts-and-wifi-cra")
 
 

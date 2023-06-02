@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: Radisson Blu hotel, Berlin
+geo_lng: 13.40258
+geo_lat: 52.519648
 
 According to that fount of online knowledge Wikipedia, an [airport](https://en.wikipedia.org/wiki/Airport "https://en.wikipedia.org/wiki/Airport") "*is a location where aircraft such as fixed-wing aircraft, helicopters, and blimps takeoff and land*". You don't see that many blimps around these days but it seems simple enough. Airport. A contraction of the words aircraft and port. But not all airports are created equal. Take Heathrow for example, which, under the ownership of BAA is now less an airport and more a rambling shopping mall, spread over 5 terminal buildings, where hapless passengers (note to UK railway companies, we're passengers not customers) are crammed into a small space in order to extract the maximum amount of cash out of them in overpriced shops, bars and restaurants and where the act of getting on and off a plane seems to be tacked on as an afterthought.
 
@@ -18,8 +21,6 @@ Even with travellators between the gates and the fun and games of immigration an
 What a refreshing change it is then to use (the soon to be closed and replaced with Brandenburg International Airport) Berlin's Flughäfen Tegel, where checking in takes minutes and where the duration from plane to taxi rank can be measured in seconds not minutes. Sounds hard to believe but yesterday while waiting to disembark from a flight from Heathrow I idly set the stopwatch on my iPhone and started the timer running the moment I stepped off the plane. I then stopped it the moment my backside met the seat of a taxi outside the terminal building. Total elapsed time from plane to taxi ... 52 seconds.
 
 [![Berlin Tegel Airport. From Plane to Taxi In Less Than A Minute.](https://farm5.static.flickr.com/4127/4842964117_8d8be67db5_d.jpg)](https://www.flickr.com/photos/vicchi/4842964117/ "Berlin Tegel Airport. From Plane to Taxi In Less Than A Minute.")
+
 *Fifty two seconds*. Count them. 52. Fifty two. Less than a minute. Lovely and plush and modern as Brandenburg airport will be when it finally opens, allegedly in 2012, it won't be a patch on Tegel.
-
-
-Written at the Radisson Blu hotel, Berlin (52.519648, 13.40258) and posted from Berlin Tegel Airport (52.5545447, 13.2899969)
 

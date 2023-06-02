@@ -8,6 +8,9 @@ description:
 type: text
 has_math: no
 status: published
+geo_place: home
+geo_lng: -0.333344
+geo_lat: 51.427051
 
 WP Biographia v3.2 got pushed to the WordPress plugin repository this afternoon. In the grand scheme of things it's not a massive release but it goes a long way to solving some of the most frequently asked questions that arrive in my Inbox and via the plugin's support forums.
 
