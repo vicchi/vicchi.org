@@ -45,6 +45,9 @@ vicchi.now = (function () {
 
             var mapdiv = document.getElementById('checkin-map');
             if (mapdiv !== null) {
+                document.getElementById('checkin-setup').classList.add('hidden');
+                document.getElementById('checkin-wrapper').classList.remove('hidden');
+
                 const lng = checkin['location']['lng'];
                 const lat = checkin['location']['lat'];
                 const place = checkin['name'];
@@ -69,7 +72,7 @@ vicchi.now = (function () {
                     iconSize: [24, 24],
                     className: 'push-pin'
                 });
-                var marker = L.marker(point, {icon: icon}).addTo(map);
+                var marker = L.marker(point, { icon: icon }).addTo(map);
 
                 var span = document.getElementById('checkin-place');
                 span.innerHTML = `${place}`;
@@ -112,6 +115,9 @@ vicchi.now = (function () {
                 document.getElementById(`release-${i}-image`).src = release['image'];
                 document.getElementById(`release-${i}-image`).alt = release['release'];
             });
+
+            document.getElementById('music-setup').classList.add('hidden');
+            document.getElementById('music-wrapper').classList.remove('hidden');
         }
     };
 
