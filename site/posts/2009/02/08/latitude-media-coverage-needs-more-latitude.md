@@ -1,7 +1,7 @@
 title: Latitude Media Coverage Needs More Latitude
 slug: latitude-media-coverage-needs-more-latitude
 date: 2009-02-08 15:12:38
-tags: fire eagle,google googasm latitude bbc metro yahoo open yos
+tags: fire eagle,google, googasm, latitude, bbc, metro, yahoo, open, yos
 category: articles
 link: 
 description: 
