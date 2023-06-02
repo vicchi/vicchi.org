@@ -1454,7 +1454,8 @@ GLOBAL_CONTEXT = {
         'twitter': 'https://twitter.com/vicchi',
         'coffee': 'https://www.buymeacoffee.com/vicchi',
         'linkedin': 'https://www.linkedin.com/in/garygale/',
-        'flickr': 'https://www.flickr.com/people/vicchi/'
+        'flickr': 'https://www.flickr.com/people/vicchi/',
+        'mastodon': 'https://mapstodon.space/@vicchi'
     },
     'status': {
         'emoji': 'coffee',
