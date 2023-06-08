@@ -1078,7 +1078,6 @@ STRIP_INDEXES = True
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
 ROBOTS_EXCLUSIONS = [
     "/downloads/*",
-    "/images/*",
     "/assets/*",
     "/wp-content/*"
     ]
