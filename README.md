@@ -1,4 +1,4 @@
-# vicchi.org
+# <img valign="middle" src="https://www.vicchi.org/assets/images/avatar.jpeg" height="64" alt="Gary Gale">&nbsp;vicchi.org
 
 This is the source for my personal blog. Built using [Nikola](https://getnikola.com/), with a custom [Tailwind CSS](https://tailwindcss.com/) theme and hosted on an Oracle ARM64 server in the cloud.
 

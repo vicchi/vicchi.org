@@ -2,7 +2,7 @@ services:
   lookbusy:
     image: ghcr.io/vicchi/lookbusy
     networks:
-      - vicchi-backend
+      - {{ traefik_network }}
     restart: unless-stopped
     command:
       - --cpu-mode=curve
@@ -11,22 +11,22 @@ services:
   site:
     image: sebp/lighttpd
     networks:
-      - vicchi-backend
+      - {{ traefik_network }}
     expose:
       - 80
     restart: unless-stopped
     tty: true
     volumes:
-        - ./site/public:/var/www/localhost/htdocs
+        - ./public:/var/www/localhost/htdocs
     labels:
       - traefik.enable=true
-      - traefik.http.routers.vicchi-org.rule=Host(`${SITE_HOST:?Site host not defined}`)
+      - traefik.http.routers.vicchi-org.rule=Host(`{{ site_fqdn }}`) || Host(`{{ site_bare }}`)
       - traefik.http.routers.vicchi-org.entrypoints=websecure
       - traefik.http.routers.vicchi-org.tls.certresolver=reverse-proxy-http
       - traefik.http.routers.vicchi-org.tls.options=proxy-default@file
       - traefik.http.routers.vicchi-org.middlewares=secHeaders@file
   
 networks:
-    vicchi-backend:
+    {{ traefik_network }}:
       external: true
   
