@@ -1782,6 +1782,11 @@ h2 > a.header-anchor {
   opacity: 0.5;
 }
 
+.hover\:prose-a\:text-blue-500 :is(:where(a):not(:where([class~="not-prose"] *))):hover {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
+}
+
 :is(.dark .dark\:border-gray-500) {
   --tw-border-opacity: 1;
   border-color: rgb(107 114 128 / var(--tw-border-opacity));

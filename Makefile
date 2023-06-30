@@ -38,22 +38,11 @@ setup:
 	yarn install
 	pip install --upgrade pip
 	pip install -r requirements.txt
+	cp -R node_modules/staticfy-theme/themes site/
 
-.PHONY: theme
-theme: theme-images theme-scripts theme-styles	## Build the site theme
-
-.PHONY: theme-images
-theme-images: src/images/* node_modules/leaflet/dist/images/*.png
-	cp $? $(ASSETS_DIR)/images/
-
-.PHONY: theme-scripts
+PHONY: theme-scripts
 theme-scripts: node_modules/leaflet/dist/leaflet.js*
-	cp $? $(ASSETS_DIR)/js/
 	cp src/js/${THEME_CONFIG} $(ASSETS_DIR)/js/config.js
-
-.PHONY: theme-styles
-theme-styles: node_modules/leaflet/dist/*.css
-	cp $? $(ASSETS_DIR)/css/
 
 .PHONY: theme-css
 theme-css: site tailwind.config.js src/css/tailwind.css
@@ -64,13 +53,13 @@ theme-css: site tailwind.config.js src/css/tailwind.css
 clean: ## Clean everything
 	(cd site && nikola clean)
 	rm -rf site/public
-	rm -rf $(ASSETS_DIR)
+	rm -rf site/themes
 
 .PHONY: site
 site:	## Build the site content
 	(cd site && nikola build --conf=${NIKOLA_CONFIG})
 
-BUILD_TARGETS := theme site theme-css
+BUILD_TARGETS := site theme-scripts theme-css
 
 .PHONY: build
 build: $(BUILD_TARGETS) ## Build everything
