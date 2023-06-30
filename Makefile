@@ -40,7 +40,7 @@ setup:
 	pip install -r requirements.txt
 
 .PHONY: theme
-theme: theme-images theme-scripts theme-styles theme-css	## Build the site theme
+theme: theme-images theme-scripts theme-styles	## Build the site theme
 
 .PHONY: theme-images
 theme-images: src/images/* node_modules/leaflet/dist/images/*.png
@@ -56,19 +56,21 @@ theme-styles: node_modules/leaflet/dist/*.css
 	cp $? $(ASSETS_DIR)/css/
 
 .PHONY: theme-css
-theme-css: tailwind.config.js src/css/tailwind.css
+theme-css: site tailwind.config.js src/css/tailwind.css
 	npx tailwindcss --input src/css/tailwind.css --output $(ASSETS_DIR)/css/tailwind.css
 
 
 .PHONY: clean
 clean: ## Clean everything
 	(cd site && nikola clean)
+	rm -rf site/public
+	rm -rf $(ASSETS_DIR)
 
 .PHONY: site
 site:	## Build the site content
 	(cd site && nikola build --conf=${NIKOLA_CONFIG})
 
-BUILD_TARGETS := theme site
+BUILD_TARGETS := theme site theme-css
 
 .PHONY: build
 build: $(BUILD_TARGETS) ## Build everything
