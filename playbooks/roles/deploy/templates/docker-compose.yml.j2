@@ -20,7 +20,7 @@ services:
         - ./public:/var/www/localhost/htdocs
     labels:
       - traefik.enable=true
-      - traefik.http.middlewares.vicchi-csp.headers.contentsecuritypolicy=default-src https:; script-src https://{{ site_fqdn }}
+      - traefik.http.middlewares.vicchi-csp.headers.contentsecuritypolicy=default-src https:; script-src https://*.{{ site_bare }}; style-src 'self' 'unsafe-inline'
       - traefik.http.routers.vicchi-org.rule=Host(`{{ site_fqdn }}`) || Host(`{{ site_bare }}`)
       - traefik.http.routers.vicchi-org.entrypoints=websecure
       - traefik.http.routers.vicchi-org.tls.certresolver=reverse-proxy-http
