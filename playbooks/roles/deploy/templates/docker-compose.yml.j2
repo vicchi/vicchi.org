@@ -18,6 +18,8 @@ services:
     tty: true
     volumes:
         - ./public:/var/www/localhost/htdocs
+        - ./lighttpd.conf:/etc/lighttpd/lighttpd.conf
+        - ./custom-headers.conf:/etc/lighttpd/custom-headers.conf
     labels:
       - traefik.enable=true
       - traefik.http.middlewares.vicchi-csp.headers.contentsecuritypolicy=default-src https:; script-src https://*.{{ site_bare }}; style-src 'self' 'unsafe-inline'

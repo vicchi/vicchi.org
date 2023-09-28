@@ -1,0 +1,4 @@
+var.custom-response-headers = (
+    "Link" => "<{{ indieauth_metadata }}>; rel=\"indieauth-metadata\", <{{ authorization_endpoint }}>; rel=\"authorization_endpoint\", <{{ token_endpoint }}>; rel=\"token_endpoint\""
+)
+setenv.add-response-header = var.custom-response-headers

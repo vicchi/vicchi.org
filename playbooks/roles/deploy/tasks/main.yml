@@ -10,13 +10,35 @@
     group: "{{ deploy_group }}"
     mode: "700"
 
-- name: Install templated docker-compose.yml
-  ansible.builtin.template:
-    src: docker-compose.yml.j2
-    dest: "{{ deploy_root }}/{{ site_bare }}/docker-compose.yml"
-    owner: "{{ deploy_user }}"
-    group: "{{ deploy_group }}"
-    mode: "700"
+# - name: Install templated docker-compose.yml
+#   ansible.builtin.template:
+#     src: docker-compose.yml.j2
+#     dest: "{{ deploy_root }}/{{ site_bare }}/docker-compose.yml"
+#     owner: "{{ deploy_user }}"
+#     group: "{{ deploy_group }}"
+#     mode: "700"
+
+- name: Deploy templated configuration files
+  ansible.builtin.template:   # noqa: yaml[line-length]
+    src: "{{ item.src }}"
+    dest: "{{ item.dest }}"
+    owner: "{{ item.owner }}"
+    group: "{{ item.group }}"
+    mode: "{{ item.perms }}"
+  loop:
+    - { src: 'dot-env.j2', dest: '{{ deploy_root }}/{{ site_bare }}/.env', owner: '{{ deploy_user }}', group: '{{ deploy_group }}', perms: "700" }  # noqa: yaml[line-length]
+    - { src: 'docker-compose.yml.j2', dest: '{{ deploy_root }}/{{ site_bare }}/docker-compose.yml', owner: '{{ deploy_user }}', group: '{{ deploy_group }}', perms: "700" }  # noqa: yaml[line-length]
+    - { src: 'custom-headers.conf.j2', dest: '{{ deploy_root }}/{{ site_bare }}/custom-headers.conf', owner: '{{ deploy_user }}', group: '{{ deploy_group }}', perms: "744" }
+
+- name: Deploy configuration files
+  ansible.builtin.copy:   # noqa: yaml[line-length]
+    src: "{{ item.src }}"
+    dest: "{{ item.dest }}"
+    owner: "{{ item.owner }}"
+    group: "{{ item.group }}"
+    mode: "{{ item.perms }}"
+  loop:
+    - { src: 'lighttpd.conf', dest: '{{ deploy_root }}/{{ site_bare }}/lighttpd.conf', owner: '{{ deploy_user }}', group: '{{ deploy_group }}', perms: "744" }
 
 - name: Install site's public directory
   ansible.posix.synchronize:
