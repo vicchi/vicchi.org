@@ -1469,6 +1469,20 @@ GLOBAL_CONTEXT = {
         'tracks': 8,
         'artists': 8,
         'releases': 8
+    },
+    'indieweb': {
+        'metadata': {
+            'rel': 'indieauth-metadata',
+            'url': 'http://auth.vicchi.org/metadata'
+        },
+        'authorization': {
+            'rel': 'authorization_endpoint',
+            'url': 'http://auth.vicchi.org/auth'
+        },
+        'token': {
+            'rel': 'token_endpoint',
+            'url': 'http://auth.vicchi.org/token'
+        }
     }
 }
 

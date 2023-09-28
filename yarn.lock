@@ -569,9 +569,9 @@ source-map-js@^1.0.2:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
 
-"staticfy-theme@https://github.com/vicchi/staticfy-theme.git#v1.0.0":
-  version "1.0.0"
-  resolved "https://github.com/vicchi/staticfy-theme.git#ab711075d890f9aca4d436ff0fd8db56dfdb5b52"
+"staticfy-theme@https://github.com/vicchi/staticfy-theme.git#v1.0.2":
+  version "1.0.1"
+  resolved "https://github.com/vicchi/staticfy-theme.git#78af89eb9d8be8c866833f1be7ad5c32012f096f"
   dependencies:
     "@catppuccin/tailwindcss" "^0.1.1"
     "@tailwindcss/aspect-ratio" "^0.4.2"

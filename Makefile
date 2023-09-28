@@ -70,7 +70,7 @@ serve: build ## Build and locally serve the site
 
 .PHONY: deploy
 deploy: build	## Deploy to production
-	ansible-playbook playbooks/deploy.yml -K
+	ansible-playbook playbooks/deploy.yml
 
 # No .env file; fail the build
 else

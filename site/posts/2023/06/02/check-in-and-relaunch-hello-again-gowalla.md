@@ -4,6 +4,7 @@ date: 2023-06-02 17:49:09 UTC+01:00
 type: text
 category: blog
 status: published
+tags: gowalla,fousquare,checkin,places
 geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
