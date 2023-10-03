@@ -13,8 +13,8 @@ It was back in [February of 2009](https://web.archive.org/web/20090615080812/htt
 
 So this is the first in a series of articles about the physical, political, administrative and other geographies of what's sometimes called the Islands of the North Atlantic, which should put this to rest ... until something else changes.
 
-1. This is not the United Kingdom You're Looking For
-1. The Dis-united Kingdom of Great Britain and Northern Ireland
+1. [This is not the United Kingdom You're Looking For](/2023/09/27/islands-of-the-north-atlantic-part-1/)
+1. [The Dis-united Kingdom of Great Britain and Northern Ireland](/2023/10/03/islands-of-the-north-atlantic-part-2/)
 1. The Geographies of England - An Exercise in Complexity
 1. Northern Irish, Scottish and Welsh Geographies - Simplicity not Complexity
 1. Crown Dependencies, Overseas Territories and the Commonwealth of Nations
@@ -102,8 +102,7 @@ Finally, we can now get to the geography of the _United Kingdom of Great Britain
 
 ## Next Time ...
 
-This article set out to explain what the United Kingdom is as well as hopefully reducing the confusion about what the United Kingdom _isn't_; namely the Isle of Man, the Channel Islands, the island of Ireland and the Republic of Ireland. In the next article I'll dive deeper into the history and geographic makeup of the United Kingdom in _Part 2 - The Dis-United Kingdom of Great Britain and Northern Ireland_.
-
+This article set out to explain what the United Kingdom is as well as hopefully reducing the confusion about what the United Kingdom _isn't_; namely the Isle of Man, the Channel Islands, the island of Ireland and the Republic of Ireland. In the next article I'll dive deeper into the history and geographic makeup of the United Kingdom in _Part 2 - [The Dis-united Kingdom of Great Britain and Northern Ireland](/2023/09/28/islands-of-the-north-atlantic-part-2/)_.
 ## Edit
 
 Updated on 27/09/2023 with a note of _these islands_ to refer to the British Isles with credit to <a href="https://mapstodon.space/@alan@en.osm.town/111138398557114265">Alan Grant on Mastodon</a> for pointing this out.

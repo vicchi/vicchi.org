@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# pylint: disable=line-too-long,too-many-lines
+"""
+Nikola configuration file for www.vicchi.org
+"""
 
 import time
 
@@ -16,7 +20,7 @@ def dateparser_filter(datestamp: str, datefmt: str) -> str:
     """
     Custom Jinja filter to format a human readable date/time stamp
     """
-    
+
     dtobj = dateparser.parse(datestamp)
     return dtobj.strftime(datefmt)
 
