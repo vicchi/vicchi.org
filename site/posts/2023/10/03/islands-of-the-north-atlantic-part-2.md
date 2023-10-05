@@ -7,6 +7,7 @@ category: blog
 geo_place: home
 geo_lng: -0.333344
 geo_lat: 51.427051
+preview_image: /images/Kingdom of England 927-1707.png
 
 This is part two of The Islands of the North Atlantic. In the first part of this occasional series of articles, I set the scene for what the United Kingdom _is_ by tackling some common misconceptions of what the United Kingdom _isn't_.
 
@@ -22,7 +23,7 @@ But the United Kingdom of Great Britain and Northern Ireland that we know today 
 
 ## Expansion, Unions, Contraction and Disunion
 
-It's 1200 CE and the political makeup of the British Isles is very different to today. King John sits on the throne of the Kingdom of England, which had emerged from the Heptarchy of Anglo-Saxon kingdoms of East Anglia, Mercia, Northumbria, Kent, Essex, Sussex and Wessex in 297 CE.
+It's 1200 CE and the political makeup of the British Isles is very different to today. King John sits on the throne of the Kingdom of England, which had emerged from the Heptarchy of Anglo-Saxon kingdoms of East Anglia, Mercia, Northumbria, Kent, Essex, Sussex and Wessex in 927 CE.
 
 ![Kingdom of England](/images/Kingdom of England 927-1707.png)
 
